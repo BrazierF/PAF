@@ -48,10 +48,8 @@ public class main {
 		for(File x : file.listFiles(filter)){
 			String pathname = x.getPath();
 			db aC = new db();
-			System.out.print(x.getName());
-			System.out.print(x.getPath());
 			if(x.getPath().contains("@fr"))aC.evaluate(AnnotationClient.readFileAsString(pathname),"@fr");
-			if(x.getName().contains("@en"))aC.evaluate(AnnotationClient.readFileAsString(pathname),"@en");		
+			if(x.getPath().contains("@en"))aC.evaluate(AnnotationClient.readFileAsString(pathname),"@en");		
 			PrintWriter ecrivain;
 			ecrivain =  new PrintWriter(new BufferedWriter
 					(new FileWriter(pathname.substring(0,pathname.length()-4)+".ENTITES.txt")));
@@ -64,7 +62,7 @@ public class main {
 	} 
 
 	public static void main(String[] args) throws Exception {
-		evaluationdossierecriture("data");
+		evaluationdossierecriture("data/AN_@en");
 	}
 
 }
