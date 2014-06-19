@@ -45,8 +45,9 @@ public class main {
 		//db aC = new db();
 		File file = new File(path);
 		MyFilter filter = new MyFilter();
-		for(File x : file.listFiles(filter)){
-			String pathname = x.getPath();
+		for(File x : file.listFiles()){
+			for(File xx : x.listFiles(filter)){
+			String pathname = xx.getPath();
 			db aC = new db();
 			if(x.getPath().contains("@fr"))aC.evaluate(AnnotationClient.readFileAsString(pathname),"@fr");
 			if(x.getPath().contains("@en"))aC.evaluate(AnnotationClient.readFileAsString(pathname),"@en");		
@@ -59,10 +60,11 @@ public class main {
 			}
 			 ecrivain.close();
 		}
+		}
 	} 
 
 	public static void main(String[] args) throws Exception {
-		evaluationdossierecriture("data/AN_@en");
+		evaluationdossierecriture("data");
 	}
 
 }
