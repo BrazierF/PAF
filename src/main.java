@@ -45,7 +45,7 @@ public class main {
 		//db aC = new db();
 		File file = new File(path);
 		MyFilter filter = new MyFilter();
-		for(File x : file.listFiles()){
+		for(File x : file.listFiles()){//passer data An et data Fr
 			for(File xx : x.listFiles(filter)){
 			String pathname = xx.getPath();
 			db aC = new db();
