@@ -100,16 +100,17 @@ public abstract class AnnotationClient {
         String text = Question;
         int i=0;
         //int correct =0 ; int error = 0;int sum = 0;
-        int valeur=2000;
-        String[] aextraire = null;
-		int compteur=0;
+        int nbcaracteres=20000;
+        List<String> aextraire = new ArrayList<String>();
+		String bloc = " ";
         for (String snippet: text.split("\n")) {
-        	String bloc =snippet;
-        	if(bloc.length()>valeur){
-				aextraire[compteur]=bloc;
-				compteur++;
+        	bloc =bloc.concat(snippet);
+        	if(bloc.length()>nbcaracteres){
+				aextraire.add(bloc);
         	}
         	}
+        aextraire.add(bloc);
+        
         for(String snippet : aextraire){
             String s = parser.parse(snippet);
             if (s!= null && !s.equals("")) {
