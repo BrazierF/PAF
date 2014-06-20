@@ -125,12 +125,12 @@ public class db extends AnnotationClient{
 		LinkedList<DBpediaResource> resources = new LinkedList<DBpediaResource>();
 		if(entities!=null) 
 			if(totalentities==null){totalentities = new ArrayList<JSONArray>();}
-			totalentities.add(entities);
-			for(int i = 0; i < entities.length(); i++) {
-				try {//System.out.println(i+"/"+entities.length());
+		totalentities.add(entities);
+		for(int i = 0; i < entities.length(); i++) {
+			try {//System.out.println(i+"/"+entities.length());
 				JSONObject entity = entities.getJSONObject(i);
 				//affichage
-				//System.out.println(entity);//afficher chaque entitée nommée avec + d'informations
+				System.out.println(entity);//afficher chaque entitée nommée avec + d'informations
 				Iterator<?> keys = entity.keys();
 
 				while(keys.hasNext() ){
@@ -141,17 +141,16 @@ public class db extends AnnotationClient{
 						//System.out.print("\t"+entity.get(key));
 					}                
 				}
-				
 				resources.add(
-						new DBpediaResource(entity.getString("@URI"),
+						new DBpediaResource(new String(entity.getString("@URI").getBytes("ISO-8859-1"), "UTF-8"),
 								Integer.parseInt(entity.getString("@support"))));
 
-				} catch (JSONException e) {
-					LOG.error("JSON exception "+e);
+			} catch (JSONException | NumberFormatException | UnsupportedEncodingException e) {
+				LOG.error("JSON exception "+e);
 
-				}
-			}//System.out.print("Salut");
-			return resources;
+			}
+		}//System.out.print("Salut");
+		return resources;
 	}
 
 }

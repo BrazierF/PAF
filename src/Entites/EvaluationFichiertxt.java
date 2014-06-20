@@ -38,7 +38,7 @@ public class EvaluationFichiertxt {
 		//System.out.print(aC.getResu());				
 
 		if(resultat!=null){
-			//int compt=0;
+			int compt=0;
 			//System.out.print(resultat.size());
 			for(int i = 0; i < resultat.size(); i++) {
 				for(int j=0;j<resultat.get(i).length();j++){
@@ -53,16 +53,16 @@ public class EvaluationFichiertxt {
 						//System.out.println(key+" "+entity.get(key).toString());
 
 						if(key.contains("@surfaceForm")){
-							a.setName(entity.get(key).toString());
+							a.setName(new String(entity.get(key).toString().getBytes("ISO-8859-1"), "UTF-8"));
 							//System.out.println(key+" "+entity.get(key).toString());
 						}
 
 						else if(key.contains("@URI")){
-							a.setURI(entity.get(key).toString());
+							a.setURI(new String(entity.get(key).toString().getBytes("ISO-8859-1"), "UTF-8"));
 						}
 
 						else if(key.contains("@types")){
-							a.setType(entity.get(key).toString());
+							a.setType(new String(entity.get(key).toString().getBytes("ISO-8859-1"), "UTF-8"));
 						}
 
 
@@ -72,8 +72,8 @@ public class EvaluationFichiertxt {
 
 					}
 					entites_nommées.add(a);						
-					//System.out.println(entites_nommées.get(compt).getURI()+"i:"+i+"   j:"+j);
-					//compt++;
+					System.out.println(entites_nommées.get(compt).getURI()+"i:"+i+"   j:"+j);
+					compt++;
 				}
 			}
 		}
