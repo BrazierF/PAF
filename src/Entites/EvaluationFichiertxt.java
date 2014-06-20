@@ -38,9 +38,10 @@ public class EvaluationFichiertxt {
 		//System.out.print(aC.getResu());				
 
 		if(resultat!=null){
+			//int compt=0;
 			//System.out.print(resultat.size());
 			for(int i = 0; i < resultat.size(); i++) {
-				for(int j=1;j<resultat.get(i).length();j++){
+				for(int j=0;j<resultat.get(i).length();j++){
 					//System.out.print(resultat.get(i).getJSONObject(j));
 					JSONObject entity = resultat.get(i).getJSONObject(j);
 					Iterator<?> keys = entity.keys();                    
@@ -68,9 +69,11 @@ public class EvaluationFichiertxt {
 						if(entity.get(key) instanceof JSONObject ){
 							//System.out.print("\t"+entity.get(key));
 						}
-						entites_nommées.add(a);
-					}
 
+					}
+					entites_nommées.add(a);						
+					//System.out.println(entites_nommées.get(compt).getURI()+"i:"+i+"   j:"+j);
+					//compt++;
 				}
 			}
 		}
