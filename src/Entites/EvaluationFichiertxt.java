@@ -71,8 +71,9 @@ public class EvaluationFichiertxt {
 						}
 
 					}
+					a.setTypes();
 					entites_nommées.add(a);						
-					System.out.println(entites_nommées.get(compt).getURI()+"i:"+i+"   j:"+j);
+					//System.out.println(entites_nommées.get(compt)+"i:"+i+"   j:"+j);
 					compt++;
 				}
 			}
