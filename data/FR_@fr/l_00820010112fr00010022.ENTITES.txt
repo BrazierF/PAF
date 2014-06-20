@@ -1,0 +1,444 @@
+LE CONSEIL DE L'UNION EUROP??ENNE
+
+http://fr.dbpedia.org/resource/Conseil_de_l'Union_européenne
+
+Communauté européenne
+
+http://fr.dbpedia.org/resource/Communauté_européenne
+
+notam
+
+http://fr.dbpedia.org/resource/Messages_aux_navigants
+
+dante
+DBpedia:Agent,Schema:Person,Http://xmlns.com/foaf/0.1/Person,DBpedia:Person,DBpedia:Artist,DBpedia:Writer
+http://fr.dbpedia.org/resource/Dante_Alighieri
+
+traitements de données à caractère personnel
+
+http://fr.dbpedia.org/resource/Fichage_en_France
+
+directive
+
+http://fr.dbpedia.org/resource/Directive_de_l'Union_européenne
+
+Parlement européen
+
+http://fr.dbpedia.org/resource/Parlement_européen
+
+directive
+
+http://fr.dbpedia.org/resource/Directive_de_l'Union_européenne
+
+as
+
+http://fr.dbpedia.org/resource/As_(monnaie)
+
+JO
+Schema:CreativeWork,DBpedia:Work,DBpedia:WrittenWork,DBpedia:PeriodicalLiterature,DBpedia:Newspaper
+http://fr.dbpedia.org/resource/Journal_officiel_de_la_République_française
+
+JO
+Schema:CreativeWork,DBpedia:Work,DBpedia:WrittenWork,DBpedia:PeriodicalLiterature,DBpedia:Newspaper
+http://fr.dbpedia.org/resource/Journal_officiel_de_la_République_française
+
+Parlement européen
+
+http://fr.dbpedia.org/resource/Parlement_européen
+
+JO
+Schema:CreativeWork,DBpedia:Work,DBpedia:WrittenWork,DBpedia:PeriodicalLiterature,DBpedia:Newspaper
+http://fr.dbpedia.org/resource/Journal_officiel_de_la_République_française
+
+directive
+
+http://fr.dbpedia.org/resource/Directive_de_l'Union_européenne
+
+Parlement européen
+
+http://fr.dbpedia.org/resource/Parlement_européen
+
+directive
+
+http://fr.dbpedia.org/resource/Directive_de_l'Union_européenne
+
+notam
+
+http://fr.dbpedia.org/resource/Messages_aux_navigants
+
+directive
+
+http://fr.dbpedia.org/resource/Directive_de_l'Union_européenne
+
+traitement de données à caractère personnel
+
+http://fr.dbpedia.org/resource/Fichage_en_France
+
+Union européenne
+
+http://fr.dbpedia.org/resource/Union_européenne
+
+Union européenne
+
+http://fr.dbpedia.org/resource/Union_européenne
+
+traité CE
+
+http://fr.dbpedia.org/resource/Traité_sur_le_fonctionnement_de_l'Union_européenne
+
+cation
+
+http://fr.dbpedia.org/resource/Cation
+
+Union européenne
+
+http://fr.dbpedia.org/resource/Union_européenne
+
+Europol
+
+http://fr.dbpedia.org/resource/Europol
+
+Schengen
+
+http://fr.dbpedia.org/resource/Convention_de_Schengen
+
+droit international
+
+http://fr.dbpedia.org/resource/Droit_international_public
+
+cations
+
+http://fr.dbpedia.org/resource/Cation
+
+traitements de données à caractère personnel
+
+http://fr.dbpedia.org/resource/Fichage_en_France
+
+l'auto
+Schema:CreativeWork,DBpedia:Work,DBpedia:WrittenWork,DBpedia:PeriodicalLiterature,DBpedia:Newspaper
+http://fr.dbpedia.org/resource/L'Auto
+
+cation
+
+http://fr.dbpedia.org/resource/Cation
+
+saires
+Schema:Place,DBpedia:Place,DBpedia:PopulatedPlace,DBpedia:Settlement
+http://fr.dbpedia.org/resource/Saires
+
+dante
+DBpedia:Agent,Schema:Person,Http://xmlns.com/foaf/0.1/Person,DBpedia:Person,DBpedia:Artist,DBpedia:Writer
+http://fr.dbpedia.org/resource/Dante_Alighieri
+
+JO
+Schema:CreativeWork,DBpedia:Work,DBpedia:WrittenWork,DBpedia:PeriodicalLiterature,DBpedia:Newspaper
+http://fr.dbpedia.org/resource/Journal_officiel_de_la_République_française
+
+l'auto
+Schema:CreativeWork,DBpedia:Work,DBpedia:WrittenWork,DBpedia:PeriodicalLiterature,DBpedia:Newspaper
+http://fr.dbpedia.org/resource/L'Auto
+
+traitement de données à caractère personnel
+
+http://fr.dbpedia.org/resource/Fichage_en_France
+
+traitement de données à caractère personnel
+
+http://fr.dbpedia.org/resource/Fichage_en_France
+
+directive
+
+http://fr.dbpedia.org/resource/Directive_de_l'Union_européenne
+
+Banque centrale européenne
+
+http://fr.dbpedia.org/resource/Banque_centrale_européenne
+
+directive
+
+http://fr.dbpedia.org/resource/Directive_de_l'Union_européenne
+
+Euratom
+
+http://fr.dbpedia.org/resource/Communauté_européenne_de_l'énergie_atomique
+
+CEE
+
+http://fr.dbpedia.org/resource/Union_européenne
+
+directive
+
+http://fr.dbpedia.org/resource/Directive_de_l'Union_européenne
+
+ONT
+
+http://fr.dbpedia.org/resource/Optical_Network_Termination
+
+JO
+Schema:CreativeWork,DBpedia:Work,DBpedia:WrittenWork,DBpedia:PeriodicalLiterature,DBpedia:Newspaper
+http://fr.dbpedia.org/resource/Journal_officiel_de_la_République_française
+
+JO
+Schema:CreativeWork,DBpedia:Work,DBpedia:WrittenWork,DBpedia:PeriodicalLiterature,DBpedia:Newspaper
+http://fr.dbpedia.org/resource/Journal_officiel_de_la_République_française
+
+JO
+Schema:CreativeWork,DBpedia:Work,DBpedia:WrittenWork,DBpedia:PeriodicalLiterature,DBpedia:Newspaper
+http://fr.dbpedia.org/resource/Journal_officiel_de_la_République_française
+
+JO
+Schema:CreativeWork,DBpedia:Work,DBpedia:WrittenWork,DBpedia:PeriodicalLiterature,DBpedia:Newspaper
+http://fr.dbpedia.org/resource/Journal_officiel_de_la_République_française
+
+directive
+
+http://fr.dbpedia.org/resource/Directive_de_l'Union_européenne
+
+traitement de données à caractère personnel
+
+http://fr.dbpedia.org/resource/Fichage_en_France
+
+fichier de données à caractère personnel
+
+http://fr.dbpedia.org/resource/Fichier_de_données_à_caractère_personnel
+
+traitement de données à caractère personnel
+
+http://fr.dbpedia.org/resource/Fichage_en_France
+
+traitement de données à caractère personnel
+
+http://fr.dbpedia.org/resource/Fichage_en_France
+
+droit communautaire
+
+http://fr.dbpedia.org/resource/Droit_de_l'Union_européenne
+
+traitement de données à caractère personnel
+
+http://fr.dbpedia.org/resource/Fichage_en_France
+
+TRAITEMENTS DE DONN??ES ?? CARACT??RE PERSONNEL
+
+http://fr.dbpedia.org/resource/Fichage_en_France
+
+traitement de données à caractère personnel
+
+http://fr.dbpedia.org/resource/Fichage_en_France
+
+directive
+
+http://fr.dbpedia.org/resource/Directive_de_l'Union_européenne
+
+directive
+
+http://fr.dbpedia.org/resource/Directive_de_l'Union_européenne
+
+directive
+
+http://fr.dbpedia.org/resource/Directive_de_l'Union_européenne
+
+directive
+
+http://fr.dbpedia.org/resource/Directive_de_l'Union_européenne
+
+nale
+
+http://fr.dbpedia.org/resource/Epectris
+
+directive
+
+http://fr.dbpedia.org/resource/Directive_de_l'Union_européenne
+
+directive
+
+http://fr.dbpedia.org/resource/Directive_de_l'Union_européenne
+
+directive
+
+http://fr.dbpedia.org/resource/Directive_de_l'Union_européenne
+
+directive
+
+http://fr.dbpedia.org/resource/Directive_de_l'Union_européenne
+
+directive
+
+http://fr.dbpedia.org/resource/Directive_de_l'Union_européenne
+
+directive
+
+http://fr.dbpedia.org/resource/Directive_de_l'Union_européenne
+
+directive
+
+http://fr.dbpedia.org/resource/Directive_de_l'Union_européenne
+
+directive
+
+http://fr.dbpedia.org/resource/Directive_de_l'Union_européenne
+
+droit communautaire
+
+http://fr.dbpedia.org/resource/Droit_de_l'Union_européenne
+
+systèmes de traitement de données
+
+http://fr.dbpedia.org/resource/Systèmes_de_traitement_de_données
+
+Traitement de données à caractère personnel
+
+http://fr.dbpedia.org/resource/Fichage_en_France
+
+directive
+
+http://fr.dbpedia.org/resource/Directive_de_l'Union_européenne
+
+directive
+
+http://fr.dbpedia.org/resource/Directive_de_l'Union_européenne
+
+traitement de données à caractère personnel
+
+http://fr.dbpedia.org/resource/Fichage_en_France
+
+organisations internationales
+
+http://fr.dbpedia.org/resource/Organisation_internationale
+
+traitement de données à caractère personnel
+
+http://fr.dbpedia.org/resource/Fichage_en_France
+
+organisations internationales
+
+http://fr.dbpedia.org/resource/Organisation_internationale
+
+traitement de données à caractère personnel
+
+http://fr.dbpedia.org/resource/Fichage_en_France
+
+traitement de données à caractère personnel
+
+http://fr.dbpedia.org/resource/Fichage_en_France
+
+Obligation d'information
+
+http://fr.dbpedia.org/resource/Obligation_d'information
+
+traitement de données à caractère personnel
+
+http://fr.dbpedia.org/resource/Fichage_en_France
+
+traitements de données à caractère personnel
+
+http://fr.dbpedia.org/resource/Fichage_en_France
+
+droit communautaire
+
+http://fr.dbpedia.org/resource/Droit_de_l'Union_européenne
+
+cation
+
+http://fr.dbpedia.org/resource/Cation
+
+traitement de données à caractère personnel
+
+http://fr.dbpedia.org/resource/Fichage_en_France
+
+traitements de données à caractère personnel
+
+http://fr.dbpedia.org/resource/Fichage_en_France
+
+Parlement européen
+
+http://fr.dbpedia.org/resource/Parlement_européen
+
+directive
+
+http://fr.dbpedia.org/resource/Directive_de_l'Union_européenne
+
+Parlement européen
+
+http://fr.dbpedia.org/resource/Parlement_européen
+
+Parlement européen
+
+http://fr.dbpedia.org/resource/Parlement_européen
+
+Union européenne
+
+http://fr.dbpedia.org/resource/Union_européenne
+
+traitement de données à caractère personnel
+
+http://fr.dbpedia.org/resource/Fichage_en_France
+
+traitement de données à caractère personnel
+
+http://fr.dbpedia.org/resource/Fichage_en_France
+
+directive
+
+http://fr.dbpedia.org/resource/Directive_de_l'Union_européenne
+
+directive
+
+http://fr.dbpedia.org/resource/Directive_de_l'Union_européenne
+
+Union européenne
+
+http://fr.dbpedia.org/resource/Union_européenne
+
+directive
+
+http://fr.dbpedia.org/resource/Directive_de_l'Union_européenne
+
+traitement de données à caractère personnel
+
+http://fr.dbpedia.org/resource/Fichage_en_France
+
+Parlement européen
+
+http://fr.dbpedia.org/resource/Parlement_européen
+
+Parlement européen
+
+http://fr.dbpedia.org/resource/Parlement_européen
+
+Parlement européen
+
+http://fr.dbpedia.org/resource/Parlement_européen
+
+Article 49
+
+http://fr.dbpedia.org/resource/Article_49_de_la_Constitution_de_la_Cinquième_République_française
+
+Bruxelles
+Schema:Place,DBpedia:Place,DBpedia:PopulatedPlace,DBpedia:Settlement,Schema:City,DBpedia:City
+http://fr.dbpedia.org/resource/Bruxelles
+
+Parlement européen
+
+http://fr.dbpedia.org/resource/Parlement_européen
+
+Parlement européen
+
+http://fr.dbpedia.org/resource/Parlement_européen
+
+Parlement européen
+
+http://fr.dbpedia.org/resource/Parlement_européen
+
+Article 49
+
+http://fr.dbpedia.org/resource/Article_49_de_la_Constitution_de_la_Cinquième_République_française
+
+Bruxelles
+Schema:Place,DBpedia:Place,DBpedia:PopulatedPlace,DBpedia:Settlement,Schema:City,DBpedia:City
+http://fr.dbpedia.org/resource/Bruxelles
+
+Parlement européen
+
+http://fr.dbpedia.org/resource/Parlement_européen
+

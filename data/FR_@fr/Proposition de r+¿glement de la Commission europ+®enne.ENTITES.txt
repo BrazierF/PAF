@@ -1,0 +1,1936 @@
+Bruxelles
+Schema:Place,DBpedia:Place,DBpedia:PopulatedPlace,DBpedia:Settlement,Schema:City,DBpedia:City
+http://fr.dbpedia.org/resource/Bruxelles
+
+SEC
+
+http://fr.dbpedia.org/resource/Securities_and_Exchange_Commission
+
+SEC
+
+http://fr.dbpedia.org/resource/Securities_and_Exchange_Commission
+
+Union européenne
+
+http://fr.dbpedia.org/resource/Union_européenne
+
+Parlement européen
+
+http://fr.dbpedia.org/resource/Parlement_européen
+
+directive
+
+http://fr.dbpedia.org/resource/Directive_de_l'Union_européenne
+
+Parlement européen
+
+http://fr.dbpedia.org/resource/Parlement_européen
+
+directive
+
+http://fr.dbpedia.org/resource/Directive_de_l'Union_européenne
+
+JAI
+
+http://fr.dbpedia.org/resource/Coopération_policière_et_judiciaire_en_matière_pénale
+
+Directive 95/46/CE
+
+http://fr.dbpedia.org/resource/Directive_95/46/CE_sur_la_protection_des_données_personnelles
+
+Parlement européen
+
+http://fr.dbpedia.org/resource/Parlement_européen
+
+JO
+Schema:CreativeWork,DBpedia:Work,DBpedia:WrittenWork,DBpedia:PeriodicalLiterature,DBpedia:Newspaper
+http://fr.dbpedia.org/resource/Journal_officiel_de_la_République_française
+
+JAI
+
+http://fr.dbpedia.org/resource/Coopération_policière_et_judiciaire_en_matière_pénale
+
+JO
+Schema:CreativeWork,DBpedia:Work,DBpedia:WrittenWork,DBpedia:PeriodicalLiterature,DBpedia:Newspaper
+http://fr.dbpedia.org/resource/Journal_officiel_de_la_République_française
+
+FR 2
+DBpedia:Agent,Schema:Organization,DBpedia:Organisation,DBpedia:Broadcaster,Schema:TelevisionStation,DBpedia:TelevisionStation
+http://fr.dbpedia.org/resource/France_2
+
+Union européenne
+
+http://fr.dbpedia.org/resource/Union_européenne
+
+TFUE
+
+http://fr.dbpedia.org/resource/Traité_sur_le_fonctionnement_de_l'Union_européenne
+
+traité de Lisbonne
+
+http://fr.dbpedia.org/resource/Traité_de_Lisbonne
+
+TFUE
+
+http://fr.dbpedia.org/resource/Traité_sur_le_fonctionnement_de_l'Union_européenne
+
+traité de Lisbonne
+
+http://fr.dbpedia.org/resource/Traité_de_Lisbonne
+
+Union européenne
+
+http://fr.dbpedia.org/resource/Union_européenne
+
+Conseil européen
+
+http://fr.dbpedia.org/resource/Conseil_européen
+
+programme de Stockholm
+
+http://fr.dbpedia.org/resource/Programme_de_Stockholm
+
+Parlement
+
+http://fr.dbpedia.org/resource/Parlement_européen
+
+Union européenne
+
+http://fr.dbpedia.org/resource/Union_européenne
+
+sécurité juridique
+
+http://fr.dbpedia.org/resource/Sécurité_juridique
+
+programme de Stockholm
+
+http://fr.dbpedia.org/resource/Programme_de_Stockholm
+
+JO
+Schema:CreativeWork,DBpedia:Work,DBpedia:WrittenWork,DBpedia:PeriodicalLiterature,DBpedia:Newspaper
+http://fr.dbpedia.org/resource/Journal_officiel_de_la_République_française
+
+Parlement européen
+
+http://fr.dbpedia.org/resource/Parlement_européen
+
+Parlement européen
+
+http://fr.dbpedia.org/resource/Parlement_européen
+
+programme de Stockholm
+
+http://fr.dbpedia.org/resource/Programme_de_Stockholm
+
+Eurobaromètre
+
+http://fr.dbpedia.org/resource/Eurobaromètre
+
+FR 3
+DBpedia:Agent,Schema:Organization,DBpedia:Organisation,DBpedia:Broadcaster,Schema:TelevisionStation,DBpedia:TelevisionStation
+http://fr.dbpedia.org/resource/France_3
+
+FR 2
+DBpedia:Agent,Schema:Organization,DBpedia:Organisation,DBpedia:Broadcaster,Schema:TelevisionStation,DBpedia:TelevisionStation
+http://fr.dbpedia.org/resource/France_2
+
+Union européenne
+
+http://fr.dbpedia.org/resource/Union_européenne
+
+Viviane Reding
+DBpedia:Agent,Schema:Person,Http://xmlns.com/foaf/0.1/Person,DBpedia:Person,DBpedia:OfficeHolder
+http://fr.dbpedia.org/resource/Viviane_Reding
+
+Commission européenne
+
+http://fr.dbpedia.org/resource/Commission_européenne
+
+Commission européenne
+
+http://fr.dbpedia.org/resource/Commission_européenne
+
+Conseil de l'Europe
+
+http://fr.dbpedia.org/resource/Conseil_de_l'Europe
+
+events
+Schema:Festival,Schema:Event,DBpedia:Event,DBpedia:MusicFestival
+http://fr.dbpedia.org/resource/??vénement_(festival)
+
+events
+Schema:Festival,Schema:Event,DBpedia:Event,DBpedia:MusicFestival
+http://fr.dbpedia.org/resource/??vénement_(festival)
+
+events
+Schema:Festival,Schema:Event,DBpedia:Event,DBpedia:MusicFestival
+http://fr.dbpedia.org/resource/??vénement_(festival)
+
+events
+Schema:Festival,Schema:Event,DBpedia:Event,DBpedia:MusicFestival
+http://fr.dbpedia.org/resource/??vénement_(festival)
+
+Eurobaromètre
+
+http://fr.dbpedia.org/resource/Eurobaromètre
+
+Parlement européen
+
+http://fr.dbpedia.org/resource/Parlement_européen
+
+Le Conseil de l'Union européenne
+
+http://fr.dbpedia.org/resource/Conseil_de_l'Union_européenne
+
+directive
+
+http://fr.dbpedia.org/resource/Directive_de_l'Union_européenne
+
+mondialisation
+
+http://fr.dbpedia.org/resource/Mondialisation
+
+sécurité juridique
+
+http://fr.dbpedia.org/resource/Sécurité_juridique
+
+Eurobaromètre
+
+http://fr.dbpedia.org/resource/Eurobaromètre
+
+directive
+
+http://fr.dbpedia.org/resource/Directive_de_l'Union_européenne
+
+publicité
+
+http://fr.dbpedia.org/resource/Publicité
+
+directive
+
+http://fr.dbpedia.org/resource/Directive_de_l'Union_européenne
+
+Parlement européen
+
+http://fr.dbpedia.org/resource/Parlement_européen
+
+Union européenne
+
+http://fr.dbpedia.org/resource/Union_européenne
+
+INI
+
+http://fr.dbpedia.org/resource/Fichier_INI
+
+EP
+
+http://fr.dbpedia.org/resource/Extended_play
+
+DOC
+
+http://fr.dbpedia.org/resource/Denominazione_di_origine_controllata
+
+XML
+
+http://fr.dbpedia.org/resource/Extensible_Markup_Language
+
+député européen
+
+http://fr.dbpedia.org/resource/Parlement_européen
+
+PPE
+DBpedia:Agent,Schema:Organization,DBpedia:Organisation,DBpedia:PoliticalParty
+http://fr.dbpedia.org/resource/Parti_populaire_européen
+
+SEC
+
+http://fr.dbpedia.org/resource/Securities_and_Exchange_Commission
+
+sécurité juridique
+
+http://fr.dbpedia.org/resource/Sécurité_juridique
+
+programme de Stockholm
+
+http://fr.dbpedia.org/resource/Programme_de_Stockholm
+
+Europe 2020
+
+http://fr.dbpedia.org/resource/Europe_2020
+
+TFUE
+
+http://fr.dbpedia.org/resource/Traité_sur_le_fonctionnement_de_l'Union_européenne
+
+traité de Lisbonne
+
+http://fr.dbpedia.org/resource/Traité_de_Lisbonne
+
+TFUE
+
+http://fr.dbpedia.org/resource/Traité_sur_le_fonctionnement_de_l'Union_européenne
+
+sécurité juridique
+
+http://fr.dbpedia.org/resource/Sécurité_juridique
+
+TFUE
+
+http://fr.dbpedia.org/resource/Traité_sur_le_fonctionnement_de_l'Union_européenne
+
+directive
+
+http://fr.dbpedia.org/resource/Directive_de_l'Union_européenne
+
+directive
+
+http://fr.dbpedia.org/resource/Directive_de_l'Union_européenne
+
+principe de subsidiarité
+
+http://fr.dbpedia.org/resource/Principe_de_subsidiarité
+
+TUE
+
+http://fr.dbpedia.org/resource/Traité_sur_l'Union_européenne
+
+Union européenne
+
+http://fr.dbpedia.org/resource/Union_européenne
+
+TFUE
+
+http://fr.dbpedia.org/resource/Traité_sur_le_fonctionnement_de_l'Union_européenne
+
+CEDH
+
+http://fr.dbpedia.org/resource/Convention_européenne_des_droits_de_l'homme
+
+Cour de justice de l'Union
+
+http://fr.dbpedia.org/resource/Cour_de_justice_(Union_européenne)
+
+directive
+
+http://fr.dbpedia.org/resource/Directive_de_l'Union_européenne
+
+orientation sexuelle
+
+http://fr.dbpedia.org/resource/Orientation_sexuelle
+
+Cour de justice de l'Union
+
+http://fr.dbpedia.org/resource/Cour_de_justice_(Union_européenne)
+
+Cour de justice de l'Union
+
+http://fr.dbpedia.org/resource/Cour_de_justice_(Union_européenne)
+
+Union européenne
+
+http://fr.dbpedia.org/resource/Union_européenne
+
+directive
+
+http://fr.dbpedia.org/resource/Directive_de_l'Union_européenne
+
+directive
+
+http://fr.dbpedia.org/resource/Directive_de_l'Union_européenne
+
+directive
+
+http://fr.dbpedia.org/resource/Directive_de_l'Union_européenne
+
+directive
+
+http://fr.dbpedia.org/resource/Directive_de_l'Union_européenne
+
+biométriques
+
+http://fr.dbpedia.org/resource/Biométrie
+
+Nations unies
+
+http://fr.dbpedia.org/resource/Organisation_des_Nations_unies
+
+directive
+
+http://fr.dbpedia.org/resource/Directive_de_l'Union_européenne
+
+directive
+
+http://fr.dbpedia.org/resource/Directive_de_l'Union_européenne
+
+Directive 2002/58/CE
+
+http://fr.dbpedia.org/resource/Directive_2002/58/CE
+
+Parlement européen
+
+http://fr.dbpedia.org/resource/Parlement_européen
+
+directive
+
+http://fr.dbpedia.org/resource/Directive_de_l'Union_européenne
+
+JO
+Schema:CreativeWork,DBpedia:Work,DBpedia:WrittenWork,DBpedia:PeriodicalLiterature,DBpedia:Newspaper
+http://fr.dbpedia.org/resource/Journal_officiel_de_la_République_française
+
+Parlement européen
+
+http://fr.dbpedia.org/resource/Parlement_européen
+
+directive
+
+http://fr.dbpedia.org/resource/Directive_de_l'Union_européenne
+
+directive
+
+http://fr.dbpedia.org/resource/Directive_de_l'Union_européenne
+
+JO
+Schema:CreativeWork,DBpedia:Work,DBpedia:WrittenWork,DBpedia:PeriodicalLiterature,DBpedia:Newspaper
+http://fr.dbpedia.org/resource/Journal_officiel_de_la_République_française
+
+Nations unies
+
+http://fr.dbpedia.org/resource/Organisation_des_Nations_unies
+
+directive
+
+http://fr.dbpedia.org/resource/Directive_de_l'Union_européenne
+
+Madrid
+Schema:Place,DBpedia:Place,DBpedia:PopulatedPlace,DBpedia:Settlement
+http://fr.dbpedia.org/resource/Madrid
+
+directive
+
+http://fr.dbpedia.org/resource/Directive_de_l'Union_européenne
+
+directive
+
+http://fr.dbpedia.org/resource/Directive_de_l'Union_européenne
+
+directive
+
+http://fr.dbpedia.org/resource/Directive_de_l'Union_européenne
+
+autorité de concurrence
+
+http://fr.dbpedia.org/resource/Liste_des_autorités_de_concurrence
+
+sécurité sociale
+
+http://fr.dbpedia.org/resource/Sécurité_sociale
+
+directive
+
+http://fr.dbpedia.org/resource/Directive_de_l'Union_européenne
+
+Cf
+
+http://fr.dbpedia.org/resource/Californium
+
+directive
+
+http://fr.dbpedia.org/resource/Directive_de_l'Union_européenne
+
+directive
+
+http://fr.dbpedia.org/resource/Directive_de_l'Union_européenne
+
+directive
+
+http://fr.dbpedia.org/resource/Directive_de_l'Union_européenne
+
+directive
+
+http://fr.dbpedia.org/resource/Directive_de_l'Union_européenne
+
+Conseil de l'Europe
+
+http://fr.dbpedia.org/resource/Conseil_de_l'Europe
+
+directive
+
+http://fr.dbpedia.org/resource/Directive_de_l'Union_européenne
+
+Cour de justice de l'Union
+
+http://fr.dbpedia.org/resource/Cour_de_justice_(Union_européenne)
+
+CM
+Schema:Event,DBpedia:Event,Schema:SportsEvent,DBpedia:SportsEvent
+http://fr.dbpedia.org/resource/Championnat_du_monde_de_hockey_sur_glace
+
+directive
+
+http://fr.dbpedia.org/resource/Directive_de_l'Union_européenne
+
+directive
+
+http://fr.dbpedia.org/resource/Directive_de_l'Union_européenne
+
+directive
+
+http://fr.dbpedia.org/resource/Directive_de_l'Union_européenne
+
+directive
+
+http://fr.dbpedia.org/resource/Directive_de_l'Union_européenne
+
+directive
+
+http://fr.dbpedia.org/resource/Directive_de_l'Union_européenne
+
+directive
+
+http://fr.dbpedia.org/resource/Directive_de_l'Union_européenne
+
+directive
+
+http://fr.dbpedia.org/resource/Directive_de_l'Union_européenne
+
+Codes de conduite
+
+http://fr.dbpedia.org/resource/Code_de_conduite
+
+directive
+
+http://fr.dbpedia.org/resource/Directive_de_l'Union_européenne
+
+directive
+
+http://fr.dbpedia.org/resource/Directive_de_l'Union_européenne
+
+??tat de droit
+
+http://fr.dbpedia.org/resource/??tat_de_droit
+
+directive
+
+http://fr.dbpedia.org/resource/Directive_de_l'Union_européenne
+
+directive
+
+http://fr.dbpedia.org/resource/Directive_de_l'Union_européenne
+
+sécurité sociale
+
+http://fr.dbpedia.org/resource/Sécurité_sociale_en_France
+
+OCDE
+
+http://fr.dbpedia.org/resource/Organisation_de_coopération_et_de_développement_économiques
+
+directive
+
+http://fr.dbpedia.org/resource/Directive_de_l'Union_européenne
+
+Cour de justice de l'Union
+
+http://fr.dbpedia.org/resource/Cour_de_justice_(Union_européenne)
+
+directive
+
+http://fr.dbpedia.org/resource/Directive_de_l'Union_européenne
+
+Cour de justice de l'Union
+
+http://fr.dbpedia.org/resource/Cour_de_justice_(Union_européenne)
+
+Allemagne
+Schema:Place,DBpedia:Place,DBpedia:PopulatedPlace,Schema:Country,DBpedia:Country
+http://fr.dbpedia.org/resource/Allemagne
+
+Parlement européen
+
+http://fr.dbpedia.org/resource/Parlement_européen
+
+JO
+Schema:CreativeWork,DBpedia:Work,DBpedia:WrittenWork,DBpedia:PeriodicalLiterature,DBpedia:Newspaper
+http://fr.dbpedia.org/resource/Journal_officiel_de_la_République_française
+
+directive
+
+http://fr.dbpedia.org/resource/Directive_de_l'Union_européenne
+
+directive
+
+http://fr.dbpedia.org/resource/Directive_de_l'Union_européenne
+
+directive
+
+http://fr.dbpedia.org/resource/Directive_de_l'Union_européenne
+
+directive
+
+http://fr.dbpedia.org/resource/Directive_de_l'Union_européenne
+
+JAI
+
+http://fr.dbpedia.org/resource/Coopération_policière_et_judiciaire_en_matière_pénale
+
+JAI
+
+http://fr.dbpedia.org/resource/Coopération_policière_et_judiciaire_en_matière_pénale
+
+terrorisme
+
+http://fr.dbpedia.org/resource/Terrorisme
+
+JO
+Schema:CreativeWork,DBpedia:Work,DBpedia:WrittenWork,DBpedia:PeriodicalLiterature,DBpedia:Newspaper
+http://fr.dbpedia.org/resource/Journal_officiel_de_la_République_française
+
+directive
+
+http://fr.dbpedia.org/resource/Directive_de_l'Union_européenne
+
+directive
+
+http://fr.dbpedia.org/resource/Directive_de_l'Union_européenne
+
+directive
+
+http://fr.dbpedia.org/resource/Directive_de_l'Union_européenne
+
+directive
+
+http://fr.dbpedia.org/resource/Directive_de_l'Union_européenne
+
+directive
+
+http://fr.dbpedia.org/resource/Directive_de_l'Union_européenne
+
+directive
+
+http://fr.dbpedia.org/resource/Directive_de_l'Union_européenne
+
+ester
+
+http://fr.dbpedia.org/resource/Ester
+
+l'Article 23
+
+http://fr.dbpedia.org/resource/Article_23_de_la_Charte_canadienne_des_droits_et_libertés
+
+directive
+
+http://fr.dbpedia.org/resource/Directive_de_l'Union_européenne
+
+JAI
+
+http://fr.dbpedia.org/resource/Coopération_policière_et_judiciaire_en_matière_pénale
+
+JO
+Schema:CreativeWork,DBpedia:Work,DBpedia:WrittenWork,DBpedia:PeriodicalLiterature,DBpedia:Newspaper
+http://fr.dbpedia.org/resource/Journal_officiel_de_la_République_française
+
+JO
+Schema:CreativeWork,DBpedia:Work,DBpedia:WrittenWork,DBpedia:PeriodicalLiterature,DBpedia:Newspaper
+http://fr.dbpedia.org/resource/Journal_officiel_de_la_République_française
+
+directive
+
+http://fr.dbpedia.org/resource/Directive_de_l'Union_européenne
+
+Parlement européen
+
+http://fr.dbpedia.org/resource/Parlement_européen
+
+commerce électronique
+
+http://fr.dbpedia.org/resource/Commerce_électronique
+
+directive
+
+http://fr.dbpedia.org/resource/Directive_de_l'Union_européenne
+
+commerce électronique
+
+http://fr.dbpedia.org/resource/Commerce_électronique
+
+JO
+Schema:CreativeWork,DBpedia:Work,DBpedia:WrittenWork,DBpedia:PeriodicalLiterature,DBpedia:Newspaper
+http://fr.dbpedia.org/resource/Journal_officiel_de_la_République_française
+
+directive
+
+http://fr.dbpedia.org/resource/Directive_de_l'Union_européenne
+
+traitement de données à caractère personnel
+
+http://fr.dbpedia.org/resource/Fichage_en_France
+
+Union européenne
+
+http://fr.dbpedia.org/resource/Union_européenne
+
+TFUE
+
+http://fr.dbpedia.org/resource/Traité_sur_le_fonctionnement_de_l'Union_européenne
+
+TFUE
+
+http://fr.dbpedia.org/resource/Traité_sur_le_fonctionnement_de_l'Union_européenne
+
+Cour de justice de l'UE
+
+http://fr.dbpedia.org/resource/Cour_de_justice_de_l'Union_européenne
+
+directive
+
+http://fr.dbpedia.org/resource/Directive_de_l'Union_européenne
+
+directive
+
+http://fr.dbpedia.org/resource/Directive_de_l'Union_européenne
+
+directive
+
+http://fr.dbpedia.org/resource/Directive_de_l'Union_européenne
+
+LE CONSEIL DE L'UNION EUROP??ENNE
+
+http://fr.dbpedia.org/resource/Conseil_de_l'Union_européenne
+
+Union européenne
+
+http://fr.dbpedia.org/resource/Union_européenne
+
+Commission européenne
+
+http://fr.dbpedia.org/resource/Commission_européenne
+
+Union européenne
+
+http://fr.dbpedia.org/resource/Union_européenne
+
+Union européenne
+
+http://fr.dbpedia.org/resource/Union_européenne
+
+JO
+Schema:CreativeWork,DBpedia:Work,DBpedia:WrittenWork,DBpedia:PeriodicalLiterature,DBpedia:Newspaper
+http://fr.dbpedia.org/resource/Journal_officiel_de_la_République_française
+
+JO
+Schema:CreativeWork,DBpedia:Work,DBpedia:WrittenWork,DBpedia:PeriodicalLiterature,DBpedia:Newspaper
+http://fr.dbpedia.org/resource/Journal_officiel_de_la_République_française
+
+directive
+
+http://fr.dbpedia.org/resource/Directive_de_l'Union_européenne
+
+Parlement européen
+
+http://fr.dbpedia.org/resource/Parlement_européen
+
+mondialisation
+
+http://fr.dbpedia.org/resource/Mondialisation
+
+organisations internationales
+
+http://fr.dbpedia.org/resource/Organisation_internationale
+
+directive
+
+http://fr.dbpedia.org/resource/Directive_de_l'Union_européenne
+
+JO
+Schema:CreativeWork,DBpedia:Work,DBpedia:WrittenWork,DBpedia:PeriodicalLiterature,DBpedia:Newspaper
+http://fr.dbpedia.org/resource/Journal_officiel_de_la_République_française
+
+directive
+
+http://fr.dbpedia.org/resource/Directive_de_l'Union_européenne
+
+Parlement européen
+
+http://fr.dbpedia.org/resource/Parlement_européen
+
+sécurité juridique
+
+http://fr.dbpedia.org/resource/Sécurité_juridique
+
+droits opposables
+
+http://fr.dbpedia.org/resource/Droit_opposable
+
+traitements de données à caractère personnel
+
+http://fr.dbpedia.org/resource/Fichage_en_France
+
+traitements de données à caractère personnel
+
+http://fr.dbpedia.org/resource/Fichage_en_France
+
+directive
+
+http://fr.dbpedia.org/resource/Directive_de_l'Union_européenne
+
+directive
+
+http://fr.dbpedia.org/resource/Directive_de_l'Union_européenne
+
+traitement de données à caractère personnel
+
+http://fr.dbpedia.org/resource/Fichage_en_France
+
+JO
+Schema:CreativeWork,DBpedia:Work,DBpedia:WrittenWork,DBpedia:PeriodicalLiterature,DBpedia:Newspaper
+http://fr.dbpedia.org/resource/Journal_officiel_de_la_République_française
+
+traitement de données à caractère personnel
+
+http://fr.dbpedia.org/resource/Fichage_en_France
+
+droit international public
+
+http://fr.dbpedia.org/resource/Droit_international_public
+
+droit international public
+
+http://fr.dbpedia.org/resource/Droit_international_public
+
+traitement de données à caractère personnel
+
+http://fr.dbpedia.org/resource/Fichage_en_France
+
+Nations unies
+
+http://fr.dbpedia.org/resource/Organisation_des_Nations_unies
+
+traitement de données à caractère personnel
+
+http://fr.dbpedia.org/resource/Fichage_en_France
+
+traitement de données à caractère personnel
+
+http://fr.dbpedia.org/resource/Fichage_en_France
+
+Union européenne
+
+http://fr.dbpedia.org/resource/Union_européenne
+
+traitement de données à caractère personnel
+
+http://fr.dbpedia.org/resource/Fichage_en_France
+
+système d'information
+
+http://fr.dbpedia.org/resource/Système_d'information
+
+CERT
+
+http://fr.dbpedia.org/resource/Computer_Emergency_Response_Team
+
+sécurité informatique
+
+http://fr.dbpedia.org/resource/Sécurité_des_systèmes_d'information
+
+déni de service
+
+http://fr.dbpedia.org/resource/Attaque_par_déni_de_service
+
+traitement de données à caractère personnel
+
+http://fr.dbpedia.org/resource/Fichage_en_France
+
+droit constitutionnel
+
+http://fr.dbpedia.org/resource/Droit_constitutionnel
+
+droit international public
+
+http://fr.dbpedia.org/resource/Droit_international_public
+
+publicité
+
+http://fr.dbpedia.org/resource/Publicité
+
+publicité
+
+http://fr.dbpedia.org/resource/Publicité
+
+traitement de données à caractère personnel
+
+http://fr.dbpedia.org/resource/Fichage_en_France
+
+traitement de données à caractère personnel
+
+http://fr.dbpedia.org/resource/Fichage_en_France
+
+Union européenne
+
+http://fr.dbpedia.org/resource/Union_européenne
+
+traitement de données à caractère personnel
+
+http://fr.dbpedia.org/resource/Fichage_en_France
+
+interopérabilité
+
+http://fr.dbpedia.org/resource/Interopérabilité
+
+interopérabilité
+
+http://fr.dbpedia.org/resource/Interopérabilité
+
+directive
+
+http://fr.dbpedia.org/resource/Directive_de_l'Union_européenne
+
+traitements de données à caractère personnel
+
+http://fr.dbpedia.org/resource/Fichage_en_France
+
+segment professionnel
+
+http://fr.dbpedia.org/resource/Segment_professionnel
+
+organisations internationales
+
+http://fr.dbpedia.org/resource/Organisation_internationale
+
+sécurité juridique
+
+http://fr.dbpedia.org/resource/Sécurité_juridique
+
+organisations internationales
+
+http://fr.dbpedia.org/resource/Organisation_internationale
+
+Eu
+Schema:Place,DBpedia:Place,DBpedia:PopulatedPlace,DBpedia:Settlement
+http://fr.dbpedia.org/resource/Eu_(Seine-Maritime)
+
+??tat de droit
+
+http://fr.dbpedia.org/resource/??tat_de_droit
+
+droits opposables
+
+http://fr.dbpedia.org/resource/Droit_opposable
+
+sécurité sociale
+
+http://fr.dbpedia.org/resource/Sécurité_sociale_en_France
+
+droit international
+
+http://fr.dbpedia.org/resource/Droit_international_public
+
+droit international
+
+http://fr.dbpedia.org/resource/Droit_international_public
+
+traitement de données à caractère personnel
+
+http://fr.dbpedia.org/resource/Fichage_en_France
+
+sécurité juridique
+
+http://fr.dbpedia.org/resource/Sécurité_juridique
+
+traitements de données à caractère personnel
+
+http://fr.dbpedia.org/resource/Fichage_en_France
+
+ester
+
+http://fr.dbpedia.org/resource/Ester
+
+ester
+
+http://fr.dbpedia.org/resource/Ester
+
+directive
+
+http://fr.dbpedia.org/resource/Directive_de_l'Union_européenne
+
+directive
+
+http://fr.dbpedia.org/resource/Directive_de_l'Union_européenne
+
+traitement de données à caractère personnel
+
+http://fr.dbpedia.org/resource/Fichage_en_France
+
+Union européenne
+
+http://fr.dbpedia.org/resource/Union_européenne
+
+traitements de données à caractère personnel
+
+http://fr.dbpedia.org/resource/Fichage_en_France
+
+organisations internationales
+
+http://fr.dbpedia.org/resource/Organisation_internationale
+
+traitement de données à caractère personnel
+
+http://fr.dbpedia.org/resource/Fichage_en_France
+
+Parlement européen
+
+http://fr.dbpedia.org/resource/Parlement_européen
+
+traitements de données à caractère personnel
+
+http://fr.dbpedia.org/resource/Fichage_en_France
+
+traitement de données à caractère personnel
+
+http://fr.dbpedia.org/resource/Fichage_en_France
+
+Union européenne
+
+http://fr.dbpedia.org/resource/Union_européenne
+
+Union européenne
+
+http://fr.dbpedia.org/resource/Union_européenne
+
+Union européenne
+
+http://fr.dbpedia.org/resource/Union_européenne
+
+Parlement européen
+
+http://fr.dbpedia.org/resource/Parlement_européen
+
+Parlement européen
+
+http://fr.dbpedia.org/resource/Parlement_européen
+
+Parlement européen
+
+http://fr.dbpedia.org/resource/Parlement_européen
+
+JO
+Schema:CreativeWork,DBpedia:Work,DBpedia:WrittenWork,DBpedia:PeriodicalLiterature,DBpedia:Newspaper
+http://fr.dbpedia.org/resource/Journal_officiel_de_la_République_française
+
+principe de subsidiarité
+
+http://fr.dbpedia.org/resource/Principe_de_subsidiarité
+
+Union européenne
+
+http://fr.dbpedia.org/resource/Union_européenne
+
+directive
+
+http://fr.dbpedia.org/resource/Directive_de_l'Union_européenne
+
+directive
+
+http://fr.dbpedia.org/resource/Directive_de_l'Union_européenne
+
+directive
+
+http://fr.dbpedia.org/resource/Directive_de_l'Union_européenne
+
+directive
+
+http://fr.dbpedia.org/resource/Directive_de_l'Union_européenne
+
+Norvège
+Schema:Place,DBpedia:Place,DBpedia:PopulatedPlace,Schema:Country,DBpedia:Country
+http://fr.dbpedia.org/resource/Norvège
+
+Schengen
+
+http://fr.dbpedia.org/resource/Convention_de_Schengen
+
+Conseil de l'Union européenne
+
+http://fr.dbpedia.org/resource/Conseil_de_l'Union_européenne
+
+République d'Islande
+Schema:Place,DBpedia:Place,DBpedia:PopulatedPlace,Schema:Country,DBpedia:Country
+http://fr.dbpedia.org/resource/Islande
+
+Royaume de Norvège
+Schema:Place,DBpedia:Place,DBpedia:PopulatedPlace,Schema:Country,DBpedia:Country
+http://fr.dbpedia.org/resource/Norvège
+
+JO
+Schema:CreativeWork,DBpedia:Work,DBpedia:WrittenWork,DBpedia:PeriodicalLiterature,DBpedia:Newspaper
+http://fr.dbpedia.org/resource/Journal_officiel_de_la_République_française
+
+Suisse
+Schema:Place,DBpedia:Place,DBpedia:PopulatedPlace,Schema:Country,DBpedia:Country
+http://fr.dbpedia.org/resource/Suisse
+
+Schengen
+
+http://fr.dbpedia.org/resource/Convention_de_Schengen
+
+Union européenne
+
+http://fr.dbpedia.org/resource/Union_européenne
+
+Communauté européenne
+
+http://fr.dbpedia.org/resource/Communauté_européenne
+
+Confédération
+Schema:Place,DBpedia:Place,DBpedia:PopulatedPlace,Schema:Country,DBpedia:Country
+http://fr.dbpedia.org/resource/Suisse
+
+suisse
+Schema:Place,DBpedia:Place,DBpedia:PopulatedPlace,Schema:Country,DBpedia:Country
+http://fr.dbpedia.org/resource/Suisse
+
+Confédération
+Schema:Place,DBpedia:Place,DBpedia:PopulatedPlace,Schema:Country,DBpedia:Country
+http://fr.dbpedia.org/resource/Suisse
+
+suisse
+Schema:Place,DBpedia:Place,DBpedia:PopulatedPlace,Schema:Country,DBpedia:Country
+http://fr.dbpedia.org/resource/Suisse
+
+Liechtenstein
+Schema:Place,DBpedia:Place,DBpedia:PopulatedPlace,Schema:Country,DBpedia:Country
+http://fr.dbpedia.org/resource/Liechtenstein
+
+Schengen
+
+http://fr.dbpedia.org/resource/Convention_de_Schengen
+
+Union européenne
+
+http://fr.dbpedia.org/resource/Union_européenne
+
+Confédération
+Schema:Place,DBpedia:Place,DBpedia:PopulatedPlace,Schema:Country,DBpedia:Country
+http://fr.dbpedia.org/resource/Suisse
+
+suisse
+Schema:Place,DBpedia:Place,DBpedia:PopulatedPlace,Schema:Country,DBpedia:Country
+http://fr.dbpedia.org/resource/Suisse
+
+Principauté de Liechtenstein
+Schema:Place,DBpedia:Place,DBpedia:PopulatedPlace,Schema:Country,DBpedia:Country
+http://fr.dbpedia.org/resource/Liechtenstein
+
+Principauté de Liechtenstein
+Schema:Place,DBpedia:Place,DBpedia:PopulatedPlace,Schema:Country,DBpedia:Country
+http://fr.dbpedia.org/resource/Liechtenstein
+
+Union européenne
+
+http://fr.dbpedia.org/resource/Union_européenne
+
+Confédération
+Schema:Place,DBpedia:Place,DBpedia:PopulatedPlace,Schema:Country,DBpedia:Country
+http://fr.dbpedia.org/resource/Suisse
+
+suisse
+Schema:Place,DBpedia:Place,DBpedia:PopulatedPlace,Schema:Country,DBpedia:Country
+http://fr.dbpedia.org/resource/Suisse
+
+Confédération
+Schema:Place,DBpedia:Place,DBpedia:PopulatedPlace,Schema:Country,DBpedia:Country
+http://fr.dbpedia.org/resource/Suisse
+
+suisse
+Schema:Place,DBpedia:Place,DBpedia:PopulatedPlace,Schema:Country,DBpedia:Country
+http://fr.dbpedia.org/resource/Suisse
+
+Cour de justice de l'Union
+
+http://fr.dbpedia.org/resource/Cour_de_justice_(Union_européenne)
+
+Union européenne
+
+http://fr.dbpedia.org/resource/Union_européenne
+
+ONT
+
+http://fr.dbpedia.org/resource/Optical_Network_Termination
+
+JO
+Schema:CreativeWork,DBpedia:Work,DBpedia:WrittenWork,DBpedia:PeriodicalLiterature,DBpedia:Newspaper
+http://fr.dbpedia.org/resource/Journal_officiel_de_la_République_française
+
+JO
+Schema:CreativeWork,DBpedia:Work,DBpedia:WrittenWork,DBpedia:PeriodicalLiterature,DBpedia:Newspaper
+http://fr.dbpedia.org/resource/Journal_officiel_de_la_République_française
+
+FR 3
+DBpedia:Agent,Schema:Organization,DBpedia:Organisation,DBpedia:Broadcaster,Schema:TelevisionStation,DBpedia:TelevisionStation
+http://fr.dbpedia.org/resource/France_3
+
+traitement de données à caractère personnel
+
+http://fr.dbpedia.org/resource/Fichage_en_France
+
+traitement de données à caractère personnel
+
+http://fr.dbpedia.org/resource/Fichage_en_France
+
+Union européenne
+
+http://fr.dbpedia.org/resource/Union_européenne
+
+directive
+
+http://fr.dbpedia.org/resource/Directive_de_l'Union_européenne
+
+directive
+
+http://fr.dbpedia.org/resource/Directive_de_l'Union_européenne
+
+FR 3
+DBpedia:Agent,Schema:Organization,DBpedia:Organisation,DBpedia:Broadcaster,Schema:TelevisionStation,DBpedia:TelevisionStation
+http://fr.dbpedia.org/resource/France_3
+
+traitement de données à caractère personnel
+
+http://fr.dbpedia.org/resource/Fichage_en_France
+
+droit international public
+
+http://fr.dbpedia.org/resource/Droit_international_public
+
+traitement de données à caractère personnel
+
+http://fr.dbpedia.org/resource/Fichage_en_France
+
+traitement de données à caractère personnel
+
+http://fr.dbpedia.org/resource/Fichage_en_France
+
+développement prénatal
+
+http://fr.dbpedia.org/resource/Développement_prénatal
+
+biométriques
+
+http://fr.dbpedia.org/resource/Biométrie
+
+traitement de données à caractère personnel
+
+http://fr.dbpedia.org/resource/Fichage_en_France
+
+traitement de données à caractère personnel
+
+http://fr.dbpedia.org/resource/Fichage_en_France
+
+traitement de données à caractère personnel
+
+http://fr.dbpedia.org/resource/Fichage_en_France
+
+traitement de données à caractère personnel
+
+http://fr.dbpedia.org/resource/Fichage_en_France
+
+Traitement de données à caractère personnel
+
+http://fr.dbpedia.org/resource/Fichage_en_France
+
+Traitement de données à caractère personnel
+
+http://fr.dbpedia.org/resource/Fichage_en_France
+
+Traitement de données à caractère personnel
+
+http://fr.dbpedia.org/resource/Fichage_en_France
+
+Traitement de données à caractère personnel
+
+http://fr.dbpedia.org/resource/Fichage_en_France
+
+FR 2
+DBpedia:Agent,Schema:Organization,DBpedia:Organisation,DBpedia:Broadcaster,Schema:TelevisionStation,DBpedia:TelevisionStation
+http://fr.dbpedia.org/resource/France_2
+
+FR 2
+DBpedia:Agent,Schema:Organization,DBpedia:Organisation,DBpedia:Broadcaster,Schema:TelevisionStation,DBpedia:TelevisionStation
+http://fr.dbpedia.org/resource/France_2
+
+FR 2
+DBpedia:Agent,Schema:Organization,DBpedia:Organisation,DBpedia:Broadcaster,Schema:TelevisionStation,DBpedia:TelevisionStation
+http://fr.dbpedia.org/resource/France_2
+
+FR 2
+DBpedia:Agent,Schema:Organization,DBpedia:Organisation,DBpedia:Broadcaster,Schema:TelevisionStation,DBpedia:TelevisionStation
+http://fr.dbpedia.org/resource/France_2
+
+FR 2
+DBpedia:Agent,Schema:Organization,DBpedia:Organisation,DBpedia:Broadcaster,Schema:TelevisionStation,DBpedia:TelevisionStation
+http://fr.dbpedia.org/resource/France_2
+
+FR 2
+DBpedia:Agent,Schema:Organization,DBpedia:Organisation,DBpedia:Broadcaster,Schema:TelevisionStation,DBpedia:TelevisionStation
+http://fr.dbpedia.org/resource/France_2
+
+traitement de données à caractère personnel
+
+http://fr.dbpedia.org/resource/Fichage_en_France
+
+traitement de données à caractère personnel
+
+http://fr.dbpedia.org/resource/Fichage_en_France
+
+traitement de données à caractère personnel
+
+http://fr.dbpedia.org/resource/Fichage_en_France
+
+traitement de données à caractère personnel
+
+http://fr.dbpedia.org/resource/Fichage_en_France
+
+traitement automatisé de données à caractère personnel
+
+http://fr.dbpedia.org/resource/Traitement_automatisé_de_données_à_caractère_personnel
+
+traitement automatisé de données à caractère personnel
+
+http://fr.dbpedia.org/resource/Traitement_automatisé_de_données_à_caractère_personnel
+
+traitement automatisé de données à caractère personnel
+
+http://fr.dbpedia.org/resource/Traitement_automatisé_de_données_à_caractère_personnel
+
+traitement de données à caractère personnel
+
+http://fr.dbpedia.org/resource/Fichage_en_France
+
+FR 2
+DBpedia:Agent,Schema:Organization,DBpedia:Organisation,DBpedia:Broadcaster,Schema:TelevisionStation,DBpedia:TelevisionStation
+http://fr.dbpedia.org/resource/France_2
+
+FR 2
+DBpedia:Agent,Schema:Organization,DBpedia:Organisation,DBpedia:Broadcaster,Schema:TelevisionStation,DBpedia:TelevisionStation
+http://fr.dbpedia.org/resource/France_2
+
+FR 2
+DBpedia:Agent,Schema:Organization,DBpedia:Organisation,DBpedia:Broadcaster,Schema:TelevisionStation,DBpedia:TelevisionStation
+http://fr.dbpedia.org/resource/France_2
+
+FR 2
+DBpedia:Agent,Schema:Organization,DBpedia:Organisation,DBpedia:Broadcaster,Schema:TelevisionStation,DBpedia:TelevisionStation
+http://fr.dbpedia.org/resource/France_2
+
+FR 2
+DBpedia:Agent,Schema:Organization,DBpedia:Organisation,DBpedia:Broadcaster,Schema:TelevisionStation,DBpedia:TelevisionStation
+http://fr.dbpedia.org/resource/France_2
+
+FR 2
+DBpedia:Agent,Schema:Organization,DBpedia:Organisation,DBpedia:Broadcaster,Schema:TelevisionStation,DBpedia:TelevisionStation
+http://fr.dbpedia.org/resource/France_2
+
+FR 2
+DBpedia:Agent,Schema:Organization,DBpedia:Organisation,DBpedia:Broadcaster,Schema:TelevisionStation,DBpedia:TelevisionStation
+http://fr.dbpedia.org/resource/France_2
+
+opto-électroniques
+
+http://fr.dbpedia.org/resource/Opto-électronique
+
+vidéosurveillance
+
+http://fr.dbpedia.org/resource/Vidéosurveillance
+
+traitement de données à caractère personnel
+
+http://fr.dbpedia.org/resource/Fichage_en_France
+
+biométriques
+
+http://fr.dbpedia.org/resource/Biométrie
+
+FR 3
+DBpedia:Agent,Schema:Organization,DBpedia:Organisation,DBpedia:Broadcaster,Schema:TelevisionStation,DBpedia:TelevisionStation
+http://fr.dbpedia.org/resource/France_3
+
+opto-électroniques
+
+http://fr.dbpedia.org/resource/Opto-électronique
+
+vidéosurveillance
+
+http://fr.dbpedia.org/resource/Vidéosurveillance
+
+traitement de données à caractère personnel
+
+http://fr.dbpedia.org/resource/Fichage_en_France
+
+biométriques
+
+http://fr.dbpedia.org/resource/Biométrie
+
+FR 3
+DBpedia:Agent,Schema:Organization,DBpedia:Organisation,DBpedia:Broadcaster,Schema:TelevisionStation,DBpedia:TelevisionStation
+http://fr.dbpedia.org/resource/France_3
+
+traitement de données à caractère personnel
+
+http://fr.dbpedia.org/resource/Fichage_en_France
+
+traitement de données à caractère personnel
+
+http://fr.dbpedia.org/resource/Fichage_en_France
+
+traitement de données à caractère personnel
+
+http://fr.dbpedia.org/resource/Fichage_en_France
+
+traitement de données à caractère personnel
+
+http://fr.dbpedia.org/resource/Fichage_en_France
+
+traitement de données à caractère personnel
+
+http://fr.dbpedia.org/resource/Fichage_en_France
+
+Codes de conduite
+
+http://fr.dbpedia.org/resource/Code_de_conduite
+
+organisations internationales
+
+http://fr.dbpedia.org/resource/Organisation_internationale
+
+traitement de données à caractère personnel
+
+http://fr.dbpedia.org/resource/Fichage_en_France
+
+publicité
+
+http://fr.dbpedia.org/resource/Publicité
+
+FR 2
+DBpedia:Agent,Schema:Organization,DBpedia:Organisation,DBpedia:Broadcaster,Schema:TelevisionStation,DBpedia:TelevisionStation
+http://fr.dbpedia.org/resource/France_2
+
+droit pénal
+
+http://fr.dbpedia.org/resource/Droit_pénal
+
+Union européenne
+
+http://fr.dbpedia.org/resource/Union_européenne
+
+organisations internationales
+
+http://fr.dbpedia.org/resource/Organisation_internationale
+
+directive
+
+http://fr.dbpedia.org/resource/Directive_de_l'Union_européenne
+
+Union européenne
+
+http://fr.dbpedia.org/resource/Union_européenne
+
+organisations internationales
+
+http://fr.dbpedia.org/resource/Organisation_internationale
+
+directive
+
+http://fr.dbpedia.org/resource/Directive_de_l'Union_européenne
+
+directive
+
+http://fr.dbpedia.org/resource/Directive_de_l'Union_européenne
+
+droits opposables
+
+http://fr.dbpedia.org/resource/Droit_opposable
+
+traitement de données à caractère personnel
+
+http://fr.dbpedia.org/resource/Fichage_en_France
+
+traitement de données à caractère personnel
+
+http://fr.dbpedia.org/resource/Fichage_en_France
+
+traitement de données à caractère personnel
+
+http://fr.dbpedia.org/resource/Fichage_en_France
+
+traitement de données à caractère personnel
+
+http://fr.dbpedia.org/resource/Fichage_en_France
+
+organisations internationales
+
+http://fr.dbpedia.org/resource/Organisation_internationale
+
+organisations internationales
+
+http://fr.dbpedia.org/resource/Organisation_internationale
+
+organisations internationales
+
+http://fr.dbpedia.org/resource/Organisation_internationale
+
+organisations internationales
+
+http://fr.dbpedia.org/resource/Organisation_internationale
+
+Article 49
+
+http://fr.dbpedia.org/resource/Article_49_de_la_Constitution_de_la_Cinquième_République_française
+
+Article 49
+
+http://fr.dbpedia.org/resource/Article_49_de_la_Constitution_de_la_Cinquième_République_française
+
+Article 49
+
+http://fr.dbpedia.org/resource/Article_49_de_la_Constitution_de_la_Cinquième_République_française
+
+Article 49
+
+http://fr.dbpedia.org/resource/Article_49_de_la_Constitution_de_la_Cinquième_République_française
+
+ester
+
+http://fr.dbpedia.org/resource/Ester
+
+ester
+
+http://fr.dbpedia.org/resource/Ester
+
+ester
+
+http://fr.dbpedia.org/resource/Ester
+
+ester
+
+http://fr.dbpedia.org/resource/Ester
+
+ester
+
+http://fr.dbpedia.org/resource/Ester
+
+ester
+
+http://fr.dbpedia.org/resource/Ester
+
+ester
+
+http://fr.dbpedia.org/resource/Ester
+
+ester
+
+http://fr.dbpedia.org/resource/Ester
+
+ester
+
+http://fr.dbpedia.org/resource/Ester
+
+ester
+
+http://fr.dbpedia.org/resource/Ester
+
+organisations internationales
+
+http://fr.dbpedia.org/resource/Organisation_internationale
+
+FR 3
+DBpedia:Agent,Schema:Organization,DBpedia:Organisation,DBpedia:Broadcaster,Schema:TelevisionStation,DBpedia:TelevisionStation
+http://fr.dbpedia.org/resource/France_3
+
+Parlement européen
+
+http://fr.dbpedia.org/resource/Parlement_européen
+
+Parlement européen
+
+http://fr.dbpedia.org/resource/Parlement_européen
+
+traitement de données à caractère personnel
+
+http://fr.dbpedia.org/resource/Fichage_en_France
+
+traitement de données à caractère personnel
+
+http://fr.dbpedia.org/resource/Fichage_en_France
+
+traitement de données à caractère personnel
+
+http://fr.dbpedia.org/resource/Fichage_en_France
+
+ester
+
+http://fr.dbpedia.org/resource/Ester
+
+FR 2
+DBpedia:Agent,Schema:Organization,DBpedia:Organisation,DBpedia:Broadcaster,Schema:TelevisionStation,DBpedia:TelevisionStation
+http://fr.dbpedia.org/resource/France_2
+
+l'Article 23
+
+http://fr.dbpedia.org/resource/Article_23_de_la_Charte_canadienne_des_droits_et_libertés
+
+EUR
+
+http://fr.dbpedia.org/resource/Euro
+
+EUR
+
+http://fr.dbpedia.org/resource/Euro
+
+traitement de données à caractère personnel
+
+http://fr.dbpedia.org/resource/Fichage_en_France
+
+EUR
+
+http://fr.dbpedia.org/resource/Euro
+
+label de protection
+
+http://fr.dbpedia.org/resource/Label_de_qualité
+
+Traitements de données à caractère personnel
+
+http://fr.dbpedia.org/resource/Fichage_en_France
+
+traitements de données à caractère personnel
+
+http://fr.dbpedia.org/resource/Fichage_en_France
+
+organisations internationales
+
+http://fr.dbpedia.org/resource/Organisation_internationale
+
+Traitements de données à caractère personnel
+
+http://fr.dbpedia.org/resource/Fichage_en_France
+
+traitements de données à caractère personnel
+
+http://fr.dbpedia.org/resource/Fichage_en_France
+
+médicaments
+
+http://fr.dbpedia.org/resource/Médicament
+
+traitements de données à caractère personnel
+
+http://fr.dbpedia.org/resource/Fichage_en_France
+
+traitement de données à caractère personnel
+
+http://fr.dbpedia.org/resource/Fichage_en_France
+
+contrat de travail
+
+http://fr.dbpedia.org/resource/Contrat_de_travail_en_France
+
+FR 2
+DBpedia:Agent,Schema:Organization,DBpedia:Organisation,DBpedia:Broadcaster,Schema:TelevisionStation,DBpedia:TelevisionStation
+http://fr.dbpedia.org/resource/France_2
+
+traitement de données à caractère personnel
+
+http://fr.dbpedia.org/resource/Fichage_en_France
+
+traitement de données à caractère personnel
+
+http://fr.dbpedia.org/resource/Fichage_en_France
+
+l'Article 23
+
+http://fr.dbpedia.org/resource/Article_23_de_la_Charte_canadienne_des_droits_et_libertés
+
+FR 3
+DBpedia:Agent,Schema:Organization,DBpedia:Organisation,DBpedia:Broadcaster,Schema:TelevisionStation,DBpedia:TelevisionStation
+http://fr.dbpedia.org/resource/France_3
+
+l'Article 23
+
+http://fr.dbpedia.org/resource/Article_23_de_la_Charte_canadienne_des_droits_et_libertés
+
+Parlement européen
+
+http://fr.dbpedia.org/resource/Parlement_européen
+
+Union européenne
+
+http://fr.dbpedia.org/resource/Union_européenne
+
+Parlement européen
+
+http://fr.dbpedia.org/resource/Parlement_européen
+
+l'Article 23
+
+http://fr.dbpedia.org/resource/Article_23_de_la_Charte_canadienne_des_droits_et_libertés
+
+Parlement européen
+
+http://fr.dbpedia.org/resource/Parlement_européen
+
+Parlement européen
+
+http://fr.dbpedia.org/resource/Parlement_européen
+
+Parlement européen
+
+http://fr.dbpedia.org/resource/Parlement_européen
+
+Parlement européen
+
+http://fr.dbpedia.org/resource/Parlement_européen
+
+FR 2
+DBpedia:Agent,Schema:Organization,DBpedia:Organisation,DBpedia:Broadcaster,Schema:TelevisionStation,DBpedia:TelevisionStation
+http://fr.dbpedia.org/resource/France_2
+
+directive
+
+http://fr.dbpedia.org/resource/Directive_de_l'Union_européenne
+
+directive
+
+http://fr.dbpedia.org/resource/Directive_de_l'Union_européenne
+
+directive
+
+http://fr.dbpedia.org/resource/Directive_de_l'Union_européenne
+
+directive
+
+http://fr.dbpedia.org/resource/Directive_de_l'Union_européenne
+
+directive
+
+http://fr.dbpedia.org/resource/Directive_de_l'Union_européenne
+
+directive
+
+http://fr.dbpedia.org/resource/Directive_de_l'Union_européenne
+
+directive
+
+http://fr.dbpedia.org/resource/Directive_de_l'Union_européenne
+
+directive
+
+http://fr.dbpedia.org/resource/Directive_de_l'Union_européenne
+
+Parlement européen
+
+http://fr.dbpedia.org/resource/Parlement_européen
+
+Union européenne
+
+http://fr.dbpedia.org/resource/Union_européenne
+
+Bruxelles
+Schema:Place,DBpedia:Place,DBpedia:PopulatedPlace,DBpedia:Settlement,Schema:City,DBpedia:City
+http://fr.dbpedia.org/resource/Bruxelles
+
+Parlement européen
+
+http://fr.dbpedia.org/resource/Parlement_européen
+
+ABB
+DBpedia:Agent,Schema:Organization,DBpedia:Organisation,DBpedia:Company
+http://fr.dbpedia.org/resource/Groupe_ABB
+
+directive
+
+http://fr.dbpedia.org/resource/Directive_de_l'Union_européenne
+
+Parlement européen
+
+http://fr.dbpedia.org/resource/Parlement_européen
+
+directive
+
+http://fr.dbpedia.org/resource/Directive_de_l'Union_européenne
+
+Parlement européen
+
+http://fr.dbpedia.org/resource/Parlement_européen
+
+mondialisation
+
+http://fr.dbpedia.org/resource/Mondialisation
+
+traité de Lisbonne
+
+http://fr.dbpedia.org/resource/Traité_de_Lisbonne
+
+TFUE
+
+http://fr.dbpedia.org/resource/Traité_sur_le_fonctionnement_de_l'Union_européenne
+
+ABB
+DBpedia:Agent,Schema:Organization,DBpedia:Organisation,DBpedia:Company
+http://fr.dbpedia.org/resource/Groupe_ABB
+
+ABB
+DBpedia:Agent,Schema:Organization,DBpedia:Organisation,DBpedia:Company
+http://fr.dbpedia.org/resource/Groupe_ABB
+
+sécurité juridique
+
+http://fr.dbpedia.org/resource/Sécurité_juridique
+
+directive
+
+http://fr.dbpedia.org/resource/Directive_de_l'Union_européenne
+
+directive
+
+http://fr.dbpedia.org/resource/Directive_de_l'Union_européenne
+
+mondialisation
+
+http://fr.dbpedia.org/resource/Mondialisation
+
+directive
+
+http://fr.dbpedia.org/resource/Directive_de_l'Union_européenne
+
+directive
+
+http://fr.dbpedia.org/resource/Directive_de_l'Union_européenne
+
+directive
+
+http://fr.dbpedia.org/resource/Directive_de_l'Union_européenne
+
+directive
+
+http://fr.dbpedia.org/resource/Directive_de_l'Union_européenne
+
+directive
+
+http://fr.dbpedia.org/resource/Directive_de_l'Union_européenne
+
+directive
+
+http://fr.dbpedia.org/resource/Directive_de_l'Union_européenne
+
+directive
+
+http://fr.dbpedia.org/resource/Directive_de_l'Union_européenne
+
+directive
+
+http://fr.dbpedia.org/resource/Directive_de_l'Union_européenne
+
+directive
+
+http://fr.dbpedia.org/resource/Directive_de_l'Union_européenne
+
+directive
+
+http://fr.dbpedia.org/resource/Directive_de_l'Union_européenne
+
+directive
+
+http://fr.dbpedia.org/resource/Directive_de_l'Union_européenne
+
+directive
+
+http://fr.dbpedia.org/resource/Directive_de_l'Union_européenne
+
+directive
+
+http://fr.dbpedia.org/resource/Directive_de_l'Union_européenne
+
+directive
+
+http://fr.dbpedia.org/resource/Directive_de_l'Union_européenne
+
+directive
+
+http://fr.dbpedia.org/resource/Directive_de_l'Union_européenne
+
+directive
+
+http://fr.dbpedia.org/resource/Directive_de_l'Union_européenne
+
+AC
+
+http://fr.dbpedia.org/resource/Année_commune_(Faucongris)
+
+INT
+DBpedia:Agent,Schema:Organization,DBpedia:Organisation,Schema:SportsTeam,DBpedia:SportsTeam
+http://fr.dbpedia.org/resource/Sport_Club_Internacional
+
+AC
+
+http://fr.dbpedia.org/resource/Année_commune_(Faucongris)
+
+INT
+DBpedia:Agent,Schema:Organization,DBpedia:Organisation,Schema:SportsTeam,DBpedia:SportsTeam
+http://fr.dbpedia.org/resource/Sport_Club_Internacional
+
+AC
+
+http://fr.dbpedia.org/resource/Année_commune_(Faucongris)
+
+INT
+DBpedia:Agent,Schema:Organization,DBpedia:Organisation,Schema:SportsTeam,DBpedia:SportsTeam
+http://fr.dbpedia.org/resource/Sport_Club_Internacional
+
+Parlement européen
+
+http://fr.dbpedia.org/resource/Parlement_européen
+
+budget de l'UE
+
+http://fr.dbpedia.org/resource/budget_de_l'Union_européenne
+
+Total
+DBpedia:Agent,Schema:Organization,DBpedia:Organisation,DBpedia:Company
+http://fr.dbpedia.org/resource/Total_(entreprise)
+
+Parlement européen
+
+http://fr.dbpedia.org/resource/Parlement_européen
+
+budget de l'UE
+
+http://fr.dbpedia.org/resource/budget_de_l'Union_européenne
+
+Total
+DBpedia:Agent,Schema:Organization,DBpedia:Organisation,DBpedia:Company
+http://fr.dbpedia.org/resource/Total_(entreprise)
+
+Parlement européen
+
+http://fr.dbpedia.org/resource/Parlement_européen
+
+budget de l'UE
+
+http://fr.dbpedia.org/resource/budget_de_l'Union_européenne
+
+Total
+DBpedia:Agent,Schema:Organization,DBpedia:Organisation,DBpedia:Company
+http://fr.dbpedia.org/resource/Total_(entreprise)
+
+Parlement européen
+
+http://fr.dbpedia.org/resource/Parlement_européen
+
+budget de l'UE
+
+http://fr.dbpedia.org/resource/budget_de_l'Union_européenne
+
+Total
+DBpedia:Agent,Schema:Organization,DBpedia:Organisation,DBpedia:Company
+http://fr.dbpedia.org/resource/Total_(entreprise)
+

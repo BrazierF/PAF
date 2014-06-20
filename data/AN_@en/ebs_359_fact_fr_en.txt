@@ -1,0 +1,69 @@
+EUROBAROMETER
+Pg 1/4
+Attitudes on Data Protection and Electronic Identity in the European Union
+EU27 Number of interviews: 
+26.081
+Fieldwork: 
+25/11-17/12/2010
+FR Number of interviews: 
+1.000
+Fieldwork: 
+26/11-14/12/2010
+Methodology: face-to-face
+1. INTERNET USE
+QB1a QB21
+QB3
+EUROBAROMETER 74.3
+RESULTS FOR FRANCE
+EUROBAROMETER
+Pg 2/4
+Attitudes on Data Protection and Electronic Identity in the European Union
+EU27 Number of interviews: 
+26.081
+Fieldwork: 
+25/11-17/12/2010
+FR Number of interviews: 
+1.000
+Fieldwork: 
+26/11-14/12/2010
+Methodology: face-to-face
+2. AWARENESS AND PERCEIVED CONTROL
+QB6a QB6b
+QB8a QB17
+EUROBAROMETER 74.3
+RESULTS FOR FRANCE
+EUROBAROMETER
+Pg 3/4
+Attitudes on Data Protection and Electronic Identity in the European Union
+EU27 Number of interviews: 
+26.081
+Fieldwork: 
+25/11-17/12/2010
+FR Number of interviews: 
+1.000
+Fieldwork: 
+26/11-14/12/2010
+Methodology: face-to-face
+3. PROTECTION OF PERSONAL DATA
+QB25
+QB24 QB28
+EUROBAROMETER 74.3
+RESULTS FOR FRANCE
+EUROBAROMETER
+Pg 4/4
+4. REGULATION AND REMEDIES
+QB32 QB38
+EUROBAROMETER 74.3
+RESULTS FOR FRANCE
+Methodology: face-to-face
+3. PROTECTION OF PERSONAL DATA (CONT.)
+QB29 QB30
+Attitudes on Data Protection and Electronic Identity in the European Union
+EU27 Number of interviews: 
+26.081
+Fieldwork: 
+25/11-17/12/2010
+FR Number of interviews: 
+1.000
+Fieldwork: 
+26/11-14/12/2010

@@ -1,0 +1,960 @@
+Jan Philipp Albrecht
+
+http://fr.dbpedia.org/resource/Jan_Philipp_Albrecht
+
+Seán Kelly
+DBpedia:Agent,Schema:Person,Http://xmlns.com/foaf/0.1/Person,DBpedia:Person,DBpedia:Athlete,DBpedia:Cyclist
+http://fr.dbpedia.org/resource/Seán_Kelly
+
+Salvatore Iacolino
+
+http://fr.dbpedia.org/resource/Salvatore_Iacolino
+
+Consuegra
+Schema:Place,DBpedia:Place,DBpedia:PopulatedPlace,DBpedia:Settlement
+http://fr.dbpedia.org/resource/Consuegra
+
+un momento
+Schema:CreativeWork,DBpedia:Work,DBpedia:MusicalWork,Schema:MusicAlbum,DBpedia:Album
+http://fr.dbpedia.org/resource/Un_Momento
+
+ello
+Schema:Place,DBpedia:Place,DBpedia:PopulatedPlace,DBpedia:Settlement
+http://fr.dbpedia.org/resource/Ello
+
+Seán Kelly
+DBpedia:Agent,Schema:Person,Http://xmlns.com/foaf/0.1/Person,DBpedia:Person,DBpedia:Athlete,DBpedia:Cyclist
+http://fr.dbpedia.org/resource/Seán_Kelly
+
+Salvatore Iacolino
+
+http://fr.dbpedia.org/resource/Salvatore_Iacolino
+
+Alexander Alvaro
+
+http://fr.dbpedia.org/resource/Alexander_Alvaro
+
+Consuegra
+Schema:Place,DBpedia:Place,DBpedia:PopulatedPlace,DBpedia:Settlement
+http://fr.dbpedia.org/resource/Consuegra
+
+Marie-Christine Vergiat
+DBpedia:Agent,Schema:Person,Http://xmlns.com/foaf/0.1/Person,DBpedia:Person,DBpedia:OfficeHolder
+http://fr.dbpedia.org/resource/Marie-Christine_Vergiat
+
+Seán Kelly
+DBpedia:Agent,Schema:Person,Http://xmlns.com/foaf/0.1/Person,DBpedia:Person,DBpedia:Athlete,DBpedia:Cyclist
+http://fr.dbpedia.org/resource/Seán_Kelly
+
+Seán Kelly
+DBpedia:Agent,Schema:Person,Http://xmlns.com/foaf/0.1/Person,DBpedia:Person,DBpedia:Athlete,DBpedia:Cyclist
+http://fr.dbpedia.org/resource/Seán_Kelly
+
+Consuegra
+Schema:Place,DBpedia:Place,DBpedia:PopulatedPlace,DBpedia:Settlement
+http://fr.dbpedia.org/resource/Consuegra
+
+Alexander Alvaro
+
+http://fr.dbpedia.org/resource/Alexander_Alvaro
+
+Marie-Christine Vergiat
+DBpedia:Agent,Schema:Person,Http://xmlns.com/foaf/0.1/Person,DBpedia:Person,DBpedia:OfficeHolder
+http://fr.dbpedia.org/resource/Marie-Christine_Vergiat
+
+Stanimir
+
+http://fr.dbpedia.org/resource/Stanimir
+
+Stanimir
+
+http://fr.dbpedia.org/resource/Stanimir
+
+Alexander Alvaro
+
+http://fr.dbpedia.org/resource/Alexander_Alvaro
+
+Seán Kelly
+DBpedia:Agent,Schema:Person,Http://xmlns.com/foaf/0.1/Person,DBpedia:Person,DBpedia:Athlete,DBpedia:Cyclist
+http://fr.dbpedia.org/resource/Seán_Kelly
+
+Stanimir
+
+http://fr.dbpedia.org/resource/Stanimir
+
+Nathalie Griesbeck
+
+http://fr.dbpedia.org/resource/Nathalie_Griesbeck
+
+Stanimir
+
+http://fr.dbpedia.org/resource/Stanimir
+
+Cf
+
+http://fr.dbpedia.org/resource/Californium
+
+Seán Kelly
+DBpedia:Agent,Schema:Person,Http://xmlns.com/foaf/0.1/Person,DBpedia:Person,DBpedia:Athlete,DBpedia:Cyclist
+http://fr.dbpedia.org/resource/Seán_Kelly
+
+Alexander Alvaro
+
+http://fr.dbpedia.org/resource/Alexander_Alvaro
+
+Stanimir
+
+http://fr.dbpedia.org/resource/Stanimir
+
+Stanimir
+
+http://fr.dbpedia.org/resource/Stanimir
+
+Stanimir
+
+http://fr.dbpedia.org/resource/Stanimir
+
+Stanimir
+
+http://fr.dbpedia.org/resource/Stanimir
+
+Consuegra
+Schema:Place,DBpedia:Place,DBpedia:PopulatedPlace,DBpedia:Settlement
+http://fr.dbpedia.org/resource/Consuegra
+
+PDF
+
+http://fr.dbpedia.org/resource/Portable_Document_Format
+
+ONG
+
+http://fr.dbpedia.org/resource/Organisation_non_gouvernementale
+
+Seán Kelly
+DBpedia:Agent,Schema:Person,Http://xmlns.com/foaf/0.1/Person,DBpedia:Person,DBpedia:Athlete,DBpedia:Cyclist
+http://fr.dbpedia.org/resource/Seán_Kelly
+
+Nathalie Griesbeck
+
+http://fr.dbpedia.org/resource/Nathalie_Griesbeck
+
+Nathalie Griesbeck
+
+http://fr.dbpedia.org/resource/Nathalie_Griesbeck
+
+Stanimir
+
+http://fr.dbpedia.org/resource/Stanimir
+
+Françoise Castex
+
+http://fr.dbpedia.org/resource/Françoise_Castex
+
+Alexander Alvaro
+
+http://fr.dbpedia.org/resource/Alexander_Alvaro
+
+Seán Kelly
+DBpedia:Agent,Schema:Person,Http://xmlns.com/foaf/0.1/Person,DBpedia:Person,DBpedia:Athlete,DBpedia:Cyclist
+http://fr.dbpedia.org/resource/Seán_Kelly
+
+PME
+
+http://fr.dbpedia.org/resource/Petites_et_moyennes_entreprises
+
+commission ITRE
+
+http://fr.dbpedia.org/resource/Commission_de_l'industrie,_de_la_recherche_et_de_l'énergie
+
+Seán Kelly
+DBpedia:Agent,Schema:Person,Http://xmlns.com/foaf/0.1/Person,DBpedia:Person,DBpedia:Athlete,DBpedia:Cyclist
+http://fr.dbpedia.org/resource/Seán_Kelly
+
+Seán Kelly
+DBpedia:Agent,Schema:Person,Http://xmlns.com/foaf/0.1/Person,DBpedia:Person,DBpedia:Athlete,DBpedia:Cyclist
+http://fr.dbpedia.org/resource/Seán_Kelly
+
+Marie-Christine Vergiat
+DBpedia:Agent,Schema:Person,Http://xmlns.com/foaf/0.1/Person,DBpedia:Person,DBpedia:OfficeHolder
+http://fr.dbpedia.org/resource/Marie-Christine_Vergiat
+
+Alexander Alvaro
+
+http://fr.dbpedia.org/resource/Alexander_Alvaro
+
+Claude Moraes
+
+http://fr.dbpedia.org/resource/Claude_Moraes
+
+Sari Essayah
+
+http://fr.dbpedia.org/resource/Sari_Essayah
+
+Birgit Sippel
+
+http://fr.dbpedia.org/resource/Birgit_Sippel
+
+Seán Kelly
+DBpedia:Agent,Schema:Person,Http://xmlns.com/foaf/0.1/Person,DBpedia:Person,DBpedia:Athlete,DBpedia:Cyclist
+http://fr.dbpedia.org/resource/Seán_Kelly
+
+Salvatore Iacolino
+
+http://fr.dbpedia.org/resource/Salvatore_Iacolino
+
+Nathalie Griesbeck
+
+http://fr.dbpedia.org/resource/Nathalie_Griesbeck
+
+Claude Moraes
+
+http://fr.dbpedia.org/resource/Claude_Moraes
+
+ter
+
+http://fr.dbpedia.org/resource/Transport_express_régional
+
+ter
+
+http://fr.dbpedia.org/resource/Transport_express_régional
+
+Birgit Sippel
+
+http://fr.dbpedia.org/resource/Birgit_Sippel
+
+ter
+
+http://fr.dbpedia.org/resource/Transport_express_régional
+
+ter
+
+http://fr.dbpedia.org/resource/Transport_express_régional
+
+Seán Kelly
+DBpedia:Agent,Schema:Person,Http://xmlns.com/foaf/0.1/Person,DBpedia:Person,DBpedia:Athlete,DBpedia:Cyclist
+http://fr.dbpedia.org/resource/Seán_Kelly
+
+ter
+
+http://fr.dbpedia.org/resource/Transport_express_régional
+
+ter
+
+http://fr.dbpedia.org/resource/Transport_express_régional
+
+Charles Tannock
+
+http://fr.dbpedia.org/resource/Charles_Tannock
+
+Seán Kelly
+DBpedia:Agent,Schema:Person,Http://xmlns.com/foaf/0.1/Person,DBpedia:Person,DBpedia:Athlete,DBpedia:Cyclist
+http://fr.dbpedia.org/resource/Seán_Kelly
+
+Jan Philipp Albrecht
+
+http://fr.dbpedia.org/resource/Jan_Philipp_Albrecht
+
+Stanimir
+
+http://fr.dbpedia.org/resource/Stanimir
+
+Alexander Alvaro
+
+http://fr.dbpedia.org/resource/Alexander_Alvaro
+
+Consuegra
+Schema:Place,DBpedia:Place,DBpedia:PopulatedPlace,DBpedia:Settlement
+http://fr.dbpedia.org/resource/Consuegra
+
+Alexander Alvaro
+
+http://fr.dbpedia.org/resource/Alexander_Alvaro
+
+Consuegra
+Schema:Place,DBpedia:Place,DBpedia:PopulatedPlace,DBpedia:Settlement
+http://fr.dbpedia.org/resource/Consuegra
+
+Alexander Alvaro
+
+http://fr.dbpedia.org/resource/Alexander_Alvaro
+
+Consuegra
+Schema:Place,DBpedia:Place,DBpedia:PopulatedPlace,DBpedia:Settlement
+http://fr.dbpedia.org/resource/Consuegra
+
+Seán Kelly
+DBpedia:Agent,Schema:Person,Http://xmlns.com/foaf/0.1/Person,DBpedia:Person,DBpedia:Athlete,DBpedia:Cyclist
+http://fr.dbpedia.org/resource/Seán_Kelly
+
+Stanimir
+
+http://fr.dbpedia.org/resource/Stanimir
+
+Seán Kelly
+DBpedia:Agent,Schema:Person,Http://xmlns.com/foaf/0.1/Person,DBpedia:Person,DBpedia:Athlete,DBpedia:Cyclist
+http://fr.dbpedia.org/resource/Seán_Kelly
+
+Stanimir
+
+http://fr.dbpedia.org/resource/Stanimir
+
+Seán Kelly
+DBpedia:Agent,Schema:Person,Http://xmlns.com/foaf/0.1/Person,DBpedia:Person,DBpedia:Athlete,DBpedia:Cyclist
+http://fr.dbpedia.org/resource/Seán_Kelly
+
+Stanimir
+
+http://fr.dbpedia.org/resource/Stanimir
+
+Alexander Alvaro
+
+http://fr.dbpedia.org/resource/Alexander_Alvaro
+
+Parlement européen
+
+http://fr.dbpedia.org/resource/Parlement_européen
+
+Stanimir
+
+http://fr.dbpedia.org/resource/Stanimir
+
+ter
+
+http://fr.dbpedia.org/resource/Transport_express_régional
+
+Stanimir
+
+http://fr.dbpedia.org/resource/Stanimir
+
+Stanimir
+
+http://fr.dbpedia.org/resource/Stanimir
+
+ter
+
+http://fr.dbpedia.org/resource/Transport_express_régional
+
+ter
+
+http://fr.dbpedia.org/resource/Transport_express_régional
+
+Torvalds
+DBpedia:Agent,Schema:Person,Http://xmlns.com/foaf/0.1/Person,DBpedia:Person
+http://fr.dbpedia.org/resource/Linus_Torvalds
+
+Consuegra
+Schema:Place,DBpedia:Place,DBpedia:PopulatedPlace,DBpedia:Settlement
+http://fr.dbpedia.org/resource/Consuegra
+
+este
+
+http://fr.dbpedia.org/resource/Maison_d'Este
+
+este
+
+http://fr.dbpedia.org/resource/Maison_d'Este
+
+este
+
+http://fr.dbpedia.org/resource/Maison_d'Este
+
+Stanimir
+
+http://fr.dbpedia.org/resource/Stanimir
+
+ter
+
+http://fr.dbpedia.org/resource/Transport_express_régional
+
+ter
+
+http://fr.dbpedia.org/resource/Transport_express_régional
+
+Seán Kelly
+DBpedia:Agent,Schema:Person,Http://xmlns.com/foaf/0.1/Person,DBpedia:Person,DBpedia:Athlete,DBpedia:Cyclist
+http://fr.dbpedia.org/resource/Seán_Kelly
+
+Birgit Sippel
+
+http://fr.dbpedia.org/resource/Birgit_Sippel
+
+ter
+
+http://fr.dbpedia.org/resource/Transport_express_régional
+
+ter
+
+http://fr.dbpedia.org/resource/Transport_express_régional
+
+Birgit Sippel
+
+http://fr.dbpedia.org/resource/Birgit_Sippel
+
+Claude Moraes
+
+http://fr.dbpedia.org/resource/Claude_Moraes
+
+Stanimir
+
+http://fr.dbpedia.org/resource/Stanimir
+
+Alexander Alvaro
+
+http://fr.dbpedia.org/resource/Alexander_Alvaro
+
+Seán Kelly
+DBpedia:Agent,Schema:Person,Http://xmlns.com/foaf/0.1/Person,DBpedia:Person,DBpedia:Athlete,DBpedia:Cyclist
+http://fr.dbpedia.org/resource/Seán_Kelly
+
+Salvatore Iacolino
+
+http://fr.dbpedia.org/resource/Salvatore_Iacolino
+
+ter
+
+http://fr.dbpedia.org/resource/Transport_express_régional
+
+ter
+
+http://fr.dbpedia.org/resource/Transport_express_régional
+
+Consuegra
+Schema:Place,DBpedia:Place,DBpedia:PopulatedPlace,DBpedia:Settlement
+http://fr.dbpedia.org/resource/Consuegra
+
+Alexander Alvaro
+
+http://fr.dbpedia.org/resource/Alexander_Alvaro
+
+Claude Moraes
+
+http://fr.dbpedia.org/resource/Claude_Moraes
+
+Claude Moraes
+
+http://fr.dbpedia.org/resource/Claude_Moraes
+
+ter
+
+http://fr.dbpedia.org/resource/Transport_express_régional
+
+ter
+
+http://fr.dbpedia.org/resource/Transport_express_régional
+
+directive
+
+http://fr.dbpedia.org/resource/Directive_de_l'Union_européenne
+
+ter
+
+http://fr.dbpedia.org/resource/Transport_express_régional
+
+ter
+
+http://fr.dbpedia.org/resource/Transport_express_régional
+
+Consuegra
+Schema:Place,DBpedia:Place,DBpedia:PopulatedPlace,DBpedia:Settlement
+http://fr.dbpedia.org/resource/Consuegra
+
+Seán Kelly
+DBpedia:Agent,Schema:Person,Http://xmlns.com/foaf/0.1/Person,DBpedia:Person,DBpedia:Athlete,DBpedia:Cyclist
+http://fr.dbpedia.org/resource/Seán_Kelly
+
+Jan Mulder
+DBpedia:Agent,Schema:Person,Http://xmlns.com/foaf/0.1/Person,DBpedia:Person,DBpedia:Athlete,DBpedia:SoccerPlayer
+http://fr.dbpedia.org/resource/Jan_Mulder
+
+Alexander Alvaro
+
+http://fr.dbpedia.org/resource/Alexander_Alvaro
+
+Jan Mulder
+DBpedia:Agent,Schema:Person,Http://xmlns.com/foaf/0.1/Person,DBpedia:Person,DBpedia:Athlete,DBpedia:SoccerPlayer
+http://fr.dbpedia.org/resource/Jan_Mulder
+
+Jan Philipp Albrecht
+
+http://fr.dbpedia.org/resource/Jan_Philipp_Albrecht
+
+Jan Philipp Albrecht
+
+http://fr.dbpedia.org/resource/Jan_Philipp_Albrecht
+
+Marie-Christine Vergiat
+DBpedia:Agent,Schema:Person,Http://xmlns.com/foaf/0.1/Person,DBpedia:Person,DBpedia:OfficeHolder
+http://fr.dbpedia.org/resource/Marie-Christine_Vergiat
+
+métadonnées
+
+http://fr.dbpedia.org/resource/Métadonnée
+
+Michèle Striffler
+
+http://fr.dbpedia.org/resource/Michèle_Striffler
+
+Alexander Alvaro
+
+http://fr.dbpedia.org/resource/Alexander_Alvaro
+
+Alexander Alvaro
+
+http://fr.dbpedia.org/resource/Alexander_Alvaro
+
+Jan Philipp Albrecht
+
+http://fr.dbpedia.org/resource/Jan_Philipp_Albrecht
+
+ter
+
+http://fr.dbpedia.org/resource/Transport_express_régional
+
+ter
+
+http://fr.dbpedia.org/resource/Transport_express_régional
+
+Marie-Christine Vergiat
+DBpedia:Agent,Schema:Person,Http://xmlns.com/foaf/0.1/Person,DBpedia:Person,DBpedia:OfficeHolder
+http://fr.dbpedia.org/resource/Marie-Christine_Vergiat
+
+décédées
+
+http://fr.dbpedia.org/resource/Mort
+
+Alexander Alvaro
+
+http://fr.dbpedia.org/resource/Alexander_Alvaro
+
+ter
+
+http://fr.dbpedia.org/resource/Transport_express_régional
+
+ter
+
+http://fr.dbpedia.org/resource/Transport_express_régional
+
+ter
+
+http://fr.dbpedia.org/resource/Transport_express_régional
+
+ter
+
+http://fr.dbpedia.org/resource/Transport_express_régional
+
+ter
+
+http://fr.dbpedia.org/resource/Transport_express_régional
+
+ter
+
+http://fr.dbpedia.org/resource/Transport_express_régional
+
+ter
+
+http://fr.dbpedia.org/resource/Transport_express_régional
+
+ter
+
+http://fr.dbpedia.org/resource/Transport_express_régional
+
+EUR
+
+http://fr.dbpedia.org/resource/Euro
+
+Seán Kelly
+DBpedia:Agent,Schema:Person,Http://xmlns.com/foaf/0.1/Person,DBpedia:Person,DBpedia:Athlete,DBpedia:Cyclist
+http://fr.dbpedia.org/resource/Seán_Kelly
+
+Seán Kelly
+DBpedia:Agent,Schema:Person,Http://xmlns.com/foaf/0.1/Person,DBpedia:Person,DBpedia:Athlete,DBpedia:Cyclist
+http://fr.dbpedia.org/resource/Seán_Kelly
+
+Seán Kelly
+DBpedia:Agent,Schema:Person,Http://xmlns.com/foaf/0.1/Person,DBpedia:Person,DBpedia:Athlete,DBpedia:Cyclist
+http://fr.dbpedia.org/resource/Seán_Kelly
+
+Seán Kelly
+DBpedia:Agent,Schema:Person,Http://xmlns.com/foaf/0.1/Person,DBpedia:Person,DBpedia:Athlete,DBpedia:Cyclist
+http://fr.dbpedia.org/resource/Seán_Kelly
+
+Seán Kelly
+DBpedia:Agent,Schema:Person,Http://xmlns.com/foaf/0.1/Person,DBpedia:Person,DBpedia:Athlete,DBpedia:Cyclist
+http://fr.dbpedia.org/resource/Seán_Kelly
+
+Seán Kelly
+DBpedia:Agent,Schema:Person,Http://xmlns.com/foaf/0.1/Person,DBpedia:Person,DBpedia:Athlete,DBpedia:Cyclist
+http://fr.dbpedia.org/resource/Seán_Kelly
+
+Alexander Alvaro
+
+http://fr.dbpedia.org/resource/Alexander_Alvaro
+
+Parlement européen
+
+http://fr.dbpedia.org/resource/Parlement_européen
+
+Parlement européen
+
+http://fr.dbpedia.org/resource/Parlement_européen
+
+résilience
+
+http://fr.dbpedia.org/resource/Résilience_(écologie)
+
+sécurité de l'information
+
+http://fr.dbpedia.org/resource/Sécurité_des_systèmes_d'information
+
+résilience
+
+http://fr.dbpedia.org/resource/Résilience_(écologie)
+
+sécurité de l'information
+
+http://fr.dbpedia.org/resource/Sécurité_des_systèmes_d'information
+
+Claude Moraes
+
+http://fr.dbpedia.org/resource/Claude_Moraes
+
+traitement de données à caractère personnel
+
+http://fr.dbpedia.org/resource/Fichage_en_France
+
+traitement de données à caractère personnel
+
+http://fr.dbpedia.org/resource/Fichage_en_France
+
+Seán Kelly
+DBpedia:Agent,Schema:Person,Http://xmlns.com/foaf/0.1/Person,DBpedia:Person,DBpedia:Athlete,DBpedia:Cyclist
+http://fr.dbpedia.org/resource/Seán_Kelly
+
+Marie-Christine Vergiat
+DBpedia:Agent,Schema:Person,Http://xmlns.com/foaf/0.1/Person,DBpedia:Person,DBpedia:OfficeHolder
+http://fr.dbpedia.org/resource/Marie-Christine_Vergiat
+
+décédées
+
+http://fr.dbpedia.org/resource/Mort
+
+Alexander Alvaro
+
+http://fr.dbpedia.org/resource/Alexander_Alvaro
+
+Web
+
+http://fr.dbpedia.org/resource/World_Wide_Web
+
+Françoise Castex
+
+http://fr.dbpedia.org/resource/Françoise_Castex
+
+Alexander Alvaro
+
+http://fr.dbpedia.org/resource/Alexander_Alvaro
+
+Sari Essayah
+
+http://fr.dbpedia.org/resource/Sari_Essayah
+
+Torvalds
+DBpedia:Agent,Schema:Person,Http://xmlns.com/foaf/0.1/Person,DBpedia:Person
+http://fr.dbpedia.org/resource/Linus_Torvalds
+
+Torvalds
+DBpedia:Agent,Schema:Person,Http://xmlns.com/foaf/0.1/Person,DBpedia:Person
+http://fr.dbpedia.org/resource/Linus_Torvalds
+
+Alexander Alvaro
+
+http://fr.dbpedia.org/resource/Alexander_Alvaro
+
+Alexander Alvaro
+
+http://fr.dbpedia.org/resource/Alexander_Alvaro
+
+Alexander Alvaro
+
+http://fr.dbpedia.org/resource/Alexander_Alvaro
+
+sécurité juridique
+
+http://fr.dbpedia.org/resource/Sécurité_juridique
+
+Alexander Alvaro
+
+http://fr.dbpedia.org/resource/Alexander_Alvaro
+
+Françoise Castex
+
+http://fr.dbpedia.org/resource/Françoise_Castex
+
+Michèle Striffler
+
+http://fr.dbpedia.org/resource/Michèle_Striffler
+
+décédées
+
+http://fr.dbpedia.org/resource/Mort
+
+Marie-Christine Vergiat
+DBpedia:Agent,Schema:Person,Http://xmlns.com/foaf/0.1/Person,DBpedia:Person,DBpedia:OfficeHolder
+http://fr.dbpedia.org/resource/Marie-Christine_Vergiat
+
+décédées
+
+http://fr.dbpedia.org/resource/Mort
+
+Hélène Flautre
+DBpedia:Agent,Schema:Person,Http://xmlns.com/foaf/0.1/Person,DBpedia:Person,DBpedia:OfficeHolder
+http://fr.dbpedia.org/resource/Hélène_Flautre
+
+ter
+
+http://fr.dbpedia.org/resource/Transport_express_régional
+
+ter
+
+http://fr.dbpedia.org/resource/Transport_express_régional
+
+Marie-Christine Vergiat
+DBpedia:Agent,Schema:Person,Http://xmlns.com/foaf/0.1/Person,DBpedia:Person,DBpedia:OfficeHolder
+http://fr.dbpedia.org/resource/Marie-Christine_Vergiat
+
+décédées
+
+http://fr.dbpedia.org/resource/Mort
+
+Hélène Flautre
+DBpedia:Agent,Schema:Person,Http://xmlns.com/foaf/0.1/Person,DBpedia:Person,DBpedia:OfficeHolder
+http://fr.dbpedia.org/resource/Hélène_Flautre
+
+ter
+
+http://fr.dbpedia.org/resource/Transport_express_régional
+
+ter
+
+http://fr.dbpedia.org/resource/Transport_express_régional
+
+Alexander Alvaro
+
+http://fr.dbpedia.org/resource/Alexander_Alvaro
+
+traitement de données à caractère personnel
+
+http://fr.dbpedia.org/resource/Fichage_en_France
+
+Consuegra
+Schema:Place,DBpedia:Place,DBpedia:PopulatedPlace,DBpedia:Settlement
+http://fr.dbpedia.org/resource/Consuegra
+
+entités juridiques
+
+http://fr.dbpedia.org/resource/Personne_morale
+
+entités juridiques
+
+http://fr.dbpedia.org/resource/Personne_morale
+
+Seán Kelly
+DBpedia:Agent,Schema:Person,Http://xmlns.com/foaf/0.1/Person,DBpedia:Person,DBpedia:Athlete,DBpedia:Cyclist
+http://fr.dbpedia.org/resource/Seán_Kelly
+
+Seán Kelly
+DBpedia:Agent,Schema:Person,Http://xmlns.com/foaf/0.1/Person,DBpedia:Person,DBpedia:Athlete,DBpedia:Cyclist
+http://fr.dbpedia.org/resource/Seán_Kelly
+
+Hélène Flautre
+DBpedia:Agent,Schema:Person,Http://xmlns.com/foaf/0.1/Person,DBpedia:Person,DBpedia:OfficeHolder
+http://fr.dbpedia.org/resource/Hélène_Flautre
+
+Alexander Alvaro
+
+http://fr.dbpedia.org/resource/Alexander_Alvaro
+
+Stanimir
+
+http://fr.dbpedia.org/resource/Stanimir
+
+blanchiment d'argent
+
+http://fr.dbpedia.org/resource/Blanchiment_d'argent
+
+Alexander Alvaro
+
+http://fr.dbpedia.org/resource/Alexander_Alvaro
+
+Convention
+
+http://fr.dbpedia.org/resource/Convention_européenne_des_droits_de_l'homme
+
+ter
+
+http://fr.dbpedia.org/resource/Transport_express_régional
+
+Alexander Alvaro
+
+http://fr.dbpedia.org/resource/Alexander_Alvaro
+
+ter
+
+http://fr.dbpedia.org/resource/Transport_express_régional
+
+Claude Moraes
+
+http://fr.dbpedia.org/resource/Claude_Moraes
+
+Charles Tannock
+
+http://fr.dbpedia.org/resource/Charles_Tannock
+
+Charles Tannock
+
+http://fr.dbpedia.org/resource/Charles_Tannock
+
+soins palliatifs
+
+http://fr.dbpedia.org/resource/Soin_palliatif
+
+Alexander Alvaro
+
+http://fr.dbpedia.org/resource/Alexander_Alvaro
+
+ter
+
+http://fr.dbpedia.org/resource/Transport_express_régional
+
+Claude Moraes
+
+http://fr.dbpedia.org/resource/Claude_Moraes
+
+Marita Ulvskog
+DBpedia:Agent,Schema:Person,Http://xmlns.com/foaf/0.1/Person,DBpedia:Person,DBpedia:OfficeHolder
+http://fr.dbpedia.org/resource/Marita_Ulvskog
+
+Alexander Alvaro
+
+http://fr.dbpedia.org/resource/Alexander_Alvaro
+
+ter
+
+http://fr.dbpedia.org/resource/Transport_express_régional
+
+Marie-Christine Vergiat
+DBpedia:Agent,Schema:Person,Http://xmlns.com/foaf/0.1/Person,DBpedia:Person,DBpedia:OfficeHolder
+http://fr.dbpedia.org/resource/Marie-Christine_Vergiat
+
+Consuegra
+Schema:Place,DBpedia:Place,DBpedia:PopulatedPlace,DBpedia:Settlement
+http://fr.dbpedia.org/resource/Consuegra
+
+Salvatore Iacolino
+
+http://fr.dbpedia.org/resource/Salvatore_Iacolino
+
+Consuegra
+Schema:Place,DBpedia:Place,DBpedia:PopulatedPlace,DBpedia:Settlement
+http://fr.dbpedia.org/resource/Consuegra
+
+espèce
+
+http://fr.dbpedia.org/resource/Espèce
+
+'t Veld
+
+http://fr.dbpedia.org/resource/'t_Veld_(Meulebeke)
+
+Alexander Alvaro
+
+http://fr.dbpedia.org/resource/Alexander_Alvaro
+
+traitement de données à caractère personnel
+
+http://fr.dbpedia.org/resource/Fichage_en_France
+
+traitement de données à caractère personnel
+
+http://fr.dbpedia.org/resource/Fichage_en_France
+
+traitement de données à caractère personnel
+
+http://fr.dbpedia.org/resource/Fichage_en_France
+
+traitement de données à caractère personnel
+
+http://fr.dbpedia.org/resource/Fichage_en_France
+
+traitement de données à caractère personnel
+
+http://fr.dbpedia.org/resource/Fichage_en_France
+
+traitement de données à caractère personnel
+
+http://fr.dbpedia.org/resource/Fichage_en_France
+
+traitement de données à caractère personnel
+
+http://fr.dbpedia.org/resource/Fichage_en_France
+
+Alexander Alvaro
+
+http://fr.dbpedia.org/resource/Alexander_Alvaro
+
+résilience
+
+http://fr.dbpedia.org/resource/Résilience_(psychologie)
+
+Cf
+
+http://fr.dbpedia.org/resource/Californium
+
+Alexander Alvaro
+
+http://fr.dbpedia.org/resource/Alexander_Alvaro
+
+Alexander Alvaro
+
+http://fr.dbpedia.org/resource/Alexander_Alvaro
+
+Alexander Alvaro
+
+http://fr.dbpedia.org/resource/Alexander_Alvaro
+
+ter
+
+http://fr.dbpedia.org/resource/Transport_express_régional
+
+Gianni Vattimo
+DBpedia:Agent,Schema:Person,Http://xmlns.com/foaf/0.1/Person,DBpedia:Person,DBpedia:Philosopher
+http://fr.dbpedia.org/resource/Gianni_Vattimo
+
+Alexander Alvaro
+
+http://fr.dbpedia.org/resource/Alexander_Alvaro
+
+Consuegra
+Schema:Place,DBpedia:Place,DBpedia:PopulatedPlace,DBpedia:Settlement
+http://fr.dbpedia.org/resource/Consuegra
+
+Consuegra
+Schema:Place,DBpedia:Place,DBpedia:PopulatedPlace,DBpedia:Settlement
+http://fr.dbpedia.org/resource/Consuegra
+
+Consuegra
+Schema:Place,DBpedia:Place,DBpedia:PopulatedPlace,DBpedia:Settlement
+http://fr.dbpedia.org/resource/Consuegra
+
+JAI
+
+http://fr.dbpedia.org/resource/Coopération_policière_et_judiciaire_en_matière_pénale
+
+JAI
+
+http://fr.dbpedia.org/resource/Coopération_policière_et_judiciaire_en_matière_pénale
+
+Seán Kelly
+DBpedia:Agent,Schema:Person,Http://xmlns.com/foaf/0.1/Person,DBpedia:Person,DBpedia:Athlete,DBpedia:Cyclist
+http://fr.dbpedia.org/resource/Seán_Kelly
+

@@ -1,0 +1,504 @@
+Cloud computing
+
+http://fr.dbpedia.org/resource/Cloud_computing
+
+CNIL
+
+http://fr.dbpedia.org/resource/Commission_nationale_de_l'informatique_et_des_libertés
+
+Cloud computing
+
+http://fr.dbpedia.org/resource/Cloud_computing
+
+contrats d'adhésion
+
+http://fr.dbpedia.org/resource/Contrat_d'adhésion
+
+Cloud computing
+
+http://fr.dbpedia.org/resource/Cloud_computing
+
+CNIL
+
+http://fr.dbpedia.org/resource/Commission_nationale_de_l'informatique_et_des_libertés
+
+PME
+
+http://fr.dbpedia.org/resource/Petites_et_moyennes_entreprises
+
+CNIL
+
+http://fr.dbpedia.org/resource/Commission_nationale_de_l'informatique_et_des_libertés
+
+PME
+
+http://fr.dbpedia.org/resource/Petites_et_moyennes_entreprises
+
+Cloud computing
+
+http://fr.dbpedia.org/resource/Cloud_computing
+
+rue Vivienne
+Schema:Place,DBpedia:Place,DBpedia:ArchitecturalStructure,DBpedia:Infrastructure,DBpedia:RouteOfTransportation,DBpedia:Road
+http://fr.dbpedia.org/resource/Rue_Vivienne
+
+Paris
+Schema:Place,DBpedia:Place,DBpedia:PopulatedPlace,DBpedia:Settlement
+http://fr.dbpedia.org/resource/Paris
+
+Cloud computing
+
+http://fr.dbpedia.org/resource/Cloud_computing
+
+Données sensibles
+
+http://fr.dbpedia.org/resource/Données_sensibles
+
+rue Vivienne
+Schema:Place,DBpedia:Place,DBpedia:ArchitecturalStructure,DBpedia:Infrastructure,DBpedia:RouteOfTransportation,DBpedia:Road
+http://fr.dbpedia.org/resource/Rue_Vivienne
+
+Paris
+Schema:Place,DBpedia:Place,DBpedia:PopulatedPlace,DBpedia:Settlement
+http://fr.dbpedia.org/resource/Paris
+
+interopérabilité
+
+http://fr.dbpedia.org/resource/Interopérabilité
+
+fournisseur d'accès à Internet
+
+http://fr.dbpedia.org/resource/Fournisseur_d'accès_à_internet
+
+Cloud Computing
+
+http://fr.dbpedia.org/resource/Cloud_computing
+
+rue Vivienne
+Schema:Place,DBpedia:Place,DBpedia:ArchitecturalStructure,DBpedia:Infrastructure,DBpedia:RouteOfTransportation,DBpedia:Road
+http://fr.dbpedia.org/resource/Rue_Vivienne
+
+Paris
+Schema:Place,DBpedia:Place,DBpedia:PopulatedPlace,DBpedia:Settlement
+http://fr.dbpedia.org/resource/Paris
+
+réquisitions judiciaires
+
+http://fr.dbpedia.org/resource/Réquisition
+
+Cloud computing
+
+http://fr.dbpedia.org/resource/Cloud_computing
+
+SaaS
+
+http://fr.dbpedia.org/resource/Logiciel_en_tant_que_service
+
+as
+
+http://fr.dbpedia.org/resource/As_(monnaie)
+
+PaaS
+
+http://fr.dbpedia.org/resource/Plate-forme_en_tant_que_service
+
+as
+
+http://fr.dbpedia.org/resource/As_(monnaie)
+
+as
+
+http://fr.dbpedia.org/resource/As_(monnaie)
+
+rue Vivienne
+Schema:Place,DBpedia:Place,DBpedia:ArchitecturalStructure,DBpedia:Infrastructure,DBpedia:RouteOfTransportation,DBpedia:Road
+http://fr.dbpedia.org/resource/Rue_Vivienne
+
+Paris
+Schema:Place,DBpedia:Place,DBpedia:PopulatedPlace,DBpedia:Settlement
+http://fr.dbpedia.org/resource/Paris
+
+Cloud computing
+
+http://fr.dbpedia.org/resource/Cloud_computing
+
+Cloud computing
+
+http://fr.dbpedia.org/resource/Cloud_computing
+
+Cloud computing
+
+http://fr.dbpedia.org/resource/Cloud_computing
+
+SaaS
+
+http://fr.dbpedia.org/resource/Logiciel_en_tant_que_service
+
+courriels
+
+http://fr.dbpedia.org/resource/Courrier_électronique
+
+Cloud computing
+
+http://fr.dbpedia.org/resource/Cloud_computing
+
+Cloud computing
+
+http://fr.dbpedia.org/resource/Cloud_computing
+
+Cloud computing
+
+http://fr.dbpedia.org/resource/Cloud_computing
+
+Cloud computing
+
+http://fr.dbpedia.org/resource/Cloud_computing
+
+CNIL
+
+http://fr.dbpedia.org/resource/Commission_nationale_de_l'informatique_et_des_libertés
+
+PaaS
+
+http://fr.dbpedia.org/resource/Plate-forme_en_tant_que_service
+
+SaaS
+
+http://fr.dbpedia.org/resource/Logiciel_en_tant_que_service
+
+rue Vivienne
+Schema:Place,DBpedia:Place,DBpedia:ArchitecturalStructure,DBpedia:Infrastructure,DBpedia:RouteOfTransportation,DBpedia:Road
+http://fr.dbpedia.org/resource/Rue_Vivienne
+
+Paris
+Schema:Place,DBpedia:Place,DBpedia:PopulatedPlace,DBpedia:Settlement
+http://fr.dbpedia.org/resource/Paris
+
+contrats d'adhésion
+
+http://fr.dbpedia.org/resource/Contrat_d'adhésion
+
+directive
+
+http://fr.dbpedia.org/resource/Directive_de_l'Union_européenne
+
+traitements de données à caractère personnel
+
+http://fr.dbpedia.org/resource/Fichage_en_France
+
+CNIL
+
+http://fr.dbpedia.org/resource/Commission_nationale_de_l'informatique_et_des_libertés
+
+CNIL
+
+http://fr.dbpedia.org/resource/Commission_nationale_de_l'informatique_et_des_libertés
+
+CNIL
+
+http://fr.dbpedia.org/resource/Commission_nationale_de_l'informatique_et_des_libertés
+
+CNIL
+
+http://fr.dbpedia.org/resource/Commission_nationale_de_l'informatique_et_des_libertés
+
+CNIL
+
+http://fr.dbpedia.org/resource/Commission_nationale_de_l'informatique_et_des_libertés
+
+rue Vivienne
+Schema:Place,DBpedia:Place,DBpedia:ArchitecturalStructure,DBpedia:Infrastructure,DBpedia:RouteOfTransportation,DBpedia:Road
+http://fr.dbpedia.org/resource/Rue_Vivienne
+
+Paris
+Schema:Place,DBpedia:Place,DBpedia:PopulatedPlace,DBpedia:Settlement
+http://fr.dbpedia.org/resource/Paris
+
+CNIL
+
+http://fr.dbpedia.org/resource/Commission_nationale_de_l'informatique_et_des_libertés
+
+Cloud computing
+
+http://fr.dbpedia.org/resource/Cloud_computing
+
+Cloud computing
+
+http://fr.dbpedia.org/resource/Cloud_computing
+
+Destruction
+Schema:MusicGroup,DBpedia:Agent,Schema:Organization,DBpedia:Organisation,DBpedia:Band
+http://fr.dbpedia.org/resource/Destruction_(groupe)
+
+rue Vivienne
+Schema:Place,DBpedia:Place,DBpedia:ArchitecturalStructure,DBpedia:Infrastructure,DBpedia:RouteOfTransportation,DBpedia:Road
+http://fr.dbpedia.org/resource/Rue_Vivienne
+
+Paris
+Schema:Place,DBpedia:Place,DBpedia:PopulatedPlace,DBpedia:Settlement
+http://fr.dbpedia.org/resource/Paris
+
+centres de données
+
+http://fr.dbpedia.org/resource/Centre_de_traitement_de_données
+
+Clauses contractuelles
+
+http://fr.dbpedia.org/resource/Clause
+
+Espace Economique Européen
+
+http://fr.dbpedia.org/resource/Espace_économique_européen
+
+Commission européenne
+
+http://fr.dbpedia.org/resource/Commission_européenne
+
+Commission européenne
+
+http://fr.dbpedia.org/resource/Commission_européenne
+
+CNIL
+
+http://fr.dbpedia.org/resource/Commission_nationale_de_l'informatique_et_des_libertés
+
+CNIL
+
+http://fr.dbpedia.org/resource/Commission_nationale_de_l'informatique_et_des_libertés
+
+CNIL
+
+http://fr.dbpedia.org/resource/Commission_nationale_de_l'informatique_et_des_libertés
+
+rue Vivienne
+Schema:Place,DBpedia:Place,DBpedia:ArchitecturalStructure,DBpedia:Infrastructure,DBpedia:RouteOfTransportation,DBpedia:Road
+http://fr.dbpedia.org/resource/Rue_Vivienne
+
+Paris
+Schema:Place,DBpedia:Place,DBpedia:PopulatedPlace,DBpedia:Settlement
+http://fr.dbpedia.org/resource/Paris
+
+algorithme
+
+http://fr.dbpedia.org/resource/Algorithmique
+
+VPN
+
+http://fr.dbpedia.org/resource/Réseau_privé_virtuel
+
+pare-feu
+
+http://fr.dbpedia.org/resource/Pare-feu_(informatique)
+
+antivirus
+
+http://fr.dbpedia.org/resource/Logiciel_antivirus
+
+détection d'intrusion
+
+http://fr.dbpedia.org/resource/Système_de_détection_d'intrusion
+
+ISO
+
+http://fr.dbpedia.org/resource/Organisation_internationale_de_normalisation
+
+CNIL
+
+http://fr.dbpedia.org/resource/Commission_nationale_de_l'informatique_et_des_libertés
+
+PME
+
+http://fr.dbpedia.org/resource/Petites_et_moyennes_entreprises
+
+CNIL
+
+http://fr.dbpedia.org/resource/Commission_nationale_de_l'informatique_et_des_libertés
+
+Cloud computing
+
+http://fr.dbpedia.org/resource/Cloud_computing
+
+Cloud computing
+
+http://fr.dbpedia.org/resource/Cloud_computing
+
+Cloud computing
+
+http://fr.dbpedia.org/resource/Cloud_computing
+
+nouveau centre
+DBpedia:Agent,Schema:Organization,DBpedia:Organisation,DBpedia:PoliticalParty
+http://fr.dbpedia.org/resource/Nouveau_Centre
+
+rue Vivienne
+Schema:Place,DBpedia:Place,DBpedia:ArchitecturalStructure,DBpedia:Infrastructure,DBpedia:RouteOfTransportation,DBpedia:Road
+http://fr.dbpedia.org/resource/Rue_Vivienne
+
+Paris
+Schema:Place,DBpedia:Place,DBpedia:PopulatedPlace,DBpedia:Settlement
+http://fr.dbpedia.org/resource/Paris
+
+CNIL
+
+http://fr.dbpedia.org/resource/Commission_nationale_de_l'informatique_et_des_libertés
+
+Cloud computing
+
+http://fr.dbpedia.org/resource/Cloud_computing
+
+rue Vivienne
+Schema:Place,DBpedia:Place,DBpedia:ArchitecturalStructure,DBpedia:Infrastructure,DBpedia:RouteOfTransportation,DBpedia:Road
+http://fr.dbpedia.org/resource/Rue_Vivienne
+
+Paris
+Schema:Place,DBpedia:Place,DBpedia:PopulatedPlace,DBpedia:Settlement
+http://fr.dbpedia.org/resource/Paris
+
+rue Vivienne
+Schema:Place,DBpedia:Place,DBpedia:ArchitecturalStructure,DBpedia:Infrastructure,DBpedia:RouteOfTransportation,DBpedia:Road
+http://fr.dbpedia.org/resource/Rue_Vivienne
+
+Paris
+Schema:Place,DBpedia:Place,DBpedia:PopulatedPlace,DBpedia:Settlement
+http://fr.dbpedia.org/resource/Paris
+
+Destruction
+Schema:MusicGroup,DBpedia:Agent,Schema:Organization,DBpedia:Organisation,DBpedia:Band
+http://fr.dbpedia.org/resource/Destruction_(groupe)
+
+rue Vivienne
+Schema:Place,DBpedia:Place,DBpedia:ArchitecturalStructure,DBpedia:Infrastructure,DBpedia:RouteOfTransportation,DBpedia:Road
+http://fr.dbpedia.org/resource/Rue_Vivienne
+
+Paris
+Schema:Place,DBpedia:Place,DBpedia:PopulatedPlace,DBpedia:Settlement
+http://fr.dbpedia.org/resource/Paris
+
+Le Client
+
+http://fr.dbpedia.org/resource/Le_Client_(film,_1994)
+
+rue Vivienne
+Schema:Place,DBpedia:Place,DBpedia:ArchitecturalStructure,DBpedia:Infrastructure,DBpedia:RouteOfTransportation,DBpedia:Road
+http://fr.dbpedia.org/resource/Rue_Vivienne
+
+Paris
+Schema:Place,DBpedia:Place,DBpedia:PopulatedPlace,DBpedia:Settlement
+http://fr.dbpedia.org/resource/Paris
+
+Clauses contractuelles
+
+http://fr.dbpedia.org/resource/Clause
+
+Le Client
+
+http://fr.dbpedia.org/resource/Le_Client_(film,_1994)
+
+Commission européenne
+
+http://fr.dbpedia.org/resource/Commission_européenne
+
+rue Vivienne
+Schema:Place,DBpedia:Place,DBpedia:ArchitecturalStructure,DBpedia:Infrastructure,DBpedia:RouteOfTransportation,DBpedia:Road
+http://fr.dbpedia.org/resource/Rue_Vivienne
+
+Paris
+Schema:Place,DBpedia:Place,DBpedia:PopulatedPlace,DBpedia:Settlement
+http://fr.dbpedia.org/resource/Paris
+
+G29
+
+http://fr.dbpedia.org/resource/G29
+
+G29
+
+http://fr.dbpedia.org/resource/G29
+
+Commission européenne
+
+http://fr.dbpedia.org/resource/Commission_européenne
+
+Espace Economique Européen
+
+http://fr.dbpedia.org/resource/Espace_économique_européen
+
+Commission européenne
+
+http://fr.dbpedia.org/resource/Commission_européenne
+
+Espace Economique Européen
+
+http://fr.dbpedia.org/resource/Espace_économique_européen
+
+Commission européenne
+
+http://fr.dbpedia.org/resource/Commission_européenne
+
+Espace Economique Européen
+
+http://fr.dbpedia.org/resource/Espace_économique_européen
+
+Commission européenne
+
+http://fr.dbpedia.org/resource/Commission_européenne
+
+rue Vivienne
+Schema:Place,DBpedia:Place,DBpedia:ArchitecturalStructure,DBpedia:Infrastructure,DBpedia:RouteOfTransportation,DBpedia:Road
+http://fr.dbpedia.org/resource/Rue_Vivienne
+
+Paris
+Schema:Place,DBpedia:Place,DBpedia:PopulatedPlace,DBpedia:Settlement
+http://fr.dbpedia.org/resource/Paris
+
+CNIL
+
+http://fr.dbpedia.org/resource/Commission_nationale_de_l'informatique_et_des_libertés
+
+Le Client
+
+http://fr.dbpedia.org/resource/Le_Client_(film,_1994)
+
+Le Client
+
+http://fr.dbpedia.org/resource/Le_Client_(film,_1994)
+
+Le Client
+
+http://fr.dbpedia.org/resource/Le_Client_(film,_1994)
+
+rue Vivienne
+Schema:Place,DBpedia:Place,DBpedia:ArchitecturalStructure,DBpedia:Infrastructure,DBpedia:RouteOfTransportation,DBpedia:Road
+http://fr.dbpedia.org/resource/Rue_Vivienne
+
+Paris
+Schema:Place,DBpedia:Place,DBpedia:PopulatedPlace,DBpedia:Settlement
+http://fr.dbpedia.org/resource/Paris
+
+Le Client
+
+http://fr.dbpedia.org/resource/Le_Client_(film,_1994)
+
+rue Vivienne
+Schema:Place,DBpedia:Place,DBpedia:ArchitecturalStructure,DBpedia:Infrastructure,DBpedia:RouteOfTransportation,DBpedia:Road
+http://fr.dbpedia.org/resource/Rue_Vivienne
+
+Paris
+Schema:Place,DBpedia:Place,DBpedia:PopulatedPlace,DBpedia:Settlement
+http://fr.dbpedia.org/resource/Paris
+
+rue Vivienne
+Schema:Place,DBpedia:Place,DBpedia:ArchitecturalStructure,DBpedia:Infrastructure,DBpedia:RouteOfTransportation,DBpedia:Road
+http://fr.dbpedia.org/resource/Rue_Vivienne
+
+Paris
+Schema:Place,DBpedia:Place,DBpedia:PopulatedPlace,DBpedia:Settlement
+http://fr.dbpedia.org/resource/Paris
+
+rue Vivienne
+Schema:Place,DBpedia:Place,DBpedia:ArchitecturalStructure,DBpedia:Infrastructure,DBpedia:RouteOfTransportation,DBpedia:Road
+http://fr.dbpedia.org/resource/Rue_Vivienne
+
+Paris
+Schema:Place,DBpedia:Place,DBpedia:PopulatedPlace,DBpedia:Settlement
+http://fr.dbpedia.org/resource/Paris
+

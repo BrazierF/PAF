@@ -1,0 +1,1175 @@
+FR Journal officiel des Communautés européennes12.1.2001 L 8/1
+I
+(Actes dont la publication est une condition de leur applicabilité)
+RÈGLEMENT (CE) N
+o
+45/2001 DU PARLEMENT EUROPÉEN ET DU CONSEIL
+du 18 décembre 2000
+relatif à la protection des personnes physiques à l'égard du traitement des données à caractère
+personnel par les institutions et organes communautaires et à la libre circulation de ces données
+LE PARLEMENT EUROPÉEN ET LE CONSEIL DE L'UNION
+EUROPÉENNE,
+vu le traité instituant la Communauté européenne, et notam-
+ment son article 286,
+vu la proposition de la Commission (
+1
+),
+vu l'avis du Comité économique et social (
+2
+),
+statuant conformément à la procédure visée à l'article 251 du
+traité (
+3
+),
+considérant ce qui suit:
+(1) L'article 286 du traité dispose que les actes communau-
+taires relatifs à la protection des personnes physiques à
+l'égard du traitement des données à caractère personnel
+et à la libre circulation de ces données sont applicables
+aux institutions et organes communautaires.
+(2) Un système à part entière de protection des données à
+caractère personnel impose non seulement de conférer
+des droits aux personnes concernées et des obligations à
+celles qui traitent des données à caractère personnel,
+mais aussi de prévoir des sanctions appropriées pour les
+contrevenants ainsi qu'une autorité de contrôle indépen-
+dante.
+(3) L'article 286, paragraphe 2, du traité prévoit l'institution
+d'un organe indépendant de contrôle chargé de surveiller
+l'application desdits actes communautaires aux institu-
+tions et organes communautaires.
+(4) L'article 286, paragraphe 2, du traité prévoit par ailleurs
+l'adoption, le cas échéant, de toute autre disposition
+utile.
+(5) Un règlement est nécessaire afin de donner aux
+personnes des droits juridiquement protégés, de définir
+les obligations des responsables du traitement au sein
+des institutions et organes communautaires en matière
+de traitement des données et de créer une autorité de
+contrôle indépendante responsable de la surveillance des
+traitements de données à caractère personnel effectués
+par les institutions et organes communautaires.
+(6) Le groupe de protection des personnes à l'égard du
+traitement des données à caractère personnel, institué
+par l'article 29 de la directive 95/46/CE du Parlement
+européen et du Conseil du 24 octobre 1995 relative à la
+protection des personnes physiques à l'égard du traite-
+ment des données à caractère personnel et à la libre
+circulation de ces données (
+4
+), a été consulté.
+(7) Les personnes susceptibles d'être protégées sont celles
+dont les données à caractère personnel sont traitées par
+les institutions ou organes communautaires dans
+quelque contexte que ce soit, par exemple parce que ces
+personnes sont employées par ces institutions ou
+organes.
+(8) Il y a lieu d'appliquer les principes de la protection à
+toute information concernant une personne identifiée ou
+identifiable. Afin de déterminer si une personne est iden-
+tifiable, il convient de prendre en considération l'en-
+semble des moyens susceptibles d'être raisonnablement
+utilisés par le responsable du traitement ou par toute
+autre personne pour identifier ladite personne. Il n'y a
+pas lieu d'appliquer les principes de la protection aux
+données qui auront été rendues suffisamment anonymes
+pour que la personne concernée ne soit plus identifiable.
+(9) La directive 95/46/CE impose aux États membres d'as-
+surer la protection des libertés et droits fondamentaux
+des personnes physiques, notamment de leur vie privée,
+à l'égard du traitement des données à caractère
+personnel, afin d'assurer la libre circulation des données
+à caractère personnel dans la Communauté.
+(
+1
+) JO C 376 E du 28.12.1999, p. 24.
+(
+2
+) JO C 51 du 23.2.2000, p. 48.
+(
+3
+) Avis du Parlement européen du 14 novembre 2000 et décision du
+Conseil du 30 novembre 2000. (
+4
+) JO L 281 du 23.11.1995, p. 31.
+FR Journal officiel des Communautés européennes 12.1.2001L 8/2
+(10) La directive 97/66/CE du Parlement européen et du
+Conseil du 15 décembre 1997 concernant le traitement
+des données à caractère personnel et la protection de la
+vie privée dans le secteur des télécommunications (
+1
+),
+précise et complète la directive 95/46/CE en ce qui
+concerne le traitement des données à caractère personnel
+dans le secteur des télécommunications.
+(11) Diverses autres dispositions communautaires, notam-
+ment en matière d'assistance mutuelle entre les adminis-
+trations nationales et la Commission, visent également à
+préciser et compléter la directive 95/46/CE dans les
+secteurs qu'elles concernent.
+(12) Il y a lieu d'assurer dans l'ensemble de la Communauté
+une application cohérente et homogène des règles de
+protection des libertés et droits fondamentaux des
+personnes à l'égard du traitement des données à carac-
+tère personnel.
+(13) Il s'agit par là de garantir tant le respect effectif des
+règles de protection des libertés et droits fondamentaux
+des personnes que la libre circulation des données à
+caractère personnel entre les États membres et les insti-
+tutions et organes communautaires ou entre les institu-
+tions et organes communautaires, dans l'exercice de
+leurs compétences respectives.
+(14) Il convient, à cette fin, d'adopter des dispositions
+contraignantes à l'égard des institutions et organes
+communautaires. Il y a lieu d'appliquer ces dispositions à
+tout traitement de données à caractère personnel
+effectué par toutes les institutions et organes commu-
+nautaires dans la mesure où ce traitement est mis en
+œuvre pour l'exercice d'activités qui relèvent en tout ou
+en partie du champ d'application du droit communau-
+taire.
+(15) Lorsque ce traitement est effectué par les institutions et
+organes communautaires pour l'exercice d'activités
+situées hors du champ d'application du présent règle-
+ment, en particulier celles prévues aux titres V et VI du
+traité sur l'Union européenne, la protection des libertés
+et droits fondamentaux des personnes est assurée dans le
+respect de l'article 6 du traité sur l'Union européenne.
+L'accès aux documents, y compris les conditions d'accès
+aux documents contenant des données à caractère
+personnel, relève des réglementations adoptées sur la
+base de l'article 255 du traité CE dont le champ d'appli-
+cation s'étend aux titres V et VI du traité sur l'Union
+européenne.
+(16) Ces dispositions ne s'appliquent pas aux organes insti-
+tués hors du cadre communautaire pas plus que le
+contrôleur européen de la protection des données n'est
+compétent pour contrôler le traitement des données à
+caractère personnel effectué par ces organes.
+(17) L'efficacité de la protection des personnes à l'égard du
+traitement des données à caractère personnel dans
+l'Union présuppose la cohérence des règles et des procé-
+dures applicables en la matière aux activités relevant de
+différents cadres juridiques. L'élaboration de principes
+fondamentaux concernant la protection des données à
+caractère personnel dans le domaine de la coopération
+judiciaire en matière pénale ainsi que de la coopération
+policière et douanière, et la création d'un secrétariat pour
+les autorités de contrôle communes, instituées par la
+convention Europol, la convention sur l'emploi de l'in-
+formatique dans le domaine des douanes et la conven-
+tion de Schengen, représentent à cet égard une première
+étape.
+(18) Il y a lieu que le présent règlement n'affecte pas les
+droits et obligations des États membres au titre des
+directives 95/46/CE et 97/66/CE. Il n'a pas pour objet de
+modifier les procédures et pratiques légalement mises en
+œuvre par les États membres en matière de sécurité
+nationale, de défense de l'ordre ainsi que de prévention,
+détection, recherche et poursuite des infractions pénales
+dans le respect des dispositions du protocole sur les
+privilèges et immunités des Communautés européennes
+et dans le respect du droit international.
+(19) Les institutions et organes communautaires s'adressent
+aux autorités compétentes dans les États membres lors-
+qu'ils estiment que des interceptions de communications
+doivent être réalisées sur leurs réseaux de télécommuni-
+cations, conformément aux dispositions nationales
+applicables.
+(20) Il convient que les dispositions applicables aux institu-
+tions et organes communautaires correspondent à celles
+prévues pour l'harmonisation des législations nationales
+ou la mise en œuvre d'autres politiques communautaires,
+notamment en matière d'assistance mutuelle. Toutefois,
+des précisions et des dispositions complémentaires
+peuvent être nécessaires pour la mise en œuvre de la
+protection dans le cas des traitements de données à
+caractère personnel effectués par les institutions et
+organes communautaires.
+(21) Ceci vaut aussi bien pour les droits des personnes dont
+les données sont traitées, que pour les obligations des
+institutions et organes communautaires responsables du
+traitement et pour les pouvoirs dont doit disposer l'auto-
+rité de contrôle indépendante chargée de veiller à l'appli-
+cation correcte du présent règlement.
+(22) Il y a lieu que les droits accordés à la personne
+concernée et l'exercice de ces droits ne portent pas
+préjudice aux obligations imposées au responsable du
+traitement.
+(23) L'autorité de contrôle indépendante exerce ses missions
+de contrôle conformément au traité et dans le respect
+des droits de l'homme et des libertés fondamentales. Elle
+mène ses enquêtes dans le respect du protocole sur les
+privilèges et immunités et dans le respect du statut des
+fonctionnaires des Communautés européennes et du
+régime applicable aux autres agents de ces Commu-
+nautés.
+(24) Il y aura lieu d'adopter les mesures techniques néces-
+saires pour permettre l'accès aux registres des traite-
+ments tenus par les délégués à la protection des données
+par l'intermédiaire de l'autorité de contrôle indépen-
+dante.(
+1
+) JO L 24 du 30.1.1998, p. 1.
+FR Journal officiel des Communautés européennes12.1.2001 L 8/3
+(25) Il convient que les décisions de l'autorité de contrôle
+indépendante ayant trait aux exceptions, garanties, auto-
+risations et conditions relatives aux traitements de
+données, telles que définies dans le présent règlement,
+fassent l'objet d'une publication dans le rapport d'acti-
+vité. Indépendamment de la publication annuelle du
+rapport d'activité, l'autorité de contrôle indépendante
+peut publier des rapports sur des sujets spécifiques.
+(26) Certains traitements susceptibles de présenter des risques
+particuliers au regard des droits et libertés des personnes
+concernées sont soumis au contrôle préalable de l'auto-
+rité de contrôle indépendante. Il y a lieu que l'avis donné
+dans le cadre de ce contrôle préalable, y compris l'avis
+qui résulte d'une absence de réponse dans le délai prévu,
+soit sans préjudice de l'exercice ultérieur, par l'autorité
+de contrôle indépendante, de ses pouvoirs au regard du
+traitement en cause.
+(27) Le traitement de données à caractère personnel effectué
+pour l'exécution de missions d'intérêt public par les
+institutions et les organes communautaires comprend le
+traitement de données à caractère personnel nécessaires
+pour la gestion et le fonctionnement de ces institutions
+et organes.
+(28) Dans certains cas, il y a lieu de prévoir que le traitement
+de données soit autorisé par des dispositions commu-
+nautaires ou des actes de transposition de dispositions
+communautaires. Toutefois, à titre transitoire, lorsque de
+telles dispositions n'existent pas et dans l'attente de leur
+adoption, le contrôleur européen de la protection des
+données peut autoriser le traitement de telles données
+moyennant l'adoption de garanties adéquates. À cet
+égard, il tient notamment compte des dispositions adop-
+tées par les États membres pour régler des cas similaires.
+(29) Ces cas concernent le traitement de données qui révèlent
+l'origine raciale ou ethnique, les opinions politiques, les
+convictions religieuses ou philosophiques, l'appartenance
+syndicale, ainsi que le traitement de données relatives à
+la santé ou à la vie sexuelle nécessaires afin de respecter
+les obligations et les droits spécifiques du responsable du
+traitement en matière de droit du travail ou pour un
+motif d'intérêt public important. Il s'agit également du
+traitement des données relatives aux infractions, aux
+condamnations pénales ou aux mesures de sûreté ou
+encore de l'autorisation de soumettre la personne
+concernée à une décision produisant des effets juridiques
+à son égard ou l'affectant de manière significative, prise
+sur le seul fondement d'un traitement automatisé de
+données destiné à évaluer certains aspects de sa person-
+nalité.
+(30) Il peut être nécessaire de contrôler les réseaux d'ordina-
+teurs fonctionnant sous la responsabilité des institutions
+et organes communautaires en vue de prévenir un usage
+non autorisé. Le contrôleur européen de la protection
+des données détermine si et sous quelles conditions cela
+est possible.
+(31) La responsabilité résultant de la violation du présent
+règlement est régie par l'article 288, deuxième alinéa, du
+traité.
+(32) Un ou plusieurs délégués à la protection des données
+veillent au sein de chaque institution ou organe commu-
+nautaire à l'application des dispositions du présent règle-
+ment et conseillent les responsables de traitement dans
+l'exercice de leurs obligations.
+(33) Conformément à son article 21, le règlement (CE) n
+o
+322/97 du Conseil du 17 février 1997 relatif à la statis-
+tique communautaire (
+1
+) s'applique sans préjudice de la
+directive 95/46/CE.
+(34) Conformément à son article 8, paragraphe 8, le règle-
+ment (CE) n
+o
+2533/98 du Conseil du 23 novembre 1998
+concernant la collecte d'informations statistiques par la
+Banque centrale européenne (
+2
+), s'applique sans préjudice
+de la directive 95/46/CE.
+(35) Conformément à son article 1
+er
+, paragraphe 2, le règle-
+ment (Euratom, CEE) n
+o
+1588/90 du Conseil du 11 juin
+1990 relatif à la transmission à l'Office statistique des
+Communautés européennes d'informations statistiques
+couvertes par le secret (
+3
+) ne déroge pas aux dispositions
+particulières communautaires ou nationales relatives à la
+sauvegarde de secrets autres que le secret statistique.
+(36) Le présent règlement ne vise pas à limiter la marge de
+manœuvre des États membres dans l'élaboration de leur
+droit national en matière de protection des données
+adopté en vertu de l'article 32 de la directive 95/46/CE,
+conformément à l'article 249 du traité,
+ONT ARRÊTÉ LE PRÉSENT RÈGLEMENT:
+CHAPITRE I
+DISPOSITIONS GÉNÉRALES
+Article premier
+Objet du règlement
+1. Les institutions et organes créés par les traités instituant les Communautés européennes ou sur la base
+de ces traités, ci-après dénommés «institutions et organes communautaires», assurent, conformément au
+(
+1
+) JO L 52 du 22.2.1997, p. 1.
+(
+2
+) JO L 318 du 27.11.1998, p. 8.
+(
+3
+) JO L 151 du 15.6.1990, p. 1. Règlement modifié par le règlement
+(CE) n
+o
+322/97 (JO L 52 du 22.2.1997, p. 1).
+FR Journal officiel des Communautés européennes 12.1.2001L 8/4
+présent règlement, la protection des libertés et droits fondamentaux des personnes physiques, notamment
+de leur vie privée, à l'égard du traitement des données à caractère personnel et ne restreignent ni
+n'interdisent la libre circulation des données à caractère personnel entre eux ou vers des destinataires
+relevant de la législation nationale des États membres adoptée en application de la directive 95/46/CE.
+2. L'autorité de contrôle indépendante instituée par le présent règlement, ci-après dénommée «contrôleur
+européen de la protection des données», contrôle l'application des dispositions du présent règlement à tous
+les traitements effectués par une institution ou un organe communautaire.
+Article 2
+Définitions
+Aux fins du présent règlement, on entend par:
+a) «données à caractère personnel»: toute information concernant une personne physique identifiée ou
+identifiable (ci-après dénommée «personne concernée»); est réputée identifiable une personne qui peut
+être identifiée, directement ou indirectement, notamment par référence à un numéro d'identification ou
+à un ou plusieurs éléments spécifiques, propres à son identité physique, physiologique, psychique,
+économique, culturelle ou sociale;
+b) «traitement de données à caractère personnel» (ci-après dénommé «traitement»): toute opération ou
+ensemble d'opérations effectuée(s) ou non à l'aide de procédés automatisés et appliquées à des données à
+caractère personnel, telles que la collecte, l'enregistrement, l'organisation, la conservation, l'adaptation ou
+la modification, l'extraction, la consultation, l'utilisation, la communication par transmission, diffusion
+ou toute autre forme de mise à disposition, le rapprochement ou l'interconnexion, ainsi que le
+verrouillage, l'effacement ou la destruction;
+c) «fichier de données à caractère personnel» (ci-après dénommé «fichier»): tout ensemble structuré de
+données à caractère personnel accessibles selon des critères déterminés, que cet ensemble soit centralisé,
+décentralisé ou réparti de manière fonctionnelle ou géographique;
+d) «responsable du traitement»: l'institution ou organe communautaire, la direction générale, l'unité ou
+toute autre entité organisationnelle qui, seule ou conjointement avec d'autres, détermine les finalités et
+les moyens du traitement de données à caractère personnel; lorsque les finalités et les moyens du
+traitement sont déterminés par un acte communautaire spécifique, le responsable du traitement ou les
+critères spécifiques applicables pour le désigner peuvent être fixés par cet acte communautaire;
+e) «sous-traitant»: la personne physique ou morale, l'autorité publique, le service ou tout autre organisme
+qui traite des données à caractère personnel pour le compte du responsable du traitement;
+f) «tiers»: la personne physique ou morale, l'autorité publique, le service ou tout autre organisme autres que
+la personne concernée, le responsable du traitement, le sous-traitant et les personnes qui, placées sous
+l'autorité directe du responsable du traitement ou du sous-traitant, sont habilitées à traiter les données;
+g) «destinataire»: la personne physique ou morale, l'autorité publique, le service ou tout autre organisme qui
+reçoit communication de données, qu'il s'agisse ou non d'un tiers; les autorités qui sont susceptibles de
+recevoir communication de données dans le cadre d'une mission d'enquête particulière ne sont toutefois
+pas considérées comme des destinataires;
+h) «consentement de la personne concernée»: toute manifestation de volonté, libre, spécifique et informée
+par laquelle la personne concernée accepte que des données à caractère personnel la concernant fassent
+l'objet d'un traitement.
+Article 3
+Champ d'application
+1. Le présent règlement s'applique au traitement de données à caractère personnel par toutes les
+institutions et tous les organes communautaires, dans la mesure où ce traitement est mis en œuvre pour
+l'exercice d'activités qui relèvent en tout ou en partie du champ d'application du droit communautaire.
+FR Journal officiel des Communautés européennes12.1.2001 L 8/5
+2. Le présent règlement s'applique au traitement de données à caractère personnel, automatisé en tout ou
+en partie, ainsi qu'au traitement non automatisé de données à caractère personnel contenues ou appelées à
+figurer dans un fichier.
+CHAPITRE II
+CONDITIONS GÉNÉRALES DE LICÉITÉ DES TRAITEMENTS DE DONNÉES À CARACTÈRE
+PERSONNEL
+SECTION 1
+PRINCIPES RELATIFS À LA QUALITÉ DES DONNÉES
+Article 4
+Qualité des données
+1. Les données à caractère personnel doivent être:
+a) traitées loyalement et licitement;
+b) collectées pour des finalités déterminées, explicites et légitimes, et ne pas être traitées ultérieurement de
+manière incompatible avec ces finalités. Un traitement ultérieur à des fins historiques, statistiques ou
+scientifiques n'est pas réputé incompatible pour autant que le responsable du traitement prévoie des
+garanties appropriées, afin de veiller, en particulier, à ce que les données ne soient traitées pour aucune
+autre finalité et qu'elles ne soient pas utilisées à l'appui de dispositions ou décisions concernant une
+personne en particulier;
+c) adéquates, pertinentes et non excessives au regard des finalités pour lesquelles elles sont collectées et
+pour lesquelles elles sont traitées ultérieurement;
+d) exactes et, si nécessaire, mises à jour; toutes les mesures raisonnables sont prises pour que les données
+inexactes ou incomplètes, au regard des finalités pour lesquelles elles sont collectées ou pour lesquelles
+elles sont traitées ultérieurement, soient effacées ou rectifiées;
+e) conservées sous une forme permettant l'identification des personnes concernées pendant une durée
+n'excédant pas celle nécessaire à la réalisation des finalités pour lesquelles elles sont collectées ou pour
+lesquelles elles sont traitées ultérieurement. L'institution ou l'organe communautaire prévoit, pour les
+données à caractère personnel qui doivent être conservées au-delà de la période précitée à des fins
+historiques, statistiques ou scientifiques, soit qu'elles ne seront conservées que sous une forme qui les
+rend anonymes, soit, si cela est impossible, qu'elles ne seront stockées qu'à condition que l'identité de la
+personne concernée soit cryptée. Les données ne doivent en tout cas pas être utilisées à des fins autres
+qu'historiques, statistiques ou scientifiques.
+2. Il incombe au responsable du traitement d'assurer le respect du paragraphe 1.
+SECTION 2
+PRINCIPES RELATIFS À LA LÉGITIMATION DES TRAITEMENTS DE DONNÉES
+Article 5
+Licéité du traitement
+Le traitement de données à caractère personnel ne peut être effectué que si:
+a) le traitement est nécessaire à l'exécution d'une mission effectuée dans l'intérêt public sur la base des
+traités instituant les Communautés européennes ou d'autres actes législatifs adoptés sur la base de ces
+traités ou relevant de l'exercice légitime de l'autorité publique dont est investi l'institution ou l'organe
+communautaire ou le tiers auquel les données sont communiquées, ou
+FR Journal officiel des Communautés européennes 12.1.2001L 8/6
+b) le traitement est nécessaire au respect d'une obligation légale à laquelle le responsable du traitement est
+soumis, ou
+c) le traitement est nécessaire à l'exécution d'un contrat auquel la personne concernée est partie ou à
+l'exécution de mesures précontractuelles prises à la demande de celle-ci, ou
+d) la personne concernée a indubitablement donné son consentement, ou
+e) le traitement est nécessaire à la sauvegarde des intérêts vitaux de la personne concernée.
+Article 6
+Changement de finalité
+Sans préjudice des articles 4, 5 et 10:
+1) Les données à caractère personnel ne peuvent être traitées pour des finalités autres que celles pour
+lesquelles elles ont été collectées que si le changement de finalité est expressément autorisé par les règles
+internes de l'institution ou de l'organe communautaire.
+2) Les données à caractère personnel collectées exclusivement dans le but d'assurer la sécurité ou le
+contrôle des systèmes ou des opérations de traitement ne peuvent être utilisées pour aucune autre
+finalité, à l'exception de la prévention, la recherche, la détection et la poursuite d'infractions pénales
+graves.
+Article 7
+Transferts de données à caractère personnel entre institutions ou organes communautaires ou en
+leur sein
+Sans préjudice des articles 4, 5, 6 et 10:
+1) Les données à caractère personnel ne peuvent faire l'objet de transferts entre institutions ou organes
+communautaires ou en leur sein que si elles sont nécessaires à l'exécution légitime de missions relevant
+de la compétence du destinataire.
+2) Lorsque les données sont transférées à la suite d'une demande du destinataire, tant le responsable du
+traitement que le destinataire assument la responsabilité de la légitimité de ce transfert.
+Le responsable du traitement est tenu de vérifier la compétence du destinataire et d'évaluer à titre
+provisoire la nécessité du transfert de ces données. Si des doutes se font jour quant à la nécessité de ce
+transfert, le responsable du traitement demande au destinataire un complément d'informations.
+Le destinataire veille à ce que la nécessité du transfert des données puisse être ultérieurement vérifiée.
+3) Le destinataire traite les données à caractère personnel uniquement aux fins qui ont motivé leur
+transmission.
+Article 8
+Transferts de données à caractère personnel à des destinataires autres que les institutions et
+organes communautaires et relevant de la directive 95/46/CE
+Sans préjudice des articles 4, 5, 6 et 10, les données à caractère personnel ne sont transférées à des
+destinataires relevant de la législation nationale adoptée en application de la directive 95/46/CE que si:
+a) le destinataire démontre que les données sont nécessaires à l'exécution d'une mission effectuée dans
+l'intérêt public ou relevant de l'exercice de l'autorité publique, ou
+b) le destinataire démontre la nécessité de leur transfert et s'il n'existe aucune raison de penser que ce
+transfert pourrait porter atteinte aux intérêts légitimes de la personne concernée.
+FR Journal officiel des Communautés européennes12.1.2001 L 8/7
+Article 9
+Transfert de données à caractère personnel à des destinataires autres que les institutions et organes
+communautaires et ne relevant pas de la directive 95/46/CE
+1. Le transfert de données à caractère personnel à des destinataires autres que les institutions et organes
+communautaires, et qui ne sont pas soumis à la législation nationale adoptée en application de la directive
+95/46/CE, ne peut avoir lieu que pour autant qu'un niveau de protection adéquat soit assuré dans le pays
+du destinataire ou au sein de l'organisation internationale destinataire, et que ce transfert vise exclusivement
+à permettre l'exécution des missions qui relèvent de la compétence du responsable du traitement.
+2. Le caractère adéquat du niveau de protection offert par le pays tiers ou par l'organisation internatio-
+nale en question s'apprécie au regard de toutes les circonstances entourant une opération ou un ensemble
+d'opérations de transfert de données. Il est notamment tenu compte de la nature des données, de la finalité
+et de la durée du (ou des) traitement(s) envisagé(s), du pays tiers ou de l'organisation internationale
+destinataire, de la législation, tant générale que sectorielle, en vigueur dans le pays tiers ou applicable à
+l'organisation internationale en question ainsi que des règles professionnelles et des mesures de sécurité
+appliquées dans ce pays ou dans cette organisation internationale.
+3. Les institutions et organes communautaires informent la Commission et le contrôleur européen de la
+protection des données des cas dans lesquels ils estiment que le pays tiers ou l'organisation internationale
+en question n'assure pas un niveau de protection adéquat au sens du paragraphe 2.
+4. La Commission informe les États membres des cas visés au paragraphe 3.
+5. Les institutions et organes communautaires prennent les mesures nécessaires pour se conformer aux
+décisions prises par la Commission constatant, en application de l'article 25, paragraphes 4 et 6, de la
+directive 95/46/CE, qu'un pays tiers ou une organisation internationale assure ou n'assure pas un niveau de
+protection adéquat.
+6. Par dérogation aux paragraphes 1 et 2, l'institution ou l'organe communautaire peut transférer des
+données à caractère personnel si:
+a) la personne concernée a indubitablement donné son consentement au transfert envisagé, ou
+b) le transfert est nécessaire à l'exécution d'un contrat entre la personne concernée et le responsable du
+traitement ou à l'exécution de mesures précontractuelles prises à la demande de la personne concernée,
+ou
+c) le transfert est nécessaire à la conclusion ou à l'exécution d'un contrat conclu, dans l'intérêt de la
+personne concernée, entre le responsable du traitement et un tiers, ou
+d) le transfert est nécessaire ou rendu juridiquement obligatoire pour des motifs d'intérêt public importants
+ou pour la constatation, l'exercice ou la défense d'un droit en justice, ou
+e) le transfert est nécessaire à la sauvegarde des intérêts vitaux de la personne concernée, ou
+f) le transfert est effectué à partir d'un registre qui, conformément à la législation communautaire, est
+destiné à l'information du public et est ouvert à la consultation du public ou de toute personne justifiant
+d'un intérêt légitime, dans la mesure où les conditions fixées par la législation communautaire pour la
+consultation sont remplies dans le cas particulier.
+7. Sans préjudice du paragraphe 6, le contrôleur européen de la protection des données peut autoriser
+un transfert, ou un ensemble de transferts, de données à caractère personnel vers un pays tiers ou une
+organisation internationale n'assurant pas un niveau de protection adéquat au sens des paragraphes 1 et 2,
+lorsque le responsable du traitement offre des garanties suffisantes au regard de la protection de la vie
+privée et des libertés et droits fondamentaux des personnes, ainsi qu'à l'égard de l'exercice des droits
+correspondants; ces garanties peuvent notamment résulter de clauses contractuelles appropriées.
+8. Les institutions et organes communautaires informent le contrôleur européen de la protection des
+données des catégories de cas dans lesquels ils ont appliqué les paragraphes 6 et 7.
+FR Journal officiel des Communautés européennes 12.1.2001L 8/8
+SECTION 3
+CATÉGORIES PARTICULIÈRES DE TRAITEMENTS
+Article 10
+Traitement portant sur des catégories particulières de données
+1. Le traitement des données à caractère personnel qui révèlent l'origine raciale ou ethnique, les opinions
+politiques, les convictions religieuses ou philosophiques, l'appartenance syndicale, ainsi que le traitement
+des données relatives à la santé ou à la vie sexuelle sont interdits.
+2. Le paragraphe 1 ne s'applique pas lorsque:
+a) la personne concernée a donné son consentement explicite à un tel traitement, sauf lorsque les règles
+internes de l'institution ou de l'organe communautaire prévoient que l'interdiction visée au paragraphe 1
+ne peut pas être levée par le consentement de la personne concernée, ou
+b) le traitement est nécessaire afin de respecter les obligations et les droits spécifiques du responsable du
+traitement en matière de droit du travail, dans la mesure où il est autorisé par les traités instituant les
+Communautés européennes ou d'autres actes législatifs adoptés sur la base de ces traités ou, si cela
+s'avère nécessaire, dans la mesure où il est accepté par le contrôleur européen de la protection des
+données, moyennant des garanties adéquates, ou
+c) le traitement est nécessaire à la sauvegarde des intérêts vitaux de la personne concernée ou d'une autre
+personne dans le cas où la personne concernée se trouve dans l'incapacité physique ou juridique de
+donner son consentement, ou
+d) le traitement porte sur des données manifestement rendues publiques par la personne concernée ou est
+nécessaire à la constatation, à l'exercice ou à la défense d'un droit en justice, ou
+e) le traitement est effectué, dans le cadre de ses activités légitimes et moyennant les garanties appropriées,
+par un organisme à but non lucratif constituant une entité intégrée dans une institution ou un organe
+communautaire, non soumis au droit national applicable en matière de protection des données en vertu
+de l'article 4 de la directive 95/46/CE et poursuivant une finalité politique, philosophique, religieuse ou
+syndicale, à condition que ledit traitement se rapporte exclusivement aux membres de cet organisme ou
+aux personnes entretenant des contacts réguliers avec lui en liaison avec ses objectifs et que les données
+ne soient pas divulguées à un tiers sans le consentement des personnes concernées.
+3. Le paragraphe 1 ne s'applique pas lorsque le traitement des données est nécessaire aux fins de la
+médecine préventive, des diagnostics médicaux, de l'administration de soins ou de traitements ou de la
+gestion de services de santé et que le traitement de ces données est effectué par un praticien de la santé
+soumis au secret professionnel ou par une autre personne également soumise à une obligation de secret
+équivalente.
+4. Sous réserve de garanties appropriées, et pour un motif d'intérêt public important, des dérogations
+autres que celles prévues au paragraphe 2 peuvent être prévues par les traités instituant les Communautés
+européennes ou d'autres actes législatifs adoptés sur la base de ces traités ou, si cela s'avère nécessaire, sur
+décision du contrôleur européen de la protection des données.
+5. Le traitement de données relatives aux infractions, aux condamnations pénales ou aux mesures de
+sûreté ne peut être effectué que s'il est autorisé par les traités instituant les Communautés européennes ou
+d'autres actes législatifs adoptés sur la base de ces traités ou, si cela s'avère nécessaire, par le contrôleur
+européen de la protection des données, sous réserve des garanties spécifiques et appropriées.
+6. Le contrôleur européen de la protection des données détermine les conditions dans lesquelles un
+numéro personnel ou tout autre identifiant utilisé de manière générale peut faire l'objet d'un traitement par
+une institution ou un organe communautaire.
+FR Journal officiel des Communautés européennes12.1.2001 L 8/9
+SECTION 4
+INFORMATION DE LA PERSONNE CONCERNÉE
+Article 11
+Informations à fournir lorsque les données sont collectées auprès de la personne concernée
+1. Le responsable du traitement fournit à la personne auprès de laquelle il collecte des données la
+concernant au moins les informations énumérées ci-dessous, sauf si la personne en est déjà informée:
+a) l'identité du responsable du traitement;
+b) les finalités du traitement auquel les données sont destinées;
+c) les destinataires ou les catégories de destinataires des données;
+d) le caractère obligatoire ou facultatif de la réponse aux questions ainsi que les conséquences éventuelles
+d'un défaut de réponse;
+e) l'existence d'un droit d'accès aux données la concernant et de rectification de ces données;
+f) toute information supplémentaire telle que:
+i) la base juridique du traitement auquel les données sont destinées;
+ii) les délais de conservation des données;
+iii) le droit de saisir à tout moment le contrôleur européen de la protection des données,
+dans la mesure où, compte tenu des circonstances particulières dans lesquelles les données sont
+collectées, ces informations supplémentaires sont nécessaires pour assurer à l'égard de la personne
+concernée un traitement loyal des données.
+2. Par dérogation au paragraphe 1, la communication d'informations, ou de certains éléments d'informa-
+tion, à l'exception des informations visées au paragraphe 1, points a), b) et d), peut être reportée aussi
+longtemps que cela est nécessaire à des fins statistiques. L'information doit être communiquée dès que la
+raison pour laquelle elle ne l'a pas été cesse d'exister.
+Article 12
+Informations à fournir lorsque les données n'ont pas été collectées auprès de la personne concernée
+1. Lorsque les données n'ont pas été collectées auprès de la personne concernée, le responsable du
+traitement doit, dès l'enregistrement des données ou, si la communication de données à un tiers est
+envisagée, au plus tard lors de la première communication de données, fournir à la personne concernée au
+moins les informations énumérées ci-dessous, sauf si la personne en est déjà informée:
+a) l'identité du responsable du traitement;
+b) les finalités du traitement;
+c) les catégories de données concernées;
+d) les destinataires ou les catégories de destinataires des données;
+e) l'existence d'un droit d'accès aux données la concernant et de rectification de ces données;
+f) toute information supplémentaire telle que:
+i) la base juridique du traitement auquel les données sont destinées;
+ii) les délais de conservation des données;
+iii) le droit de saisir, à tout moment, le contrôleur européen de la protection des données;
+FR Journal officiel des Communautés européennes 12.1.2001L 8/10
+iv) l'origine des données, sauf si le responsable du traitement ne peut divulguer cette information pour
+des raisons de secret professionnel,
+dans la mesure où, compte tenu des circonstances particulières dans lesquelles les données sont
+collectées, ces informations supplémentaires sont nécessaires pour assurer à l'égard de la personne
+concernée un traitement loyal des données.
+2. Le paragraphe 1 ne s'applique pas lorsque, en particulier pour un traitement à finalité statistique ou de
+recherche historique ou scientifique, l'information de la personne concernée se révèle impossible ou
+implique des efforts disproportionnés ou si la législation communautaire prévoit expressément l'enregistre-
+ment ou la communication des données. Dans ce cas, l'institution ou l'organe communautaire prévoit des
+garanties appropriées après avoir consulté le contrôleur européen de la protection des données.
+SECTION 5
+DROITS DE LA PERSONNE CONCERNÉE
+Article 13
+Droit d'accès
+La personne concernée a le droit d'obtenir, sans contrainte, à tout moment dans un délai de trois mois à
+partir de la réception de la demande d'information et gratuitement, du responsable du traitement:
+a) la confirmation que des données la concernant sont ou ne sont pas traitées;
+b) des informations au moins sur les finalités du traitement, les catégories de données sur lesquelles il porte
+et les destinataires ou les catégories de destinataires auxquels les données sont communiquées;
+c) la communication, sous une forme intelligible, des données faisant l'objet des traitements, ainsi que de
+toute information disponible sur l'origine de ces données;
+d) la connaissance de la logique qui sous-tend tout traitement automatisé des données la concernant.
+Article 14
+Rectification
+La personne concernée a le droit d'obtenir du responsable du traitement la rectification sans délai de
+données à caractère personnel inexactes ou incomplètes.
+Article 15
+Verrouillage
+1. La personne concernée a le droit d'obtenir du responsable du traitement le verrouillage des données:
+a) lorsque leur exactitude est contestée par la personne concernée, pendant un délai permettant au
+responsable du traitement de vérifier l'exactitude, y compris l'exhaustivité, des données, ou
+b) lorsqu'elles ne sont plus utiles au responsable du traitement pour qu'il s'acquitte de sa mission, mais
+qu'elles doivent être conservées à titre probatoire, ou
+c) lorsque leur traitement est illicite et que la personne concernée s'oppose à leur effacement et exige à la
+place leur verrouillage.
+2. En ce qui concerne les fichiers automatisés, le verrouillage est en principe assuré par des dispositifs
+techniques. Le fait que les données à caractère personnel sont verrouillées est indiqué dans le système de
+façon à ce qu'il apparaisse clairement que ces données ne peuvent pas être utilisées.
+3. Des données à caractère personnel qui ont été verrouillées en application de cet article ne font l'objet
+d'un traitement, à l'exception de leur stockage, qu'à des fins probatoires, ou avec le consentement de la
+personne concernée, ou aux fins de la protection des droits des tiers.
+FR Journal officiel des Communautés européennes12.1.2001 L 8/11
+4. La personne concernée qui a demandé et obtenu le verrouillage de données la concernant est informée
+par le responsable du traitement de la levée du verrouillage avant que celle-ci n'ait lieu.
+Article 16
+Effacement
+La personne concernée a le droit d'obtenir du responsable du traitement l'effacement de données si leur
+traitement est illicite, en particulier en cas de violation des dispositions des sections 1, 2 et 3 du chapitre II.
+Article 17
+Notification aux tiers
+La personne concernée a le droit d'obtenir du responsable du traitement que soit notifié à un tiers auquel
+les données ont été communiquées toute rectification, tout effacement ou tout verrouillage de celles-ci
+conformément aux articles 13 à 16, si cela ne s'avère pas impossible ou ne suppose pas un effort
+disproportionné.
+Article 18
+Ledroit d'opposition dela personneconcernée
+La personne concernée a le droit:
+a) de s'opposer à tout moment, pour des raisons impérieuses et légitimes tenant à sa situation particulière,
+à ce que des données la concernant fassent l'objet d'un traitement, sauf dans les cas relevant de l'article
+5, points b), c) et d). En cas d'opposition justifiée, le traitement en question ne peut plus porter sur ces
+données;
+b) d'être informée avant que des données à caractère personnel ne soient pour la première fois communi-
+quées à des tiers ou utilisées pour le compte de tiers à des fins de prospection et de se voir expressément
+offrir le droit de s'opposer, gratuitement, à ladite communication ou utilisation.
+Article 19
+Décisions individuelles automatisées
+La personne concernée a le droit de ne pas être soumise à une décision produisant des effets juridiques à
+son égard ou l'affectant de manière significative, prise sur le seul fondement d'un traitement automatisé de
+données destiné à évaluer certains aspects de sa personnalité, tels que son rendement professionnel, sa
+fiabilité ou son comportement, sauf si cette décision est expressément autorisée en vertu de la législation
+nationale ou communautaire ou, si cela s'avère nécessaire, par le contrôleur européen de la protection des
+données. Dans les deux cas, des mesures garantissant la sauvegarde des intérêts légitimes de la personne
+concernée doivent être prises, telles que des mesures lui permettant de faire valoir son point de vue.
+SECTION 6
+EXCEPTIONS ET LIMITATIONS
+Article 20
+Exceptions et limitations
+1. Les institutions et organes communautaires peuvent limiter l'application de l'article 4, paragraphe 1,
+de l'article 11, de l'article 12, paragraphe 1, des articles 13 à 17 et de l'article 37, paragraphe 1, pour autant
+qu'une telle limitation constitue une mesure nécessaire pour:
+a) assurer la prévention, la recherche, la détection et la poursuite d'infractions pénales;
+b) sauvegarder un intérêt économique ou financier important d'un État membre ou des Communautés
+européennes, y compris dans les domaines monétaire, budgétaire et fiscal;
+c) garantir la protection de la personne concernée ou des droits et libertés d'autrui;
+FR Journal officiel des Communautés européennes 12.1.2001L 8/12
+d) assurer la sûreté nationale, la sécurité publique et la défense des États membres;
+e) assurer une mission de contrôle, d'inspection ou de réglementation liée, même occasionnellement, à
+l'exercice de l'autorité publique, dans les cas visés aux points a) et b).
+2. Les articles 13 à 16 ne s'appliquent pas lorsque les données sont traitées exclusivement aux fins de la
+recherche scientifique ou sont stockées sous la forme de données à caractère personnel pendant une durée
+n'excédant pas celle qui est nécessaire à seule fin d'établir des statistiques, sous réserve qu'il n'existe
+manifestement aucun risque d'atteinte à la vie privée de la personne concernée et que le responsable du
+traitement offre des garanties juridiques appropriées, qui excluent notamment que les données puissent être
+utilisées aux fins de mesures ou de décisions se rapportant à des personnes déterminées.
+3. Si une limitation prévue au paragraphe 1 est imposée, la personne concernée est informée conformé-
+ment au droit communautaire des principales raisons qui motivent cette limitation et de son droit de saisir
+le contrôleur européen de la protection des données.
+4. Si une limitation prévue au paragraphe 1 est invoquée pour refuser l'accès à la personne concernée, le
+contrôleur européen de la protection des données lui fait uniquement savoir, lorsqu'il examine la réclama-
+tion, si les données ont été traitées correctement et, dans la négative, si toutes les corrections nécessaires ont
+été apportées.
+5. L'information visée aux paragraphes 3 et 4 peut être reportée aussi longtemps qu'elle prive d'effet la
+limitation imposée sur la base du paragraphe 1.
+SECTION 7
+CONFIDENTIALITÉ ET SÉCURITÉ DES TRAITEMENTS
+Article 21
+Confidentialité des traitements
+La personne employée par une institution ou un organe communautaire, ainsi que les institutions ou
+organes communautaires agissant eux-mêmes comme sous-traitant, qui accèdent à des données à caractère
+personnel, ne peuvent les traiter que sur instruction du responsable du traitement, sauf si la législation
+nationale ou communautaire le requiert.
+Article 22
+Sécurité des traitements
+1. Compte tenu de l'état de l'art et des coûts liés à leur mise en œuvre, le responsable du traitement met
+en œuvre les mesures techniques et organisationnelles appropriées pour assurer un niveau de sécurité
+approprié au regard des risques présentés par le traitement et de la nature des données à caractère personnel
+à protéger.
+Ces mesures sont prises notamment afin d'empêcher toute diffusion ou tout accès non autorisés, toute
+destruction accidentelle ou illicite, toute perte accidentelle ou toute altération, ainsi que toute autre forme
+de traitement illicite.
+2. Lorsque des données à caractère personnel font l'objet d'un traitement automatisé, des mesures sont
+prises lorsqu'elles sont nécessaires au regard des risques encourus, notamment dans le but:
+a) d'empêcher toute personne non autorisée d'avoir accès aux systèmes informatiques de traitement des
+données à caractère personnel;
+b) d'empêcher que des supports de stockage puissent être lus, copiés, modifiés ou déplacés sans autorisa-
+tion;
+c) d'empêcher toute introduction non autorisée de données dans la mémoire ainsi que toute divulgation,
+toute modification ou tout effacement non autorisés de données à caractère personnel mémorisées;
+FR Journal officiel des Communautés européennes12.1.2001 L 8/13
+d) d'empêcher des personnes non autorisées d'utiliser des systèmes de traitement de données au moyen
+d'installations de transmission de données;
+e) de garantir que les utilisateurs autorisés d'un système de traitement des données ne puissent accéder
+qu'aux données à caractère personnel que leur droit d'accès leur permet de consulter;
+f) de garder une trace des données à caractère personnel qui ont été communiquées, du moment où elles
+l'ont été et de leur destinataire;
+g) de garantir qu'il sera possible de vérifier a posteriori quelles données à caractère personnel ont été
+traitées, à quel moment et par quelles personnes;
+h) de garantir que des données personnelles qui sont traitées pour le compte de tiers ne peuvent l'être que
+de la façon prévue par l'institution ou l'organe contractant;
+i) de garantir que, lors de la communication de données à caractère personnel et du transport de supports
+de stockage, les données ne puissent être lues, copiées ou effacées sans autorisation;
+j) de concevoir la structure organisationnelle interne d'une institution ou d'un organe de manière à ce
+qu'elle réponde aux exigences propres à la protection des données.
+Article 23
+Traitement de données à caractère personnel pour le compte du responsable du traitement
+1. Lorsque le traitement est effectué pour son compte, le responsable du traitement choisit un sous-trai-
+tant qui apporte des garanties suffisantes au regard des mesures de sécurité technique et d'organisation
+prévues par l'article 22 et veille au respect de ces mesures.
+2. La réalisation de traitements en sous-traitance doit être régie par un contrat ou un acte juridique qui
+lie le sous-traitant au responsable du traitement et qui prévoit notamment que:
+a) le sous-traitant n'agit que sur instruction du responsable du traitement;
+b) les obligations visées aux articles 21 et 22 incombent également au sous-traitant, à moins que, en vertu
+de l'article 16 ou de l'article 17, paragraphe 3, deuxième tiret, de la directive 95/46/CE, le sous-traitant
+soit déjà soumis à des obligations de confidentialité et de sécurité énoncées dans la législation nationale
+de l'un des États membres.
+3. Aux fins de la conservation des preuves, les éléments du contrat ou de l'acte juridique relatifs à la
+protection des données et les exigences portant sur les mesures visées à l'article 22 sont consignés par écrit
+ou sous une autre forme équivalente.
+SECTION 8
+DÉLÉGUÉ À LA PROTECTION DES DONNÉES
+Article 24
+Désignation et tâches d'un délégué à la protection des données
+1. Chaque institution et organe communautaire désigne au moins une personne comme délégué à la
+protection des données. Les attributions de ce délégué sont les suivantes:
+a) veiller à ce que les responsables du traitement et les personnes concernées soient informés de leurs droits
+et obligations au titre du présent règlement;
+b) répondre aux demandes du contrôleur européen de la protection des données et, dans son domaine de
+compétence, coopérer avec le contrôleur européen de la protection des données à la demande de ce
+dernier ou de sa propre initiative;
+c) assurer, d'une manière indépendante, l'application interne des dispositions du présent règlement;
+FR Journal officiel des Communautés européennes 12.1.2001L 8/14
+d) tenir un registre des traitements effectués par le responsable du traitement, contenant les informations
+visées à l'article 25, paragraphe 2;
+e) notifier au contrôleur européen de la protection des données les opérations de traitement susceptibles de
+présenter des risques particuliers au sens de l'article 27.
+Ce délégué veille ainsi à ce que le traitement ne risque pas de porter atteinte aux droits et libertés des
+personnes concernées.
+2. Le délégué à la protection des données est choisi en fonction de ses qualités personnelles et
+professionnelles et, en particulier, de ses connaissances spécialisées dans le domaine de la protection des
+données.
+3. Le choix du délégué à la protection des données ne doit pas pouvoir donner lieu à un conflit d'intérêts
+entre sa fonction de délégué et toute autre fonction officielle qu'il pourrait exercer, en particulier dans le
+cadre de l'application des dispositions du présent règlement.
+4. Le délégué à la protection des données est nommé pour une période de deux à cinq ans. Son mandat
+pourra être renouvelé, la durée totale du mandat ne pouvant toutefois dépasser dix ans. Il ne peut être
+démis de ses fonctions de délégué à la protection des données par l'institution ou l'organe communautaire
+qui l'a désigné qu'avec le consentement du contrôleur européen de la protection des données, s'il ne remplit
+plus les conditions requises pour l'exercice de ses fonctions.
+5. Après la nomination du délégué à la protection des données, le nom de ce dernier est communiqué au
+contrôleur européen de la protection des données par l'institution ou l'organe qui l'a désigné.
+6. Le délégué à la protection des données se voit affecter par l'institution ou l'organe communautaire qui
+l'a désigné le personnel et les ressources nécessaires à l'exécution de ses missions.
+7. Le délégué à la protection des données ne peut recevoir aucune instruction dans l'exercice de ses
+fonctions.
+8. Des dispositions complémentaires d'application sont adoptées par chaque institution ou organe
+communautaire conformément aux dispositions figurant à l'annexe. Ces dispositions complémentaires
+concernent en particulier les tâches, les fonctions et les compétences du délégué à la protection des
+données.
+Article 25
+Notification au délégué à la protection des données
+1. Avant d'entreprendre un traitement ou une série de traitements poursuivant une même finalité ou des
+finalités liées, le responsable du traitement en informe le délégué à la protection des données.
+2. Les informations à fournir comprennent:
+a) le nom et l'adresse du responsable du traitement et l'indication des services d'une institution ou d'un
+organe chargés du traitement de données à caractère personnel dans un but spécifique;
+b) la ou les finalités du traitement;
+c) une description de la catégorie ou des catégories de personnes concernées et des données ou des
+catégories de données s'y rapportant;
+d) la base juridique du traitement auquel les données sont destinées;
+e) les destinataires ou les catégories de destinataires auxquels les données sont susceptibles d'être
+communiquées;
+f) une indication générale des dates limites pour le verrouillage et l'effacement des différentes catégories de
+données;
+g) les transferts de données envisagés à destination de pays tiers ou d'organisations internationales;
+h) une description générale permettant une évaluation préliminaire du caractère approprié des mesures
+prises pour assurer la sécurité du traitement en application de l'article 22.
+FR Journal officiel des Communautés européennes12.1.2001 L 8/15
+3. Le délégué à la protection des données est informé rapidement de tout changement affectant les
+informations visées au paragraphe 2.
+Article 26
+Registre
+Chaque délégué à la protection des données tient un registre des traitements notifiés en vertu de l'article 25.
+Les registres contiennent au minimum les informations visées à l'article 25, paragraphe 2, points a) à g).
+Toute personne peut consulter les registres directement ou indirectement par l'intermédiaire du contrôleur
+européen à la protection des données.
+SECTION 9
+CONTRÔLES PRÉALABLES EFFECTUÉS PAR LE CONTRÔLEUR EUROPÉEN DE LA PROTECTION DES
+DONNÉES ET OBLIGATION DE COOPÉRER
+Article 27
+Contrôles préalables
+1. Les traitements susceptibles de présenter des risques particuliers au regard des droits et libertés des
+personnes concernées du fait de leur nature, de leur portée ou de leurs finalités sont soumis au contrôle
+préalable du contrôleur européen de la protection des données.
+2. Les traitements susceptibles de présenter de tels risques sont les suivants:
+a) les traitements de données relatives à la santé et les traitements de données relatives à des suspicions,
+infractions, condamnations pénales ou mesures de sûreté;
+b) les traitements destinés à évaluer des aspects de la personnalité des personnes concernées, tels que leur
+compétence, leur rendement ou leur comportement;
+c) les traitements permettant des interconnexions non prévues en vertu de la législation nationale ou
+communautaire entre des données traitées pour des finalités différentes;
+d) les traitements visant à exclure des personnes du bénéfice d'un droit, d'une prestation ou d'un contrat.
+3. Les contrôles préalables sont effectués par le contrôleur européen de la protection des données après
+réception de la notification du délégué à la protection des données qui, en cas de doute quant à la nécessité
+d'un contrôle préalable, consulte le contrôleur européen de la protection des données.
+4. Le contrôleur européen de la protection des données rend son avis dans les deux mois qui suivent la
+réception de la notification. Ce délai peut être suspendu jusqu'à ce que le contrôleur européen de la
+protection des données ait obtenu les informations complémentaires demandées. Lorsque la complexité du
+dossier le rend nécessaire, ce délai peut également être prolongé pour une nouvelle période de deux mois
+sur décision du contrôleur européen de la protection des données. Cette décision est notifiée au responsable
+du traitement avant l'expiration du délai initial de deux mois.
+Si, au terme du délai de deux mois, éventuellement prolongé, l'avis n'est pas rendu, il est réputé favorable.
+Si, de l'avis du contrôleur européen de la protection des données, le traitement notifié risque d'entraîner une
+violation d'une disposition quelconque du présent règlement, il formule, le cas échéant, des propositions
+afin d'éviter une telle violation. Si le responsable du traitement ne modifie pas le traitement en conséquence,
+le contrôleur européen de la protection des données peut exercer les pouvoirs qui lui sont conférés à
+l'article 47, paragraphe 1.
+5. Le contrôleur européen de la protection des données tient un registre de tous les traitements qui lui
+sont notifiés en vertu du paragraphe 2. Le registre contient les informations visées à l'article 25 et peut être
+consulté par toute personne.
+FR Journal officiel des Communautés européennes 12.1.2001L 8/16
+Article 28
+Consultation
+1. Les institutions et organes communautaires informent le contrôleur européen de la protection des
+données lorsqu'elles élaborent des mesures administratives relatives au traitement de données à caractère
+personnel impliquant une institution ou un organe communautaire, seuls ou conjointement avec d'autres.
+2. Lorsqu'elle adopte une proposition de législation relative à la protection des droits et libertés des
+personnes à l'égard du traitement de données à caractère personnel, la Commission consulte le contrôleur
+européen de la protection des données.
+Article 29
+Obligation d'information
+Les institutions et organes communautaires informent le contrôleur européen de la protection des données
+des mesures adoptées à la suite des décisions ou autorisations de ce dernier visées à l'article 46, point h).
+Article 30
+Obligation decoopérer
+À la demande du contrôleur européen de la protection des données, les responsables du traitement lui
+apportent une assistance dans l'accomplissement de ses fonctions, notamment en lui communiquant les
+informations visées à l'article 47, paragraphe 2, point a), et en lui accordant l'accès prévu à l'article 47,
+paragraphe 2, point b).
+Article 31
+Obligation derépondreaux allégations
+En réponse à l'exercice par le contrôleur européen de la protection des données des compétences qui lui
+sont attribuées en vertu de l'article 47, paragraphe 1, point b), le responsable du traitement concerné
+informe celui-ci de son point de vue, dans un délai raisonnable que le contrôleur européen de la protection
+des données aura fixé. Dans cet avis figure également une description des mesures prises, le cas échéant, en
+réponse aux observations du contrôleur européen de la protection des données.
+CHAPITRE III
+VOIES DE RECOURS
+Article 32
+Recours
+1. La Cour de justice des Communautés européennes est compétente pour connaître de tout litige relatif
+aux dispositions du présent règlement, y compris les demandes de réparation.
+2. Sans préjudice d'un recours juridictionnel, toute personne concernée peut présenter une réclamation
+au contrôleur européen de la protection des données si elle estime que les droits qui lui sont reconnus à
+l'article 286 du traité ont été violés à la suite du traitement de données à caractère personnel la concernant,
+effectué par une institution ou un organe communautaire.
+L'absence de réponse du contrôleur européen de la protection des données dans un délai de 6 mois
+équivaut à une décision de rejet de la réclamation.
+3. Les décisions du contrôleur européen de la protection des données peuvent faire l'objet d'un recours
+devant la Cour de justice des Communautés européennes.
+4. Toute personne ayant subi un dommage du fait d'un traitement illicite ou de toute action incompa-
+tible avec le présent règlement a le droit d'obtenir la réparation du préjudice subi conformément à l'article
+288 du traité.
+Article 33
+Réclamations du personnel des Communautés
+Toute personne employée par une institution ou un organe communautaire peut présenter une réclamation
+au contrôleur européen de la protection des données pour une violation alléguée des dispositions du
+présent règlement régissant le traitement des données à caractère personnel, sans passer par les voies
+officielles. Nul ne doit subir de préjudice pour avoir présenté au contrôleur européen de la protection des
+données une réclamation alléguant une violation des dispositions qui régissent le traitement des données à
+caractère personnel.
+FR Journal officiel des Communautés européennes12.1.2001 L 8/17
+CHAPITRE IV
+PROTECTION DES DONNÉES À CARACTÈRE PERSONNEL ET DE LA VIE PRIVÉE DANS LE
+CADRE DES RÉSEAUX INTERNES DE TÉLÉCOMMUNICATIONS
+Article 34
+Champ d'application
+Sans préjudice des autres dispositions du présent règlement, le présent chapitre s'applique aux traitements
+de données à caractère personnel liés à l'utilisation de réseaux de télécommunications ou des équipements
+de terminaux fonctionnant sous le contrôle d'une institution ou d'un organe communautaire.
+Aux fins du présent chapitre, on entend par «utilisateur» toute personne physique utilisant un réseau de
+télécommunications ou un équipement de terminal fonctionnant sous le contrôle d'une institution ou d'un
+organe communautaire.
+Article 35
+Sécurité
+1. Les institutions et organes communautaires prennent les mesures techniques et organisationnelles
+appropriées afin de garantir la sécurité d'utilisation des réseaux de télécommunications et des équipements
+de terminaux, le cas échéant en liaison avec les fournisseurs des services de télécommunications accessibles
+au public ou les fournisseurs des réseaux publics de télécommunications. Ces mesures sont de nature à
+garantir un niveau de sécurité adapté au risque existant, compte tenu des possibilités techniques les plus
+récentes et du coût lié à la mise en œuvre desdites mesures.
+2. Lorsqu'il existe un risque particulier ne permettant plus de garantir la sécurité du réseau et des
+équipements de terminaux, l'institution ou l'organe communautaire concerné informe les utilisateurs de
+l'existence de ce risque ainsi que des mesures susceptibles de l'éliminer et des autres moyens de communica-
+tion susceptibles d'être utilisés.
+Article 36
+Confidentialité des communications
+Les institutions et organes communautaires garantissent la confidentialité des communications réalisées au
+moyen de réseaux de télécommunications et des équipements de terminaux dans le respect des principes
+généraux du droit communautaire.
+Article 37
+Données relatives au trafic et à la facturation
+1. Sans préjudice des paragraphes 2, 3 et 4, les données relatives au trafic qui concernent les utilisateurs
+et qui sont traitées et mises en mémoire afin d'établir les communications, ou d'autres types de connexions,
+sur les réseaux de télécommunications sont effacées ou rendues anonymes dès que la communication ou la
+connexion concernées sont terminées.
+2. Si nécessaire, les données relatives au trafic telles qu'indiquées dans une liste agréée par le contrôleur
+européen de la protection des données peuvent être traitées, aux fins de la gestion du budget des
+télécommunications et du trafic, y compris la vérification de l'usage autorisé des systèmes de télécommuni-
+cation. Ces données sont effacées ou rendues anonymes dès que possible, et au plus tard six mois après leur
+collecte, à moins que leur conservation ultérieure soit nécessaire à la constatation, à l'exercice ou à la
+défense d'un droit dans le cadre d'une action en justice en instance devant un tribunal.
+3. Le traitement des données relatives au trafic et à la facturation ne peut être réalisé que par les
+personnes responsables de la gestion de la facturation, du trafic ou du budget.
+4. Les utilisateurs de réseaux de télécommunications ont le droit de recevoir des factures ou d'autres
+relevés non détaillés des appels effectués.
+Article 38
+Annuaires d'utilisateurs
+1. Les données à caractère personnel contenues dans des annuaires d'utilisateurs imprimés ou électro-
+niques et l'accès à ces annuaires sont limités à ce qui est strictement nécessaire aux fins spécifiques de
+l'annuaire.
+FR Journal officiel des Communautés européennes 12.1.2001L 8/18
+2. Les institutions et organes communautaires prennent toutes les mesures nécessaires pour empêcher
+que les données à caractère personnel contenues dans les annuaires, qu'ils soient ou non accessibles au
+public, ne soient utilisées à des fins de prospection directe.
+Article 39
+Indication de l'identification des lignes appelantes et connectées et limitation de cette possibilité
+1. Dans les cas où l'indication de l'identification de la ligne appelante est offerte, l'utilisateur appelant
+doit pouvoir éliminer, par un moyen simple et gratuit, l'indication de l'identification de la ligne appelante.
+2. Dans les cas où l'indication de l'identification de la ligne appelante est offerte, l'utilisateur appelé doit
+pouvoir empêcher, par un moyen simple et gratuit, l'indication de l'identification de la ligne pour les appels
+entrants.
+3. Dans les cas où l'indication de l'identification de la ligne connectée est offerte, l'utilisateur appelé doit
+pouvoir, par un moyen simple et gratuit, supprimer l'indication de l'identification de la ligne connectée
+auprès de la personne qui appelle.
+4. Dans les cas où l'indication de l'identification de la ligne appelante ou connectée est offerte, les
+institutions et organes communautaires informent les utilisateurs de cette situation, ainsi que des possibi-
+lités prévues aux paragraphes 1, 2 et 3.
+Article 40
+Dérogations
+Les institutions et organes communautaires veillent à l'existence de procédures transparentes régissant les
+modalités grâce auxquelles elles peuvent passer outre à la suppression de l'indication de l'identification de la
+ligne appelante:
+a) à titre temporaire, lorsqu'un utilisateur demande l'identification d'appels malveillants ou dérangeants;
+b) ligne par ligne pour les organismes répondant à des appels d'urgence, dans le but de répondre à de tels
+appels.
+CHAPITRE V
+AUTORITÉ DE CONTRÔLE INDÉPENDANTE: LE CONTRÔLEUR EUROPÉEN DE LA
+PROTECTION DES DONNÉES
+Article 41
+Le contrôleur européen de la protection des données
+1. Il est institué une autorité de contrôle indépendante dénommée le contrôleur européen de la
+protection des données.
+2. En ce qui concerne le traitement de données à caractère personnel, le contrôleur européen de la
+protection des données est chargé de veiller à ce que les libertés et droits fondamentaux des personnes
+physiques, notamment leur vie privée, soient respectés par les institutions et organes communautaires.
+Le contrôleur européen de la protection des données est chargé de surveiller et d'assurer l'application des
+dispositions du présent règlement et de tout autre acte communautaire concernant la protection des libertés
+et droits fondamentaux des personnes physiques à l'égard des traitements de données à caractère personnel
+effectués par une institution ou un organe communautaire ainsi que de conseiller les institutions et organes
+communautaires et les personnes concernées pour toutes les questions concernant le traitement des
+données à caractère personnel. À ces fins, il exerce les fonctions prévues à l'article 46 et les compétences
+qui lui sont conférées à l'article 47.
+Article 42
+Nomination
+1. Le Parlement européen et le Conseil nomment, d'un commun accord, le contrôleur européen de la
+protection des données pour une durée de cinq ans, sur la base d'une liste établie par la Commission à la
+suite d'un appel public à candidatures.
+Un contrôleur adjoint est nommé selon la même procédure et pour la même durée. Il assiste le contrôleur
+dans l'ensemble de ses fonctions et le supplée en cas d'absence ou d'empêchement.
+FR Journal officiel des Communautés européennes12.1.2001 L 8/19
+2. Le contrôleur européen de la protection des données est choisi parmi les personnes offrant toutes
+garanties d'indépendance et qui possèdent une expérience et une compétence notoires pour l'accomplisse-
+ment des fonctions de contrôleur européen de la protection des données, par exemple parce qu'ils
+appartiennent ou ont appartenu aux autorités de contrôle visées à l'article 28 de la directive 95/46/CE.
+3. Le mandat du contrôleur européen de la protection des données est renouvelable.
+4. En dehors des renouvellements réguliers et des décès, les fonctions du contrôleur européen de la
+protection des données prennent fin en cas de démission ou de mise à la retraite d'office conformément au
+paragraphe 5.
+5. Le contrôleur européen de la protection des données peut être déclaré démissionnaire ou déchu du
+droit à pension ou d'autres avantages en tenant lieu par la Cour de justice, à la requête du Parlement
+européen, du Conseil ou de la Commission, s'il ne remplit plus les conditions nécessaires à l'exercice de ses
+fonctions ou s'il a commis une faute grave.
+6. Dans les cas de renouvellement régulier et de démission volontaire, le contrôleur européen de la
+protection des données reste néanmoins en fonction jusqu'à ce qu'il soit pourvu à son remplacement.
+7. Les articles 12 à 15 et 18 du protocole sur les privilèges et immunités des Communautés européennes
+s'appliquent également au contrôleur européen de la protection des données.
+8. Les paragraphes 2 à 7 s'appliquent au contrôleur adjoint.
+Article 43
+Statut et conditions générales d'exercice des fonctions de contrôleur européen de la protection des
+données, ressources humaines et financières
+1. Le Parlement européen, le Conseil et la Commission fixent, d'un commun accord, le statut et les
+conditions générales d'exercice des fonctions de contrôleur européen de la protection des données et, en
+particulier, son traitement, ses indemnités et tout avantage tenant lieu de rémunération.
+2. L'autorité budgétaire veille à ce que le contrôleur européen de la protection des données dispose des
+ressources humaines et financières nécessaires à l'exécution de sa mission.
+3. Le budget du contrôleur européen de la protection des données figure sur une ligne spécifique de la
+section VIII du budget général de l'Union européenne.
+4. Le contrôleur européen de la protection des données est assisté par un secrétariat. Les fonctionnaires
+et les autres agents du secrétariat sont nommés par le contrôleur européen de la protection des données, qui
+est leur supérieur hiérarchique et dont ils relèvent exclusivement. Leur nombre est arrêté chaque année dans
+le cadre de la procédure budgétaire.
+5. Les fonctionnaires et les autres agents du secrétariat du contrôleur européen de la protection des
+données sont soumis aux règlements et réglementations applicables aux fonctionnaires et autres agents des
+Communautés européennes.
+6. Pour les questions concernant son personnel, le contrôleur européen de la protection des données est
+assimilé aux institutions au sens de l'article 1
+er
+du statut des fonctionnaires des Communautés européennes.
+Article 44
+Indépendance
+1. Le contrôleur européen de la protection des données exerce ses fonctions en toute indépendance.
+2. Dans l'accomplissement de sa mission, le contrôleur européen de la protection des données ne
+sollicite ni n'accepte d'instructions de quiconque.
+3. Le contrôleur européen de la protection des données s'abstient de tout acte incompatible avec le
+caractère de ses fonctions et, pendant la durée de celles-ci, ne peut exercer aucune autre activité profession-
+nelle, rémunérée ou non.
+FR Journal officiel des Communautés européennes 12.1.2001L 8/20
+4. Après la cessation de ses fonctions, le contrôleur européen de la protection des données est tenu de
+respecter les devoirs d'honnêteté et de délicatesse quant à l'acceptation de certaines fonctions ou de certains
+avantages.
+Article 45
+Secret professionnel
+Le contrôleur européen de la protection des données et son personnel sont, pendant la durée de leurs
+fonctions et après la cessation de celles-ci, tenus au secret professionnel en ce qui concerne toute
+information confidentielle dont ils ont eu connaissance dans l'exercice de leurs fonctions.
+Article 46
+Fonctions
+Le contrôleur européen de la protection des données:
+a) entend et examine les réclamations et informe la personne concernée des résultats de son examen dans
+un délai raisonnable;
+b) effectue des enquêtes, soit de sa propre initiative, soit sur la base d'une réclamation et informe les
+personnes concernées du résultat de ses enquêtes dans un délai raisonnable;
+c) contrôle et assure l'application du présent règlement et de tout autre acte communautaire relatifs à la
+protection des personnes physiques à l'égard du traitement de données à caractère personnel par une
+institution ou un organe communautaire, à l'exclusion de la Cour de justice des Communautés
+européennes dans l'exercice de ses fonctions juridictionnelles;
+d) conseille l'ensemble des institutions et organes communautaires, soit de sa propre initiative, soit en
+réponse à une consultation pour toutes les questions concernant le traitement de données à caractère
+personnel, en particulier avant l'élaboration par ces institutions et organes de règles internes relatives à la
+protection des libertés et droits fondamentaux des personnes à l'égard du traitement des données à
+caractère personnel;
+e) surveille les faits nouveaux présentant un intérêt, dans la mesure où ils ont une incidence sur la
+protection des données à caractère personnel, notamment l'évolution des technologies de l'information
+et des communications;
+f) i) coopère avec les autorités nationales de contrôle mentionnées à l'article 28 de la directive 95/46/CE
+des pays auxquels cette directive s'applique dans la mesure nécessaire à l'accomplissement de leurs
+devoirs respectifs, notamment en échangeant toutes informations utiles, en demandant à une telle
+autorité ou à un tel organe d'exercer ses pouvoirs ou en répondant à une demande d'une telle
+autorité ou d'un tel organe;
+ii) coopère également avec les organes de contrôle de la protection des données institués en vertu du
+titre VI du traité sur l'Union européenne en vue notamment d'améliorer la cohérence dans l'applica-
+tion des règles et procédures dont ils sont respectivement chargés d'assurer le respect;
+g) participe aux activités du groupe de protection des personnes à l'égard du traitement des données à
+caractère personnel institué par l'article 29 de la directive 95/46/CE;
+h) détermine, motive et rend publiques les exceptions, garanties, autorisations et conditions mentionnées à
+l'article 10, paragraphe 2, point b), paragraphes 4, 5 et 6, à l'article 12, paragraphe 2, à l'article 19, et à
+l'article 37, paragraphe 2;
+i) tient un registre des traitements qui lui ont été notifiés en vertu de l'article 27, paragraphe 2, et
+enregistrés conformément à l'article 27, paragraphe 5, et fournit les moyens d'accéder aux registres tenus
+par les délégués à la protection des données en application de l'article 26;
+j) effectue un contrôle préalable des traitements qui lui ont été notifiés;
+k) établit son règlement intérieur.
+FR Journal officiel des Communautés européennes12.1.2001 L 8/21
+Article 47
+Compétences
+1. Le contrôleur européen de la protection des données peut:
+a) conseiller les personnes concernées dans l'exercice de leurs droits;
+b) saisir le responsable du traitement en cas de violation alléguée des dispositions régissant le traitement
+des données à caractère personnel et, le cas échéant, formuler des propositions tendant à remédier à
+cette violation et à améliorer la protection des personnes concernées;
+c) ordonner que les demandes d'exercice de certains droits à l'égard des données soient satisfaites lorsque
+de telles demandes ont été rejetées en violation des articles 13 à 19;
+d) adresser un avertissement ou une admonestation au responsable du traitement;
+e) ordonner la rectification, le verrouillage, l'effacement ou la destruction de toutes les données lorsqu'elles
+ont été traitées en violation des dispositions régissant le traitement de données à caractère personnel et
+la notification de ces mesures aux tiers auxquels les données ont été divulguées;
+f) interdire temporairement ou définitivement un traitement;
+g) saisir l'institution ou l'organe concerné et, si nécessaire, le Parlement européen, le Conseil et la
+Commission;
+h) saisir la Cour de justice des Communautés européennes dans les conditions prévues par le traité;
+i) intervenir dans les affaires portées devant la Cour de justice des Communautés européennes.
+2. Le contrôleur européen de la protection des données est habilité à:
+a) obtenir d'un responsable du traitement ou d'une institution ou d'un organe communautaire l'accès à
+toutes les données à caractère personnel et à toutes les informations nécessaires à ses enquêtes;
+b) obtenir l'accès à tous les locaux dans lesquels un responsable du traitement ou une institution ou un
+organe communautaire exerce ses activités s'il existe un motif raisonnable de supposer que s'y exerce
+une activité visée par le présent règlement.
+Article 48
+Rapport d'activité
+1. Le contrôleur européen de la protection des données présente au Parlement européen, au Conseil et à
+la Commission un rapport annuel sur ses activités, qu'il publie parallèlement.
+2. Le contrôleur européen transmet le rapport d'activité aux autres institutions et organes communau-
+taires qui peuvent présenter des observations en vue d'un éventuel examen du rapport par le Parlement
+européen, notamment en ce qui concerne la présentation des mesures prises en réponse aux remarques
+faites par le contrôleur européen de la protection des données en vertu de l'article 31.
+CHAPITRE VI
+DISPOSITIONS FINALES
+Article 49
+Sanctions
+Tout manquement aux obligations auxquelles un fonctionnaire ou un autre agent des Communautés
+européennes est tenu en vertu du présent règlement, commis intentionnellement ou par négligence, l'expose
+à une sanction disciplinaire, conformément aux dispositions du statut des fonctionnaires des Communautés
+européennes ou aux régimes qui sont applicables aux autres agents.
+FR Journal officiel des Communautés européennes 12.1.2001L 8/22
+Article 50
+Périodetransitoire
+Les institutions et organes communautaires prennent les mesures nécessaires pour que les opérations de
+traitement déjà en cours à la date d'entrée en vigueur du présent règlement soient mises en conformité avec
+celui-ci, dans un délai d'un an à compter de ladite date.
+Article 51
+Entrée en vigueur
+Le présent règlement entre en vigueur le vingtième jour suivant celui de sa publication au Journal officiel des
+Communautés européennes.
+Le présent règlement est obligatoire dans tous ses éléments et directement applicable dans tout
+État membre.
+Fait à Bruxelles, le 18 décembre 2000.
+Par le Parlement européen
+La présidente
+N. FONTAINE
+Par le Conseil
+Le président
+D. VOYNET
+ANNEXE
+1. Le délégué à la protection des données peut faire, en vue d'améliorer concrètement la protection des données, des
+recommandations à l'institution ou à l'organe communautaire qui l'a désigné et conseiller ces derniers ainsi que le
+responsable du traitement concerné sur des questions touchant à l'application des dispositions relatives à la protection
+des données. En outre, de sa propre initiative ou à la demande de l'institution ou l'organe communautaire qui l'a
+désigné, du responsable du traitement, du comité du personnel concerné ou de toute personne physique, il peut
+examiner des questions et des faits qui sont directement en rapport avec ses attributions et qui ont été portés à sa
+connaissance et faire rapport à la personne qui a demandé cet examen ou au responsable du traitement.
+2. Le délégué à la protection des données peut être consulté directement, sans passer par les voies officielles, sur toute
+question concernant l'interprétation ou l'application du présent règlement, par l'institution ou l'organe communautaire
+qui l'a désigné, le responsable du traitement ou le comité du personnel concerné ou encore par toute personne
+physique.
+3. Aucune personne ne doit subir de préjudice pour avoir porté à l'attention du délégué à la protection des données
+compétent un fait dont elle allègue qu'il constitue une violation des dispositions du présent règlement.
+4. Tout responsable du traitement concerné est tenu d'aider le délégué à la protection des données dans l'exécution de ses
+missions et de lui fournir les informations qu'il sollicite. Dans l'accomplissement de ses missions, le délégué à la
+protection des données a accès, à tout moment, aux données qui font l'objet des opérations de traitement, à tous les
+locaux, toutes les installations de traitement de données et tous les supports d'information.
+5. Dans la mesure nécessaire, le délégué à la protection des données est déchargé d'autres activités. Le délégué à la
+protection des données et son personnel, auxquels s'applique l'article 287 du traité, sont tenus de ne pas divulguer les
+informations ou les documents obtenus dans l'exercice de leurs fonctions.

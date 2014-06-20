@@ -1,0 +1,4056 @@
+É d i t i o n  2 0 1 0
+8 rue Vivienne - CS 30223
+75083 Paris cedex 02
+Tél : 01 53 73 22 22
+Fax : 01 53 73 22 00 
+LA SÉCURITÉ DES DONNÉES 
+PERSONNELLES
+Ce guide est téléchargeable sur le site Internet de la CNIL : www.cnil.fr
+Sommaire
+Avant-propos page 1
+Introduction page 3
+Termes & définitions page 5
+Fiche n° 1 - Quels risques ? page 6
+Fiche n° 2 ???uthentification des utilisateurs page 9
+Fiche n° ??? ?stion des ha?litations & la sensi?lisation des utilisateurs page 11
+Fiche n° ??a sécurité des postes de travail page 15
+Fiche n° ?- ?mment sécuriser l?n?rmatique mo?le ? page 17
+Fiche n° ?- ?s sauve?rdes et la continuité d?ctivité page 18
+Fiche n° ?- ? maintenance page ?
+Fiche n° ??? traca?lité et la ?stion des incidents page ?
+Fiche n° ??? sécurité des locau? page ?
+Fiche n° 1??? sécurité du réseau in?rmatique interne page ?
+Fiche n° 11 ?? sécurité des serveurs et des applications page ?
+Fiche n° 12 - ? sous-traitance page 3?
+Fiche n° 1?- ??rchiva? page 3?
+Fiche n° 1?- ??chan? d?n?rmations avec d?utres or?nismes page 3?
+Fiche n° 1?- ?s développements in?rmatiques page 37
+Fiche n° 1????non?isation page 38
+Fiche n° 1??? chi??ement page ?
+Acron?es page ?
+Anne?s page ?
+?
+?
+?
+N
+?
+?
+?
+?
+?
+?
+?
+?La place grandissante de l’informatique dans toutes les sphères de notre 
+société entraîne la production, le traitement et la dissémination d’un nombre 
+croissant de données personnelles.
+Les menaces pesant sur les systèmes et réseaux d’information incluent la 
+fraude informatique, le détournement de finalité, la captation frauduleuse, la 
+perte de données, le vandalisme, ou encore les sinistres les plus fréquents, tels 
+que l’incendie ou l’inondation.
+La loi «informatique et libertés?impose que les organismes mettant en ?vre 
+des traitements ou disposant de fichiers de données en garantissent la 
+sécurité. ?r sécurité des données, on entend l’ensemble des «précautions 
+utiles, au regard de la nature des données et des risques présentés par le 
+traitement? pour notamment, «emp?her que les données soient déformées, 
+endommagées, ou que des tiers non autorisés y aient accès.? ?rt.? loi ?? 
+?tte sécurité se con?it pour l’ensemble des processus relatifs ?ces données, 
+qu’il s’agisse de leur création, leur utilisation, leur sauvegarde, leur archivage ou 
+leur destruction et concerne leur confidentialité, leur intégrité, leur authenticité 
+et leur disponibilité.
+? guide s’adresse ?tout responsable de traitement ainsi qu’?toute personne 
+disposant d’un minimum de connaissances informatiques ?dministrateur 
+système, développeur, responsable de la sécurité des systèmes d’information, 
+utilisateur? et souhaitant évaluer le niveau de sécurité dont doit bénéficier tout 
+traitement de données ?caractère personnel.
+? présente un ensemble de préconisations essentielles regroupées par fiches 
+thématiques concernant la sécurité de données ?caractère personnel.
+?aque fiche est structurée en trois sections ?
+ ?les précautions élémentaires ?
+ ?ce qu’il ne faut pas faire ?
+ ?pour aller plus loin.
+La section «?ur aller plus loin?recommande des mesures additionnelles aux 
+précautions élémentaires.
+?rmi l’ensemble des préconisations, certaines sont issues de bonnes 
+pratiques en matière de gestion de la sécurité des systèmes d’informations, 
+tandis que d’autres résultent des règles relatives ?la protection de données ?
+caractère personnel du fait de la spécificité de ces informations.
+ 
+1
+Avant-propos
+? premier guide «sécurité? est évidemment perfectible. ?ssi, le lecteur ne 
+devra??l pas hésiter ?nous contacter pour nous transmettre ses propositions 
+en la matière.
+?en entendu, aux yeux des experts et des profanes, ce guide ne répondra 
+pas complètement ?leurs attentes, ?geant qu’il ne va pas asse?ou trop loin. 
+?espère néanmoins qu’il satisfera au plus grand nombre, et ? peux d’ores et 
+dé? annoncer qu’un document plus élaboré est en cours de préparation.
+         
+ Ale?T??
+?ésident de la ?I?
+ 
+ 
+? ?mmission ?tionale de l?n?rmatique et des ??rtés 
+La ??, autorité administrative indépendante, est chargée de veiller au respect 
+des dispositions de la loi. ?ce titre, elle assure des missions d’information, de 
+conseil, d’expertise et de veille technologique.
+La ?? dispose de pouvoirs particuliers pour faire respecter la loi ?elle contr?e 
+la mise en ?vre des fichiers informatiques et peut également procéder ?des 
+vérifications sur place.
+??nsem?e de ces in?rmations est é?lement disponi?e sur le site 
+Internet de la ?I??
+http????nil?r?ossiers?ecurite
+?
+?
+?
+?
+N
+?
+?
+?
+?
+?
+?
+?
+?
+?? I??  ???? I??? ??C??I??
+I
+N
+?
+?
+?
+?
+?
+C
+?
+I
+?
+N?curiser un système informatique nécessite de prendre en compte tous les 
+aspects de sa gestion. ?tte sécurité passe par le respect de bonnes pratiques 
+et le maintien de l’outil informatique ? l’état de l’art quant aux attaques dont 
+il peut faire l’ob?t. ?outefois, cette sécurité ne sera effective qu’? condition 
+de faire preuve de rigueur notamment dans la délivrance ?t le retrait? des 
+habilitations ainsi que dans le traitement des inévitables incidents.
+?n de garantir que chaque utilisateur du système informatique n’accède 
+qu’aux données qu’il a besoin de connaître, deux éléments sont nécessaires ?
+ ? la remise d’un identifiant unique ?chaque utilisateur associé ?un moyen 
+de s’authentifier ?une méthode d?uthentification ?
+ ? un contr?e a priori de l’accès aux données pour chaque catégorie 
+d’utilisateurs ?une ?stion des ha?litations?
+La protection de données concernant des personnes impose en plus que 
+celles?i soient ?
+	 -		«collectées	et	traitées	de	manière	loyale	et	licite»	(Art.	6	al.1	loi	I&L)	
+	 -			«collectées	pour	des	 finalités	 déterminées,	 explicites	 et	 légitimes	 et	ne	
+soient	 pas	 traitées	 ultérieurement	 de	 manière	 incompatible	 avec	 ces	
+finalités»	(Art.	6	al.2	loi	I&L).
+?s obligations ne peuvent s’apprécier qu’? travers l’usage qui est fait du 
+système informatique. ?r conséquent, il est nécessaire de procéder ? une 
+?urnalisation, c’est??ire l’enregistrement des actions de chaque utilisateur 
+sur le système pendant une durée définie.
+? outre, la loi ?formatique et Libertés dispose que les données soient «exactes,	
+complètes	et	si	nécessaires	mises	à	jour.? ?rt. ? al.?loi ?L? ?s obligations 
+nécessitent que les systèmes d’information prévoient des mécanismes 
+garantissant l’intégrité des données.
+La loi dispose également que ces données soient «conservées	sous	une	forme	
+permettant	 l’identification	 des	 personnes	 concernées	 pendant	 une	 durée	
+qui	 n’excède	 pas	 la	 durée	 nécessaire	 aux	 finalités	 pour	 lesquelles	 elles	 sont	
+collectées	et	traitées??rt. ?al.?loi ?L? Les systèmes doivent donc prévoir la 
+suppression, l’archivage, ou encore l’anonymisation de ces données, lorsque 
+leur durée de conservation est atteinte.
+?fin, ?rer les risques constitue un moyen efficace de protéger les «libertés	
+et	droits	fondamentaux	des	personnes	physiques,	notamment	leur	vie	privée,	
+à	l’égard	du	traitement	des	données	à	caractère	personnel??rticle premier de 
+la ?rective ?????
+3
+Introduction
+?
+?
+?
+N
+?
+?
+?
+?
+?
+?
+?
+?
+?ur rappel, la ?? peut procéder ? des vérifications sur place. ? outre, 
+la formation restreinte peut prononcer diverses sanctions graduées ?
+avertissement, mise en demeure, sanctions pécuniaires, in?nction de cesser le 
+traitement. Le montant des sanctions pécuniaires peut atteindre ??  euros 
+lors du premier manquement constaté puis ?? ??euros, ou ? du chiffre 
+d’affaire hors taxes du dernier exercice, dans la limite de ?? ??euros , s’il 
+s’agit d’une entreprise.
+Le montant de ces sanctions est «proportionné ?la gravité des manquements 
+commis et aux avantages tirés de ce manquement?
+La ?? peut également dénoncer pénalement les infractions ?la loi dont elle a 
+connaissance au ?ocureur de la ?publique.
+???I?? ???? I??? ??C??I??
+I
+N
+?
+?
+?
+?
+?
+C
+?
+I
+?
+N
+?
+?
+?
+?
+?
+?
+ 
+?
+ 
+?
+?
+?
+I
+N
+I
+?
+I
+?
+N
+?Authentification ? «l’authentification a pour but de vérifier l’identité dont 
+une entité se réclame. ?néralement l’authentification est précédée d’une 
+identification qui permet ?cette entité de se faire reconnaître du système par 
+un élément dont on l’a doté. ? résumé, s’identifier c’est communiquer son 
+identité, s’authentifier c’est apporter la preuve de son identité.???? ?ence 
+?tionale de la ?curité des ?stèmes d’?formation?
+?stinataire des données ? «toute personne habilitée ? recevoir 
+communication de ces données autre que la personne concernée, le 
+responsable du traitement, le sous?raitant et les personnes qui, en raison de 
+leurs fonctions, sont chargées de traiter les données??rt. ?loi ?L?
+?nnée ?caract?e personnel ?«toute information relative ?une personne 
+physique identifiée ou qui peut ?re identifiée, directement ou indirectement, 
+par référence ?un numéro d’identification ou ?un ou plusieurs éléments qui 
+lui sont propres. ?ur déterminer si une personne est identifiable, il convient de 
+considérer l’ensemble des moyens en vue de permettre son identification dont 
+dispose ou auxquels peut avoir accès le responsable du traitement ou toute 
+autre personne??rt. ?loi ?L?
+?nnées sensi?es ?les «données ?caractère personnel qui font apparaître, 
+directement ou indirectement, les origines raciales ou ethniques, les opinions 
+politiques, philosophiques ou religieuses ou l’appartenance syndicale des 
+personnes, ou qui sont relatives ?la santé ou ?la vie sexuelle de celles?i??rt. 
+?loi ?L?
+?sponsa?e de traitement ? «la personne, l’autorité publique, le service 
+ou l’organisme qui détermine les finalités et les moyens dudit traitement, 
+sauf désignation expresse par des dispositions législatives ou réglementaires 
+relatives ?ce traitement??rt. ?loi ?L?
+Tiers ? la personne physique ou morale, l’autorité publique, le service ou 
+tout autre organisme autre que la personne concernée, le responsable du 
+traitement, le sous?raitant et les personnes qui, placées sous l’autorité directe 
+du responsable du traitement ou du sous?raitant, sont habilitées ? traiter les 
+données ?irective ?????
+Traitement ?sauf mention explicite, un traitement s’entend dans ce document 
+comme un traitement de données ?caractère personnel.
+Traitement de données ? caract?e personnel ? «toute opération ou 
+tout ensemble d’opérations portant sur de telles données, quel que soit le 
+procédé utilisé, et notamment la collecte, l’enregistrement, l’organisation, 
+la conservation, l’adaptation ou la modification, l’extraction, la consultation, 
+l’utilisation, la communication par transmission, diffusion ou toute autre forme 
+de mise ? disposition, le rapprochement ou l’interconnexion, ainsi que le 
+verrouillage, l’effacement ou la destruction??rt. ?loi ?L?
+5
+Termes & définitions
+I
+N
+?
+?
+?
+?
+?
+C
+?
+I
+?
+N
+La gestion des risques permet au responsable de traitement d’identifier quelles 
+sont les précautions utiles ?prendre «au	 regard	de	la	nature	des	données	et	
+des	risques	présentés	par	le	traitement,	pour	préserver	la	sécurité	des	données	
+et,	notamment,	empêcher	qu’elles	soient	déformées,	endommagées,	ou	que	
+des	tiers	non	autorisés	y	aient	accès? ?rticle ? de la Loi du ? ?nvier ?? 
+relative ?l’informatique, aux fichiers et aux libertés?
+La ?rective européenne ?formatique et Libertés de ?? précise encore que 
+la protection des données personnelles nécessite de prendre des «mesures	
+techniques	et	d’organisation	appropriées??rticle ??
+?e telle approche permet en effet une prise de décision ob?ctive et la 
+détermination de mesures parfaitement adaptées ?son contexte.
+? risque est un scénario qui com?ne une situation crainte
+?tteinte de la sécurité des traitements et ses conséquences?avec 
+toutes les possi?lités qu?lle survienne ?enaces sur les supports
+des traitements? ? estime son niveau en termes de ?avité
+?mpleur et nom?e des impacts?et de vraisem?ance
+?ossi?lité?ro??lité qu?l se réalise?
+  ?s précautions élémentaires
+L’étude des risques doit ?re formalisée dans un document complet. ?tte 
+étude devra ?re mise ? ?ur de manière régulière selon les évolutions du 
+contexte et doit ?
+? recenser les fichiers et données ? caractère personnel (ex	 :	 fichiers	 client,	
+contrats…) et les traitements associés, automatisés ou non, en identifiant les 
+supports sur lesquels reposent	ces traitements ?
+ ? les matériels (ex	 :	 serveur	 de	 gestion	 des	 ressources	 humaines,	 CD-
+ROM…)	;
+ ?les logiciels (ex	:	système	d’exploitation,	logiciel	métier…)	;
+ ? les canaux de communication (ex	:	fibre	optique,	Wifi,	Internet…) ?
+ ?les supports papier	(ex	:	document	imprimé,	photocopie…).
+? déterminer comment la vie privée des personnes pourrait ?re affectée par 
+le biais de ces supports.
+? ?ur chaque traitement, identifier et classer selon leur ?avité les 
+impacts sur la vie privée des personnes en cas d’atteinte ??
+ ? la confidentialité (ex	:	usurpations	d’identités	consécutives	à	la	divulgation	
+des	fiches	de	paie	de	l’ensemble	des	salariés	d’une	entreprise) ?
+6
+?
+I
+C
+?
+?
+ 
+N
+?
+1
+ 
+?
+ 
+?
+?
+?
+L
+?
+ 
+?
+I
+?
+?
+?
+?
+?
+Fiche n° 1 - Quels risques ?
+??I?? ???? I??? ??C??I??
+?
+I
+C
+?
+?
+ 
+N
+?
+1
+ 
+?
+ 
+?
+?
+?
+L
+?
+ 
+?
+I
+?
+?
+?
+?
+?
+?
+I
+C
+?
+?
+ 
+N
+?
+1
+ 
+?
+ 
+?
+?
+?
+L
+?
+ 
+?
+I
+?
+?
+?
+?
+?  ? la disponibilité (ex	:	non	détection	d’une	interaction	médicamenteuse	du	
+fait	de	l’impossibilité	d’accéder	au	dossier	électronique	du	patient)	;
+ ? l’intégrité	 (ex	 :	 modification	 des	 journaux	 d’accès	 dans	 le	 but	 de	 faire	
+accuser	une	personne	à	tort).
+? ?udier les menaces qui pèsent sur chaque support et les hiérarchiser 
+selon leur probabilité d’occurrence ?raisemblance?
+?emples de menaces ? vol	d’un	PC	portable,	contagion	par	un	code	malveillant,	
+saturation	des	canaux	de	communication,	photocopie	de	documents	papier…). 
+?e liste complète de menaces est fournie en annexe ?
+??udier les risques
+?mbiner chaque impact avec les menaces qui le concerne.
+?érarchiser les risques ainsi obtenus selon leur gravité et leur vraisemblance.
+? ?ttre en ?vre des mesures de sécurité
+?terminer les mesures de sécurité pour réduire, transférer ou éviter les 
+risques. Les fiches pratiques de ce guide donnent des exemples concrets 
+de mesures destinées ?couvrir les obligations issues de la loi informatique et 
+libertés ?confidentialité, intégrité, qualité des données, conservation, recueil du 
+consentement?
+  ? qu?l ne ?ut pas ?ire
+? ?ner seul une étude de risques. ?pliquer les acteurs les plus appropriés 
+?chaque étape ?étiers, maîtrise d’?vre, responsable du traitement? afin 
+de les sensibiliser aux risques, de les responsabiliser dans leurs choix et de 
+les faire adhérer aux mesures de sécurité qu’ils auront choisies.
+? ?aliser une étude trop détaillée? ? est aisé de se perdre dans un niveau 
+de détail inapproprié. ?lui?i doit rester cohérent avec la taille du su?t étudié, 
+l’ob?ctif de l’étude et le niveau des risques.
+? ?oisir des mesures inappropriées? ? faut déterminer les mesures 
+nécessaires et suffisantes pour traiter les risques, et que celles?i soient 
+adaptées aux contraintes de l’étude ?udgétaires, techniques?.
+7
+  ?ur aller plus loin
+? L’étude des risques permet de déterminer des mesures de sécurité ?mettre 
+en place. ? convient donc de prévoir un ?d?t pour leur mise en ?vre.
+? ??mploi d?ne vérita?e méthode permet de disposer d’outils 
+pratiques et d’améliorer l’exhaustivité et la profondeur de l’étude 
+des risques. La boîte ? outils d’??? ? peut ?re utilisée ? cet effet 
+http???.ssi.gouv.fr?ite?rticle??html?
+? ? fonction des moyens disponibles, il peut également ?re utile de prévoir ?
+ ? la ?rmation des personnes chargées de réaliser les études de risques ?
+ ? un audit sécurité du système d’information.
+8
+?
+I
+C
+?
+?
+ 
+N
+?
+1
+ 
+?
+ 
+?
+?
+?
+L
+?
+ 
+?
+I
+?
+?
+?
+?
+?
+?? I??  ???? I??? ??C??I??
+?? ??? ? ?pression des ?soins et ?entification des ??ctifs de ?curité ? est la méthode de gestion des risques 
+publiée par l’?ence nationale de la sécurité des systèmes d’information ????du ?crétariat général de la défense et 
+de la sécurité nationale ???? ???est une marque déposée du ???
+?
+I
+C
+?
+?
+ 
+N
+?
+ 
+?
+ 
+?
+ 
+?
+?
+?
+?
+?
+N
+?
+I
+?
+I
+C
+?
+?
+I
+?
+N
+ 
+?
+?
+?
+ 
+?
+?
+I
+L
+I
+?
+?
+?
+?
+?
+?
+?
+?
+I
+C
+?
+?
+ 
+N
+?
+1
+ 
+?
+ 
+?
+?
+?
+L
+?
+ 
+?
+I
+?
+?
+?
+?
+? le responsable d’un système informatique doit ?re en mesure d’assurer que 
+chaque utilisateur du système n’accède qu’aux données dont il a besoin pour 
+l’exercice de sa mission. ?ur cela, chaque utilisateur doit ?re doté d’un 
+identifiant qui lui est propre et doit s?uthentifier avant toute utilisation des 
+moyens informatiques.
+Les mécanismes permettant de réaliser l’authentification des personnes sont 
+catégorisés en trois familles selon qu’ils font intervenir?
+ ? ce que l’on sait, par exemple un mot de passe,
+ ? ce que l’on a, par exemple une carte ?puce,
+ ? une caractéristique qui nous est propre, par exemple une empreinte digitale 
+ou encore une signature manuscrite. ?ur rappel, la loi ?formatique et 
+Libertés subordonne l’utilisation de la biométrie ?l’autorisation préalable 
+de la ?? ? .
+L’authentification d’un utilisateur est qualifiée de forte lorsqu’elle a recours ?une 
+combinaison d’au moins deux de ces méthodes.
+  ?s précautions élémentaires
+? ?propos des identifiants ?u logins?des utilisateurs, ceux?i doivent, dans la 
+mesure du possible, ?re différents de ceux des comptes définis par défaut 
+par les éditeurs de logiciels. Les comptes par défaut doivent ?re désactivés. 
+?cun compte ne devrait ?re partagé entre plusieurs utilisateurs.
+? ?ns le cas d’une authentification des utilisateurs basée sur des mots de 
+passe, leur mise en ?vre doit respecter les règles suivantes ?
+ ? avoir une taille de ?caract?es minimum ?
+ ? utiliser des caract?es de t?es di??rents ?a?scules, minuscules, 
+chiffres, caractères spéciaux? ?s moyens mnémotechniques permettent 
+de créer des mots de passe complexe, par exemple
+ ? en ne conservant que les premières lettres des mots d’une phrase ?
+ ? en mettant une ma?scule si le mot est un nom ?x ??hef??
+ ? en gardant des signes de ponctuation ?x ????
+ ? en exprimant les nombres ?l’aide des chiffres de ????x ?? -???
+?emple, la phrase «un ?hef d?ntreprise averti en vaut deu??correspond au 
+mot de passe 1??aev2 ?
+ ? chan?r de mot de passe ré?li?ement ?ous les ?mois par exemple?
+? Lorsque le renouvellement d’un mot de passe est consécutif ?un oubli, une 
+fois que le mot de passe a été réinitialisé, l’utilisateur doit ?re dans l’obligation 
+de le changer dès sa première connexion afin de le personnaliser.
+9
+Fiche n° 2 - Authentification des 
+utilisateurs
+?? ?ce su?t, consulter notamment la fiche ? ?la biométrie sur le lieu de travail du ?ide ?? pour les employeurs et les 
+salariés.
+http://www.cnil.fr/fileadmin/documents/Guides_pratiques/Guide_employeurs_salaries.pdf
+  ? qu?l ne ?ut pas ?ire
+? ?mmuniquer son mot de passe ?autrui ?
+? stoc?r ses mots de passe dans un fichier en clair ou dans un lieu facilement 
+accessible par d’autres personnes ?
+? utiliser des mots de passe ayant un lien avec soi ?om, date de naissance? ?
+? utiliser le m?e mot de passe pour des accès différents ?
+? configurer les applications logicielles afin qu’elles permettent d’enregistrer les 
+mots de passe.
+  ?ur aller plus loin
+? ?ncernant les mécanismes d’authentification, il est recommandé de 
+se référer aux règles	 et	 recommandations	 concernant	 les	 mécanismes	
+d’authentification	 préconisées dans l’annexe ? du ?férentiel ?néral de 
+?curité ?.
+? ? cas d’utilisation de méthodes d’authentification reposant sur des 
+dispositifs tels que des cartes ? puce ou des schémas d’authentification 
+mettant en ?vre des algorithmes cryptographiques, ceux?i doivent suivre 
+les règles concernant le choix	 et	 le	 dimensionnement	 des	 mécanismes	
+cryptographiques préconisées dans l’annexe ? du ?férentiel ?néral de 
+?curité ?.
+? ?ns l’éventualité d’une authentification par des dispositi? ?ométriques 
+il est nécessaire d’effectuer une demande d’autorisation auprès de la ??. 
+?une manière générale, la ?? recommande l’utilisation de biométrie sans 
+traces ?ontour de la main, réseaux veineux? ou l’enregistrement des 
+empreintes digitales dans un support individuel. ?ncernant des dispositifs 
+?sés sur l?mpreinte di?tale, il convient de se référer ?la Communication	
+de	la	CNIL	relative	à	la	mise	en	œuvre	de	dispositifs	de	reconnaissance	par	
+empreinte	digitale	avec	stockage	dans	une	base	de	données situé ?l’adresse 
+internet http???.cnil.fr?leadmin?ocuments?pprofondir?ossier???
+biometrie?ommunication?iometrie.pdf pour prendre  connaissance de la 
+doctrine de la ?? en la matière. 
+1?
+?
+I
+C
+?
+?
+ 
+N
+?
+ 
+?
+ 
+?
+ 
+?
+?
+?
+?
+?
+N
+?
+I
+?
+I
+C
+?
+?
+I
+?
+N
+ 
+?
+?
+?
+ 
+?
+?
+I
+L
+I
+?
+?
+?
+?
+?
+?
+?
+?? I??  ???? I??? ??C??I??
+?? http://www.references.modernisation.gouv.fr/sites/default/files/RGS_Mecanismes_Authentification_v??pdf 
+?? http://www.references.modernisation.gouv.fr/sites/default/files/RGS_Mecanismes_cryptographiques_v??.pdf
+?aque utilisateur du système ne doit pouvoir accéder qu’aux données dont il a 
+besoin pour l’exercice de sa mission. ?ncrètement, cela se traduit par la mise 
+en place d’un mécanisme de définition des niveau? d?a?litation d’un 
+utilisateur dans le système, et d’un mo?n de contr?e des permissions 
+d?cc? aux données.
+? convient de veiller également ?ce que les utilisateurs soient conscients des 
+menaces en termes de sécurité, ainsi que des en?ux concernant la protection 
+des données personnelles.
+  ?s précautions élémentaires
+? ?finir des profils d?a?litation dans les systèmes en séparant les t?hes 
+et les domaines de responsabilité, afin de limiter l’accès ? des données ?
+caractère personnel aux seuls utilisateurs d?ent habilités.
+? Supprimer les permissions d?cc? des utilisateurs d? qu?ls ne sont 
+plus ha?lités ?accéder ?un local ou ?une ressource, ainsi qu’?la fin 
+de leur période d?mploi?
+? ?cumenter les procédures d’exploitation, les tenir ? ?ur et les rendre 
+disponibles ? tous les utilisateurs concernés. ?ncrètement, toute action 
+sur le système, qu’il s’agisse d’opérations d’administration ou de la simple 
+utilisation d’une application, doit ?re expliquée dans des documents auxquels 
+les utilisateurs peuvent se référer.
+? ?diger une charte in?rmatique et l’annexer au r?lement intérieur. 
+11
+?
+I
+C
+?
+?
+ 
+N
+?
+ 
+?
+ 
+?
+ 
+?
+?
+?
+?
+?
+N
+?
+I
+?
+I
+C
+?
+?
+I
+?
+N
+ 
+?
+?
+?
+ 
+?
+?
+I
+L
+I
+?
+?
+?
+?
+?
+?
+?
+?
+I
+C
+?
+?
+ 
+N
+?
+3
+ 
+?
+ 
+?
+?
+?
+?
+I
+?
+N
+ 
+?
+?
+?
+ 
+?
+?
+?
+I
+L
+I
+?
+?
+?
+I
+?
+N
+?
+ 
+?
+ 
+?
+?
+N
+?
+I
+?
+I
+L
+I
+?
+?
+?
+I
+?
+N
+ 
+?
+?
+?
+ 
+?
+?
+I
+L
+I
+?
+?
+?
+?
+?
+?
+?
+Fiche n° 3 - ?stion des 
+ha?litations & sensi?lisation des 
+utilisateurs
+?d?e d?ne charte in?rmatique ?
+?  Le rappel des règles de protection des données et les sanctions encourues 
+en cas de non respect de la loi.
+?  Le champ d’application de la charte, qui inclut notamment ?
+ ? les modalités d’intervention du service de l’informatique interne ?
+ ? les moyens d’authentification ?
+ ? les règles de sécurité auxquelles se conformer, ce qui peut inclure par 
+exemple de ?
+ ? signaler au service informatique interne toute violation ou tentative 
+de violation suspectée de son compte informatique et de manière 
+générale tout dysfonctionnement ?
+ ? ne ?mais confier son identifiant?ot de passe ?un tiers ?
+ ? ne pas modifier les paramétrages du poste de travail ?
+ ? ne pas installer, copier, modifier, détruire des logiciels sans 
+autorisation ?
+ ? verrouiller son ordinateur dès que l’on quitte son poste de travail ?
+ ? ne pas accéder, tenter d’accéder, ou supprimer des informations 
+qui ne relèvent pas des t?hes incombant ?l’utilisateur ?
+ ? définir les modalités de copie de données sur un support 
+externe, notamment en obtenant l’accord préalable du supérieur 
+hiérarchique et en respectant des règles préalablement définies.
+?  Les modalités d’utilisation des moyens informatiques et de télécommu?
+nications mis ?disposition comme ?
+ ?le poste de travail ?
+ ?les équipements nomades ?
+ ?l’espace de stoc?ge individuel ?
+ ?le réseau local ?
+ ?internet ?
+ ?la messagerie électronique ?
+ ?le téléphone.
+?  Les conditions d’administration du système d’information, et l’existence, le 
+cas échéant, de?
+ ?systèmes automatiques de filtrage ?
+ ?systèmes automatiques de tra?bilité ?
+ ?gestion du poste de travail.
+?  Les responsabilités et sanctions encourues en cas de non respect de la 
+charte.
+1?
+?
+I
+C
+?
+?
+ 
+N
+?
+3
+ 
+?
+ 
+?
+?
+?
+?
+I
+?
+N
+ 
+?
+?
+?
+ 
+?
+?
+?
+I
+L
+I
+?
+?
+?
+I
+?
+N
+?
+ 
+?
+ 
+?
+?
+N
+?
+I
+?
+I
+L
+I
+?
+?
+?
+I
+?
+N
+ 
+?
+?
+?
+ 
+?
+?
+I
+L
+I
+?
+?
+?
+?
+?
+?
+?
+?? I??  ???? I??? ??C??I??
+  ? qu?l ne ?ut pas ?ire
+? ?finir des comptes administrateur partagés par plusieurs personnes.
+  ?ur aller plus loin
+? ?ablir, documenter et réexaminer une politique de contr?e d?cc? en 
+rapport avec la finalité du traitement.
+La politique de contr?e d’accès doit inclure ?
+ ? les procédures d’enregistrement et de radiation des utilisateurs destinées 
+?accorder et ?retirer l’accès au traitement ?
+ ? les mesures incitant les utilisateurs ? respecter les bonnes pratiques de 
+sécurité lors de la sélection et l’utilisation de mots de passe ou d’autres 
+moyens d’authentification ?
+ ? les mesures permettant de restreindre et de contr?er l’attribution et 
+l’utilisation des accès au traitement.
+? ?assifier les in?rmations de manière notamment ? indiquer si celles?i 
+sont des données sensibles. ?tte classification permet de rendre compte du 
+niveau de sécurité ?appliquer.
+? ?voyer régulièrement ?tous les utilisateurs les mises ??ur des politiques et 
+procédures pertinentes pour leurs fonctions.
+? ?ganiser des séances de formation et de sensibilisation ? la sécurité de 
+l’information. ?s rappels périodiques peuvent ?re faits par le biais de la 
+messagerie électronique.
+? ?évoir la signature d’un en??ment de confidentialité ?f. modèle de 
+clause ci?essous? ou prévoir dans les contrats de travail une clause de 
+confidentialité spécifique concernant les données ?caractère personnel.
+13
+?
+I
+C
+?
+?
+ 
+N
+?
+3
+ 
+?
+ 
+?
+?
+?
+?
+I
+?
+N
+ 
+?
+?
+?
+ 
+?
+?
+?
+I
+L
+I
+?
+?
+?
+I
+?
+N
+?
+ 
+?
+ 
+?
+?
+N
+?
+I
+?
+I
+L
+I
+?
+?
+?
+I
+?
+N
+ 
+?
+?
+?
+ 
+?
+?
+I
+L
+I
+?
+?
+?
+?
+?
+?
+?
+?
+I
+C
+?
+?
+ 
+N
+?
+3
+ 
+?
+ 
+?
+?
+?
+?
+I
+?
+N
+ 
+?
+?
+?
+ 
+?
+?
+?
+I
+L
+I
+?
+?
+?
+I
+?
+N
+?
+ 
+?
+ 
+?
+?
+N
+?
+I
+?
+I
+L
+I
+?
+?
+?
+I
+?
+N
+ 
+?
+?
+?
+ 
+?
+?
+I
+L
+I
+?
+?
+?
+?
+?
+?
+?
+?emple d?n??ment de confidentialité relati?au?données ?caract?e personnel ?
+? soussigné ?nsieur?adame ?????, exer?nt les fonctions de ????au sein de 
+la société ???? ?i?près dénommé «la ?ciété?, étant ? ce titre amené ?accéder ?
+des données ?caractère personnel, déclare reconnaître la confidentialité desdites données.
+? m’engage par conséquent, conformément aux articles ? et ? de la loi du ??nvier ?? 
+modifiée relative ?l’informatique, aux fichiers et aux libertés, ?prendre toutes précautions 
+conformes aux usages et ?l’état de l’art dans le cadre de mes attributions afin de protéger 
+la confidentialité des informations auxquelles ?ai accès, et en particulier d’emp?her qu’elles 
+ne soient modifiées, endommagées ou communiquées ?des personnes non expressément 
+autorisées ? recevoir ces informations.
+? m’engage en particulier ??
+? ne pas utiliser les données auxquelles ? peux accéder ?des fins autres que celles prévues 
+par mes attributions ?
+? ne divulguer ces données qu’aux personnes d?ent autorisées, en raison de leurs 
+fonctions, ? en recevoir communication, qu’il s’agisse de personnes privées, publiques, 
+physiques ou morales ?
+? ne faire aucune copie de ces données sauf ?ce que cela soit nécessaire ?l’exécution de 
+mes fonctions ?
+? prendre toutes les mesures conformes aux usages et ?l’état de l’art dans le cadre de mes 
+attributions afin d’éviter l’utilisation détournée ou frauduleuse de ces données ?
+? prendre toutes précautions conformes aux usages et ? l’état de l’art pour préserver la 
+sécurité matérielle de ces données ?
+? m’assurer, dans la limite des mes attributions, que seuls des moyens de communication 
+sécurisés seront utilisés pour transférer ces données ?
+? assurer, dans la limite de mes attributions, l’exercice des droits d’information, d’accès et 
+de rectification de ces données ?
+? en cas de cessation des mes fonctions, restituer intégralement les données, fichiers 
+informatiques et tout support d’information relatif ?ces données.
+?t engagement de confidentialité, en vigueur pendant toute la durée de mes fonctions, 
+demeurera effectif, sans limitation de durée après la cessation de mes fonctions, quelle 
+qu’en soit la cause, dès lors que cet engagement concerne l’utilisation et la communication 
+de données ?caractère personnel.
+?ai été informé que toute violation du présent engagement m’expose notamment ? des 
+actions et sanctions disciplinaires et pénales conformément aux dispositions légales en 
+vigueur.
+?it ?xxx le xxx en xxx exemplaires
+?m ?    ?m ?
+?gnature ?   ?gnature ?
+1?
+?
+I
+C
+?
+?
+ 
+N
+?
+3
+ 
+?
+ 
+?
+?
+?
+?
+I
+?
+N
+ 
+?
+?
+?
+ 
+?
+?
+?
+I
+L
+I
+?
+?
+?
+I
+?
+N
+?
+ 
+?
+ 
+?
+?
+N
+?
+I
+?
+I
+L
+I
+?
+?
+?
+I
+?
+N
+ 
+?
+?
+?
+ 
+?
+?
+I
+L
+I
+?
+?
+?
+?
+?
+?
+?
+?? I??  ???? I??? ??C??I??
+La sécurité des postes de travail passe par une mise en ?vre de mesures 
+pour prévenir 
+ - les tentatives d?cc? ?auduleu??
+ - l??cution de virus ?
+ - la prise de contr?e ?distance?notamment via internet?
+Les risques d’intrusion dans les systèmes informatiques sont importants et 
+peuvent conduire ?l’implantation de virus ou de programmes «espions?
+  ?s précautions élémentaires
+? ?miter le nom?e de tentatives d?cc? ? un compte. ? fonction du 
+contexte, ce nombre peut varier entre trois et dix. Lorsque la limite est atteinte, 
+il est préférable de bloquer la possibilité d’authentification ? ce compte 
+temporairement ou ?squ’?l’intervention d’un administrateur du système ?
+? installer un «pare-?u? firewall?logiciel, et limiter les ports de communication 
+strictement nécessaires au bon fonctionnement des applications installées 
+sur le poste de travail ?
+? utiliser des antivirus ré?li?ement mis ??ur ?
+? prévoir une procédure de verrouilla? automatique de session en cas 
+de non?tilisation du poste pendant un temps donné. ?ur les opérations de 
+maintenance, il convient de mettre fin ?une session après une ?cinq minutes 
+d’inactivité. ?ur d’autres opérations moins critiques ?ccès ?une application 
+métier par exemple? un délai de quin? minutes doit permettre de garantir la 
+sécurité sans compromettre l’ergonomie d’utilisation ?
+? prévoir d’a?cher, lors de la connexion ?un compte, les dates et heures 
+de la derni?e conne?on?
+  ? qu?l ne ?ut pas ?ire
+? ?iliser des systèmes d’exploitation obsolètes ?ne liste mise ? ?ur 
+régulièrement est disponible ?l’adresse internet http???.certa.ssi.gouv.fr?
+site???????????.
+15
+?
+I
+C
+?
+?
+ 
+N
+?
+3
+ 
+?
+ 
+?
+?
+?
+?
+I
+?
+N
+ 
+?
+?
+?
+ 
+?
+?
+?
+I
+L
+I
+?
+?
+?
+I
+?
+N
+?
+ 
+?
+ 
+?
+?
+N
+?
+I
+?
+I
+L
+I
+?
+?
+?
+I
+?
+N
+ 
+?
+?
+?
+ 
+?
+?
+I
+L
+I
+?
+?
+?
+?
+?
+?
+?
+?
+I
+C
+?
+?
+ 
+N
+?
+ 
+?
+ 
+?
+ 
+?
+?
+C
+?
+?
+I
+?
+?
+ 
+?
+?
+?
+ 
+?
+?
+?
+?
+?
+?
+ 
+?
+?
+ 
+?
+?
+?
+?
+?
+I
+L
+Fiche n° ?- ?curité des postes de 
+travail
+  ?ur aller plus loin
+? ?miter les applications nécessitant des droits de niveau administrateur pour 
+leur exécution ?
+? limiter les services du système d’exploitation s’exécutant sur le poste de 
+travail ?ceux qui sont strictement nécessaires ?
+? installer les mises ??ur critiques des s?t?es d??loitation sans délai 
+en programmant une vérification automatique périodique hebdomadaire ?
+? mettre ? ?ur les applications lorsque des failles critiques ont été identifiées 
+et corrigées ?
+? concernant les virus, se référer au document du ????disponible ?l’adresse 
+internet http???.certa.ssi.gouv.fr?ite??????????? pour des 
+recommandations plus complètes.
+16
+?
+I
+C
+?
+?
+ 
+N
+?
+ 
+?
+ 
+?
+ 
+?
+?
+C
+?
+?
+I
+?
+?
+ 
+?
+?
+?
+ 
+?
+?
+?
+?
+?
+?
+ 
+?
+?
+ 
+?
+?
+?
+?
+?
+I
+L
+?? I??  ???? I??? ??C??I??
+La multiplication des ordinateurs portables, des clés ??et des smartphones 
+rend indispensable d’anticiper la possible perte d’informations consécutive au 
+vol o??la perte d’un tel équipement.
+  ?s précautions élémentaires
+? ?évoir des moyens de chiffrement pour les espaces de stoc?ge des 
+matériels informatiques mobiles ?rdinateur portable, périphérique de 
+stoc?ge amovible tels que clés ?? ???, ????, etc.? ?rmi ces 
+moyens, on peut citer ?
+ ? le chiffrement du disque dur dans sa totalité au niveau matériel ?
+ ? le chiffrement du disque dur dans sa totalité ? un niveau logique via le 
+système d’exploitation ?
+ ? le chiffrement fichier par fichier ?
+ ? la création de conteneurs? chiffrés.
+?rmi les outils disponibles, des logiciels libres tels que ?rue?ypt ? ??.
+truecrypt.org? permettent de créer des containeurs chiffrés dont la sécurité 
+repose sur un mot de passe.
+? nombreux constructeurs de ? portables vendent des solutions avec 
+disque dur chiffré ? il convient de privilégier ces équipements et de s’assurer 
+que le chiffrement est bien mis en ?vre par les utilisateurs.
+  ? qu?l ne ?ut pas ?ire
+? ?nserver des données personnelles dans les équipements mobiles lors de 
+déplacement ? l’étranger. ? peut consulter ? ce su?t les préconisations 
+formulées dans le document ?sseport de conseils aux voyageurs publié par 
+l’???disponible ?l’adresse http???.securite?nformatique.gouv.fr???
+pdf?asseport?e?onseils?ux?oyageurs?anvier???pdf.
+  ?ur aller plus loin
+? Lorsque des appareils mobiles servent ?la collecte de données en itinérance 
+?x ??? ?artphones ou ? portables, etc.? il faut sécuriser les données 
+qui y sont stoc?es et prévoir un verrouillage de l’appareil au bout de quelques 
+minutes d’inactivité. ?évoir aussi de purger ces équipements des données 
+collectées sit? qu’elles ont été introduites dans le système d’information de 
+l’organisme.
+? ? plus en plus d’ordinateurs portables sont équipés d’un dispositif de 
+lecture d’empreinte digitale. La mise en ?vre de tels dispositifs est soumise 
+?l’autorisation de la ??.
+17
+?
+I
+C
+?
+?
+ 
+N
+?
+ 
+5
+ 
+?
+ 
+C
+?
+?
+?
+?
+N
+?
+ 
+?
+?
+C
+?
+?
+I
+?
+?
+?
+ 
+L
+?
+I
+N
+?
+?
+?
+?
+?
+?
+I
+?
+?
+?
+ 
+?
+?
+?
+I
+L
+?
+ 
+?
+?
+I
+C
+?
+?
+ 
+N
+?
+ 
+?
+ 
+?
+ 
+?
+?
+C
+?
+?
+I
+?
+?
+ 
+?
+?
+?
+ 
+?
+?
+?
+?
+?
+?
+ 
+?
+?
+ 
+?
+?
+?
+?
+?
+I
+L
+Fiche n° ?- ?mment sécuriser 
+l?n?rmatique mo?le ?
+???r conteneur, il faut comprendre un fichier susceptible de contenir plusieurs fichiers.
+?? ? convient d’utiliser la version ?? qui bénéficie d’une certification de premier niveau par l’???
+??I?? ???? I??? ??C??I??
+?s copies de sauvegarde des données ? caractère personnel doivent ?re 
+faites et testées régulièrement, conformément ? la politique de sauvegarde 
+adoptée. ? faut également procéder ?une sauvegarde des logiciels servant au 
+traitement afin de garantir la pérennité de celui?i.
+?e sécurisation renforcée est requise pour les sauvegardes de données 
+sensibles. 
+? convient de prévoir la continuité d’activité en anticipant les pannes matérielles. 
+?s mesures de protection physique contre les dommages causés par les 
+incendies ou les inondations doivent ?re envisagées.
+  ?s précautions élémentaires
+? S??ssant de la sauve?rde des données ?
+ ? effectuer des sauvegardes fréquentes pour éviter la perte d’information. 
+?lon le volume d’informations ? sauvegarder, il peut ?re opportun 
+de prévoir des sauvegardes incrémentales? avec une fréquence 
+quotidienne et des sauvegardes complètes avec une fréquence moindre 
+?ebdomadaires ou bimensuelles??
+ ? prévoir de stoc?r les supports de sauvegarde sur un site extérieur, dans 
+des coffres ignifugés et étanches ?
+ ? combiner une ou plusieurs des solutions suivantes pour sécuriser les 
+sauvegardes soit en ?
+ ? chiffrant les sauvegardes elles??es ?
+ ? chiffrant les données ?la source ?
+ ? prévoyant un stoc?ge dans un lieu sécurisé.
+ ? suivre des règles en adéquation avec la politique de sécurité pour le 
+convoyage éventuel des sauvegardes.
+? S??ssant de la continuité d?ctivité ?
+ ? mettre en place des détecteurs de fumée ainsi que des extincteurs. ?s 
+systèmes doivent ?re inspectés annuellement ?
+ ? concernant les inondations, les matériels informatiques ne doivent pas 
+?re mis ?m?e le sol, mais surélevés ?
+ ? ?propos des matériels ?
+ ? l’utilisation d’un onduleur est recommandée pour le matériel 
+servant aux traitements critiques ?
+ ? il convient également de prévoir une redondance matérielle des 
+unités de stoc?ge par une technologie ?? ?.
+18
+Fiche n° ?- ?s sauve?rdes et la 
+continuité d?ctivité
+?
+I
+C
+?
+?
+ 
+N
+?
+ 
+6
+ 
+?
+ 
+L
+?
+?
+ 
+?
+?
+?
+?
+?
+?
+?
+?
+?
+?
+?
+ 
+?
+?
+ 
+L
+?
+ 
+C
+?
+N
+?
+I
+N
+?
+I
+?
+?
+ 
+?
+?
+?
+C
+?
+I
+?
+I
+?
+?
+?? ?e sauvegarde incrémentale consiste ? n’enregistrer que les modifications faites par rapport ? une précédente 
+sauvegarde.
+???? désigne des techniques de répartition de données sur plusieurs supports de sauvegardes    
+      ?ar exemple des disques durs?afin de prévenir la perte de données consécutives ?la panne d’un des supports.
+?
+I
+C
+?
+?
+ 
+N
+?
+ 
+6
+ 
+?
+ 
+L
+?
+?
+ 
+?
+?
+?
+?
+?
+?
+?
+?
+?
+?
+?
+ 
+?
+?
+ 
+L
+?
+ 
+C
+?
+N
+?
+I
+N
+?
+I
+?
+?
+ 
+?
+?
+?
+C
+?
+I
+?
+I
+?
+?   ? qu?l ne ?ut pas ?ire
+? ?nserver les sauvegardes au m?e endroit que les machines hébergeant 
+les données. ? sinistre ma?ur intervenant ? cet endroit aurait comme 
+conséquence une perte définitive des données.
+  ?ur aller plus loin
+? ?ncernant la continuité du service, prévoir de dimensionner tous les services 
+généraux, tels que l’électricité ou l’alimentation en eau relatifs aux systèmes 
+pris en charge, et les inspecter régulièrement pour écarter tout risque de 
+dysfonctionnement ou de panne.
+?ur les traitements rev?ant des exigences fortes de disponibilité, prévoir de 
+connecter l’infrastructure de télécommunications par au moins deux voies 
+différentes.
+ 
+19
+?
+I
+C
+?
+?
+ 
+N
+?
+ 
+6
+ 
+?
+ 
+L
+?
+?
+ 
+?
+?
+?
+?
+?
+?
+?
+?
+?
+?
+?
+ 
+?
+?
+ 
+L
+?
+ 
+C
+?
+N
+?
+I
+N
+?
+I
+?
+?
+ 
+?
+?
+?
+C
+?
+I
+?
+I
+?
+?
+??I?? ???? I??? ??C??I??
+?
+I
+C
+?
+?
+ 
+N
+?
+ 
+7
+ 
+?
+ 
+L
+?
+ 
+?
+?
+I
+N
+?
+?
+N
+?
+N
+C
+?
+?
+Lors de la maintenance et des interventions techniques, la sécurité des données 
+doit ?re garantie.
+? recommande également de supprimer les données des matériels destinés 
+??re mis au rebut.
+  ?s précautions élémentaires
+? ?rantir que des données ne seront pas compromises lors d’une intervention 
+de maintenance en appliquant une ou plusieurs des mesures énumérées ci?
+dessous ?
+ ? l’enregistrement des interventions de maintenance dans une main 
+courante ?
+ ? l’encadrement par un responsable de l’organisme lors d’interventions par 
+des tiers ?
+ ? la configuration des systèmes critiques ?erveurs, équipements réseau ? 
+de manière ?emp?her leur télémaintenance.
+? ?specter tout matériel contenant des supports de stoc?ge avant sa mise 
+au rebut ou sa sortie du périmètre de l’organisme, pour s’assurer que toute 
+donnée sensible en a bien été supprimée de fa?n sécurisée.
+?titre d’exemple, l’???accorde des certifications de premier niveau ?des 
+logiciels pour réaliser cet ob?ctif ?ttp???.ssi.gouv.fr?rchive?r?onfiance?
+certif?spn.html?.
+?ncernant la mise au rebut de matériels, on peut mentionner?
+ ? les broyeurs et déchiqueteurs pour le papier ou les supports numériques 
+tels que les ? et ???
+ ? les «dégausseurs??pour les unités de stoc?ge ?technologie magnétique.
+?s préconisations concernent également les matériels en location lorsqu’ils 
+sont retournés ?l’expiration du délai contractuel. 
+? ? matière d’assistance sur les postes clients ?
+ ? les outils d’administration ?distance doivent ?re configurés de manière ? 
+recueillir l?ccord de l’utilisateur avant toute intervention sur son poste, 
+par exemple en cliquant sur une ic?e ou encore en répondant ? un 
+message s’affichant ?l’écran ?
+ ? l’utilisateur doit également pouvoir constater si la prise de main ?
+distance est en cours et quand elle se termine, par exemple gr?e ?
+l’affichage d’un message ?l’écran.
+Fiche n° ?- ? maintenance
+?? ? «dégausseur?est un équipement réalisant une destruction irrémédiable de données confidentielles par démagnétisation.
+?
+I
+C
+?
+?
+ 
+N
+?
+ 
+7
+ 
+?
+ 
+L
+?
+ 
+?
+?
+I
+N
+?
+?
+N
+?
+N
+C
+?
+?
+I
+C
+?
+?
+ 
+N
+?
+ 
+7
+ 
+?
+ 
+L
+?
+ 
+?
+?
+I
+N
+?
+?
+N
+?
+N
+C
+?
+?
+  ? qu?l ne ?ut pas ?ire
+? ?staller des applications pour la télémaintenance qui sont vulnérables ?x ?  
+certaines versions de x?? cf. http???.certa.ssi.gouv.fr?ite????
+????????
+  ?ur aller plus loin
+? ? faut restreindre, voire interdire l’accès physique et logique, aux ports de 
+diagnostic et de configuration ?distance.
+?titre d’exemple, il faut restreindre l’usage du protocole ?? qui permet la 
+configuration des équipements réseau par connexion sur le port ????
+? ?s préconisations concernant les matériels mis au rebut sont disponibles 
+dans le document de l’???intitulé ?ide technique pour la confidentialité 
+des informations enregistrées sur les disques durs ? recycler ou exporter, 
+disponible ? l’adresse http???.ssi.gouv.fr?rchive?r?ocumentation?
+?ide?ffaceur???du???.pdf.
+?d?e de clauses de confidentialité pouvant ?re utilisées en cas de 
+maintenance par une tierce partie
+?aque opération de maintenance devra faire l’ob?t d’un descriptif précisant 
+les dates, la nature des opérations et les noms des intervenants, transmis ??
+? cas de télémaintenance permettant l’accès ? distance aux fichiers de ? 
+?prendra toutes dispositions afin de permettre ? ? d’identifier la provenance 
+de chaque intervention extérieure. ? cette fin, ? s’engage ? obtenir l’accord 
+préalable de ?avant chaque opération de télémaintenance dont elle prendrait 
+l’initiative.
+?s registres seront établis sous les responsabilités respectives de ? et ?, 
+mentionnant les date et nature détaillée des interventions de télémaintenance 
+ainsi que les noms de leurs auteurs.
+??I?? ???? I??? ??C??I??
+?
+I
+C
+?
+?
+ 
+N
+?
+ 
+8
+ 
+?
+ 
+?
+?
+?
+C
+?
+?
+I
+L
+I
+?
+?
+ 
+?
+?
+ 
+?
+?
+?
+?
+I
+?
+N
+ 
+?
+?
+?
+ 
+I
+N
+C
+I
+?
+?
+N
+?
+?
+?
+afin d’?re en mesure d’identifier a posteriori un accès frauduleux ?des données 
+personnelles, une utilisation abusive de telles données, ou de déterminer l’origine 
+d’un incident, il convient d’enregistrer les actions effectuées sur le système 
+informatique. ?ur ce faire, le responsable d’un système informatique doit 
+mettre en place un dispositif adapté aux risques associés ?son système. ?lui?
+ci doit enregistrer les évènements pertinents, garantir que ces enregistrements 
+ne peuvent ?re altérés, et dans tous les cas conserver ces éléments pendant 
+une durée non excessive.
+  ?s précautions élémentaires
+? ?évoir un système de ?urnalisation ?’est??ire un enregistrement dans 
+des «fichiers de logs? des activités des utilisateurs, des anomalies et des 
+événements liés ?la sécurité. ?s ?urnaux doivent conserver les évènements 
+sur une période glissante ne pouvant excéder six mois ?auf obligation légale, 
+ou demande de la ??, de conserver ces informations pour une durée plus 
+longue?
+?évoir au minimum la ?urnalisation des accès des utilisateurs incluant leur 
+identifiant, la date et l’heure de leur connexion, ainsi que la date et l’heure 
+de leur déconnexion. Le format de l’horodatage doit de préférence prendre 
+comme référence le temps ?? ? .
+?ns certains cas, il peut ?re nécessaire de conserver également le détail 
+des actions effectuées par l’utilisateur, telles que les données consultées par 
+exemple.
+? référer au document du ????disponible ?l’adresse internet
+http???.certa.ssi.gouv.fr?ite??????????, pour un exemple de 
+mise en ?vre.
+? ?former les utilisateurs de la mise en place d’un tel système.
+? ?otéger les équipements de ?urnalisation et les informations ?urnalisées 
+contre le sabotage et les accès non autorisés.
+? ?ablir des procédures détaillant la surveillance de l’utilisation du traitement et 
+procéder périodiquement ?l’examen des informations ?urnalisées.
+? Le responsable de traitement doit ?re informé dans les meilleurs délais des 
+failles éventuelles de sécurité.
+? ? cas d’accès frauduleux ? des données personnelles, le responsable de 
+traitement devrait le notifier aux personnes concernées.
+Fiche n° ?- Traca?lité et ?stion 
+des incidents
+? ??ordinated ?iversal ?ime
+?
+I
+C
+?
+?
+ 
+N
+?
+ 
+8
+ 
+?
+ 
+?
+?
+?
+C
+?
+?
+I
+L
+I
+?
+?
+ 
+?
+?
+ 
+?
+?
+?
+?
+I
+?
+N
+ 
+?
+?
+?
+ 
+I
+N
+C
+I
+?
+?
+N
+?
+?
+?
+I
+C
+?
+?
+ 
+N
+?
+ 
+8
+ 
+?
+ 
+?
+?
+?
+C
+?
+?
+I
+L
+I
+?
+?
+ 
+?
+?
+ 
+?
+?
+?
+?
+I
+?
+N
+ 
+?
+?
+?
+ 
+I
+N
+C
+I
+?
+?
+N
+?
+?
+?
+  ? qu?l ne ?ut pas ?ire
+? ?iliser les informations issues des dispositifs de ?urnalisation ?d’autres fins 
+que celles de garantir le bon usage du système informatique.
+  ?ur aller plus loin
+? Les horloges des différents systèmes de traitement de l’information d’un 
+organisme ou d’un domaine de sécurité doivent ?re synchronisées ?l’aide 
+d’une source de temps fiable et préalablement définie.
+Lorsque le traitement fait appel ?des ressources réseau, la synchronisation des 
+sources de temps peut ?re réalisée par le recours au protocole ?? ? .
+? Le responsable de traitement doit se tenir in?rmé des vulnéra?lités 
+techniques des systèmes et entreprendre les actions appropriées pour 
+traiter le risque associé.
+? ? Le protocole ???et?r??ime ?otocol?permet de caler l’horloge d’un ordinateur sur une source d’horodatage fiable 
+via le réseau.
+??I?? ???? I??? ??C??I??
+?n de protéger efficacement les locaux o?sont hébergés les traitements de 
+données personnelles, prévoir ?
+ ? des alarmes afin de déceler une intrusion au sein d’une ?ne sécurisée ?
+ ? des mesures afin de ralentir la progression des personnes parvenues ?
+s’introduire ?
+ ? des moyens afin de mettre fin ?l’intrusion.
+  ?s précautions élémentaires
+? ?streindre les accès aux salles ou bureaux susceptibles d’héberger du 
+matériel contenant des données au moyen de portes verrouillées, ou de 
+sas d’accès pour les équipements les plus critiques.
+? ?staller des alarmes anti-intrusion et les vérifier périodiquement.
+  ? qu?l ne ?ut pas ?ire
+? Sous-dimensionner ou né?i?r l?ntretien de la climatisation des 
+salles hébergeant les machines ?une panne sur cette installation a souvent 
+comme conséquence l’arr? des machines ou encore l’ouverture des portes 
+des salles et donc la neutralisation de facto d’éléments concourant ? la 
+sécurité physique des locaux.
+  ?ur aller plus loin
+? ? faut protéger les ?nes sécurisées par des contr?es pour s’assurer que 
+seul le personnel d?ent habilité est admis dans ces ?nes. ?ur ce faire, il 
+convient de suivre les recommandations suivantes ?
+ ? concernant les ?nes dans lesquelles des informations sensibles sont 
+traitées ou stoc?es, des dispositi? d?uthentification doivent ?re 
+prévus?Il peut s??r de cartes d’accès accompagnées d’un numéro 
+d’identification personnel. ? ?urnal des accès intervenus lors des trois 
+derniers mois au plus doit ?re tenu ??ur de fa?n sécurisée ?
+ ? ? l’intérieur des ?nes ? accès réglementé, exiger le port d?n mo?n 
+d?dentification visi?e ?adge?pour toutes les personnes ?
+ ? les visiteurs ?ersonnel en charge de l’assistance technique, etc.?doivent 
+avoir un accès limité. La date et l’heure de leur arrivée et départ doivent 
+?re consignées ?
+ ? ?examiner et mettre ? ?ur régulièrement les permissions d’accès aux 
+?nes sécurisées et les supprimer si nécessaire.
+?
+Fiche n°?- ?curité des locau?
+?
+I
+C
+?
+?
+ 
+N
+?
+9
+ 
+?
+ 
+?
+?
+C
+?
+?
+I
+?
+?
+ 
+?
+?
+?
+ 
+L
+?
+C
+?
+?
+?
+?
+I
+C
+?
+?
+ 
+N
+?
+9
+ 
+?
+ 
+?
+?
+C
+?
+?
+I
+?
+?
+ 
+?
+?
+?
+ 
+L
+?
+C
+?
+?
+?
+?
+I
+C
+?
+?
+ 
+N
+?
+ 
+1
+?
+ 
+?
+ 
+?
+?
+C
+?
+?
+I
+?
+?
+ 
+?
+?
+ 
+?
+?
+?
+?
+?
+?
+ 
+I
+N
+?
+?
+?
+?
+?
+?
+I
+?
+?
+?
+ 
+I
+N
+?
+?
+?
+N
+??ur tous les services réseau, il faut identifier les fonctions réseau et les niveaux 
+de service nécessaires au bon fonctionnement du traitement et n’autoriser que 
+ceux?i.
+  ?s précautions élémentaires
+? ?miter les ?? réseau au strict nécessaire? ?r exemple, si l’accès 
+? un serveur ?b passe obligatoirement et uniquement par l’utilisation du 
+protocole ?L, il faut autoriser uniquement les ?x réseau ? entrants sur 
+cette machine sur le port de communication ??et bloquer tous les autres 
+ports de communication.
+? référer aux documents suivants du ?????
+ ? http???.certa.ssi.gouv.fr?ite???????????,
+         pour les questions de filtrage et pare?eux ?
+ ? http???.certa.ssi.gouv.fr?ite???????????,
+         pour la mise en ?vre de ?L.
+? ?curiser les accès au système d’information au moyen d’appareils 
+informatiques nomades tels que des ordinateurs portables par la mise en 
+place de connexions ?? reposant sur des algorithmes cryptographiques 
+réputés forts?  et mettant si possible en ?vre un matériel ?arte ? puce, 
+boitier générateur de mots de passe ? usage unique ?? ?e ?ime 
+?ss?rd? etc.?
+? ?courir au chiffrement de la communication par l’usage du protocole ?L 
+avec une clé de ??bits lors de la mise en ?vre de services ?b.
+  ? qu?l ne ?ut pas ?ire
+? ?iliser le protocole telnet pour la connexion ? distance aux équipements 
+actifs du réseau ?are?eu, routeurs, s?tches? ? convient d’utiliser plut? ??
+ou un accès physique direct ?l’équipement.
+? ?staller des réseaux ?i?. ? de tels équipements doivent ?re mis en ?vre, 
+il est nécessaire de sécuriser les connexions par l’usage du protocole ?A, 
+en choisissant le mode de chiffrement ????.
+?ur plus de détails sur l’accès aux réseaux sans fil, se référer aux mesures 
+préconisées sur le site du ?????l’adresse
+http???.certa.ssi.gouv.fr?ite???????????.
+?
+Fiche n° 1?- ?curité du réseau 
+in?rmatique interne
+ ? ??. ?che n???Le chiffrement
+??I?? ???? I??? ??C??I?? ?
+  ?ur aller plus loin
+? Le cloisonnement réseau permet notamment d’éviter que la compromission 
+d’un poste n’entraîne celle de l’ensemble du système. ? pratique, il est 
+recommandé de segmenter le réseau en sous?éseaux logiques selon les 
+services censés y ?re déployés.
+? exemple d’une telle architecture est représenté ci?essous.
+Fi?re 1??emple d?n réseau in?rmatique cloisonné par ?A?
+?ur mettre en ?vre un tel cloisonnement, plusieurs méthodes sont 
+envisageables ?
+ ? la mise en place de réseaux physiques distincts ?il est alors possible de 
+cloisonner les différents réseaux en contr?ant les ?x de données sur la 
+base des adresses réseau ?
+ ? le recours ? des réseaux virtuels, dénommés ?? ? l’ob?ctif de 
+cette technologie est de regrouper certains matériels connectés ? un 
+équipement physique ??tch? selon des critères logiques ?ar exemple 
+l’appartenance ? un département? dans le but de séparer les trafics 
+réseau entre les différents groupes ainsi constitués.
+?
+I
+C
+?
+?
+ 
+N
+?
+ 
+1
+?
+ 
+?
+ 
+?
+?
+C
+?
+?
+I
+?
+?
+ 
+?
+?
+ 
+?
+?
+?
+?
+?
+?
+ 
+I
+N
+?
+?
+?
+?
+?
+?
+I
+?
+?
+?
+ 
+I
+N
+?
+?
+?
+N
+?
+vlan1 imprimante
+Serveurs
+d’application
+Service 1
+Serveurs
+d’application
+Service 2
+Informatique
+mobile
+Unité de
+sauvegarde
+switch switchposte client
+service 1
+poste client
+service 2
+vlan1
+vlan2 vlan2
+vlan3
+?
+I
+C
+?
+?
+ 
+N
+?
+ 
+1
+?
+ 
+?
+ 
+?
+?
+C
+?
+?
+I
+?
+?
+ 
+?
+?
+ 
+?
+?
+?
+?
+?
+?
+ 
+I
+N
+?
+?
+?
+?
+?
+?
+I
+?
+?
+?
+ 
+I
+N
+?
+?
+?
+N
+?
+?
+? est également possible de restreindre les connexions autorisées en 
+différenciant par exemple un réseau interne pour lequel aucune connexion 
+venant d’?ternet n’est autorisée, et un réseau dit ???e?litari?d ?ne ou 
+?ne démilitarisée en fran?is?accessible depuis ?ternet.
+Fi?re 2??emple de mise en ?vre d?ne ??
+La mise en ?vre d’une ??nécessite l’installation de passerelles sécurisées 
+?are?eux?entre les réseaux ?cloisonner afin de contr?er les ?x d’information 
+entrants et sortants.
+? ?s systèmes de détection d’intrusion ?ntrusion ?tection ?stems 
+ou ?? peuvent ?re mis en place en vue d’analyser le trafic réseau en 
+temps réel, afin d’y détecter toute activité suspecte évoquant un scénario 
+d’attaque informatique. Le but de ces systèmes est de dé?uer les attaques 
+informatiques au plus t?. ? convient de rappeler que les utilisateurs d’un 
+réseau informatique doivent ?re avertis lorsqu’il est prévu une analyse des 
+contenus transitant sur le réseau.
+? ? peut ?re envisagé de mettre en place l’identification automatique de 
+matériels comme moyen d’authentification des connexions ? partir de lieux 
+et matériels  spécifiques. ?tte technique utilise par exemple les identifiants 
+uniques des cartes réseau ?’adresse ?? afin de détecter la connexion d’un 
+dispositif non répertorié et de router son trafic réseau de manière séparée.
+?
+I
+C
+?
+?
+ 
+N
+?
+ 
+1
+?
+ 
+?
+ 
+?
+?
+C
+?
+?
+I
+?
+?
+ 
+?
+?
+ 
+?
+?
+?
+?
+?
+?
+ 
+I
+N
+?
+?
+?
+?
+?
+?
+I
+?
+?
+?
+ 
+I
+N
+?
+?
+?
+N
+?
+Réseau interne ->               <- Zone accessible ->              <- Internet
+             depuis Internet (DMZ)
+Serveurs
+d’application
+Routeur
+Poste client Pare feu
+(Firewall)
+Pare feu
+(Firewall)
+Serveurs
+techniques
+(DHCP, DNS)
+Serveurs 
+de messagerie
+Portail 
+Web
+Modem
+??I?? ???? I??? ??C??I?? ?
+Les serveurs sont les équipements les plus critiques et ?ce titre, ils méritent des 
+mesures de sécurité renforcées.
+  ?s précautions élémentaires
+? ?anger les mots de passe par défaut par des mots de passe complexes 
+devant respecter au minimum les règles suivantes ?
+ ? avoir une taille de 1?caract?es minimum ?
+ ? utiliser des caract?es de t?es di??rents ?a?scules, minuscules, 
+chiffres et caractères spéciaux??
+ ?  chan?r de mot de passe notamment lors du départ d?n des 
+administrateurs?
+? ?staller les mises ??ur critiques des systèmes d’exploitation sans délai en 
+programmant une vérification automatique hebdomadaire.
+? ? matière d’administration de bases de données?
+ ? ne pas utiliser les serveurs hébergeant les bases de données ?d’autres 
+fins ?otamment pour naviguer sur des sites internet, accéder ? la 
+messagerie électronique ? ?
+ ? utiliser des comptes nominatifs pour l’accès aux bases de données, sauf 
+si une contrainte technique l’emp?he ?
+ ? mettre en ?vre des mesures et?u installer des dispositifs pour se 
+prémunir des attaques par in?ction de code ?L, scripts??
+ ? prévoir des mesures particulières pour les bases de données «sensibles?
+?hiffrement en base, chiffrement des sauvegardes?
+? ?surer une continuité de disponibilité des données, ce qui nécessite 
+notamment de prendre des précautions en cas d’installation ou de mises ?
+?ur de logiciels sur les systèmes en exploitation.
+? ?ttre ? ?ur les applications lorsque des failles critiques ont été identifiées 
+et corrigées.
+  ? qu?l ne ?ut pas ?ire
+? ?iliser des services non sécurisés ?uthentification en clair, ?x en clair, etc?.
+? ?acer les bases de données dans une ?ne directement accessible depuis 
+?ternet.
+?
+I
+C
+?
+?
+ 
+N
+?
+ 
+1
+1
+ 
+?
+ 
+?
+?
+C
+?
+?
+I
+?
+?
+ 
+?
+?
+?
+ 
+?
+?
+?
+?
+?
+?
+?
+?
+ 
+?
+?
+ 
+?
+?
+?
+ 
+?
+?
+?
+L
+I
+C
+?
+?
+I
+?
+N
+?
+Fiche n° 11 - sécurite des serveurs 
+et des applications
+?
+I
+C
+?
+?
+ 
+N
+?
+ 
+1
+1
+ 
+?
+ 
+?
+?
+C
+?
+?
+I
+?
+?
+ 
+?
+?
+?
+ 
+?
+?
+?
+?
+?
+?
+?
+?
+ 
+?
+?
+ 
+?
+?
+?
+ 
+?
+?
+?
+L
+I
+C
+?
+?
+I
+?
+N
+?
+?
+  ?ur aller plus loin
+? Les systèmes sensibles, c’est??ire tout système traitant de données 
+sensibles ou ?gées confidentielles pour l’entreprise, doivent disposer d’un 
+environnement in?rmatique dédié ?solé?
+? ?agissant des logiciels s’exécutant sur des serveurs, il est conseillé 
+d’utiliser des outils de détection des vulnéra?lités ?ogiciels scanners de 
+vulnérabilité tels que nmap ?ttp??map.org?, nessus ?ttp???.nessus.
+org?, ni?o ?ttp???.cirt.net?i?o? etc.? pour les traitements les plus 
+critiques afin de détecter d’éventuelles failles de sécurité. ?s systèmes de 
+détection et prévention des attaques sur des systèmes?erveurs critiques 
+dénommés ?st ?trusion ?evention peuvent aussi ?re utilisés.
+? ?lon la nature de l’application, il peut ?re nécessaire d’assurer l’intégrité des 
+traitements par le recours ?des signatures du code exécutable garantissant 
+qu’il n’a subi aucune altération. ?cet égard, une vérification de signature tout 
+au long de l’exécution ?t pas seulement avant l’exécution?rend plus difficile 
+la compromission d’un programme.
+?
+I
+C
+?
+?
+ 
+N
+?
+ 
+1
+1
+ 
+?
+ 
+?
+?
+C
+?
+?
+I
+?
+?
+ 
+?
+?
+?
+ 
+?
+?
+?
+?
+?
+?
+?
+?
+ 
+?
+?
+ 
+?
+?
+?
+ 
+?
+?
+?
+L
+I
+C
+?
+?
+I
+?
+N
+?
+??I?? ???? I??? ??C??I??
+Les données ?caractère personnel communiquées ?ou gérées par des sous?
+traitants doivent bénéficier de garanties de sécurité.
+  ?s précautions élémentaires
+? ?évoir dans les contrats liant l’organisme et les sous?raitants une clause 
+spécifique couvrant la confidentialité des données personnelles confiées ?
+ces derniers. ? modèle de clause est fourni ci?près.
+? ?endre des dispositions ?udits de sécurité, visite des installations, etc? 
+afin de s’assurer de l’effectivité des garanties offertes par le sous?raitant en 
+matière de protection des données. ?la inclut notamment ?
+ ? le chiffrement des données selon leur sensibilité ou ?défaut l’existence de 
+procédures garantissant que la société de prestation n’a pas accès aux 
+données qui lui sont confiées ?
+ ? le chiffrement de la liaison de données ?onnexion de type https par 
+exemple??
+ ? des garanties en matière de protection du réseau, tra?bilité ?ournaux, 
+audits? gestion des habilitations, authentification, etc.
+? ?évoir les conditions de restitution des données et de leur destruction en cas 
+de rupture ou ?la fin du contrat.
+  ? qu?l ne ?ut pas ?ire
+? ?voir recours ? des services offrant des fonctionnalités d’informatique 
+répartie?  sans garantie quant ? la localisation géographique effective des 
+données.
+  ?ur aller plus loin
+? ?ncernant les données de santé, il est rappelé qu’un hébergeur se doit 
+d’avoir un agrément délivré par le ministre de la ?nté. Le référentiel de 
+constitution d’un dossier est disponible sur le site http??sante.gouv.fr?
+3?
+?
+I
+C
+?
+?
+ 
+N
+?
+ 
+1
+?
+ 
+?
+ 
+?
+?
+?
+?
+?
+?
+?
+?
+I
+?
+?
+N
+C
+?
+? ?cloud computing.
+Fiche n° 12 - ?us-traitance
+?d?e de clauses de confidentialité pouvant ?re utilisées en cas de sous-
+traitance
+Les supports informatiques et documents fournis par la société ??la société ?restent 
+la propriété de la société ?
+Les données contenues dans ces supports et documents sont strictement couvertes 
+par le secret professionnel ?rticle ??? du code pénal? il en va de m?e pour toutes 
+les données dont ?prend connaissance ?l’occasion de l’exécution du présent contrat.
+?nformément ? l’article ? de la loi informatique et libertés modifiée, ? s’engage 
+? prendre toutes précautions utiles afin de préserver la sécurité des informations 
+et notamment d’emp?her qu’elles ne soient déformées, endommagées ou 
+communiquées ?des personnes non autorisées.
+?s’engage donc ?respecter les obligations suivantes et ?les faire respecter par son 
+personnel ?
+ ? ne prendre aucune copie des documents et supports d’informations qui lui sont 
+confiés, ?l’exception de celles nécessaires ?l’exécution de la présente prestation 
+prévue au contrat, l’accord préalable du maître du fichier est nécessaire ?
+  ? ne pas utiliser les documents et informations traités ?des fins autres que celles 
+spécifiées au présent contrat ?
+ ? ne pas divulguer ces documents ou informations ? d’autres personnes, qu’il 
+s’agisse de personnes privées ou publiques, physiques ou morales ?
+ ? prendre toutes mesures permettant d’éviter toute utilisation détournée ou 
+frauduleuse des fichiers informatiques en cours d’exécution du contrat ?
+ ? prendre toutes mesures de sécurité, notamment matérielles, pour assurer la 
+conservation et l’intégrité des documents et informations traités pendant la durée 
+du présent contrat ?
+ ? et en fin de contrat, ? procéder ? la destruction de tous fichiers manuels ou 
+informatisés stoc?nt les informations saisies.
+?ce titre, ?ne pourra sous?raiter l’exécution des prestations ?une autre société, ni 
+procéder ?une cession de marché sans l’accord préalable de ?
+?se réserve le droit de procéder ?toute vérification qui lui paraîtrait utile pour constater 
+le respect des obligations précitées par ?.
+? cas de non?espect des dispositions précitées, la responsabilité du titulaire peut 
+également ?re engagée sur la base des dispositions des articles ???et ??? du 
+nouveau code pénal.
+? pourra prononcer la résiliation immédiate du contrat, sans indemnité en faveur du 
+titulaire, en cas de violation du secret professionnel ou de non?espect des dispositions 
+précitées.
+31
+?
+I
+C
+?
+?
+ 
+N
+?
+ 
+1
+?
+ 
+?
+ 
+?
+?
+?
+?
+?
+?
+?
+?
+I
+?
+?
+N
+C
+?
+?
+I
+C
+?
+?
+ 
+N
+?
+ 
+1
+?
+ 
+?
+ 
+?
+?
+?
+?
+?
+?
+?
+?
+I
+?
+?
+N
+C
+?
+??I?? ???? I??? ??C??I??
+? distingue habituellement trois catégories d’archives ?
+ ? Les bases actives ou archives courantes ?il s’agit des données d’utilisation 
+courante par les services en charge de la mise en ?vre du traitement ?
+ ? Les archives intermédiaires ?il s’agit des données qui ne sont plus utilisées 
+mais qui présentent encore un intér? administratif pour l’organisme. Les 
+données sont conservées sur support distinct et sont consultées de 
+manière ponctuelle et motivée ?
+ ? Les archives définitives ? il s’agit des données présentant un intér? 
+historique, scientifique ou statistique ?stifiant qu’elles ne fassent l’ob?t 
+d’aucune destruction. ?les sont alors régies par le livre ? du ?de du 
+patrimoine et non par la loi «informatique et libertés?
+Les archives doivent ?re sécurisées et chiffrées si les données archivées sont 
+des données sensibles ou ?gées confidentielles par l’entreprise.
+  ?s précautions élémentaires
+? ?ttre en ?vre des modalités d’accès spécifiques aux données archivées 
+du fait que l’utilisation d’une archive doit intervenir de manière ponctuelle et 
+exceptionnelle.
+? ?ivre les préconisations données dans la fiche n?? ? Le chiffrement, 
+s’agissant du chiffrement des archives.
+? ?agissant de la destruction des archives, choisir un mode opératoire 
+garantissant que l’intégralité d’une archive a été détruite.
+?titre d’exemple, l’???accorde des certifications de premier niveau ?des 
+logiciels pour réaliser cet ob?ctif ?ttp???.ssi.gouv.fr?ite?ubrique?.html?.
+?lon la nature des supports, on peut mentionner ?
+ ? Les broyeurs et déchiqueteurs pour le papier ainsi que les supports 
+numériques tels que les ? et ???
+ ? Les «dégausseurs?pour les unités de stoc?ge ?technologie magnétique.
+? référer au document Guide	technique	pour	la	confidentialité	des	informations	
+enregistrées	sur	les	disques	durs	à	recycler	ou	exporter.
+?http??????.ssi.gouv.fr?archive?fr?documentat ion??uide?effaceur?
+?.?du???.pdf?.
+Fiche n°13 - ??rchiva?
+3?
+?
+I
+C
+?
+?
+ 
+N
+?
+1
+3
+ 
+?
+ 
+L
+?
+?
+?
+C
+?
+I
+?
+?
+?
+?
+  ? qu?l ne ?ut pas ?ire
+? ?iliser des supports ne présentant pas une garantie de longévité suffisante. ?
+titre d’exemple, on peut mentionner les ? et ??dont la longévité dépasse 
+rarement ??années.
+  ?ur aller plus loin
+? ?us d’informations sur les problématiques d’archivage sont disponibles sur 
+le site des archives de  ?ance ? http???.archivesdefrance.culture.gouv.fr?
+gerer?rchives?lectroniques?.
+33
+?
+I
+C
+?
+?
+ 
+N
+?
+1
+3
+ 
+?
+ 
+L
+?
+?
+?
+C
+?
+I
+?
+?
+?
+?
+?
+I
+C
+?
+?
+ 
+N
+?
+1
+3
+ 
+?
+ 
+L
+?
+?
+?
+C
+?
+I
+?
+?
+?
+?
+??I?? ???? I??? ??C??I??
+la communication de données ?caractère personnel doit ?re sécurisée, c’est?
+?dire que la confidentialité, l’intégrité et l’authenticité des informations doivent 
+?re assurées. 
+La messagerie électronique et le fax, m?e s’ils apportent un gain de temps, 
+ne constituent pas a priori un moyen de communication s? pour transmettre 
+des données personnelles. ?e simple erreur de manipulation ??ail erroné, 
+erreur de numérotation du fax destinataire? peut conduire ?divulguer ?des 
+destinataires non habilités des informations personnelles et ? porter ainsi 
+atteinte au droit ?la vie privée des personnes.
+? outre la transmission via ?ternet de données nominatives comporte, compte 
+tenu de l’absence générale de confidentialité du réseau ?ternet, des risques 
+importants de divulgation de ces données et d’intrusion dans les systèmes 
+informatiques internes.
+  ?s précautions élémentaires
+? ?ncernant la confidentialité de la communication ?
+ ? ?iffrer les données avant leur enregistrement sur le support lorsque la 
+transmission de données s’effectue par l’envoi d’un support physique ? 
+technologie optique ou magnétique?
+ ? Lors d’un envoi via un réseau ?
+ ? si cette transmission utilise la messagerie électronique, chiffrer les pièces 
+?transmettre. ?ce su?t, il convient de se référer aux préconisations de la 
+fiche n???Le chiffrement ?
+ ? s’il s’agit d’un transfert de fichiers, utiliser un protocole garantissant la 
+confidentialité, tel que ?? ?
+ ? si cette transmission utilise le protocole ??, utiliser le protocole ?L 
+????pour assurer l’authentification des serveurs la confidentialité des 
+communications.
+? ?ns tous les cas, la transmission du secret ?lé de déchiffrement, mot de 
+passe, etc.?garantissant la confidentialité du transfert doit s’effectuer dans 
+une transmission distincte, si possible via un canal de nature différente de 
+celui ayant servi ?la transmission des données ?ar exemple, envoi du fichier 
+chiffré par mail et communication du mot de passe par téléphone ou ??.
+Fiche n° 1?- ??chan? 
+d?n?rmations avec d?utres 
+or?nismes
+3?
+?
+I
+C
+?
+?
+ 
+N
+?
+ 
+1
+?
+ 
+?
+ 
+L
+?
+?
+C
+?
+?
+N
+?
+?
+ 
+?
+?
+I
+N
+?
+?
+?
+?
+?
+?
+I
+?
+N
+?
+ 
+?
+?
+?
+C
+ 
+?
+?
+?
+?
+?
+?
+?
+?
+ 
+?
+?
+?
+?
+N
+I
+?
+?
+?
+?
+? ? vous ?es amené ?utiliser le ??, il est recommandé de mettre en place les 
+mesures suivantes ?
+ ? le fax doit ?re situé dans un local physiquement contr?é et accessible 
+uniquement au personnel habilité ?
+ ? l’impression des messages doit ?re subordonnée ? l’introduction d’un 
+code d’accès personnel ?
+ ? lors de l’émission des messages, le fax doit afficher l’identité du fax 
+destinataire afin d’?re assuré de l’identité du destinataire ?
+ ? doubler l’envoi par fax d’un envoi des documents originaux au destinataire ?
+ ? préenregistrer dans le carnet d’adresse des fax ?i cette fonctionnalité 
+existe?les destinataires potentiels.
+  ? qu?l ne ?ut pas ?ire
+? ?ransmettre des fichiers contenant des données personnelles en clair via des 
+messageries ?b du type ?ail ou ?tmail.
+  ?ur aller plus loin
+? ?ncernant l?nté?ité des données ?
+il est recommandé de calculer une empreinte sur les données en clair et de 
+transmettre cette empreinte afin que l’intégrité des données soit vérifiée au 
+moment de leur réception. Les calculs d’empreintes peuvent ?re réalisés ?
+l’aide d’algorithmes de hachage tels que ??? ou ??? L’utilisation de 
+???est recommandée. 
+? ?ncernant l?uthenticité des données ?
+l’émetteur peut signer les données avant leur envoi afin de garantir qu’il est 
+? l’origine de la transmission. ?e signature électronique requiert la mise en 
+place d’une infrastructure de gestion de clés publiques?  ?n anglais ?blic ?y 
+?frastructure, ?? ?
+l’utilisation d’algorithmes ? clés publiques, lorsque les différents acteurs ont 
+mis en place une in?astructure de ?stion de clés pu?iques, apparaît 
+particulièrement adaptée pour garantir la confidentialité et l’intégrité des 
+communications, ainsi que l’authenticité de l’émetteur par l’utilisation de la 
+signature l’électronique.
+35
+?
+I
+C
+?
+?
+ 
+N
+?
+ 
+1
+?
+ 
+?
+ 
+L
+?
+?
+C
+?
+?
+N
+?
+?
+ 
+?
+?
+I
+N
+?
+?
+?
+?
+?
+?
+I
+?
+N
+?
+ 
+?
+?
+?
+C
+ 
+?
+?
+?
+?
+?
+?
+?
+?
+ 
+?
+?
+?
+?
+N
+I
+?
+?
+?
+?
+?
+I
+C
+?
+?
+ 
+N
+?
+ 
+1
+?
+ 
+?
+ 
+L
+?
+?
+C
+?
+?
+N
+?
+?
+ 
+?
+?
+I
+N
+?
+?
+?
+?
+?
+?
+I
+?
+N
+?
+ 
+?
+?
+?
+C
+ 
+?
+?
+?
+?
+?
+?
+?
+?
+ 
+?
+?
+?
+?
+N
+I
+?
+?
+?
+?
+? ? ?r la notion de clé publique, voir la fiche n???Le chiffrement
+??I?? ???? I??? ??C??I??
+?e telle infrastructure consiste ?délivrer une paire de clés privée?ublique ?
+l’ensemble des personnes susceptibles d’échanger des informations. Les clés 
+publiques doivent ?re certifiées par une autorité de certification pour laquelle 
+chacun des utilisateurs ? le certificat ?  racine, ceci afin que l’authenticité des 
+clés publiques soient garanties.
+Les algorithmes mis en ?vre dans le cadre de cette infrastructure doivent 
+suivre les préconisations de l’annexe ? du ?férentiel ?néral de ?curité ? .
+? référentiel précise notamment les longueurs de clé ?considérer. ?la date de 
+rédaction de ce document, il est par exemple préconisé que ?
+ ? La taille minimale d’une clé ??soit de ?? bits, pour une utilisation ne 
+devant pas dépasser l’année ?? ?
+ ? ?ur une utilisation au?el?de ??, la taille minimale de la clé ??est 
+de ?? bits.
+?s valeurs sont données ? titre indicatif, et sont dépendantes du contexte 
+propre ?chaque traitement.
+? ?s lors que les données ont été re?es, que leur intégrité a été vérifiée par le 
+destinataire et qu’elles ont été intégrées dans le système d’information, il est 
+conseillé de détruire les supports ou fichiers ayant servi ?leur transmission.
+36
+?
+I
+C
+?
+?
+ 
+N
+?
+ 
+1
+?
+ 
+?
+ 
+L
+?
+?
+C
+?
+?
+N
+?
+?
+ 
+?
+?
+I
+N
+?
+?
+?
+?
+?
+?
+I
+?
+N
+?
+ 
+?
+?
+?
+C
+ 
+?
+?
+?
+?
+?
+?
+?
+?
+ 
+?
+?
+?
+?
+N
+I
+?
+?
+?
+?
+? ?? certificat est constitué ?
+ ?d’une valeur de clé publique
+ ? d’informations complémentaires permettant d’identifier le propriétaire de la clé ?dresse email, nom?
+ ?  d’une signature par une clé publique d’une autorité de certification sur l’ensemble de ces informations.
+? ? http://www.references.modernisation.gouv.fr/rgs?ecurite
+la protection des données ?caractère personnel doit ?re partie intégrante du 
+développement informatique afin d’emp?her toute erreur, perte, modification 
+non autorisée, ou tout mauvais usage de celles?i dans les applications.
+  ?s précautions élémentaires
+? ?fectuer le développement informatique dans un environnement informatique 
+distinct de celui de la production ?ar exemple, sur des ordinateurs différents, 
+dans des salles machines différentes?
+? ?endre en compte les e??nces de sécurité vis-?vis des données ?
+caract?e personnel d? l?la?ration du service ou d? la conception 
+de l?pplication?
+  ? qu?l ne ?ut pas ?ire
+? ?iliser des données ?caract?e personnel réelles pour les phases de 
+développement et de test? ? des données réelles sont néanmoins requises, 
+il convient que celles?i soient anonymisées ?f fiche n???L’anonymisation?
+  ?ur aller plus loin
+? Le développement doit imposer des ?rmats de saisie et d?nre?strement 
+des données qui minimisent les données collectées? ?r exemple, 
+s’il s’agit de collecter l’année de naissance d’une personne, le champ du 
+formulaire correspondant ne doit pas permettre la saisie du mois et du ?ur de 
+naissance. ?la peut se traduire notamment par la mise en ?vre d’un menu 
+déroulant limitant les choix pour un champ d’un formulaire.
+? Les formats de données doivent ?re compatibles avec la mise en ?vre 
+d’une durée de conservation.
+? Le contr?e d?cc? aux données par des catégories d’utilisateurs doit ?re 
+intégré au moment du développement.
+? ?iter le recours ?des ?nes de texte libre. ? de telles ?nes sont requises, 
+il faut faire apparaître soit en filigrane, soit comme texte pré?empli s’effa?nt 
+sit? que l’utilisateur décide d’écrire dans la ?ne, les mentions suivantes ?
+Les	 personnes	 disposent	 d’un	 droit	 d’accès	 aux	 informations	 contenues	
+dans	 cette	 zone	 de	 texte.	 Les	 informations	 que	 vous	 y	 inscrivez	 doivent	
+être	 PERTINENTES	 au	 regard	 du	 contexte.	 Elles	 ne	 doivent	 pas	 comporter	
+d’appréciation	 subjective,	 ni	 faire	 apparaître,	 directement	 ou	 indirectement	
+les	origines	raciales,	les	opinions	politiques,	philosophiques	ou	religieuses,	les	
+appartenances	syndicales	ou	les	mœurs	de	la	personne	concernée.
+Fiche n° 1?- ?s développements 
+in?rmatiques
+37
+?
+I
+C
+?
+?
+ 
+N
+?
+ 
+1
+5
+ 
+?
+ 
+L
+?
+?
+ 
+?
+?
+?
+?
+L
+?
+?
+?
+?
+?
+?
+N
+?
+?
+ 
+I
+N
+?
+?
+?
+?
+?
+?
+I
+?
+?
+?
+?
+?
+I
+C
+?
+?
+ 
+N
+?
+ 
+1
+?
+ 
+?
+ 
+L
+?
+?
+C
+?
+?
+N
+?
+?
+ 
+?
+?
+I
+N
+?
+?
+?
+?
+?
+?
+I
+?
+N
+?
+ 
+?
+?
+?
+C
+ 
+?
+?
+?
+?
+?
+?
+?
+?
+ 
+?
+?
+?
+?
+N
+I
+?
+?
+?
+?
+??I?? ???? I??? ??C??I??
+? distingue les concepts d’anon?isation irréversi?e et d?non?isation 
+réversi?e, cette dernière étant parfois dénommée pseudon?isation.
+L’anonymisation irréversible consiste ?supprimer tout caractère identifiant ?un 
+ensemble de données. ?ncrètement, cela signifie que toutes les informations 
+directement et indirectement identifiantes sont supprimées et ? rendre 
+impossible toute ré?dentification des personnes.
+L’anonymisation réversible est une technique qui consiste ? remplacer un 
+identifiant ?u plus généralement des données ? caractère personnel?par un 
+pseudonyme. ?tte technique permet la levée de l’anonymat ou l’étude de 
+corrélations en cas de besoin.
+  ?s précautions élémentaires
+? ?re très vigilant dans la mesure o?une ré?dentification peut intervenir ?partir 
+d’informations partielles? .
+? ?onymiser une donnée personnelle en procédant comme suit ?
+ ?  ?nérer un secret su?samment lon?et di?cile ?mémoriser ?  ?
+ ? appliquer une fonction dite ?sens unique sur les données ?un algorithme 
+convenant pour une telle opération est un algorithme de hachage ?clé 
+secrète, tel que l’algorithme ?? ?  basé sur ???
+? ? une donnée personnelle est anonymisée et non purement supprimée, il 
+existe un risque de ré?dentification ? .
+ ? ? l’absence d’un besoin de levée de l’anonymat, prévoir de supprimer le 
+secret afin de réduire ce risque.
+ ? ?ns l’hypothèse o?le secret doit ?re conservé pour une éventuelle levée 
+de l’anonymisation ou une finalité de corrélation entre différentes données, 
+prévoir de mettre en place des mesures or?nisationnelles 21 pour 
+?rantir la confidentialité de ce secret. Les accès ?celui?i doivent 
+?re tracés.
+Fiche n° 1?- ??non?isation
+38
+?
+I
+C
+?
+?
+ 
+N
+?
+ 
+1
+6
+ 
+?
+ 
+L
+?
+?
+N
+?
+N
+?
+?
+I
+?
+?
+?
+I
+?
+N
+? ? ?titre d’exemple, la ville et la date de naissance peuvent parfois suffire ?identifier formellement une personne.
+? ? ? exemple de chaine de caractères ayant valeur de secret est ?f??n?????b???ud????
+? ? ?? est spécifié dans le document ????, http://www.ietf.org/rfc/rfc??.t?
+? ? ? est possible d’associer la donnée originale ?la donnée anonymisée dès lors que le secret est compromis et que la 
+complexité de la donnée originale n’est pas suffisante. Les données personnelles possèdent souvent une complexité, 
+autrement dit une entropie insuffisante. ?r exemple, les patronymes fran?is sont en nombre limité ?nférieur ? ??
+millions? tous répertoriés.
+? ? ? exemple de telle mesure consiste ?partager la clé en trois paires de valeurs confiées ?trois personnes différentes, 
+nécessitant qu’au moins deux personnes se réunissent pour reconstituer la clé.
+  ? qu?l ne ?ut pas ?ire
+? ?iliser des mécanismes d’anonymisation non validés par des experts. ? 
+bon algorithme d’anonymisation doit notamment ?
+ ? ?re irréversible ?
+ ? avoir un très faible taux de collision ?deux données différentes ne doivent 
+pas mener ?un m?e résultat ?
+ ? avoir une grande dispersion ? deux données quasi?emblables doivent 
+avoir des résultats très différents ?
+ ? pouvoir mettre en ?vre une clé secrète.
+  ?ur aller plus loin
+? ?ns certains cas, il est conseillé d’appliquer une double anonymisation 
+réversible ? soit l’application d’une seconde anonymisation sur le résultat 
+d’une première anonymisation. ?s deux anonymisations doivent utiliser des 
+secrets différents, détenus par des organismes distincts.
+L’algorithme ?? ?onction d’?cultation des ?formations ?minatives? est 
+un exemple d’algorithme ?double anonymisation.
+39
+?
+I
+C
+?
+?
+ 
+N
+?
+ 
+1
+6
+ 
+?
+ 
+L
+?
+?
+N
+?
+N
+?
+?
+I
+?
+?
+?
+I
+?
+N
+?
+I
+C
+?
+?
+ 
+N
+?
+ 
+1
+6
+ 
+?
+ 
+L
+?
+?
+N
+?
+N
+?
+?
+I
+?
+?
+?
+I
+?
+N
+??I?? ???? I??? ??C??I??
+le chi??ement? parfois improprement appelé cryptage, est un procédé 
+cryptographique permettant de garantir la confidentialité d’une information. 
+Les mécanismes cryptographiques permettent également d’assurer l?nté?ité 
+d’une information, ainsi que l’authenticité d’un message en le signant.
+? distingue deux familles cryptographiques permettant de chiffrer ? la 
+cryptographie symétrique et la cryptographie asymétrique ?
+ ? la cryptographie symétrique comprend les mécanismes pour lesquels la 
+m?e clé sert ?chiffrer et ?déchiffrer ?
+ ? la cryptographie asymétrique comprend les mécanismes pour lesquels la 
+clé servant ?chiffrer, appelée clé publique, est différente de la clé servant 
+?déchiffrer, appelée clé privée. ? parle de paire de clés.
+??ntér? de la cr?to?aphie as?étrique est multiple ?
+ ? ?aque personne n’a besoin que d’une paire de clés privée?ublique. 
+? contrario, la cryptographie symétrique nécessite d’avoir autant de 
+clés différentes que de couples de personnes qui veulent communiquer 
+confidentiellement ?
+ ? Les clés publiques peuvent ?re rendues ? publiques pour quiconque 
+souhaitant vous envoyer un message confidentiel. ?outefois l’authenticité 
+des clés publiques n’est ainsi pas garantie. ?ssi la mise en ?vre de 
+la cryptographie asymétrique dans le cadre d’échanges de messages 
+s’inscrit le plus souvent dans la mise en place d’une ?frastructure de 
+?stion de ?és ?bliques ?  ?
+L’échange d’informations de manière confidentielle entre deux parties ? et ?
+s’effectue comme suit ?
+?i??ement au mo?n de la cr?to?aphie s?étrique ?
+Fiche n° 1?- ? chi?rement
+?
+A Transmission via un canal sécurisé B
+Clé Clé
+Donnée en clair Chiffrement Donnée chiffrée
+Transmission via un canal non sécurisé Donnée chiffrée Déchiffrement Donnée en Clair
+?
+I
+C
+?
+?
+ 
+N
+?
+ 
+1
+7
+ 
+?
+ 
+L
+?
+ 
+C
+?
+I
+?
+?
+?
+?
+?
+?
+N
+?
+  ? ??oir la fiche n???L’échange d’informations avec d’autres organismes
+?i??ement au mo?n de la cr?to?aphie as?étrique ?
+Si?ature au mo?n de la cr?to?aphie as?étrique ?
+? fait que la clé privée n’est détenue que par une personne, la cryptographie 
+asymétrique permet de garantir l’imputabilité d’un message en le signant ?
+l’aide sa clé privée. ? que la cryptographie ne permet pas du fait du partage 
+de la clé entre deux parties.
+  ?s précautions élémentaires
+? ?ncernant le chi??ement s?étrique ?
+ ? utiliser des algorithmes ?l’état de l’art, tels que l’??ou le triple ???
+ ? utiliser des clés cryptographiques de longueur au moins égale ? ??ou 
+??bits et qui ne soient pas des clés faibles ? . ? outre, la génération des 
+clés doit se faire au moyen de logiciels éprouvés, par exemple open?L ? .
+?
+?
+I
+C
+?
+?
+ 
+N
+?
+ 
+1
+7
+ 
+?
+ 
+L
+?
+ 
+C
+?
+I
+?
+?
+?
+?
+?
+?
+N
+?
+?
+I
+C
+?
+?
+ 
+N
+?
+ 
+1
+7
+ 
+?
+ 
+L
+?
+ 
+C
+?
+I
+?
+?
+?
+?
+?
+?
+N
+?
+A Si l’échange de la clé publique 
+a lieu via un canal non sécurisé, 
+il faut que leur authenticité soit 
+garantie22
+B
+Clé publique
+de B (KpubB)
+Clé publique
+de B (KpubB)
+Clé privée
+de B (KprivB)
+Donnée en clair Chiffrement Donnée chiffrée
+Transmission via un canal non sécurisé Donnée chiffrée Déchiffrement Donnée en Clair
+A Si l’échange de la clé publique 
+a lieu via un canal non sécurisé, 
+il faut que leur authenticité soit 
+garantie22
+B
+Clé privée
+de A (KprivA)
+Clé publique
+de A (KpubA)
+Clé publique
+de A (KpubA)
+Empreinte Chiffrement Signature
+Transmission via un canal non sécurisé Donnée chiffrée Déchiffrement Empreinte
+Calcul de 
+l?mpreinte ?ri?ation
+Donnée en clair Donnée en clair Calcul de l?mpreinte Empreinte
+? ??oir la fiche n???L’échange d’informations avec d’autres organismes 
+? ?? exemple de clé faible est la clé nulle ?????????????????
+? ?http://www.openssl.org/
+??I?? ???? I??? ??C??I??
+? ?ncernant le chi??ement as?étrique ?
+ ? ?iliser des algorithmes éprouvés, tels que le ??ou l’???
+ ? ?ncernant la longueur des clés, il convient de suivre les préconisations 
+données en annexe ? du ?férentiel ?néral de ?curité ? . ? outre, 
+la génération des clés doit se faire au moyen de logiciels éprouvés, par 
+exemple open?L ? .
+  ? qu?l ne ?ut pas ?ire
+? ?iliser l’algorithme simple ?? algorithme considéré comme obsolète.
+? ?iliser des logiciels ou des librairies cryptographiques n’ayant pas fait l’ob?t 
+de vérifications par des tierces parties ?l’expertise avérée.
+  ?ur aller plus loin
+? Le chi??ement de documents peut ?re réalisé au moyen de différents 
+logiciels, dont notamment ?
+ ? le lo?ciel True??t ? , permettant la mise en ?vre de conteneurs ?  
+chiffrés ?
+ ? le lo?ciel ?u ?ivac? ?ard, permettant la mise en ?vre de la 
+cryptographie asymétrique et dont une version est disponible ?l’adresse 
+http???.gnupg.org?ndex.fr.html. ? est suggéré de choisir des clés 
+??????mal ayant au minimum une taille de ?? bits, ou des clés 
+??d’une taille minimale de ?? bits ?
+ ? ?défaut, il peut ?re envisagé d’utiliser un utilitaire de compression tel que 
+ceux basés sur l’algorithme ??, dès lors qu’ils permettent le chiffrement ?
+l’aide d’un mot de passe. ?est le cas notamment du lo?ciel ??p.
+?
+?
+I
+C
+?
+?
+ 
+N
+?
+ 
+1
+7
+ 
+?
+ 
+L
+?
+ 
+C
+?
+I
+?
+?
+?
+?
+?
+?
+N
+?
+? ?http://www.openssl.org/
+? ?? http://www.references.modernisation.gouv.fr/rgs?ecurite
+? ? ? convient d’utiliser la version ?? qui bénéficie d’une certification de premier niveau par l’???
+? ??r conteneur, il faut comprendre un fichier susceptible de contenir plusieurs fichiers.
+A? ?  ?vanced ?cryption ?andard, un algorithme cryptographique symétrique 
+considéré comme une référence.
+?S ? ?ta ?cryption ?andard, un algorithme cryptographique symétrique considéré 
+comme dépassé.
+?? ? ?namic ?st ?nfiguration ?otocol, un protocole permettant la configuration 
+dynamique des paramètres réseau d’une machine ? compris l’attribution de son 
+adresse ??
+?S ? ?main ?me ?rver, ?rveur de nom de domaine, ?s serveurs font notamment la 
+correspondance entre un nom de machine, par exemple ??.cnil.fr, et une adresse 
+?, en l’occurrence ?.?????.
+?A ? ?gital ?gnature ?gorithm, un algorithme cryptographique de signature.
+?I? ? ?e méthodologie d’évaluation des risques relatifs ? la sécurité des ?stèmes 
+d’?formation.
+????liptic ?rve ?yptography, cryptographie basée sur les courbes elliptiques.
+?A?? une fonction de hachage permettant de garantir l’authenticité d’un message
+?T?? ?per?ext ?ransfer ?otocol, le protocole du ?b.
+?T? ??? sécurisé par ?L.
+???  ?dium ?cess ?ntrol, l’adresse ?? est un identifiant unique de chaque 
+interface réseau. 
+?I??  ?dundant ?ray of ?dependent ?s?, désigne une technologie permettant de 
+stoc?r des données sur plusieurs disques durs afin d’améliorer la tolérance aux 
+pannes.
+?A ?  ? algorithme de cryptographie asymétrique, du nom de ses trois concepteurs 
+?vest, ?amir et ?elman.
+SFT??  un protocole de communication fonctionnant au?essus de ??pour transférer et 
+gérer des fichiers ?distance.
+S? ?  ?cure ?sh ?gorithm, une famille de fonctions de hachage standardisées ???, 
+???, etc.?
+SI ??stème d’?formation.
+SQ??  ?ructure ?ery Language, le protocole servant ?interroger ou manipuler des bases 
+de données.
+SS?? ?cure ?ell, un protocole sécurisé de connexion ?distance en mode console.
+SS??  ?cure ?c?t Layer, un protocole qui permet notamment de sécuriser le trafic 
+???
+???  ?irtual ?t?r??mputer, un protocole permettant la prise de contr?e ?distance 
+d’un poste de travail.
+???  ?irtual ?ivate ?t?r? un canal de communication qui garantit la confidentialité 
+des échanges.
+ 
+Acron?es
+?
+?
+C
+?
+?
+N
+?
+?
+?
+?
+?
+I
+C
+?
+?
+ 
+N
+?
+ 
+1
+7
+ 
+?
+ 
+L
+?
+ 
+C
+?
+I
+?
+?
+?
+?
+?
+?
+N
+?
+??I?? ???? I??? ??C??I??
+liste des menaces ci?ant les s?t?es in?rmatiques et les fichiers ?considérer 
+en priorité ?
+? pour les matériels ?
+ ? détournement de l’usage prévu ?toc?ge de fichiers personnels sur 
+l’ordinateur de bureau, stoc?ge de documents sensibles sur une clé ??
+non prévue ?cet effet? ?
+ ? espionnage ?bservation d’un écran ?l’insu de son utilisateur, géolocalisation 
+d’un téléphone? ?
+ ? dépassement des limites de fonctionnement ?anne de courant, température 
+excessive d’une salle serveur, unité de stoc?ge pleine? ?
+ ? détérioration ?nondation ou incendie d’une salle serveur, dégradation du fait 
+de l’usure naturelle, vandalisme? ?
+ ? modification ??ut de périphérique, ?bcam, keylogger 28? ?
+ ? disparition ?ol, perte, cession ou mise au rebut d’un ordinateur?.
+? pour les lo?ciels ?
+ ? détournement de l’usage prévu ?lévation de privilèges, fouille de contenu, 
+effacement de traces? ?
+ ? analyse ?alayage d’adresses réseaux, collecte de données de configuration? ?
+ ? dépassement des limites de fonctionnement ?n?ction de données en dehors 
+des valeurs prévues, débordement de tampon? ?
+ ? suppression totale ou partielle ?ombe logique, effacement de code? ?
+ ? modification ?ontagion par un code malveillant, manipulation inopportune 
+lors d’une mise ??ur? ?
+ ? disparition ?ession d’un logiciel développé en interne, non renouvellement de 
+licence?.
+? pour les canau?de communication ?
+ ? écoute passive ?coute sur un c?le réseau, interception? ?
+ ? saturation ?xploitation distante d’un réseau ?fi, téléchargement non autorisé, 
+assourdissement de signal? ?
+ ? dégradation ?ectionnement de c?lage, torsion de fibre optique? ?
+ ? modification ?hangement d’un c?le par un autre inapproprié, modification 
+de chemin de c?le?,
+ ? disparition ?ol de c?les en cuivre? ?
+ ? attaque du milieu ?man	in	the	middle, re?u?éémission d’un ?x?.
+? pour les supports papier ?
+ ? détournement de l’usage prévu ?alsification, effacement, utilisation du verso 
+d’impressions papier en tant que brouillons? ?
+ ? espionnage ?ecture, photocopie ou photographie de documents? ?
+ ? détérioration ?ieillissement naturel, corrosion chimique, dégradation 
+volontaire, embrasement lors d’un incendie? ?
+ ? disparition ?ol de documents, revente, perte, pr?, mise au rebut?.
+Anne? 1 - ?naces in?rmatiques
+?
+?
+N
+N
+?
+?
+?
+? ??spositif d’enregistrement des frappes du clavier.
+?
+N
+N
+?
+?
+?
+?e di?culté ? ?e hésitation ?
+?us d’informations sur le site de la ?I????nil?r, 
+?e permanence de renseignements ?ridiques  
+par téléphone est assurée tous les ?urs de 1? ?12h et de 1? ?1? 
+au ? ? ? 22 22
+?ous pouve?en outre adresser toute demande  
+par télécopie au ? ? ? 22 ?
+    Ave?vous pensé ?? 
+?alue?le niveau de sécurité des 
+données personnelles dans votre 
+or?nisme
+Fiche Mesure
+1 Anal?er les risques
+Recensez les ?hiers et données ?caract?e personnel et les traitements o
+Déterminez les menaces et leurs impacts sur la vie privée des personnes o
+?tte?en ?vre des mesures de sécurité adaptées au?menaces o
+2 Authenti?r les utilisateurs
+Dé?isse?un identi?nt (login) unique ?chaque utilisateur o
+Adopte?une politique de mot de passe utilisateur rigoureuse o
+?lige?l?tilisateur ?changer son mot de passe apr? réinitialisation o
+3 ?rer les habilitations ?sensibiliser les utilisateurs
+Dé?issez des pro?s d’habilitation o
+Supprimez les permissions d’acc? obsol?es o
+Documentez les procédures d??loitation o
+?dige?une charte informatique et anne??la au r?lement intérieur o
+4 Sécuriser les postes de travail
+?mitez le nombre de tentatives d’acc? ?un compte o
+?stalle?un ?pare?eu?(firewall) logiciel o
+?ilise?des antivirus réguli?ement mis ??ur o
+?évo??une procédure de verrouillage automatique de session o
+5 Sécuriser l?nformatique mobile
+?évo??des mo?ns de chiffrement pour les ordinateurs portables et 
+les unités de stoc?ge amovibles (clés ??? CD? D?? o
+6 Sauvegarder et prévoir la continuité d?ctivité
+Effectue?des sauvegardes réguli?es o
+Stoc??les supports de sauvegarde dans un endroit s? o
+?évo??des mo?ns de sécurité pour le convo?age des sauvegardes o
+?évo??et teste?réguli?ement la continuité d’activité o
+7 Encadrer la maintenance
+?registrez les interventions de maintenance dans une main courante o
+?facez les données de tout matériel avant sa mise au rebut o
+Recueillez l’accord de l’utilisateur avant toute intervention sur son poste o
+8 Tracer les acc? et gérer les incidents
+?évo??un s?t?e de ?urnalisation o
+?formez les utilisateurs de la mise en place du s?t?e de ?urnalisation o
+?otégez les équipements de ?urnalisation et les informations ?urnalisées o
+?ti?z les personnes concernées des acc? frauduleu??leurs données o
+9 ?otéger les locau?
+Restreignez les acc? au?locau?au mo?n de portes verrouillées o
+?stalle?des alarmes anti?ntrusion et véri??les périodiquement o
+10 ?otéger le réseau informa?tique interne
+?mitez les ??réseau au strict nécessaire o
+Sécurise?l es acc? distants des appareils informatiques nomades par ?? o
+?ilise?le protocole SS?avec une clé de ??bits pour les services ?b o
+?tte?en ?vre le protocole ?A ?AES?C? pour les réseau???i o
+11 Sécuriser les serveurs et les applications
+Adopte?une politique de mot de passe administrateur rigoureuse o
+?stalle?sans délai les mises ??ur critiques o
+Assure?une disponibilité des données o
+12 ?rer la sous?raitance
+?évo??une clause spéci?ue dans les contrats des sous?raitants o
+Assure?vous de l?effectivité des garanties prévues (audits de sécurité? 
+visites?? o
+?évo??les conditions de restitution et de destruction des données o
+13 Archiver
+?tte?en ?vre des modalités d?cc? spéci?ues au?données archivées o
+Détruise?les archives obsol?es de mani?e sécurisée o
+14 Sécuriser les échanges avec d?utres organismes
+?iffrez les données avant leur envoi o
+Assure?vous qu?l s?git du bon destinataire o
+Transmette?le secret lors d?n envoi distinct et via un canal différent o

@@ -1,0 +1,4115 @@
+www.cnil.fr
+A
+g
+en
+ce A
+ri
+st
+o
+p
+h
+an
+e
+GUIDE
+POUR LES EMPLOYEURS  
+ET LES SALARIÉS
+É d i t i o n  2 0 1 0
+8, rue Vivienne - CS 30223  
+75083 Paris cedex 02 
+Tél. : 01 53 73 22 22  
+Fax : 01 53 73 22 00 
+
+Ce guide est téléchargeable sur le site Internet de la CNIL : www.cnil.fr
+Sommaire
+Avant-propos page 2
+I – Les 5 principes clés ?respecter page ?
+II – Les ?ssions de la CNIL page ?
+III – Le correspondant ?IL?: un vecteur de diffusion  
+de la culture infor?ti?e et libertés 
+page ?
+?che n??– Les opérations de recrute?nt page ?
+?che n?2 – Les annuaires du personnel page ?
+?che n??– L?cc? au dossier professionnel page ?
+?che n??– La gestion des ?vres sociales et culturelles page ?
+?che n?5 – Les transferts internationau?de données page ?
+?che n??– Contr?e de l?tilisation d?nternet et de la ?ssagerie page ?
+?che n??– Les ad?nistrateurs réseau page 2?
+?che n??– La vidéosurveillance sur les lieu?de travail page 25
+?che n??– La gestion de la téléphonie page 2?
+?che n?? – Les dispositifs de géolocalisation gs?gps page ?
+?che n?? – L?tilisation de badges sur le lieu de travail page ?
+?che n?? – La bio?trie sur le lieu de travail page ?
+?de d??loi : Co?ent déclarer ? page ?
+?ableau récapitulatif : ?elle déclaration pour ?el ?hier ? page ?
+?e?les de ?ntions d?nfor?tions page ?
+?
+Les entreprises et les ad?nistrations recourent de fa?n croissante au?  
+??ns infor?ti?es pour gérer leurs ressources hu?ines. L?nse?le  
+du secteur des ? est concerné : recrute?nt?gestion des carri?es et des  
+co?étences?suivi du te?s de travail?etc.
+??ltané?nt? les dispositifs de contr?e des salariés liés au? nouvelles  
+technologies se ?ltiplient : vidéosurveillance? c?ersurveillance?applica -
+tions bio?tri?es?géolocalisation?etc.
+Ces applications enregistrent de no?reuses infor?tions ? caract?e  
+personnel sur les salariés. La loi Infor?ti?e et Libertés ?e un cadre ?  
+la collecte et au traite?nt de ces données a? de les protéger? dans la  
+?sure o? leur divulgation ou leur ?uvaise utilisation est susceptible de  
+porter atteinte au?droits et libertés des personnes?ou ?leur vie privée. 
+Le respect?par les entreprises et ad?nistrations des r?les de protection  
+des données ? caract?e personnel est un facteur de transparence et de  
+con?nce ?l?gard des salariés. C?st aussi un gage de sécurité ?ridi?e  
+pour les e?lo?urs ?i sont responsables de ces traite?nts infor?ti?es 
+et de la sécurité des données personnelles ??ls contiennent. Ils  peuvent 
+ainsi voir leur responsabilité?nota?ent pénale?engagée en cas  de non-
+respect des dispositions de la loi. 
+C?st pour?oi notre Co?ission? chargée de veiller au respect de ces  
+principes?souhaite infor?r les salariés des droits dont ils disposent?ainsi  
+?e les e?lo?urs?en les conseillant sur les ?sures ? adopter pour se  
+confor?r ?la loi. 
+Ce guide a pour vocation de leur donner les clés pour bien utiliser ces outils 
+et les ?hiers ?s en oeuvre en ?ti?e de gestion des ressources  hu?ines. 
+C?st aussi le but du ?correspondant infor?ti?e et libertés ? interlocuteur  
+privilégié de la CNIL dont la désignation per?t?au-del?de l??nération  
+de déclaration?d?ntégrer pleine?nt la problé?ti?e de la protection des  
+données personnelles. 
+Alex TÜRK Président 
+de la CNIL 
+2??I?? ???? L?? ???L?????? ?? L?? ?ALA?I??
+Avant-propos
+A
+?
+A
+N
+?
+-
+?
+?
+?
+?
+?
+?
+La loi ? Infor?ti?e et Libertés ?du ? ?nvier ?? ?di?e par la loi du 
+? ao? 2??est applicable d? lors ??l e?ste un traite?nt auto?tisé ou 
+un ?hier ?nuel ??st-?dire un ?hier infor?ti?e ou un ?hier ?papier ? 
+contenant des infor?tions relatives ?des personnes ph?i?es.
+?le dé?it les principes ?respecter lors de la collecte?du traite?nt et de 
+la conservation de ces données et garantit un certain no?re de droits pour 
+les personnes.
+  1. Le principe de finalité 
+Les données ?caract?e personnel ne peuvent ?re recueillies et traitées ?e 
+pour un usage déterminé et légitime. 
+ -  la mise en place d’un autocommutateur téléphonique ou d’un dispositif 
+de localisation par GPS (géolocalisation) ne peut avoir pour objectif le 
+contrôle des conversations téléphoniques ou des déplacements de salariés 
+protégés.
+-  Le fichier du personnel et l’adresse électronique des employés ne 
+peuvent être utilisés à des fins de propagande politique. Les informations 
+enregistrées par un logiciel conçu pour la réservation de billets de 
+transports et déclaré comme tel ne peuvent être utilisées par un employeur 
+pour contrôler l’activité de ses salariés (Cour d’appel de Paris, ch. Soc., 
+31 mai 1995).
+Tout détournement de finalité est passible de sanctions pénales. 
+Les ob?ctifs poursuivis par la ?se en place d?ne application infor?ti?e 
+doivent donc ?re au préalable claire?nt dé?is ?estion des recrute?nts?
+sécurité du réseau infor?ti?e?contr?e du te?s de travail?etc.? 
+  2. Le principe de proportionnalité et de pertinence des données 
+?ules doivent ?re traitées les infor?tions pertinentes et nécessaires au 
+regard des ob?ctifs poursuivis. 
+Par exemple : le recueil d’informations sur l’entourage familial, l’état de santé 
+ou encore le numéro de sécurité sociale d’un candidat à un recrutement n’est 
+pas pertinent. L’enregistrement de la situation familiale précise d’un salarié 
+ne peut se justifier que pour l’attribution d’avantages sociaux particuliers au 
+salarié ou à sa famille.
+? outre?co?e le rappelle le code du travail?la ?se en place d?n dispositif 
+de contr?e des salariés ne doit pas conduire ?apporter de restrictions au?
+droits et libertés des personnes ?i ne seraient pas proportionnées au but 
+recherché et ?sti?es par l?ntér? légiti? de l?ntreprise ?rticle L?2??
+du code du travail? 
+?
+L
+?
+?
+ 
+5
+ 
+?
+?
+I
+N
+C
+I
+?
+?
+?
+ 
+C
+L
+?
+?
+ 
+?
+ 
+?
+?
+?
+?
+?
+C
+?
+?
+?
+I – Les 5 principes clés à respecter
+Par exemple : la mise sous vidéosurveillance permanente d’un poste de 
+travail ne pourrait intervenir qu’en cas de risque particulier et dûment avéré 
+pour la sécurité du salarié concerné (voir fiche n° 8). De même, la mise en 
+place d’une base d’empreintes digitales, pour contrôler l’accès à des locaux, 
+ne peut se justifier que face à un fort impératif de sécurité et en l’absence de 
+solutions alternatives moins intrusives (voir fiche n° 12). 
+  3. Le principe d’une durée de conservation des données limitée
+Les informations ne peuvent être conservées de façon indéfinie dans 
+les fichiers informatiques. ?e durée de conservation précise doit ?re 
+déter?née en fonction de la ?alité de cha?e ?hier. 
+Par exemple : le temps de la présence du salarié s’agissant d’une application 
+de gestion des carrières, cinq ans pour un fichier de paie, deux ans après le 
+dernier contact avec le candidat à un emploi pour un fichier de recrutement, 
+un mois pour les enregistrements de vidéosurveillance… 
+  4. Le principe de sécurité et de confidentialité des données 
+L??lo?ur? en tant ?e responsable du traite?nt? est astreint ? une 
+obligation de sécurité : il doit prendre les ?sures nécessaires pour 
+garantir la con?entialité des données et éviter leur divulgation ?des tiers 
+non autorisés. 
+Par exemple : chaque salarié doit disposer d’un mot de passe individuel 
+régulièrement changé. Les droits d’accès aux données doivent être 
+précisément définis en fonction des besoins réels de chaque personne 
+(lecture, écriture, suppression). Il peut également être utile de prévoir un 
+mécanisme de verrouillage systématique des postes informatiques au-delà 
+d’une courte période de veille. 
+Ainsi?les données ?caract?e personnel ne doivent ?re consultées ?e par 
+les personnes habilitées ??accéder en raison de leurs fonctions. 
+Par exemple : les personnes habilitées du service des ressources humaines 
+s’agissant de la gestion de la paie, les administrateurs réseaux s’agissant des 
+données de connexion à internet. 
+Les données peuvent néan?ins ?re co?uni?ées ?des tiers autorisés 
+? en conna?re en application de dispositions législatives particuli?es 
+?nspections du travail?services ?cau? services de police?. 
+L
+?
+?
+ 
+5
+ 
+?
+?
+I
+N
+C
+I
+?
+?
+?
+ 
+C
+L
+?
+?
+ 
+?
+ 
+?
+?
+?
+?
+?
+C
+?
+?
+?
+???I?? ???? L?? ???L?????? ?? L?? ?ALA?I??
+  5. Le principe du respect des droits des personnes 
+> Information des personnes 
+Lors de l?nfor?tisation de leurs données? les salariés concernés ou les 
+candidats ? un e?loi doivent ?re clairement informés des ob?ctifs 
+poursuivis? du caract?e obligatoire ou facultatif de leurs réponses? des 
+destinataires des données et des ?dalités d??rcice de leurs droits au 
+titre de la loi ? Infor?ti?e et Libertés ? ?roit d?cc??de recti?ation et 
+d?pposition? 
+Cette infor?tion peut ?re diffusée par tout ??n approprié : panneau?
+d?f?hage?page ?protection des données ?ou ?infor?ti?e et libertés?
+sur l?ntranet de l?ntreprise. ?oir e??le de ?ntion page ??
+? outre? lors?e les données sont recueillies par voie de ?estionnaires?
+papier ou infor?tisé?ceu?ci doivent co?orter cette infor?tion. 
+Au-del? l??lo?ur doit s?ssurer du respect des procédures de 
+consultation et d?nfor?tion obligatoires des instances représentatives du 
+personnel. 
+> Droits d’accès et de rectification 
+?oute personne peut de?nder au détenteur d?n ?hier de lui communiquer 
+toutes les infor?tions la concernant contenues dans ce ?hier. ?le a 
+égale?nt le droit de faire rectifier ou supprimer les infor?tions erronées. 
+Par exemple : un salarié peut accéder à son dossier professionnel  
+(voir fiche n° 3). 
+> Droit d’opposition 
+?oute personne a le droit de s’opposer, pour des motifs légitimes ? ce 
+?e des données ? caract?e personnel la concernant soient enregistrées 
+dans un ?hier infor?ti?e?sauf si celui-ci résulte d?ne obligation légale 
+ou régle?ntaire ?? : déclarations sociales obligatoires?tenue du registre 
+du personnel? 
+Par exemple : une personne peut dans certaines conditions s’opposer à la 
+mise en ligne de ses coordonnées professionnelles ou de sa photographie 
+(voir fiche n° 2). 
+L
+?
+?
+ 
+5
+ 
+?
+?
+I
+N
+C
+I
+?
+?
+?
+ 
+C
+L
+?
+?
+ 
+?
+ 
+?
+?
+?
+?
+?
+C
+?
+?
+?
+5
+La Co?ission nationale de l?nfor?ti?e et des libertés? autorité 
+ad?nistrative indépendante est chargée d?ssurer le respect des 
+dispositions de la loi du ??nvier ?? ?di?e par la loi du ?ao? 2?? 
+  1. Le rôle de conseil et d’information 
+La CNIL conseille et renseigne les personnes et les organis?s ?i 
+envisagent de ?ttre en ?vre des ?hiers infor?ti?es??e ce soit par 
+téléphone?par courrier ou par ses publications. ?le s?st dotée d?n service 
+d?rientation et de renseigne?nt a? d?pporter une réponse rapide au?
+de?ndes des particuliers co?e des professionnels sur l?pplication de 
+la loi. 
+  2. Le contrôle de la conformité des fichiers à la loi 
+La CNIL véri?? lors de l?nstruction des déclarations de ?hiers ?i lui 
+sont adressées? ?e les caractéristi?es des traite?nts concernés sont 
+bien confor?s ? la loi et autorise la ?se en oeuvre des traite?nts ?i?
+au? ter?s de la loi? nécessitent une attention particuli?e du fait de leur 
+contenu ou de leur ?alité. ?le peut si?li?r les for?lités déclaratives?
+voire e?nérer de déclaration certains ?hiers.
+La CNIL re?it les plaintes concernant le non-respect de la loi. 
+La CNIL dispose d?n pouvoir de contr?e ?i per?t ?ses ??res et ses 
+agents d?ccéder ?tous les locau?professionnels. ?r place?ses ??res 
+et agents peuvent de?nder co?unication de tout docu?nt nécessaire 
+et en prendre copie? recueillir tout renseigne?nt utile et accéder au?
+progra?es infor?ti?es et au?données. 
+  3. Le pouvoir de sanction 
+Au titre de son pouvoir de sanction?la CNIL peut nota?ent : 
+?  adresser des avertisse?nts et des ?ses en de?ure de faire cesser un 
+?n?e?nt ?la loi ?
+?  prononcer une in?nction de cesser le traite?nt ou un retrait de 
+l?utorisation et?en cas d?rgence?décider l?nterruption du traite?nt ou 
+le verrouillage des données?
+?  prononcer des sanctions pécuniaires pouvant aller ?s?? ?? ?? € en 
+cas de réitération?
+?  dénoncer au par?et les infractions ?la loi dont elle a connaissance.
+I
+I
+ 
+–
+ 
+L
+?
+?
+ 
+?
+I
+?
+?
+I
+?
+N
+?
+ 
+?
+?
+ 
+L
+A
+ 
+C
+N
+I
+L
+??I?? ???? L?? ???L?????? ?? L?? ?ALA?I?? ?
+II – Les missions de la CNIL
+Institué en 2?? ? l?ccasion de la refonte de la loi du ? ?nvier ??? le 
+correspondant ?la protection des données ou correspondant infor?ti?e 
+et libertés ?IL? est un acteur et un relais incontournable de la culture 
+? infor?ti?e et libertés ? 
+Le correspondant doit? si possible? ?re un e?lo? du responsable de 
+traite?nt ?orrespondant interne? car connaissant ?eu? a priori?l?ctivité 
+et le fonctionne?nt interne de son entreprise ou de son ad?nistration?il 
+est ??? de veiller en te?s réel ?la bonne application des r?les et des 
+conditions de ?se en ?vre des traite?nts. ?is il est aussi possible de 
+désigner un correspondant n?ppartenant pas ?l?rganis? ?orrespondant 
+e?erne? 
+?ur s?c?itter de sa t?he? ?el ?e soit son statut? le correspondant 
+? infor?ti?e et libertés ?doit disposer de la liberté d?ction et des ??ns 
+?i lui per?ttront de reco?ander des solutions organisationnelles ou 
+techni?es adaptées. Il doit pouvoir e?rcer pleine?nt ses ?ssions?
+en dehors de toute pression? et ?uer son r?e aupr? du responsable de 
+traite?nt.
+Le CIL – Quelques informations pratiques 
+Pourquoi désigner un CIL? : Sa désignation, qui est facultative, 
+exonère de déclaration la plupart des fichiers. Il contribue à une 
+meilleure application de la loi. 
+Quels avantages pour l’organisme? : Le CIL est un acteur de la 
+sécurité juridique au sein de l’organisme. Son action peut prendre 
+plusieurs formes : le conseil, la recommandation, la sensibilisation,  
+la médiation et l’alerte en cas de disfonctionnement. 
+Comment désigner un CIL? : C’est simple, il suffit de remplir 
+le formulaire téléchargeable sur le site internet de la CNIL.  
+Comment le CIL pourrait-il/elle être formé(e)? : La CNIL propose des 
+ateliers d’information gratuits, généralistes et thématiques,  
+animés par ses propres experts. 
+Quelle relation avec la CNIL? : La CNIL a mis en place un service 
+spécifique pour garantir au CIL une réponse rapide et de qualité.  
+Il s’agit d’un guichet unique pour toutes les questions juridiques  
+ou les éclairages liés à l’exercice de la fonction. 
+D’autres avantages? : Le CIL est un interlocuteur privilégié de 
+la CNIL. Ses demandes sont donc traitées en priorité. Il fait partie  
+du réseau des CIL animé par la CNIL. Il participe à la réflexion liée  
+à l’évolution de la fonction, à la création d’outils de travail,  
+des textes juridiques… 
+I
+I
+I
+ 
+–
+ 
+L
+?
+ 
+C
+?
+?
+?
+?
+?
+?
+?
+N
+?
+A
+N
+?
+ 
+?
+C
+I
+L
+ 
+?
+ 
+:
+ 
+?
+N
+ 
+?
+?
+C
+?
+?
+?
+?
+ 
+?
+?
+ 
+?
+I
+?
+?
+?
+?
+I
+?
+N
+ 
+?
+?
+L
+A
+ 
+C
+?
+L
+?
+?
+?
+?
+ 
+I
+N
+?
+?
+?
+?
+A
+?
+I
+?
+?
+?
+ 
+?
+?
+ 
+L
+I
+?
+?
+?
+?
+?
+?
+?
+III – Le correspondant (CIL) :  
+un vecteur de diffusion de la culture 
+informatique et libertés
+  1. Quelles sont les données qui peuvent être collectées? 
+Les infor?tions de?ndées sous ?el?e for? ?e ce soit?au candidat 
+? un e?loi ont pour ?alité d?pprécier sa capacité ? occuper l??loi 
+proposé. ?les doivent présenter un lien direct et nécessaire avec l??loi 
+proposé ou avec l?valuation des aptitudes professionnelles du candidat. 
+La collecte des informations suivantes n’est pas pertinente, sauf cas 
+particuliers ?sti?s par la nature tr? spéci?ue du poste ?pourvoir ou par 
+une obligation légale : 
+?date d?ntrée en ?ance?
+?date de naturalisation?
+??dalités d?c?isition de la nationalité fran?ise?
+?nationalité d?rigine?
+?nu?ros d??atriculation ou d?f?iation au?régi?s de sécurité sociale?
+?  détail de la situation ?litaire : sous la for? ? ob?cteur de conscience?
+a?urné?réfor???tifs d???tion ou de réfor?tion?ar??grade ? 
+?adresse précédente?
+?  entourage fa?lial du candidat ?o? préno? nationalité? profession et 
+e?lo?ur du con?int ainsi ?e no? préno? nationalité? profession?
+e?lo?ur? des parents?des beau?parents?des fr?es et s?rs et des 
+enfants? 
+?état de santé?taille?poids?vue?
+?conditions de loge?nt ?ropriétaire ou locataire? 
+?vie associative?
+?do?ciliation bancaire?e?runts souscrits?défauts de paie?nt. 
+??? il est interdit de collecter et de conserver des données personnelles 
+?i?directe?nt ou indirecte?nt?font appara?re les origines raciales ou 
+ethniques? les opinions politiques? philosophiques ou religieuses ou 
+les appartenances syndicales? les infor?tions relatives ? la santé ou ?
+la vie se?elle des personnes. L?ccord e?r? e?gé par la loi ?i doit ?re 
+recueilli par écrit ne saurait??lui seul??sti?r la collecte de telles données 
+si ces derni?es sont dépourvues de lien direct et nécessaire avec l??loi 
+proposé. Aussi de telles infor?tions ne peuvent-elles ?re collectées ?e?
+dans certains cas? lors??lles sont d?ent ?sti?es par la spéci?ité du 
+poste ?pourvoir. 
+Le recueil de références aupr? de l?nvironne?nt professionnel du 
+candidat ?upérieurs hiérarchi?es? coll?ues? ??res de stages? clients?
+fournisseurs? est per?s d? lors ?e le candidat en a été préalable?nt 
+infor?. 
+?
+I
+C
+?
+?
+ 
+N
+?
+ 
+?
+ 
+–
+ 
+L
+?
+?
+ 
+?
+?
+?
+?
+A
+?
+I
+?
+N
+?
+ 
+?
+?
+ 
+?
+?
+C
+?
+?
+?
+?
+?
+?
+N
+?
+??I?? ???? L?? ???L?????? ?? L?? ?ALA?I?? ?
+Fiche n° 1 – les opérations  
+de recrutement
+?
+I
+C
+?
+?
+ 
+N
+?
+ 
+?
+ 
+–
+ 
+L
+?
+?
+ 
+?
+?
+?
+?
+A
+?
+I
+?
+N
+?
+ 
+?
+?
+ 
+?
+?
+C
+?
+?
+?
+?
+?
+?
+N
+?
+Attention 
+Les « zones commentaires » destinées à enregistrer des informations 
+de gestion, telles des résumés d’entretien, doivent, comme toute 
+donnée à caractère personnel enregistrée dans un traitement 
+être pertinentes, adéquates et non excessives au regard de la 
+finalité du traitement. La CNIL veille au respect de ces principes. 
+Il faut avoir à l’esprit en rédigeant ces zones commentaires que 
+la personne concernée peut y avoir accès à tout moment. Ainsi, à 
+la suite d’un contrôle sur place effectué par une délégation de la 
+CNIL en décembre 2006, il a été constaté que des commentaires 
+particulièrement subjectifs, relatifs aux personnes ayant déjà été 
+employées par une société mais qui n’ont pas donné satisfaction, 
+figuraient dans le traitement de gestion des salariés qu’elle avait 
+mis en oeuvre. Ainsi, ont pu être relevés des commentaires tels que 
+« trop chiante », « problèmes d’hygiène (odeurs) », « personne sans 
+dents et qui boit ». Conformément aux articles 45 et suivants
+de la loi du 6 janvier 1978 modifiée, la formation contentieuse 
+de la CNIL a prononcé, le 11 décembre 2007, une sanction 
+pécuniaire d’un montant de 40 000 euros à l’encontre de cette 
+société, compte tenu de la gravité des manquements constatés 
+(Délibération n° 2007-374 du 11 décembre 2007).
+  2. L’information des candidats 
+Lors de la collecte des données?les candidats doivent ?re infor?s : 
+?  de l?dentité du responsable du traite?nt ??: cabinet de recrute?nt ? 
+service des ressources hu?ines de la société ??
+?des ?alités du traite?nt ??: gestion des candidatures? 
+?  du caract?e obligatoire ou facultatif des réponses? ?? : le recueil 
+d?nfor?tions sur les loisirs est facultatif? 
+?des consé?ences ?leur égard d?n défaut de réponse?
+?  des personnes ph?i?es ou ?rales destinataires des infor?tions 
+??  : autres cabinets de recrute?nts? 
+?  des conditions d??rcice de leur droit d?cc? et de recti?ation ainsi ?e 
+de leur droit d?pposition ?? : indication du service aupr? du?el ces 
+droits peuvent ?re e?rcés? 
+Attention 
+Lorsque des informations sur un candidat sont recueillies par  
+voie de questionnaires papier ou de formulaires en ligne, ceux-ci 
+doivent comporter des mentions d’informations claires et lisibles 
+(voir modèle page 44).
+?
+La CNIL reco?ande ?e les personnes chargées du recrute?nt prennent 
+toutes les dispositions nécessaires pour infor?r le candidat?dans un délai 
+raisonnable : 
+?des suites données ?sa candidature?
+?  de la durée de conservation des infor?tions le concernant ainsi ?e de la 
+possibilité d?n de?nder la restitution ou la destruction?
+?  de toute éventuelle cession d?nfor?tions ? d?utres organis?s de 
+recrute?nt et de la possibilité de s? opposer?
+?  des ?thodes et techni?es d?ide au recrute?nt utilisées ?son égard. 
+Les résultats obtenus doivent rester con?entiels. Les ?thodes et 
+techni?es d?ide au recrute?nt ou d?valuation des candidats ? un 
+e?loi doivent ?re pertinentes au regard de la ?alité poursuivie. La 
+Co?ission reco?ande ?e l?nfor?tion concernant les ?thodes 
+d?ide au recrute?nt e?lo?es soit dispensée préalable?nt par écrit 
+sous une for? individuelle ou collective. 
+Lors?e l?dentité de l??lo?ur n? pas été précisée lors de l?ffre de poste?
+il est reco?andé ?e l?ccord du candidat soit recueilli préalable?nt ?la 
+trans?ssion de son C??cet e?lo?ur. 
+?ns le cas de sites de recrute?nts en ligne? la CNIL reco?ande ?e 
+le candidat ? l??loi soit infor? de la for?? no?native ou non? sous 
+la?elle les infor?tions le concernant seront éventuelle?nt diffusées en 
+ligne ou trans?ses au?e?lo?urs. 
+  3. Comment exercer ses droits? 
+?out candidat ou e?lo? doit pouvoir obtenir sur de?nde et dans un délai 
+raisonnable toutes les infor?tions le concernant ?co?ris les résultats des 
+anal?es et des tests ?s?hologi?es? graphologi?es...? ou évaluations 
+professionnelles éventuelle?nt prati?és. 
+Le droit d?cc? s?ppli?e au?infor?tions collectées directe?nt aupr? 
+du candidat? au? infor?tions éventuelle?nt collectées aupr? de tiers 
+ainsi ??u? infor?tions issues des ?thodes et techni?es d?ide au 
+recrute?nt. 
+La Co?ission reco?ande ?e la co?unication des infor?tions 
+contenues dans la ?he du candidat soit effectuée par écrit. La 
+co?unication des résultats des tests ou évaluations peut ?re faite par 
+tout ??n approprié au regard de la nature de l?util utilisé. 
+? cas de contestation portant sur l??ctitude des infor?tions?la charge de 
+la preuve inco?e au service aupr? du?el est e?rcé le droit d?cc? sauf 
+lors??l est établi ?e les infor?tions contestées ont été co?uni?ées 
+par la personne concernée ou avec son accord. 
+??I?? ???? L?? ???L?????? ?? L?? ?ALA?I?? ?
+?
+I
+C
+?
+?
+ 
+N
+?
+ 
+?
+ 
+–
+ 
+L
+?
+?
+ 
+?
+?
+?
+?
+A
+?
+I
+?
+N
+?
+ 
+?
+?
+ 
+?
+?
+C
+?
+?
+?
+?
+?
+?
+N
+?
+   4. Combien de temps peut-on conserver les données relatives à un 
+candidat? 
+La CNIL reco?ande ?e la durée de conservation des infor?tions ?ur 
+support infor?ti?e et papier? n???e pas deux ans apr? le dernier 
+contact avec la personne concernée. 
+  5. Comment déclarer? 
+Les applications de gestion du recrute?nt doivent?préalable?nt ? leur 
+?se en ?vre?faire l?b?t d?ne déclaration nor?le?sauf désignation d?n 
+correspondant infor?ti?e et libertés ?ispense de déclaration? 
+?
+?
+I
+C
+?
+?
+ 
+N
+?
+ 
+?
+ 
+–
+ 
+L
+?
+?
+ 
+?
+?
+?
+?
+A
+?
+I
+?
+N
+?
+ 
+?
+?
+ 
+?
+?
+C
+?
+?
+?
+?
+?
+?
+N
+?
+La constitution d?n annuaire du personnel sur support infor?tisé 
+co?ortant l?dentité des salariés? leur fonction? leurs coordonnées 
+professionnelles et le cas échéant leur photographie?constitue un traite?nt 
+de données personnelles sou?s au?dispositions de la loi du ??nvier ?? 
+?di?e en 2?? 
+Les annuaires du personnel ne doivent pas ?re utilisés ? des ?s 
+co?erciales ou politi?es. 
+Distinction annuaire interne/annuaire externe
+Annuaire interne : annuaire accessible aux seuls membres 
+du personnel, diffusé sur intranet ou sur format papier. 
+Annuaire externe : annuaire accessible à d’autres personnes que le 
+personnel de l’organisme (ex : annuaire publié sur internet). 
+  1. La nécessité d’informer les intéressés 
+L??lo?ur doit infor?r ses salariés? préalable?nt ? la ?se en place 
+d?n annuaire? de leurs droits d?cc?? de recti?ation et d?pposition.  
+Cette infor?tion s?ffectue par la re?se d?n docu?nt écrit ou par voie 
+électroni?e ?oir ?d?e proposé en anne??
+La diffusion sur internet de données ?caract?e personnel ??: no? préno? 
+coordonnées professionnelles? etc.? rend ces infor?tions accessibles ?
+?icon?e?sans ?e l?ntéressé puisse réelle?nt ??riser leur utilisation. 
+?r consé?ent? le salarié doit pouvoir s?pposer si?le?nt et ? tout 
+??nt ?une telle diffusion.
+La CNIL reco?ande ?e la diffusion de la photographie soit subordonnée 
+?l?ccord préalable de l??lo? en particulier lors?e cette photographie 
+est destinée ??re publiée ou ?se en ligne sur internet.
+  2. Comment déclarer? 
+Les annuaires professionnels internes doivent faire l?b?t d?ne déclaration 
+de confor?té en référence ? la nor? n? ? relative ? la gestion des 
+personnels des organis?s publics et privés? sauf si un Correspondant 
+infor?ti?e et libertés a été désigné au sein de l?rganis? ?ispense de 
+déclaration?
+Les annuaires autres ?e les annuaires internes doivent faire l?b?t d?ne 
+déclaration nor?le préalable?nt ? leur ?se en oeuvre? sauf si un 
+Correspondant infor?ti?e et libertés a été désigné au sein de l?rganis? 
+?ispense de déclaration? 
+?
+I
+C
+?
+?
+ 
+N
+?
+ 
+2
+ 
+–
+ 
+L
+?
+?
+ 
+A
+N
+N
+?
+A
+I
+?
+?
+?
+ 
+?
+?
+ 
+?
+?
+?
+?
+?
+N
+N
+?
+L 
+??I?? ???? L?? ???L?????? ?? L?? ?ALA?I?? ?
+Fiche n° 2 – les annuaires  
+du personnel 
+?out salarié ou ancien salarié ?sti?nt de son identité a le droit d?ccéder ?
+son dossier professionnel aupr? du service du personnel. 
+  1. Un droit d’accès à quelles données? 
+L?ntéressé peut obtenir co?unication de l?nse?le des données le 
+concernant? ??lles soient conservées sur support infor?ti?e ou dans 
+un dossier papier. 
+?r e??le?il a le droit d?ccéder au?données relatives : 
+??son recrute?nt?
+??son histori?e de carri?e?
+??sa ré?nération?
+?  ? l?valuation de ses co?étences professionnelles ?ntretiens annuels 
+d?valuation?notation? 
+??son dossier disciplinaire?etc. 
+  2. Limites au droit d’accès 
+Le salarié ou ancien salarié n? pas le droit d?ccéder :
+?  au? données concernant la situation personnelle d?n tiers? nota?ent 
+d?n autre salarié?
+?  au? données prévisionnelles de carri?e ?otentiel de carri?e?classe?nt? 
+sauf si ces données ont été prises en co?te pour décider de son 
+aug?ntation de salaire? de sa pro?tion? de son affectation? etc. ? 
+salarié doit ainsi pouvoir accéder ? l?nse?le des données de gestion 
+des ressources hu?ines ?i ont servi ?prendre une décision ?son égard.
+L??lo?ur a le droit de s?pposer au?de?ndes ?nifeste?nt abusives. 
+? cas de contestation? il doit dé?ntrer ?e la de?nde du salarié est 
+abusive.
+  3. Comment s’exerce le droit d’accès? 
+Le droit d?cc? peut s??rcer soit sur place? soit par écrit? avec un 
+?sti?atif d?dentité.
+L??lo?ur doit répondre i?édiate?nt si la de?nde est effectuée sur 
+place?ou dans un délai ???l de 2 ?is si la de?nde est écrite ?u s?l 
+est i?ossible de répondre i?édiate?nt ? la de?nde sur place? ?n 
+éventuel refus doit ?re écrit??tivé et doit ?ntionner les voies et délais 
+de recours.
+?e copie des données est délivrée ?l?ntéressé ?sa de?nde. Le si?le 
+co? de la copie peut éventuelle?nt lui ?re récla?.
+Les codes?sigles et abréviations ?urant dans les docu?nts co?uni?és 
+doivent ?re e?li?és?si nécessaire ?l?ide d?n le??e. 
+?
+I
+C
+?
+?
+ 
+N
+?
+ 
+?
+ 
+–
+ 
+L
+?
+A
+C
+C
+?
+?
+ 
+A
+?
+ 
+?
+?
+?
+?
+I
+?
+?
+ 
+?
+?
+?
+?
+?
+?
+?
+I
+?
+N
+N
+?
+L 
+?
+Fiche n° 3 – l’accès au dossier  
+professionnel
+??l s?gisse de la gestion des subventions?des bourses?des pri?s de 
+cr?hes?des ch?ues cadeau? des activités de vo?ges?sport ou loisirs?
+les traite?nts infor?tisés ?s en oeuvre par les co?tés d?ntreprise 
+?? ou d?tablisse?nt?ainsi ?e par les co?tés centrau?d?ntreprises?
+les co?tés de groupe? les co?tés interentreprises ou les délégués du 
+personnel doivent ?ce titre se confor?r ?la loi infor?ti?e et libertés.
+Ces infor?tions doivent ?re li?tées ? celles ?i sont stricte?nt 
+nécessaires au C?pour e?rcer ses fonctions légales.
+Par exemple : Le CE peut être amené à demander la fourniture de la copie 
+de l’avis d’imposition des ouvrants droit afin de procéder au calcul de la 
+contribution de chacun en fonction de ses ressources. En revanche, le CE 
+ne peut exiger la production de la déclaration de revenus, qui comporte des 
+informations relevant de la vie privée des intéressés (Cour de cassation, 
+chambre civile, arrêt du 29 mai 1984, n° 82-12.232).
+  1. Information des salariés 
+Les salariés doivent ?re préalable?nt infor?s par le C? et le cas échéant 
+l??lo?ur?de l?b?ctif poursuivi?des destinataires des données?ainsi ?e 
+de l?dentité de la personne ou du service au?el ils peuvent s?dresser pour 
+e?rcer leurs droits d?cc??de recti?ation et d?pposition ?oir ?d?es 
+proposés en anne??
+Par exemple : affichage d’une note d’information dans les locaux, remise 
+d’un document à l’employé, mentions apparentes sur le questionnaire.
+  2. Droit d’opposition 
+?  ?out salarié a le droit de s?pposer ?ce ?e son e?lo?ur adresse au C?
+des données ?i le concernent. La trans?ssion de ces données au C?
+ne peut ?re ?e facultative?le salarié devant ?re claire?nt infor? des 
+consé?ences d?n éventuel refus de sa part ?
+Par exemple : application du tarif le plus élevé ou exclusion du bénéfice 
+d’une prestation. 
+?  Lors?e les données sont utilisées ? des ?s d?ffres pro?tionnelles 
+les personnes concernées sont infor?es ??lles peuvent s? opposer 
+sans frais et sans ?sti?ation. L?nvoi d?ffres pro?tionnelles par voie 
+électroni?e est subordonné au recueil du consente?nt préalable des 
+personnes concernées.
+?
+I
+C
+?
+?
+ 
+N
+?
+ 
+?
+ 
+–
+ 
+L
+A
+ 
+?
+?
+?
+?
+I
+?
+N
+ 
+?
+?
+?
+ 
+?
+?
+?
+?
+?
+?
+ 
+?
+?
+C
+I
+A
+L
+?
+?
+ 
+?
+?
+ 
+C
+?
+L
+?
+?
+?
+?
+L
+L
+?
+?
+??I?? ???? L?? ???L?????? ?? L?? ?ALA?I?? ?
+Fiche n° 4 – la gestion des œuvres 
+sociales et culturelles 
+?
+I
+C
+?
+?
+ 
+N
+?
+ 
+?
+ 
+–
+ 
+L
+A
+ 
+?
+?
+?
+?
+I
+?
+N
+ 
+?
+?
+?
+ 
+?
+?
+?
+?
+?
+?
+ 
+?
+?
+C
+I
+A
+L
+?
+?
+ 
+?
+?
+ 
+C
+?
+L
+?
+?
+?
+?
+L
+L
+?
+?  3. Comment déclarer? 
+Les traite?nts de gestion sociale ou culturelle les plus courants sont 
+dispensés de déclaration. ?ur béné?ier de cette dispense?les traite?nts 
+envisagés doivent ?re confor?s ?la dispense de déclaration n??  en date 
+du ? octobre 2???isponible sur www.cnil.fr?
+?ns tous les autres cas? le C? doit adresser ? la CNIL une déclaration 
+nor?le.
+  4. Droits de mise à jour ou de suppression des données 
+?il constate la présence de données erronées ou interdites ?? : 
+appréciations sub?ctives? opinions politi?es? sanctions a?istiées??
+le salarié ou ancien salarié a le droit de de?nder la ?se ? ?ur ou la 
+suppression de ces données.
+? ces données ont été trans?ses ? des tiers ? d?utres entreprises du 
+groupe par e??le? l??lo?ur doit de?nder ?ces tiers leur ?se ??ur 
+ou leur suppression.
+L?ntéressé peut de?nder ? l??lo?ur de ?sti?r? sans frais? ??l a 
+bien pris en co?te ses de?ndes de recti?ation ou de suppression des 
+données. Il peut égale?nt obtenir le re?ourse?nt des frais de copie ?e 
+l??lo?ur lui a éventuelle?nt récla?s.
+  5. Que faire en cas de difficulté? 
+Il est possible d?lerter le correspondant infor?ti?e et libertés ?IL? ?i 
+a pu ?re désigné par l??lo?ur ou de saisir la CNIL d?ne plainte. ?e 
+plainte pénale peut égale?nt ?re déposée aupr? du ?ocureur de la 
+?publi?e ou des services de police ou de gendar?rie.
+Attention !
+Les traite?nts ?s en ?vre par les C? sont distincts de ceu? de 
+l?rganis? au?el il est rattaché?cha?e organis? étant responsable 
+de ses propres traite?nts. ?r consé?ent?si l?ntreprise a no?é un 
+CIL?le C?ne béné?ie pas de l??nération des for?lités déclaratives 
+?la Co?ission.
+?
+  1. De quoi s’agit-il ? 
+Constitue un transfert de données vers un pa? tiers toute co?unication 
+ou copie de données par l?nter?diaire d?n réseau?ou d?n support ?un 
+autre??el ?e soit le t?e de ce support?dans la ?sure o?ces données 
+ont vocation ?faire l?b?t d?n traite?nt dans le pa? destinataire. 
+Par exemple : sont considérés comme des transferts internationaux de 
+données : 
+•  la centralisation dans un pays étranger de la base de données de gestion 
+des ressources humaines; 
+•  le transfert vers un prestataire étranger aux fins de saisie informatique des 
+dossiers du personnel; 
+•  l’hébergement de données à caractère personnel dans un pays étranger.
+   2. Pourquoi encadrer les transferts de données à caractère personnel 
+vers des pays n’appartenant pas à l’Union européenne? 
+Les personnes béné?iant d?ne protection de leurs données en ?ance par 
+la loi ?Infor?ti?e et Libertés ?doivent continuer ?en béné?ier lors?e 
+leurs données ?ittent le territoire fran?is pour faire l?b?t d?n traite?nt 
+en dehors de l?nion européenne. 
+  3. Quelles sont les principales obligations à respecter? 
+> Finalité 
+?out transfert de données vers l?tranger doit avoir une ?alité déter?née?
+e?licite et légiti? : le responsable de traite?nt établi en ?ance doit 
+pouvoir e?li?er pour?oi le transfert a lieu ?? : transfert d?nfor?tions 
+? destination de la ?ison ?re? héberge?nt des données ? l?tranger?
+e?ernalisation de certains services? et s?tre assuré ?e ces raisons 
+sont co?atibles avec les e?gences de la loi fran?ise ?? : sécurité des 
+données?durée de conservation li?tée des données?. 
+Les données transférées ne doivent pas ?re traitées ultérieure?nt de 
+?ni?e inco?atible avec cette ?alité. 
+> Pertinence des données 
+Les données transférées doivent ?re adé?ates? pertinentes et non 
+e?essives au regard de la ou des ?alités pour les?elles elles sont 
+transférées. 
+ 
+?
+I
+C
+?
+?
+ 
+N
+?
+ 
+5
+ 
+–
+ 
+L
+?
+?
+ 
+?
+?
+A
+N
+?
+?
+?
+?
+?
+?
+ 
+I
+N
+?
+?
+?
+N
+A
+?
+I
+?
+N
+A
+?
+?
+ 
+?
+?
+ 
+?
+?
+N
+N
+?
+?
+?
+??I?? ???? L?? ???L?????? ?? L?? ?ALA?I?? ?
+Fiche n° 5 – les transferts 
+internationaux de données 
+?
+I
+C
+?
+?
+ 
+N
+?
+ 
+5
+ 
+–
+ 
+L
+?
+?
+ 
+?
+?
+A
+N
+?
+?
+?
+?
+?
+?
+ 
+I
+N
+?
+?
+?
+N
+A
+?
+I
+?
+N
+A
+?
+?
+ 
+?
+?
+ 
+?
+?
+N
+N
+?
+?
+?Concernant cette derni?e obligation? la CNIL constate fré?e?ent ?e 
+des sociétés ?ltinationales envisagent d?pérer des transferts de données 
+concernant l?ntégralité du personnel de sociétés fran?ises dans le cadre 
+de la centralisation des bases de données ?ressources hu?ines ?de leur 
+groupe. 
+Ces transferts ne devraient pas porter sur la totalité ou la quasi-totalité 
+des informations nominatives relatives aux salariés. ? particulier le 
+nu?ro de sécurité sociale?ou les données touchant ?des aspects de la 
+vie privée des e?lo?s ??: détails sur la situation fa?liale?coordonnées 
+bancaires?paraissent a priori ne devoir relever ?e d?ne gestion locale. 
+> Information des salariés 
+?tre les dispositions législatives concernant la consultation des 
+instances représentatives du personnel?les salariés doivent ?re infor?s?
+préalable?nt des transferts de données envisagés ?destination d?n pa? 
+non ??re de l?nion européenne. 
+Cette infor?tion doit ?re rédigée en fran?is. ?le doit préciser : 
+?  le ou les pa? d?tablisse?nt du destinatair e des données?
+?  la nature des données transférées???: identité?salaire?C?? 
+?  la ?alité du transfert envisagé? ?? : héberge?nt des données par une 
+société étrang?e?centralisation des données par la société ?re ? des 
+?s statisti?es??
+?  la ou les catégories de destinataires des données ?? : le service 
+infor?ti?e?personnes habilitées du service ressources hu?ines?. 
+?oir ?d?e proposé en anne?. 
+  4. Comment déclarer les transferts internationaux de données? 
+Lors?e le transfert de données concerne un pa? de l?nion européenne?il 
+n? pas ??re autorisé par la CNIL. 
+? cas de transfert de données en dehors de l?nion européenne?
+l??lo?ur doit le préciser sur le for?laire de déclaration et re?lir une 
+anne? ?transfert ? 
+Il doit ainsi ?indre au dossier les garanties de protection des données : 
+e?stence de clauses contractuelles t?es issues des directives européennes?
+ou de r?les internes d?ntreprises ?C??adhésion au safe harbor. 
+Le transfert doit ensuite faire l?b?t d?ne autorisation par la CNIL? sauf 
+dans certains cas bien spéci?ues ?ar e??le? entreprise destinataire 
+adhérente au safe harbor? 
+pour aller plus loin www.cnil.fr?ransferts
+?
+?ur l??rcice de leur activité professionnelle? les salariés ont ? leur 
+disposition un poste de travail infor?ti?e ?i peut ?re connecté ?internet 
+et doté d?ne ?ssagerie électroni?e. L’utilisation, sur les lieux de travail, 
+de ces outils informatiques à des fins autres que professionnelles est 
+généralement tolérée. ?le doit rester raisonnable et ne doit pas affecter la 
+sécurité des réseau?ou la productivité de l?ntreprise ou de l?d?nistration 
+concernée. 
+  1. La nécessité d’informer les salariés
+Les e?lo?s doivent ?re infor?s des dispositifs ?s en place et des 
+?dalités de contr?e de leur utilisation d?nternet? de leur ?ssagerie et 
+de leurs dossiers enregistrés sur les serveurs. Ils doivent ?re infor?s 
+individuelle?nt? nota?ent de la ?alité du dispositif de contr?e et de 
+la durée pendant la?elle les données de conne?on sont conservées ou 
+sauvegardées.
+?e durée de conservation de l?rdre de six mois est suf?ante?dans la 
+plupart des cas?pour dissuader tout usage abusif d?nternet.
+? cas d?rchivage auto?ti?e des ?ssages électroni?es?les salariés 
+doivent en outre ?re infor?s des ?dalités de l?rchivage? de la durée 
+de conservation des ?ssages? et des ?dalités d??rcice de leur droit 
+d?cc?.
+? des procédures disciplinaires sont susceptibles d?tre engagées sur la 
+base de ces ?hiers?les salariés doivent en ?re e?licite?nt infor?s.
+Le co?té d?ntreprise doit avoir été consulté et infor? ?rticle L2??? du 
+code du travail? ou?dans la fonction publi?e?le co?té techni?e paritaire 
+ou toute instance é?ivalente.
+L?nfor?tion des personnes sur les points listés ci-dessous peut se faire par 
+le biais de la diffusion d?ne charte d?tilisation des réseau?
+  2. Le contrôle de l’utilisation d’internet 
+L??lo?ur peut ?er les conditions et li?tes de l?tilisation d?nternet?
+les?elles ne constituent pas?en soi?des atteintes ?la vie privée des salariés. 
+Par exemple : L’employeur peut mettre en place des dispositifs de filtrage 
+de sites non autorisés (sites à caractère pornographique, pédophile, 
+d’incitation à la haine raciale, révisionniste, etc.). Il peut également fixer 
+des limites dictées par l’exigence de sécurité de l’organisme, telles que 
+l’interdiction de télécharger des logiciels, l’interdiction de se connecter à un 
+forum ou d’utiliser le « chat », l’interdiction d’accéder à une boîte aux lettres 
+personnelle par internet compte tenu des risques de virus qu’un tel accès est 
+susceptible de présenter, etc. ?
+I
+C
+?
+?
+ 
+N
+?
+ 
+?
+ 
+–
+ 
+C
+?
+N
+?
+?
+?
+L
+?
+ 
+?
+?
+ 
+L
+?
+?
+?
+I
+L
+I
+?
+A
+?
+I
+?
+N
+ 
+?
+?
+I
+N
+?
+?
+?
+N
+?
+?
+ 
+?
+?
+ 
+?
+?
+ 
+L
+A
+ 
+?
+?
+?
+?
+A
+?
+?
+?
+I
+?
+??I?? ???? L?? ???L?????? ?? L?? ?ALA?I?? ?
+Fiche n° 6 – contrôle de l’utilisation 
+d’internet et de la messagerie 
+?
+I
+C
+?
+?
+ 
+N
+?
+ 
+?
+ 
+–
+ 
+C
+?
+N
+?
+?
+?
+L
+?
+ 
+?
+?
+ 
+L
+?
+?
+?
+I
+L
+I
+?
+A
+?
+I
+?
+N
+ 
+?
+?
+I
+N
+?
+?
+?
+N
+?
+?
+ 
+?
+?
+ 
+?
+?
+ 
+L
+A
+ 
+?
+?
+?
+?
+A
+?
+?
+?
+I
+?>  Comment déclarer? 
+Lors?e l?ntreprise ou l?d?nistration ?t en place un dispositif de 
+contrôle individuel des salariés destiné à produire un relevé des 
+connexions ou des sites visités, poste par poste, le traite?nt ainsi 
+?s en oeuvre doit ?re déclaré ? la CNIL ?éclaration nor?le?sauf si un 
+correspondant infor?ti?e et libertés a été désigné? au?el cas aucune 
+déclaration n?st nécessaire.
+Par exemple : logiciel de contrôle de l’utilisation d’internet permettant 
+d’analyser les données de connexion de chaque salarié ou de calculer le 
+temps passé sur internet par un salarié déterminé.
+Lors?e l?ntreprise ou l?d?nistration ?t en place un dispositif ?i ne 
+per?t pas de contr?er individuelle?nt l?ctivité des salariés?ce dispositif 
+peut faire l?b?t d?ne déclaration de confor?té en référence ? la nor? 
+si?li?e n?? ?estion des personnels des organis?s publics et privés?
+Par exemple : logiciel permettant seulement de réaliser des statistiques sur 
+l’utilisation d’internet au niveau de l’ensemble des salariés de l’entreprise ou 
+au niveau d’un service déterminé.
+  3. Le contrôle de l’utilisation de la messagerie 
+?s e?gences de sécurité?de prévention ou de contr?e de l?nco?re?nt 
+du réseau peuvent conduire les entreprises ou les ad?nistrations ??ttre 
+en place des outils de contr?e de la ?ssagerie. 
+Par exemple : outils de mesure de la fréquence, de la taille, des messages 
+électroniques ; outils d’analyse des pièces jointes (détection des virus, filtres 
+« anti-spam » destinés à réduire les messages non-sollicités, etc.). 
+>  Sous quelles conditions accéder aux messages électroniques d’un salarié ?
+?s courriels sont présu?s professionnels ? ?ins d?tre identi?s 
+?ersonnels?
+La Cour de cassation consid?e ??n ?ssage envo? ou re? depuis 
+le poste de travail ?s ?disposition par l??lo?ur est présu? avoir un 
+caract?e professionnel?sauf s?l est identi? co?e étant ? personnel ? 
+dans l?b?t du ?ssage par e??le ?our de cassation?? ?i 2??.
+Il appartient ? l??lo? d?denti?r les ?ssages ?i sont personnels. 
+? défaut d?ne telle identi?ation? les ?ssages sont présu?s ?re 
+professionnels et l??lo?ur peut ?accéder libre?nt.
+La nature personnelle d?n ?ssage peut ?urer dans l?b?t du ?ssage ou 
+dans le no?du répertoire dans le?el il est stoc?.
+>  L’employeur doit respecter le secret des correspondances privées.
+?e co?unication électroni?e é?se ou re?e par un e?lo? peut 
+avoir le caract?e d?ne correspondance privée. La violation du secret des 
+?
+??I?? ???? L?? ???L?????? ?? L?? ?ALA?I?? 2?
+correspondances est une infraction pénale?nt sanctionnée par les articles 
+22?? et ?2-?du Code pénal.
+La Cour de cassation a af??? dans un arr? du 2 octobre 2?? ?rr? 
+? Ni?n ????n e?lo?ur ne saurait prendre connaissance de ?ssages 
+personnels d?n e?lo? sans porter atteinte ? la vie privée de celui-
+ci ?rticle ? du code civil? et au principe du secret des correspondances?
+?and bien ?? une utilisation ?des ?s privées aurait été proscrite par 
+l??lo?ur.
+?ur autant?le principe du secret des correspondances conna? des li?tes 
+dans la sph?e professionnelle. Il peut ?re levé dans le cadre d?ne instruction 
+pénale ou par une décision de ?stice ?ar e??le?une ordonnance d?n 
+?ge en application de l?rticle ?5 du code de procédure civile désignant un 
+huissier pour accéder au??ssages?– Cour de cassation?cha?re social?
+arr? du ? ?in 2??
+L??lo? ne doit pas transfor?r des ?ssages de nature professionnelle 
+en correspondance ?privée ? 
+Par exemple : Un employé ne doit pas communiquer des documents 
+confidentiels à un concurrent en identifiant ses messages comme étant « 
+personnels ». Une telle identification serait contraire au principe de bonne foi 
+prévu à l’article L1222-1 du Code du travail. 
+La Cour de cassation a ainsi ad?s?apr? avoir constaté ?e l??lo?ur 
+avait des ?tifs légiti?s de suspecter des actes de concurrence délo?le?
+??n e?lo?ur puisse ?re autorisé par le ?ge ??ndater un huissier de 
+?stice pour prendre connaissance et enregistrer des ?ssages électroni?es 
+échangés entre le salarié et deu?personnes étrang?es ?l?ntreprise ?our 
+de cassation?2??i 2??. 
+La CNIL reco?ande de porter ? la connaissance des salariés ?ar 
+e??le dans une charte? le principe retenu pour différencier les e-?ils 
+professionnels des e-?ils personnels ?uali?ation par l?b?t? création 
+d?n répertoire spéci?ue dédié au contenu privé?etc.? 
+> Comment déclarer? 
+La ?ssagerie professionnelle doit faire l?b?t d?ne déclaration de 
+confor?té en référence ? la nor? n? ? ?estion des personnels des 
+organis?s publics et privés? 
+? un dispositif de contrôle individuel de la messagerie est ?s en place?
+il doit ?re déclaré ? la CNIL ? déclaration nor?le? sauf désignation d?n 
+correspondant infor?ti?e et libertés.
+Par exemple : logiciel d’analyse du contenu des messages électroniques 
+entrant ou sortants destinés au contrôle de l’activité des salariés.
+?
+I
+C
+?
+?
+ 
+N
+?
+ 
+?
+ 
+–
+ 
+C
+?
+N
+?
+?
+?
+L
+?
+ 
+?
+?
+ 
+L
+?
+?
+?
+I
+L
+I
+?
+A
+?
+I
+?
+N
+ 
+?
+?
+I
+N
+?
+?
+?
+N
+?
+?
+ 
+?
+?
+ 
+?
+?
+ 
+L
+A
+ 
+?
+?
+?
+?
+A
+?
+?
+?
+I
+?
+2?
+  4. L’accès aux dossiers contenus dans le poste informatique
+>  Le cas des fichiers et des répertoires créés par un employé 
+Il a été ?gé ?e les ?hiers créés par un salarié gr?e ?l?util infor?ti?e 
+?s ?sa disposition pour l??cution de son travail sont présu?s?sauf si le 
+salarié les identi? co?e étant personnels?avoir un caract?e professionnel 
+?our de cassation?? octobre 2??. 
+?out ?hier ?i n?st pas identi? co?e ? personnel ? est réputé ?re 
+professionnel de sorte ?e l??lo?ur peut ? accéder hors la présence 
+du salarié. L?denti?ation d?n dossier par les initiales du salarié ne per?t 
+pas de le considérer co?e étant personnel ?our de cassation?2?octobre 
+2??. 
+? revanche?si un ?hier est identi? co?e étant personnel?l??lo?ur 
+ne peut ?avoir acc? ???n présence du salarié ou si celui-ci a été d?ent 
+appelé?ou en cas de ris?e ou événe?nt particulier ? Le salarié ne peut 
+pas s?pposer ?un tel acc? si ces conditions ont été respectées.
+Par exemple : il a été jugé que la découverte de photos érotiques dans le 
+tiroir d’un salarié ne constituait pas un risque ou un événement particulier 
+justifiant que l’employeur accède au répertoire intitulé « perso » hors la 
+présence du salarié ou sans que celui-ci en soit informé (Cour de cassation, 
+chambre sociale, arrêt du 17 mai 2005).
+> L’employé est-il tenu de communiquer ses mots de passe? 
+Les ?ts de passe constituent des ?sures de sécurité visant ?protéger les 
+données ?urant dans les postes infor?ti?es par les salariés. Ils doivent 
+?re fré?e?ent ?di?s et ne peuvent ?re portés ?la connaissance de 
+tiers ?e dans certaines conditions bien particuli?es.
+Ainsi? si un e?lo? est absent? l??lo?ur peut lui de?nder de 
+co?uni?er son ?t de passe lors?e les infor?tions détenues par cet 
+e?lo? sont nécessaires ? la poursuite de l?ctivité de l?ntreprise ?our 
+de cassation?? ?rs 2??. L??lo?ur ne doit pas accéder au contenu 
+personnel de l?ntéressé. 
+La CNIL reco?ande ?e les ?dalités d?cc? de l??lo?ur au?données 
+stoc?es sur l?nvironne?nt infor?ti?e d?n e?lo? absent soient 
+préalable?nt dé?ies en concertation et diffusées aupr? de l?nse?le 
+des salariés susceptibles d?tre concernés ?ia une charte par e??le? 
+>  Comment organiser la fermeture du compte utilisateur lors du départ 
+de l’employé? 
+Les ?dalités de fer?ture du co?te sont ? prévoir dans la charte 
+infor?ti?e. Il est reco?andé ?l??lo?ur d?vertir le salarié de la date 
+de fer?ture de son co?te a? ?e ce dernier puisse vider son espace 
+privé. 
+?
+I
+C
+?
+?
+ 
+N
+?
+ 
+?
+ 
+–
+ 
+C
+?
+N
+?
+?
+?
+L
+?
+ 
+?
+?
+ 
+L
+?
+?
+?
+I
+L
+I
+?
+A
+?
+I
+?
+N
+ 
+?
+?
+I
+N
+?
+?
+?
+N
+?
+?
+ 
+?
+?
+ 
+?
+?
+ 
+L
+A
+ 
+?
+?
+?
+?
+A
+?
+?
+?
+I
+?
+??I?? ???? L?? ???L?????? ?? L?? ?ALA?I?? 22
+> Que faire en cas de difficulté? 
+? cas de contestation? il appartient au? ?ridictions co?étentes 
+d?pprécier la régularité et la proportionnalité de l?cc? par l??lo?ur au 
+poste infor?ti?e ou ?la ?ssagerie de l??lo?.
+Au ?? titre ?e pour les e-?ils? la CNIL reco?ande d?nfor?r les 
+salariés?nota?ent par une charte?des principes retenus pour différencier 
+les ?hiers professionnels et personnels.
+?
+I
+C
+?
+?
+ 
+N
+?
+ 
+?
+ 
+–
+ 
+C
+?
+N
+?
+?
+?
+L
+?
+ 
+?
+?
+ 
+L
+?
+?
+?
+I
+L
+I
+?
+A
+?
+I
+?
+N
+ 
+?
+?
+I
+N
+?
+?
+?
+N
+?
+?
+ 
+?
+?
+ 
+?
+?
+ 
+L
+A
+ 
+?
+?
+?
+?
+A
+?
+?
+?
+I
+?
+2?
+Les ad?nistrateurs ont pour ?ssion d?ssurer le fonctionne?nt nor?l 
+et la sécurité des réseau?et s?t?es. Ils sont conduits par leurs fonctions 
+?? ?avoir acc? ?des infor?tions personnelles relatives au?utilisateurs 
+?essagerie?histori?e des sites visités??hiers ?logs ?ou de ?urnalisation?
+etc.? ? co?ris celles ?i sont enregistrées sur le dis?e dur du poste de 
+travail ?chiers te?oraires?coo?es?.
+> Accès aux données personnelles des utilisateurs
+L?cc? au?données enregistrées par les e?lo?s dans leur environne?nt 
+infor?ti?e - ?i sont parfois de nature personnelle - ne peut ?re ?sti? 
+?e dans les cas o?le bon fonctionne?nt des s?t?es infor?ti?es ne 
+pourrait ?re assuré par d?utres ??ns ?ins intrusifs.
+? ??? les ad?nistrateurs de réseau? et s?t?es ne doivent pas 
+divulguer des infor?tions ??ls auraient été a?nés ? conna?re dans le 
+cadre de leurs fonctions?et en particulier lors?e celles-ci sont couvertes par 
+le secret des correspondances ou rel?ent de la vie privée des utilisateurs et 
+ne ?ttent en cause ni le bon fonctionne?nt techni?e des applications?
+ni leur sécurité? ni l?ntér? de l?ntreprise. Ils ne sauraient non plus ?re 
+contraints de le faire?sauf disposition législative particuli?e en ce sens.
+L?bligation de con?entialité pesant sur les ad?nistrateurs infor?ti?es 
+doit ainsi ?re claire?nt rappelée dans leur contrat?ainsi ?e dans la charte 
+d?tilisation des outils infor?ti?es anne?e au r?le?nt intérieur de 
+l?ntreprise ou de l?d?nistration.
+> L’utilisation des logiciels de prise de main à distance
+Les logiciels de prise de ?in ?distance peuvent nota?ent per?ttre au?
+gestionnaires techni?es d?ccéder ? distance ? l?nse?le des données 
+de n??orte ?el poste de travail??des ?s de ?intenance infor?ti?e.
+?? la CNIL constate parfois ?e ces outils de télé?intenance ou de 
+prise de ?in ? distance sont égale?nt utilisés ? des ?s de contr?e?
+par l??lo?ur?de l?ctivité de ses e?lo?s sur leur poste infor?ti?e. 
+?e telle utilisation n?st ni confor? au principe de proportionnalité?
+ni respectueuse du principe de ?alité posé par la loi ? infor?ti?e et 
+libertés ?
+?
+I
+C
+?
+?
+ 
+N
+?
+ 
+?
+ 
+–
+ 
+L
+?
+?
+ 
+A
+?
+?
+I
+N
+I
+?
+?
+?
+A
+?
+?
+?
+?
+?
+ 
+?
+?
+?
+?
+A
+?
+Fiche n° 7 – les administrateurs 
+réseau 
+??I?? ???? L?? ???L?????? ?? L?? ?ALA?I?? 2?
+?ns l??oth?e d?n recours ? ces outils ? des ?s de ?intenance 
+infor?ti?e par un ad?nistrateur techni?e?leur utilisation doit s?ntourer 
+de précautions a? de garantir la transparence dans leur e?loi et la 
+con?entialité des données au?uelles le gestionnaire techni?e accédera 
+par ce ??n?dans la stricte li?te de ses besoins.
+?ivent nota?ent ?urer au titre de ces précautions :
+?  l?nfor?tion préalable et le recueil de l?ccord de l?tilisateur pour ?donner 
+la ?in ??l?d?nistrateur infor?ti?e avant l?ntervention sur son poste 
+? titre d?llustration? l?ccord peut ?re donné par si?le validation d?n 
+?ssage d?nfor?tion apparaissant sur son écran?
+?  la tra?bilité des opérations de ?intenance ?ar e??le? par la tenue 
+d?n registre des interventions? ainsi ?e la précision dans les contrats des 
+personnes assurant la ?intenance - nota?ent en cas de recours ?des 
+prestataires e?érieurs - de leur obligation de n?ccéder ??u?données 
+infor?ti?es nécessaires ?l?cco?lisse?nt de leurs ?ssions et d?n 
+assurer la con?entialité.
+L?tilisation de ces logiciels ?des ?s strictes de ?intenance infor?ti?e 
+n?st pas sou?se ?déclaration aupr? de la CNIL.
+?
+I
+C
+?
+?
+ 
+N
+?
+ 
+?
+ 
+–
+ 
+L
+?
+?
+ 
+A
+?
+?
+I
+N
+I
+?
+?
+?
+A
+?
+?
+?
+?
+?
+ 
+?
+?
+?
+?
+A
+?
+25
+L?tat actuel du droit se caractérise par la concurrence de deu? régi?s 
+?ridi?es applicables : celui de la loi ?infor?ti?e et libertés ?du ??nvier 
+?? ?di?e en 2?? et celui de l?rticle ? de la loi du 2??nvier ?? 
+?di?e d?rientation et de progra?ation pour la sécurité ?utorisation  
+préfectorale?
+Ceci e?li?e le caract?e co?le? du régi? ?ridi?e applicable en 
+?ti?e de vidéosurveillance.
+?ur savoir ?elle for?lité préalable est nécessaire?il convient d?bord de 
+déter?ner si le dispositif de vidéosurveillance concerne un lieu public ?u 
+ouvert au public?ou un lieu privé ?u non ouvert au public?
+Distinction lieu public/lieu privé 
+? lieu public ou ouvert au public : tout lieu du secteur public ou du 
+secteur privé où le public peut accéder. Exemple : le guichet d’une 
+mairie ou un supermarché. 
+? lieu privé (lieu non ouvert au public) : tout lieu du secteur public 
+ou du secteur privé où le public ne peut pas accéder. Exemple : la 
+chaîne de montage d’une entreprise automobile, le parking 
+réservé au personnel d’une entreprise, un entrepôt ou des bureaux 
+fermés au public 
+Le régi? ?ridi?e est clair dans deu?cas :
+•  Premier cas : seule une autorisation préfectorale est nécessaire??and 
+le dispositif de vidéosurveillance est installé dans un lieu public ou ouvert 
+au public et ??ucune i?ge n?st enregistrée ni conservée dans des 
+traite?nts infor?tisés ou des ?hiers structurés ?i per?ttent 
+d?denti?r des personnes ph?i?es ?
+•  Deuxième cas : seule une déclaration aupr? de la CNIL est nécessaire?
+?and le dispositif est installé dans un lieu privé ou non ouvert au public 
+et ?e les i?ges sont enregistrées ou conservées dans des traite?nts 
+infor?tisés ou des ?hiers structurés ?i per?ttent d?denti?r des 
+personnes ph?i?es.
+Le régi?e ?uridi?ue n?est pas clair et pose probl??e lors?ue le dispositif 
+de vidéosurveillance est installé dans un lieu ?i?te ?lieu ouvert au public 
+?ui co?porte égale?ent des ?ones privées? par e?e?ple un super?arché?
+et les i?ages enregistrées dans un ?chier ou traitées infor?ati?ue?ent. 
+?ans cette h?poth?se une déclaration aupr?s de la CNIL est nécessaire. 
+?e pose toutefois la ?uestion du cu?ul avec la loi de ???5 ?autorisation 
+préfectorale?.
+?
+I
+C
+?
+?
+ 
+N
+?
+ 
+?
+ 
+–
+ 
+L
+A
+ 
+?
+I
+?
+?
+?
+?
+?
+?
+?
+?
+I
+L
+L
+A
+N
+C
+?
+ 
+?
+?
+?
+ 
+L
+?
+?
+ 
+L
+I
+?
+?
+?
+ 
+?
+?
+ 
+?
+?
+A
+?
+A
+I
+L
+Fiche n° 8 – la vidéosurveillance  
+sur les lieux de travail 
+??I?? ???? L?? ???L?????? ?? L?? ?ALA?I?? 2?
+?
+I
+C
+?
+?
+ 
+N
+?
+ 
+?
+ 
+–
+ 
+L
+A
+ 
+?
+I
+?
+?
+?
+?
+?
+?
+?
+?
+I
+L
+L
+A
+N
+C
+?
+ 
+?
+?
+?
+ 
+L
+?
+?
+ 
+L
+I
+?
+?
+?
+ 
+?
+?
+ 
+?
+?
+A
+?
+A
+I
+L
+Ce qu’il faut retenir : 
+Lorsque le dispositif d’enregistrement vidéo fait appel à des moyens 
+informatiques (ex : surveillance vidéo IP, stockage des images sur 
+support numérique, etc.) il est nécessaire de déclarer le dispositif à 
+la CNIL. 
+Lorsque le système s’accompagne d’un dispositif biométrique (ex : 
+reconnaissance faciale, analyse comportementale), Il doit faire 
+l’objet d’une demande d’autorisation auprès de la CNIL puisqu’il fait 
+appel à une technique biométrique (voir fiche n° 12). 
+  1. La nécessité d’une analyse préalable des risques 
+?e ré??on préalable ? l?nstallation d?n s?t?e de vidéosurveillance?
+basée sur une anal?e précise des ris?es doit ?re ?née a? d?denti?r 
+des solutions alternatives ?ne sécurisation des acc? au ??n de badges 
+?gnéti?es peut par e??le constituer la réponse ef?ace et adaptée ?
+un ob?ctif particulier de sécurisation?
+  2. La nécessité de respecter le principe de proportionnalité 
+La ?se en ?vre d?n s?t?e de vidéosurveillance des e?lo?s doit 
+nécessaire?nt respecter le principe de proportionnalité. ?le doit donc 
+s?ffectuer de fa?n adéquate, pertinente, non excessive et strictement 
+nécessaire à l’objectif poursuivi.
+? le déploie?nt de tels dispositifs sur un lieu de travail répond générale?nt 
+? un ob?ctif sécuritaire ?ontr?e des acc? au? locau? surveillance de 
+?nes de travail ? ris?es? il ne peut ainsi avoir pour seul ob?ctif la ?se 
+sous surveillance spéci?ue d?n e?lo? déter?né ou d?n groupe 
+particulier d??lo?s.
+Le no?re?l??lace?nt?l?rientation?les fonctionnalités et les périodes 
+de fonctionne?nt des ca?ras?ou la nature des t?hes acco?lies par 
+les personnes devant ?re sou?ses ? la vidéosurveillance? sont autant 
+d?lé?nts ?prendre en co?te lors de l?nstallation du s?t?e.
+L?nregistre?nt du son associé au?i?ges rend le s?t?e encore plus 
+intrusif. ?s lors? ce t?e d?nregistre?nts est disproportionné? sauf 
+?sti?ation particuli?e.
+Exemples de systèmes de vidéosurveillance susceptibles de présenter un 
+caractère illégal : installation de caméras dans les vestiaires, les douches, 
+les toilettes ; installation d’un dispositif à l’insu des employés ou de façon 
+non visible (caméra miniaturisée) ; système permettant d’enregistrer de 
+façon spécifique les allées et venues des personnes se rendant dans un local 
+syndical.
+2?
+  3. L’obligation d’information : pas de surveillance à l’insu des personnes 
+> l’information des salariés et visiteurs 
+Les personnes concernées ??lo?s ou visiteurs?doivent ?re infor?es?
+au ??n d?n panneau af?hé de fa?n visible dans les locau? sous 
+vidéosurveillance?de l??stence du dispositif?des destinataires des i?ges?
+ainsi ?e des ?dalités concr?es d??rcice de leur droit d?cc? au?
+enregistre?nts visuels les concernant ?oir ?d?e proposé en anne??
+> une consultation des représentants du personnel 
+Les instances représentatives du personnel doivent ?re consultées avant 
+toute ?se en oeuvre d?n s?t?e de vidéosurveillance et précisé?nt 
+infor?es des fonctionnalités envisagées ?rticle L2??? du code du 
+travail? te?es relatifs au? trois fonctions publi?es? lois n? ?-? du ? 
+?nvier ???n??-5?du 2??nvier ?? et n??-? du ??nvier ???
+  4. Une visualisation des images restreinte aux seuls destinataires habilités 
+Les i?ges enregistrées ne peuvent ?re visionnées ?e par les seules 
+personnes habilitées ? cet effet? dans le cadre de leurs fonctions ?ar 
+e??le : le responsable de la sécurité de l?rganis?? Ces personnes 
+doivent ?re particuli?e?nt for?es et sensibilisées au?r?les encadrant 
+la ?se en oeuvre d?n s?t?e de vidéosurveillance.
+  5. Une durée de conservation des images limitée 
+Les i?ges ne devraient pas ?re conservées plus de ?el?es ?urs : en 
+effet?en cas d?ncident?la visualisation des i?ges s?ffectue générale?nt 
+rapide?nt. Leur durée de conservation ne doit pas en tout état de cause 
+s?tendre au-del?d’un mois. 
+Lors?e c?st techni?e?nt possible?une durée ???le de conservation 
+des i?ges doit ?re para?trée dans le s?t?e. ?le ne doit pas ?re ?ée 
+en fonction de la capacité techni?e de stoc?ge de l?nregistreur. 
+  6. Comment déclarer? 
+? s?t?e de vidéosurveillance nu?ri?e ?s en place sur un lieu de 
+travail ne peut ?re installé ?e s?l a préalable?nt fait l?b?t d?ne 
+déclaration nor?le aupr? de la CNIL?sauf désignation d?n correspondant 
+infor?ti?e et libertés.
+? s?t?e ?i n?urait pas fait l?b?t d?ne déclaration ?la CNIL ne peut 
+?re opposé au?e?lo?s.
+Sanction de la CNIL :
+La for?tion contentieuse de la CNIL a prononcé le ? avril 2?? une 
+sanction d?n ?ntant de ? ??euros ?l?ncontre d?ne société de pr?-
+?porter. Cette société?pour lutter contre la fraude?avait ?s en place un 
+s?t?e de vidéosurveillance non déclaré ?la CNIL. ?le ??it les salariés 
+de fa?n per?nente? ?co?ris dans des lieu?o?aucune ?rchandise 
+n?tait stoc?e et sans les en avoir infor?s.
+?
+I
+C
+?
+?
+ 
+N
+?
+ 
+?
+ 
+–
+ 
+L
+A
+ 
+?
+I
+?
+?
+?
+?
+?
+?
+?
+?
+I
+L
+L
+A
+N
+C
+?
+ 
+?
+?
+?
+ 
+L
+?
+?
+ 
+L
+I
+?
+?
+?
+ 
+?
+?
+ 
+?
+?
+A
+?
+A
+I
+L
+??I?? ???? L?? ???L?????? ?? L?? ?ALA?I?? 2?
+La possibilité d?n usage personnel du téléphone est reconnue ?condition 
+??ne telle utilisation de?ure raisonnable et ne soit pas pré?diciable 
+? l??lo?ur. Il est ainsi légiti? ??n e?lo?ur s?ssure du caract?e 
+non abusif de cette utilisation. Ce contr?e doit toutefois s?pérer dans des 
+conditions propres ?garantir le respect de la vie privée et des libertés des 
+personnels sur leur lieu de travail.
+  1. La mise en place des autocommutateurs 
+Les autoco?utateurs sont des standards téléphoni?es per?ttant 
+d?rienter l?nse?le des nu?ros de téléphone appelants et des nu?ros 
+appelés. Ces appareils per?ttent ?? l?nregistre?nt des nu?ros de 
+téléphone sortants? de sorte ?e ces dispositifs sont susceptibles d?tre 
+utilisés a? d?denti?r les co?unications téléphoni?es ?i rel?eraient 
+d?n usage non professionnel. 
+Ils peuvent égale?nt servir ?la co?tabilisation statisti?e des ??entrants 
+et sortants au niveau de l?rganisation?d?n service ou d?n poste particulier. 
+?liés ? des logiciels ? de ta?tion ? ils peuvent per?ttre d??uter et 
+de contr?er par service ou par poste les dépenses téléphoni?es de 
+l?rganisation.
+  2. La gestion des relevés téléphoniques 
+Lors?e des relevés sont établis ?? : facturation détaillée des opérateurs 
+de téléphone? les quatre derniers chiffres de ces numéros doivent être 
+occultés. 
+Les supérieurs hiérarchi?es ne doivent accéder au? nu?ros co?lets 
+des relevés individuels ?e de fa?n e?eptionnelle ?ar e??le en cas 
+d?tilisation ?nifeste?nt anor?le du téléphone par un salarié? 
+?en entendu?un salarié doit avoir la possibilité d?ccéder au?nu?ros de 
+téléphone co?lets co?osés depuis son poste téléphoni?e?nota?ent 
+lors??l lui est de?ndé le re?ourse?nt du co? des co?unications 
+téléphoni?es présu?es personnelles. 
+La durée de conservation des données relatives ?l?tilisation des services 
+de téléphonie ne doit pas e?éder un an.
+Fiche n° 9 – la gestion de la téléphonie 
+I- L’utilisation du téléphone au travail
+?
+I
+C
+?
+?
+ 
+N
+?
+ 
+?
+ 
+–
+ 
+L
+A
+ 
+?
+?
+?
+?
+I
+?
+N
+ 
+?
+?
+ 
+L
+A
+ 
+?
+?
+L
+?
+?
+?
+?
+N
+I
+?
+2?
+  3. Les droits spécifiques des employés protégés 
+?oute utilisation des infor?tions issues de l?tilisation des services de 
+téléphonie pour un contr?e des appels é?s et re?s par les représentants 
+du personnel et les représentants s?dicau?dans le cadre de leur ?ndat 
+est interdite.
+?puis un arr? de la Cour de cassation du ? avril 2?? les e?lo?s 
+investis d?n ?ndat électif ou s?dical doivent pouvoir disposer d?n 
+?tériel e?luant l?nterception de leurs co?unications téléphoni?es 
+et l?denti?ation de leurs correspondants ?ar e??le via une ligne non 
+connectée ?l?utoco?utateur ou ne pouvant donner lieu ?la production 
+d?ne facturation détaillée?
+  4. Comment déclarer? 
+Concernant les ?hiers ?s en oeuvre dans le cadre de l?tilisation de 
+service de téléphonie ?e et ?bile?l??lo?ur a la possibilité d?ffectuer 
+une déclaration de confor?té ?la nor? si?li?e n?? 
+? toutefois?le dispositif ?s en place dépasse le cadre prévu par cette nor??
+l??lo?ur doit faire une déclaration nor?le sauf en cas de désignation 
+d?n correspondant infor?ti?e et libertés ?ispense de déclaration?
+?
+I
+C
+?
+?
+ 
+N
+?
+ 
+?
+ 
+–
+ 
+L
+A
+ 
+?
+?
+?
+?
+I
+?
+N
+ 
+?
+?
+ 
+L
+A
+ 
+?
+?
+L
+?
+?
+?
+?
+N
+I
+?
+??I?? ???? L?? ???L?????? ?? L?? ?ALA?I?? ?
+Aucune écoute per?nente ou aucun enregistre?nt per?nent des 
+conversations des personnels d?ne entreprise ou d?ne ad?nistration ne 
+peuvent ?re ?s en ?vre? sauf législation ou régle?ntation particuli?e 
+l??osant.
+L?nregistre?nt des conversations téléphoni?es ne peut ?re réalisé ??n 
+cas de nécessité reconnue et doit ?re proportionné au?ob?ctifs poursuivis. 
+Par exemple, un enregistrement pour des besoins de formation ne pourra être 
+réalisé que sur une brève période et en aucun cas de manière permanente. 
+  1. Quelles garanties pour les salariés? 
+> Neutralisation de la fonction enregistrement pour les appels privés 
+? cas d?nregistre?nt des co?unications téléphoni?es? il convient 
+?e les e?lo?s disposent de lignes téléphoni?es non reliées au 
+s?t?e d?nregistre?nt ou d?n dispositif techni?e leur per?ttant?
+en cas de conversation privée?de se ?ttre hors du cha? du dispositif 
+d?nregistre?nt?tant pour les appels entrants ?e sortants ?ar e??le : 
+possibilité d?tiliser une touche particuli?e avant de co?oser un nu?ro de 
+téléphone pour neutraliser la fonction d?nregistre?nt? Ces fonctionnalités 
+doivent ?re offertes tout particuli?e?nt dans le cas des salariés protégés 
+?eprésentants du personnel ou s?dicau?.
+> Information des salariés
+?tre la consultation des instances représentatives du personnel? les 
+salariés ainsi ?e leurs interlocuteurs?doivent ?re infor?s?préalable?nt 
+?la ?se en place du dispositif :
+?des ob?ctifs poursuivis par l?nstallation de ce s?t?e?
+?des consé?ences individuelles ?i pourront en résulter?
+?des destinataires des enregistre?nts?
+?des ?dalités d??rcice de leur droit d?cc?.
+L?nfor?tion des interlocuteurs peut nota?ent ?re réalisée par la 
+diffusion d?n ?ssage au début de l?ppel?ou par l?nsertion d?ne ?ntion 
+particuli?e dans le docu?nt contractuel ou d?nfor?tion relatif au service 
+téléphoni?e ?oir ?d?e proposé en anne?.?
+Dans le cadre d’enregistrements ou d’écoutes à des fins de formation 
+ou d’évaluation, les salariés doivent être informés des périodes pendant 
+lesquelles leurs conversations sont susceptibles d’être enregistrées ou 
+écoutées.
+II – L’enregistrement des conversations 
+téléphoniques sur le lieu de travail 
+?
+I
+C
+?
+?
+ 
+N
+?
+ 
+?
+ 
+–
+ 
+L
+A
+ 
+?
+?
+?
+?
+I
+?
+N
+ 
+?
+?
+ 
+L
+A
+ 
+?
+?
+L
+?
+?
+?
+?
+N
+I
+?
+?
+Si des procédures disciplinaires sont susceptibles d’être engagées 
+sur la base des enregistrements ou des comptes rendus, les salariés 
+doivent en être explicitement informés. 
+Attention 
+Les principes exposés ci-dessus sont également applicables en cas 
+d’écoute des conversations téléphoniques 
+sans enregistrement. 
+  2. Combien de temps l’employeur peut-il garder les enregistrements? 
+Lors?e les enregistre?nts sont réalisés ? des ?s de for?tion du 
+personnel? la Co?ission reco?ande une durée de conservation 
+???le de ??is. 
+Lors?e les enregistre?nts sont réalisés ?des ?s de preuve en ?ti?e 
+bancaire?la durée de conservation doit ?re confor? au?articles ??5?
+et ??52 du ?gle?nt ?néral de l?utorité des ?rchés ?nanciers ?in?
+ans ????. 
+? ?ti?e d?coutes téléphoni?es?la Co?ission reco?ande ?e les 
+co?tes rendus des conversations téléphoni?es et grilles d?nal?e soient 
+conservés pour une durée d?n an ????
+  3. Comment déclarer? 
+L?nregistre?nt des conversations téléphoni?es doit faire l?b?t d?ne 
+déclaration nor?le aupr? de la CNIL si le dispositif d?nregistre?nt 
+repose sur des ??ns nu?ri?es. 
+L?coute des conversations téléphoni?es doit faire l?b?t d?ne déclaration 
+nor?le aupr? de la CNIL si elle est suivie d?n co?te rendu ou d?ne 
+grille d?nal?e. 
+? cas de désignation d?n correspondant infor?ti?e et libertés?aucune 
+déclaration n?st nécessaire. 
+?
+I
+C
+?
+?
+ 
+N
+?
+ 
+?
+ 
+–
+ 
+L
+A
+ 
+?
+?
+?
+?
+I
+?
+N
+ 
+?
+?
+ 
+L
+A
+ 
+?
+?
+L
+?
+?
+?
+?
+N
+I
+?
+??I?? ???? L?? ???L?????? ?? L?? ?ALA?I?? ?
+Certains e?lo?urs é?ipent leurs véhicules professionnels de dispositifs 
+de géolocalisation ???? Co?te tenu des ris?es d?tteinte au?droits 
+et libertés des personnes ?e co?orte l?tilisation de ces dispositifs? la 
+CNIL a esti? nécessaire de préciser?dans une reco?andation du ?  ?rs 
+2?? les conditions dans les?elles ils pouvaient ?re utilisés.
+? ?illet 2?? la Co?ission tirant les conclusions d?ne série de contr?es 
+?nés sur place?a apporté des indications supplé?ntaires sur certaines 
+dispositions de cette reco?andation ainsi ?e de la nor? si?li?e n??
+concernant la géolocalisation des véhicules utilisés par les e?lo?s.
+  1. Pourquoi géolocaliser les véhicules des employés? 
+? dispositif de géolocalisation peut ?re ?s en place pour les ?alités 
+suivantes ?savoir : 
+?  la contribution ? la sécurité des personnes ou des ?rchandises 
+transportées ?
+?  une ?illeure gestion des ??ns en personnel et véhicules ?restations ?
+acco?lir en des lieu?dispersés??
+?  le suivi et la facturation d?ne pr estation ?
+?  le suivi du te?s de travail des e?lo?s?uni?e?nt lors?e ce suivi ne 
+peut ?re réalisé par d?utres ??ns. 
+? revanche? le recours ? la géolocalisation n?st pas ?sti? lors??n 
+e?lo? dispose d?ne liberté dans l?rganisation de ses déplace?nts 
+professionnels avec un véhicule de service ou de fonction ?isiteurs 
+?dicau? ???etc.? 
+L’utilisation d’un dispositif de géolocalisation ne doit pas conduire à un 
+contrôle permanent de l’employé concerné. Ainsi, la CNIL recommande 
+la désactivation du système embarqué dans les véhicules de fonction 
+des employés en dehors des horaires de travail. 
+  2. À quelles conditions? 
+L?tilisation d?n traite?nt de géolocalisation : 
+?  ne doit pas conduire ? un contr?e per?nent de l??lo? concerné. 
+Ainsi?la CNIL reco?ande la désactivation du s?t?e e?ar?é dans 
+les véhicules des e?lo?s en dehors des horaires de travail ou lors des 
+te?s de pause ??: dé?uner?
+?  ne doit pas per?ttre la collecte d?nfor?tions concernant les éventuels 
+dépasse?nts des li?tations de vitesse ?nterdiction de collecter des 
+données relatives au?infractions?sauf législation particuli?e? 
+?  doit nécessaire?nt s?cco?agner de ?sures de sécurité li?tant 
+l?cc? au?données de géolocalisation au?personnes habilitées?
+?  nécessite de ?er une durée de conservation adé?ate de ces données 
+?énérale?nt 2 ?is? 
+?
+I
+C
+?
+?
+ 
+N
+?
+ 
+?
+?
+ 
+–
+ 
+L
+?
+?
+ 
+?
+I
+?
+?
+?
+?
+I
+?
+I
+?
+?
+ 
+?
+?
+ 
+?
+?
+?
+L
+?
+C
+A
+L
+I
+?
+A
+?
+I
+?
+N
+ 
+?
+?
+?
+ 
+?
+?
+?
+?
+Fiche n° 10 – les dispositifs de 
+géolocalisation GSM/GPS
+?
+?
+I
+C
+?
+?
+ 
+N
+?
+ 
+?
+?
+ 
+–
+ 
+L
+?
+?
+ 
+?
+I
+?
+?
+?
+?
+I
+?
+I
+?
+?
+ 
+?
+?
+ 
+?
+?
+?
+L
+?
+C
+A
+L
+I
+?
+A
+?
+I
+?
+N
+ 
+?
+?
+?
+ 
+?
+?
+?
+??  i?li?e au préalable la consultation des instances représentatives du 
+personnel et l?nfor?tion individuelle des e?lo?s concernés relative ?
+la ?alité du traite?nt?les données traitées?leur durée de conservation?
+les destinataires des données? leurs droits d?cc?? de recti?ation et 
+d?pposition ?oir ?d?e proposé en anne?? 
+?  ne doit pas s?ppli?er au? e?lo?s investis d?n ?ndat électif ou 
+s?dical lors??ls agissent dans le cadre de leur ?ndat.
+  3. Comment déclarer ? 
+? le dispositif de géolocalisation des véhicules des e?lo?s est en tout point 
+confor? au?prescriptions de la nor? si?li?e n?5?du ? ?rs 2?? 
+le responsable du traite?nt peut procéder en ligne ? une déclaration de 
+confor?té ?cette nor?. ?ns les autres cas?il lui appartiendra d?dresser 
+une déclaration nor?le ? la CNIL? sauf désignation d?n Correspondant 
+infor?ti?e et libertés ?ispense de déclaration?
+??I?? ???? L?? ???L?????? ?? L?? ?ALA?I?? ?
+?r le lieu de travail? les badges électroni?es ?artes ?gnéti?es ou ?
+puce?servent nota?ent au contr?e des acc? au?locau? ?la gestion des 
+te?s de travail?ainsi ?? la gestion de la restauration d?ntreprise.
+Ces différents t?es de dispositifs??i co?ortent des données per?ttant 
+l?denti?ation des e?lo?s?sont sou?s ?la loi ?infor?ti?e et libertés ?
+et?ainsi ?e la Cour de cassation l? rappelé dans son arr? du ?avril 2?? 
+doivent ?re préalable?nt déclarés aupr? de la CNIL? sauf désignation 
+d?n correspondant infor?ti?e et libertés.
+  1. Quelles garanties prévoir ? 
+Cha?e passage du badge dans un lecteur per?t l?nregistre?nt de 
+données relatives ? son détenteur. Ces enregistre?nts présentent des 
+ris?es d?tilisation détournée et sont nota?ent susceptibles de ?  tracer ?
+les déplace?nts des salariés ?des ?s de surveillance de leur activité. 
+?r ailleurs? les enregistre?nts réalisés peuvent parfois per?ttre ?
+l??lo?ur d?ccéder ? des infor?tions privées ?onso?ations 
+de ses personnels au sein du restaurant d?ntreprise? ?s garanties 
+particuli?es doivent donc ?re apportées par l??lo?ur pour éviter de tels 
+détourne?nts de ?alité. Il doit nota?ent préciser : 
+?  la ?alité du dispositif ?? : contr?e des acc?? gestion des te?s de 
+présence??
+?les infor?tions ?i seront collectées?
+?les services destinataires des données?
+?  les ?dalités d??rcice du droit d?cc? ?ces données. Les personnels et 
+leurs représentants doivent ?re parfaite?nt infor?s de ces ?dalités?
+préalable?nt ? la ?se en oeuvre du s?t?e de badges ?oir ?d?e 
+proposé en anne??
+  2. Comment déclarer ? 
+? le dispositif envisagé respecte en tout point le cadre ?é par la nor? 
+si?li?e n? ?? l??lo?ur privé ou public peut effectuer une déclaration 
+si?li?e sauf s?l a désigné un correspondant infor?ti?e et libertés 
+au?el cas il est dispensé de déclaration. 
+?ns le cas contraire - nota?ent en cas de recours ?des dispositifs bio-
+?tri?es -? des for?lités de déclaration particuli?es voire de de?nde 
+d?utorisation devront ?re acco?lies aupr? de la CNIL ?f. ?he n?2? 
+?
+I
+C
+?
+?
+ 
+N
+?
+ 
+?
+?
+ 
+–
+ 
+?
+?
+I
+L
+I
+?
+A
+?
+I
+?
+N
+ 
+?
+?
+ 
+?
+A
+?
+?
+?
+?
+ 
+?
+?
+?
+ 
+L
+?
+ 
+L
+I
+?
+?
+ 
+?
+?
+ 
+?
+?
+A
+?
+A
+I
+L 
+Fiche n° 11 – utilisation de badges  
+sur le lieu de travail 
+?
+Les dispositifs bio?tri?es? parce ??ls per?ttent d?denti?r une  
+personne par ses caractéristi?es ph?i?es?biologi?es voire co?orte -
+?ntales?sont particuli?e?nt sensibles et sont donc sou?s ?un contr?e 
+particulier de la CNIL.
+Ainsi, ces dispositifs ne peuvent être mis en œuvre sans autorisation 
+préalable de la CNIL. 
+La biométrie, qu’est-ce que c’est? 
+La biométrie regroupe l’ensemble des techniques informatiques 
+permettant de reconnaître automatiquement un individu  
+à partir de ses caractéristiques physiques, biologiques, voire 
+comportementales. Les données biométriques sont des données  
+à caractère personnel car elles permettent d’identifier  
+une personne. Elles ont, pour la plupart, la particularité d’être 
+uniques et permanentes (ADN, empreintes digitales…). 
+Elles se rapprochent ainsi de ce qui pourrait être défini comme  
+un “identificateur unique universel”, permettant de fait  
+le traçage des individus. 
+  1. Le cadre juridique 
+?ous les dispositifs de reconnaissance bio?tri?e sont sou?s ?
+autorisation préalable de la CNIL ?el ?e soit le procédé techni?e retenu 
+?ontour ou for? de la ?in?e?reinte digitale?. Il appartient ?cha?e 
+organis? d?dresser une de?nde d?utorisation ? la CNIL. ?uf ?atre 
+cas de ?ure précisés ci-apr??cha?e application fait l?b?t d?n e??n 
+au cas par cas?en fonction nota?ent de la caractéristi?e bio?tri?e 
+utilisée.
+Attention 
+La CNIL n’agrée pas et ne labellise pas les dispositifs biométriques. 
+Les sociétés qui commercialisent ce type de dispositifs ne peuvent 
+donc en aucune façon se prévaloir d’un quelconque agrément de la 
+CNIL sur leur produit. 
+  2. Des formalités allégées pour certains dispositifs biométriques 
+A? de faciliter les for?lités? la Co?ission a dé?i un cadre? appelé 
+autorisation uni?e? applicable ? certains dispositifs bio?tri?es. Le 
+principe est le suivant : lors?e?par e??le?un e?lo?ur souhaite ?ttre 
+en oeuvre un dispositif bio?tri?e ?i répond au? conditions dé?ies 
+dans ce cadre?il peut béné?ier d?ne procédure si?li?e. Il lui suf? alors 
+d?dresser ?la CNIL une si?le déclaration de confor?té.
+?
+I
+C
+?
+?
+ 
+N
+?
+ 
+?
+2
+ 
+–
+ 
+L
+A
+ 
+?
+I
+?
+?
+?
+?
+?
+I
+?
+ 
+?
+?
+?
+ 
+L
+?
+ 
+L
+I
+?
+?
+ 
+?
+?
+ 
+?
+?
+A
+?
+A
+I
+L
+ Fiche n° 12 – la biométrie sur le lieu 
+de travail 
+??I?? ???? L?? ???L?????? ?? L?? ?ALA?I?? ?
+?
+I
+C
+?
+?
+ 
+N
+?
+ 
+?
+2
+ 
+–
+ 
+L
+A
+ 
+?
+I
+?
+?
+?
+?
+?
+I
+?
+ 
+?
+?
+?
+ 
+L
+?
+ 
+L
+I
+?
+?
+ 
+?
+?
+ 
+?
+?
+A
+?
+A
+I
+LCette procédure d?utorisation uni?e s?ppli?e ? ?atre t?es de 
+dispositifs reposant sur la reconnaissance : 
+?  du contour de la ?ain pour assurer le contr?le d?acc?s et la gestion des 
+horaires et de la restauration sur les lieu? de travail ?autorisation n?A?-?????
+?  de l??reinte digitale e?lusive?nt enregistrée sur un support individuel 
+détenu par la personne concernée pour contr?er l?cc? au? locau?
+professionnels ?utorisation n?????
+?  du contour de la ?in pour assurer le contr?e d?cc? au restaurant 
+scolaire ?utorisation n?????
+?  du réseau veineu?des doigts de la ?in pour contr?er l?cc? au?locau?
+sur les lieu?de travail ?utorisation n????.
+Attention 
+L’utilisation de dispositifs de reconnaissance biométrique, pour 
+la gestion des contrôles d’accès aux locaux, des horaires et de 
+la restauration ne peut être déclarée en référence à la norme 
+simplifiée n° 42, relative aux traitements de contrôle d’accès. 
+  3. La nécessaire information préalable des intéressés 
+Les personnes concernées par le dispositif bio?tri?e doivent ?re 
+claire?nt infor?es de ses conditions d?tilisation? de son caract?e 
+obligatoire ou facultatif?des destinataires des infor?tions et des ?dalités 
+d??rcice de leurs droits d?pposition? d?cc? et de recti?ation. ? 
+outre? et confor??nt au Code du travail et ? la législation applicable ?
+la fonction publi?e territoriale?les instances représentatives du personnel 
+doivent?le cas échéant??re consultées et infor?es avant la ?se en ?vre 
+des dispositifs. 
+?oir ?d?e proposé en anne? 
+   4. Le cas particulier des dispositifs reposant sur l’enregistrement des 
+empreintes digitales dans une base de données 
+?ns une co?unication destinée ? ?eu? infor?r les salariés sur leurs 
+droits et per?ttre au?entreprises et ad?nistrations de se poser les bonnes 
+?estions ?infor?ti?e et libertés ?la CNIL rappelle ?e : 
+?  l’empreinte digitale est une biométrie à “trace”. Chacun laisse des 
+traces de ses e?reintes digitales?plus ou ?ins facile?nt e?loitables?
+dans beaucoup de circonstances de la vie courante ?ur un verre ou une 
+poignée de porte etc.??
+?
+•  ces “traces” peuvent être capturées à l’insu des personnes et être 
+utilisées notamment pour usurper leur identité. 
+?r consé?ent?ces dispositifs ne sont ?sti?s ?e s?ls sont fondés sur un 
+fort i?ératif de sécurité et satisfont au??atre e?gences suivantes : 
+•  la finalité du dispositif : elle doit ?re li?tée au contr?e de l?cc? d?n 
+no?re li?té de personnes ?une ?ne bien déter?née?représentant ou 
+contenant un en?u ??ur dépassant l?ntér? strict de l?rganis? tel ?e 
+la protection de l?ntégrité ph?i?e des personnes?de celle des biens et 
+des installations ou encore de celles de certaines infor?tions ??: acc? 
+?une centrale nucléaire? ?une cellule de production de vaccins ou ?un 
+site ?veso II? 
+•  la proportionnalité : le s?t?e proposé est-il bien adapté ? la ?alité 
+préalable?nt dé?ie eu égard au?ris?es ??l co?orte en ?ti?e de 
+protection des données ?caract?e personnel ?
+•  la sécurité : le dispositif doit per?ttre ?la fois une authenti?ation et?ou 
+une identi?ation ?ble des personnes et co?orter toutes garanties de 
+sécurité pour éviter la divulgation des données?
+•  l’information des personnes concernées : elle doit ?re réalisée dans le 
+respect de la loi ? infor?ti?e et libertés ? et? le cas échéant?du Code 
+du travail. 
+  5. Comment déclarer? 
+? le dispositif bio?tri?e est confor? ? l?ne des ?atre autorisations 
+uni?es?il suf? d?dresser ?la CNIL une si?le déclaration de confor?té 
+?i peut s?ffectuer en ligne sur www.cnil.fr . 
+Les traite?nts ne relevant pas de l?ne de ces autorisations uni?es 
+doivent faire l?b?t d?ne de?nde d?utorisation. ?
+I
+C
+?
+?
+ 
+N
+?
+ 
+?
+2
+ 
+–
+ 
+L
+A
+ 
+?
+I
+?
+?
+?
+?
+?
+I
+?
+ 
+?
+?
+?
+ 
+L
+?
+ 
+L
+I
+?
+?
+ 
+?
+?
+ 
+?
+?
+A
+?
+A
+I
+L
+??I?? ???? L?? ???L?????? ?? L?? ?ALA?I?? ?
+La déclaration est une obligation légale dont le non-respect est 
+pénalement sanctionné1. ?out ?hier ou traite?nt infor?tisé co?ortant 
+des données personnelles doit donc ?re déclaré ? la CNIL préalable?nt 
+? sa ?se en ?vre? sauf s?l est e?ressé?nt e?néré de déclaration. 
+Cette for?lité peut prendre plusieurs for?s selon le ?hier concerné ?oir 
+tableau récapitulatif ?la ? du guide.? 
+Les déclarations peuvent être réalisées en ligne sur le site de la CNIL 
+?www.cnil.fr rubri?e ?déclarer ?. ? cas de doute sur le régi? dont rel?e 
+le traite?nt?il suf? de réaliser une déclaration nor?le en ligne : la CNIL se 
+chargera de ?ali?r le dossier et de contacter le déclarant. 
+?ns tous les cas? la désignation d?n correspondant ? infor?ti?e et 
+libertés ? ?IL? dispense l?rganis? concerné de devoir acco?lir les 
+for?lités relatives au??hiers relevant de la déclaration si?li?e et de la 
+déclaration nor?le. Le for?laire de désignation d?n CIL est accessible 
+sur le site www.cnil.fr. 
+  1. Les dispenses de déclaration 
+un certain no?re de traite?nts? décrits dans le tableau récapitulatif 
+?urant ci-apr??sont dispensés de déclaration par une décision de la CNIL 
+?aie du personnel?co?tabilité?. 
+Attention 
+Le fait d’être exonéré ne signifie pas pour autant que vous n’avez 
+aucune obligation. Vous devez notamment garantir le droit 
+d’information des personnes ainsi que la sécurité des données (voir 
+modèles proposés en annexe) 
+  2. La déclaration simplifiée 
+La plupart des ?hiers des entreprises ou ad?nistrations peuvent faire 
+l?b?t de déclarations simplifiées? ?i se font en ligne sur le site de la 
+CNIL ?www.cnil.fr?rubri?e ??clarer ?. 
+  3. La déclaration normale 
+Le régi? de droit co?un est la déclaration normale? lors?e le ?hier 
+ne rel?e pas d?ne procédure particuli?e ?rt. 22 de la loi du ??nvier ?? 
+?di?e en 2??. Le traite?nt peut ?re ?s en ?vre d? réception du 
+récépissé délivré par la CNIL. 
+Le récépissé atteste de l?cco?lisse?nt des for?lités de déclaration?
+?is n??n?e pas le responsable du respect des autres obligations  prévues 
+par la loi ?n ce ?i concerne la ?alité du ?hier?sécurité et con?entialité?
+les droits des personnes?. 
+?
+?
+?
+?
+ 
+?
+?
+?
+?
+?
+L
+?
+I
+ 
+:
+ 
+C
+?
+?
+?
+?
+N
+?
+ 
+?
+?
+C
+L
+A
+?
+?
+?
+ 
+?
+Mode d’emploi : comment déclarer? 
+? Article 22?? du code pénal : ?Le fait? ?co?ris par négligence?de procéder ou de faire 
+procéder ?des traite?nts de données ?caract?e personnel sans ??ient été respectées 
+les for?lités préalables ? leur ?se en ?vre prévues par la loi est puni de cin? ans 
+d??risonne?nt et de ????€ d??nde ?
+?
+  4. Les formalités particulières 
+Certains traite?nts peuvent relever d?n régime d’autorisation ou de 
+demande d’avis. Il s?git de régi?s plus protecteurs??i s?ppli?ent au?
+?hiers considérés co?e ?sensibles ?ou co?ortant des ris?es pour la 
+vie privée ou les libertés. 
+> La procédure d’autorisation (art. 25) concerne : 
+?  les traite?nts ?i co?ortent des données sensibles énu?rées ?
+l?rticle ?de la loi?
+?  les traite?nts ?i co?ortent des données relatives au?infractions ou 
+conda?ations?
+?  les traite?nts ?i co?ortent le nu?ro de sécurité sociale ?I? ou ?i 
+nécessitent une interrogation du répertoire national d?denti?ation des 
+personnes ph?i?es ?NI?? 
+?  les traite?nts ?i proc?ent ?l?nterconne?on de ?hiers dont les ?alités 
+principales sont différentes?
+?  les traite?nts de données co?ortant des appréciations sur les dif?ultés 
+sociales des personnes?
+?  les traite?nts ?i utilisent des données bio?tri?es. 
+?  les traite?nts ?i sont susceptibles d??lure des personnes du béné?e 
+d?n droit? d?ne prestation ou d?n contrat en l?bsence de toute 
+disposition législative ou régle?ntaire.
+Le traite?nt devra respecter en tout point le cadre ?é par l?utorisation 
+délivrée par la CNIL. 
+> La procédure de demande d’avis ?rt. 2? concerne principale?nt 
+les ad?nistrations ou les entreprises gérant un service public pour les 
+?hiers co?ortant le nu?ro de sécurité sociale ?I? ou nécessitant une 
+interrogation du répertoire national d?denti?ation des personnes ph?i?es 
+?NI?? et les téléservices de l?d?nistration électroni?e co?ortant un 
+identi?nt des personnes ph?i?es. 
+La de?nde d?vis doit ?re acco?agnée d?n pro?t d?rr?é ou de 
+décision de l?rgane délibérant? destiné ? autoriser le traite?nt une fois 
+l?vis de la CNIL rendu. 
+  5. Une fois le dossier complété 
+?ns le cas d?ne déclaration en ligne? la CNIL adresse i?édiate?nt 
+apr? envoi un accusé de réception électroni?e. 
+La CNIL délivre ensuite par voie postale ou électroni?e un récépissé 
+de déclaration indi?ant le nu?ro sous le?el le traite?nt déclaré est 
+enregistré. 
+?ur les procédures particuli?es d?utorisation ou d?vis?la CNIL adresse 
+au déclarant une noti?ation de l?utorisation ou de l?vis ??lle a rendu.
+?
+?
+ 
+?
+?
+ 
+?
+?
+?
+?
+?
+L
+ 
+?
+I
+ 
+:
+ 
+C
+?
+ 
+?
+?
+?
+ 
+N
+?
+ 
+?
+?
+C
+L
+ 
+A
+?
+?
+?
+ 
+?
+??I?? ???? L?? ???L?????? ?? L?? ?ALA?I?? ?
+?INALI?? ?? ?IC?I?? ????ALI??? 
+??CLA?A?I???
+C?N?I?I?N? 
+?A??IC?LI????
+?aie
+?éclarations ?scales et sociales 
+obligatoires ?déclarations au?
+organis?es de protection 
+sociale? de retraite et de 
+prévo?ance? ?A??? ????
+travailleurs handicapés??? ?
+co?pris celles réalisées ? partir 
+de www.net-entreprises.fr
+?enue des registres obligatoires 
+?registre uni?ue du personnel??
+?enue des co?ptes individuels 
+relatifs ? l?intéresse?ent et ? la 
+participation
+?e?ise dé?atérialisée du 
+bulletin de paie ?cf art L?2??-2 
+du code du travail?
+?tatisti?ues non no?inatives 
+liées ? l?activité salariée dans 
+l?entreprise
+AUCUNE ?especter les ter?es de la 
+dispense n° 1 ?e?plo?eurs 
+publics? ou la dispense n° 
+2 ?e?plo?eurs privés? du ?
+déce?bre 2???
+Attention : Les transferts de 
+données vers un pa?s tiers 
+? l??nion ?uropéenne ne 
+sont pas dispensés.
+Attention : le coffre-fort 
+électroni?ue ou l?archivage 
+nu?éri?ue ne sont pas 
+dispensés.
+?enue d?une liste d?initiés dans 
+les conditions ??ées par le Code 
+des ?archés ?nanciers
+AUCUNE ?especter les ter?es de la 
+dispense n°9 du ? ?uillet 
+2???
+Co?ptabilité générale AUCUNE ?especter les ter?es de la 
+dispense n° 80-34 du 2?
+octobre ????
+?raite?ents ?is en oeuvre 
+par les C?? ou les délégués 
+du personnel pour la gestion 
+de leurs activités sociales et 
+culturelles
+AUCUNE ?especter les ter?es de 
+la dispense n° 10 du 17 
+octobre 2???
+?  ?estion des contr?les d?acc?s 
+au? locau??
+? ?estion des horaires?
+?  ?estion de la restauration 
+d?entreprise
+DÉCLARATION 
+SIMPLIFIÉE
+?i désignation d?un 
+correspondant infor?ati?ue 
+et libertés :
+AUCUNE
+?especter la norme 
+simplifiée n° 42.
+Cette nor?e ne concerne 
+pas les traite?ents 
+recourant ? un procédé 
+de reconnaissance 
+bio?étri?ue? ?ui 
+sont sou?is ? une 
+procédured?autorisation 
+?
+A
+?
+L
+?
+A
+?
+ 
+?
+?
+C
+A
+?
+I
+?
+?
+ 
+L
+A
+?
+I
+?
+ 
+:
+ 
+?
+?
+?
+L
+L
+?
+ 
+?
+?
+C
+L
+A
+?
+A
+?
+I
+ 
+?
+N
+ 
+?
+?
+?
+?
+ 
+?
+?
+ 
+?
+L
+ 
+?
+I
+C
+?
+I
+ 
+?
+?
+ 
+?
+Tableau récapitulatif :  
+quelle déclaration pour quel fichier? 
+?
+?ichiers courants de gestion des 
+ressources hu?aines :
+? gestion ad?inistrative 
+?dossiers professionnels?
+annuaires? élections 
+professionnelles? convocations?
+? ?ise ? disposition d?outils 
+infor?ati?ues ?suivi et 
+?aintenance? annuaires 
+infor?ati?ues? ?essagerie 
+électroni?ue? Intranet?
+? organisation du travail ?agenda 
+professionnel? gestion des 
+t?ches?
+? gestion des carri?res 
+?évaluation? validation des 
+ac?uis? ?obilité??
+? gestion de la for?ation
+DÉCLARATION 
+SIMPLIFIÉE
+?i désignation d?un 
+correspondant infor?ati?ue 
+et libertés :
+AUCUNE
+?especter la norme 
+simplifiée n° 46.
+Cette nor?e e?clut 
+nota??ent :
+?  les traite?ents per?ettant 
+le contr?le individuel de 
+l?activité des e?plo?és
+?  les dispositifs a?ant pour 
+ob?et l?établisse?ent du 
+pro?l ps?chologi?ue des 
+e?plo?és
+?ise en oeuvre de services de 
+téléphonie ??e et ?obile sur les 
+lieu? de travail
+?estion des co??unications 
+?annuaire interne? gestion 
+des dotations? ?essagerie 
+téléphoni?ue interne? ?a?trise 
+des dépenses liées ? l?utilisation 
+des services de téléphonie??
+DÉCLARATION 
+SIMPLIFIÉE
+?i désignation d?un 
+correspondant infor?ati?ue 
+et libertés :
+AUCUNE
+?especter la norme 
+simplifiée n° 47.
+Cette nor?e e?clut 
+e?pressé?ent :
+?  les ?nalités relatives 
+? l?écoute ou ?
+l?enregistre?ent 
+de conversations 
+téléphoni?ues
+?  la localisation d?un 
+e?plo?é ? partir de son 
+téléphone portable
+?ise en oeuvre de services 
+destinés ? géolocaliser les 
+véhicules utilisés par les 
+e?plo?és
+DÉCLARATION 
+SIMPLIFIÉE
+?i désignation d?un 
+correspondant infor?ati?ue 
+et libertés :
+AUCUNE
+?especter la norme 
+simplifiée n° 51.
+?
+A
+?
+L
+?
+A
+?
+ 
+?
+?
+C
+A
+?
+I
+?
+?
+ 
+L
+A
+?
+I
+?
+ 
+:
+ 
+?
+?
+?
+L
+L
+?
+ 
+?
+?
+C
+L
+A
+?
+A
+?
+I
+ 
+?
+N
+ 
+?
+?
+?
+?
+ 
+?
+?
+ 
+?
+L
+ 
+?
+I
+C
+?
+I
+ 
+?
+?
+ 
+?
+??I?? ???? L?? ???L?????? ?? L?? ?ALA?I?? ?
+?
+A
+?
+L
+?
+A
+?
+ 
+?
+?
+C
+A
+?
+I
+?
+?
+ 
+L
+A
+?
+I
+?
+ 
+:
+ 
+?
+?
+?
+L
+L
+?
+ 
+?
+?
+C
+L
+A
+?
+A
+?
+I
+ 
+?
+N
+ 
+?
+?
+?
+?
+ 
+?
+?
+ 
+?
+L
+ 
+?
+I
+C
+?
+I
+ 
+?
+?
+ 
+??out autre traite?ent auto?atisé?
+d?s lors ?u?il n?est pas confor?e 
+au? nor?es élaborées par la 
+Co??ission? nota??ent :
+Annuaires du personnel sur 
+internet
+?raite?ents infor?ati?ues 
+per?ettant un contr?le de 
+l?activité professionnelle des 
+salariés ?surveillance des 
+conne?ions internet ou de 
+la ?essagerie électroni?ue?
+géolocalisation?
+?raite?ents de vidéosurveillance
+?raite?ents de recrute?ent 
+?base de données de C? ou de 
+candidats?
+?raite?ents co?portant un 
+transfert de données vers un 
+pa?s tiers ? l??nion européenne
+DÉCLARATION NORMALE
+Si désignation d’un 
+correspondant 
+informatique et libertés :
+AUCUNE
+AUTORISATION
+?tiliser le for?ulaire de 
+déclaration nor?ale 
+?téléchargeable sur le site de 
+la CNIL www.cnil.fr? rubri?ue 
+déclarer? ?ode d?e?ploi?
+?our les ?chiers de 
+recrute?ent : se référer ? la 
+reco??andation n? ?2-???
+du 2? ?ars 2??2
+?ispositifs bio?étri?ues : 
+reconnaissance du contour de 
+la ?ain pour assurer le contr?le 
+d?acc?s et la gestion des 
+horaires et de la restauration sur 
+les lieu? de travail
+AUTORISATION UNIQUE ?especter les ter?es de 
+l?autorisation uni?ue  
+AU-007
+?ispositifs bio?étri?ues : 
+reconnaissance de l?e?preinte 
+digitale e?clusive?ent 
+enregistrée sur un support 
+individuel détenu par la personne 
+concernée pour contr?ler l?acc?s 
+au? locau? professionnels
+AUTORISATION UNIQUE ?especter les ter?es de 
+l?autorisation uni?ue  
+AU-008
+?ispositifs bio?étri?ues : 
+reconnaissance du réseau 
+veineu? des doigts de la ?ain 
+pour contr?ler l?acc?s au?
+locau? sur les lieu? de travail
+AUTORISATION UNIQUE ?especter les ter?es de 
+l?autorisation uni?ue  
+AU-019
+?ispositifs d?alerte 
+professionnelle ?lignes éthi?ues?
+dans le do?aine ?nancier?
+co?ptable? bancaire et de la 
+lutte contre la corruption.
+AUTORISATION UNIQUE ?especter les ter?es de 
+l?autorisation uni?ue  
+AU-004
+?
+Autres dispositifs bio?étri?ues AUTORISATION ?n s?st??e recourant? par 
+e?e?ple? ? un procédé 
+de reconnaissance des 
+e?preintes digitales avec 
+base centrale ne peut 
+?tre ?is en oeuvre sans 
+l?autorisation préalable de 
+la CNIL
+Autres dispositifs d?alertes 
+professionnelles
+AUTORISATION ?n dispositif per?ettant 
+de signaler des violations 
+autres ?ue co?ptables 
+ou ?nanci?res ?e? : 
+harc?le?ent? atteinte 
+au? droits de propriété 
+intellectuelle? violation d?un 
+code de bonne conduite??
+  Droit à l’information
+Confor??nt au?dispositions du code du travail ?2????et au?te?es 
+relatifs au? trois fonctions publi?es ?ois n??? du ? ?nvier ???
+n??5? du 2? ?nvier ?? et n??? du ? ?nvier ??? les instances 
+représentatives du personnel doivent ?re consultées et précisé?nt 
+infor?es des fonctionnalités envisagées dans le cas de ?se en oeuvre de 
+traite?nts ?i ont une incidence sur le personnel.
+? plus? le code du travail prévoit ??ucune infor?tion concernant 
+directe?nt un salarié ne peut ?re collectée par un dispositif ?i n? pas été 
+porté préalable?nt ?sa connaissance ??2??et L?22-?.
+Les e?lo?s doivent? dans tous les cas de figure, ?re infor?s 
+individuellement de l??stence des traite?nts contenant des données 
+personnelles les concernant par note?af?hage?publication dans le ?urnal 
+interne?courrier électroni?e?
+? application de la loi du ? ?nvier ?? ?di?e? les personnels 
+concernés doivent ?re infor?s de la ou des ?alité?? et fonctionnalités 
+précises de cha?e traite?nt auto?tisé ?s en oeuvre par l??lo?ur?
+des consé?ences individuelles ?i pourront en résulter ?ar e??le 
+un contr?e? des destinataires des données enregistrées et de leur droit 
+d?cc??d?pposition et de recti?ation ?ces données.
+? cet égard? la déclaration adressée ? la CNIL doit préciser les ?sures 
+relatives ?l?nfor?tion individuelle des salariés.
+?oute personne peut obtenir co?unication de la liste des traite?nts 
+déclarés au sein d?n organis? sur si?le de?nde écrite ?rticle ? de la 
+loi du ??nvier ?? ?di?e? 
+?
+A
+?
+L
+?
+A
+?
+ 
+?
+?
+C
+A
+?
+I
+?
+?
+ 
+L
+A
+?
+I
+?
+ 
+:
+ 
+?
+?
+?
+L
+L
+?
+ 
+?
+?
+C
+L
+A
+?
+A
+?
+I
+ 
+?
+N
+ 
+?
+?
+?
+?
+ 
+?
+?
+ 
+?
+L
+ 
+?
+I
+C
+?
+I
+ 
+?
+?
+ 
+?
+??I?? ???? L?? ???L?????? ?? L?? ?ALA?I?? ?
+  Mention d’information à porter sur les formulaires de collecte
+????? (indication de l’identité du responsable du traitement) 
+? Les infor?tions recueillies font l?b?t d?n traite?nt infor?ti?e 
+destiné ? ? (préciser la finalité). Les destinataires des données sont : 
+?????(précisez).
+Confor??nt ? la loi ? infor?ti?e et libertés ? du ? ?nvier ?? 
+?di?e en 2?? vous béné?ie? d?n droit d?cc? et de recti?ation 
+au? infor?tions ?i vous concernent? ?e vous pouve? e?rcer en vous 
+adressant ???????? (préciser le service et l’adresse). 
+?ous pouve? égale?nt? pour des ?tifs légiti?s? vous opposer au 
+traite?nt des données vous concernant?
+  Note d’information susceptible d’être affichée
+Le??service???????? (citer le nom du ou des services 
+responsables du traitement) dispose?t?de ??ns infor?ti?es destinés 
+?gérer plus facile?nt ???? (indiquer la finalité du traitement).
+Les infor?tions enregistrées sont  réservées ?l?sage du ?u des?service??
+concerné?? et ne peuvent ?re co?uni?ées ??u? destinataires 
+suivants : ?? (préciser les destinataires).
+Confor??nt au? articles ? et suivants de la loi n? ?-? du ? ?nvier 
+?? ?di?e en 2??relative ?l?nfor?ti?e?au??hiers et au?libertés?
+toute personne peut obtenir co?unication et?le cas échéant?recti?ation 
+ou suppression des infor?tions la concernant? en s?dressant au 
+service???????? (citer le nom du service ou des 
+services concernés).
+  Courrier d’information (annuaire diffusé sur internet)
+?da???nsieur?
+Nous envisageons de diffuser prochaine?nt sur notre site Internet 
+(indiquez ici le nom de domaine de votre site. Exemple : www.monsite.fr) des 
+infor?tions vous concernant dans le cadre de (A compléter : Exemples : 
+site internet d’une administration, d’une association, d’un groupement 
+professionnel, d’une entreprise, etc.). Ces infor?tions sont les suivantes  : 
+(Indiquez ici les informations que vous allez diffuser. Exemples : nom, 
+prénom, diplôme, etc.).
+Co?te tenu des caractéristi?es du réseau Internet ?e sont la libre 
+captation des infor?tions diffusées et la dif?ulté?voire l??ossibilité de 
+contr?er l?tilisation ?i pourrait en ?re faite par des tiers? vous pouve?
+vous opposer ? une telle diffusion. ?ur ?e nous puissions prendre en 
+co?te votre refus?contacte?nous.
+?
+?
+?
+?
+?
+L
+?
+?
+ 
+?
+?
+ 
+N
+?
+?
+?
+?
+ 
+?
+?
+I
+N
+?
+?
+?
+?
+A
+?
+I
+?
+N
+?
+Exemples de notes d’informations 
+(Ces exemples doivent être adaptés par le responsable du traitement) 
+?
+Attention !
+? l?bsence de réponse de votre part dans un délai d?n ?is ?co?ter 
+de la réception de ce courrier?votre accord sera réputé ac?is. ?ous pourre?
+toutefois nous faire part ultérieure?nt??tout ??nt?de votre souhait ?e 
+la diffusion de vos données sur Internet cesse.
+Nous vous rappelons ?e vous dispose?d?n droit d?cc??de ?di?ation?
+de recti?ation et de suppression des données ?i vous concernent. ?ur 
+e?rcer ce droit?adresse?vous ?: 
+(indiquez ici l’adresse où les personnes peuvent exercer leur droit d’accès 
+et de rectification)
+  Panneau d’information (videosurveillance)
+?e panneau doit ?re situé a l?ntrée de l?tablisse?nt et visible par les 
+salariés et les personnes e?érieures?
+?ablisse?nt sous vidéosurveillance 
+(représentation graphique d’une caméra)
+Nous vous infor?ns ?e cet établisse?nt est placé sous vidéosurveillance 
+pour des raisons de ? (indiquer les finalités poursuivies). ?ur tout 
+renseigne?nt?s?dresser au service ?ou ? ? (identifier la personne ou 
+le service compétent), aupr? du?el vous pouve?égale?nt e?rcer votre 
+droit d?cc??confor??nt ? la loi n? ?-? du ? ?nvier ?? relative ?
+l?nfor?ti?e?au??hiers et au?libertés??di?e par la loi du ?ao? 2??
+  Note d’information adressée au personnel (géolocalisation)
+??????? (indication de l’identité du responsable du 
+traitement). Nous avons installé?dans les véhicules?un s?t?e per?ttant 
+de les localiser en te?s réel.
+Ce nouveau service va nous servir (précisez ici la finalité, par exemple, 
+repérer le véhicule le plus proche à la demande d’un client). Nous aurons 
+connaissance de l?tinéraire ?e vous suive?ainsi ?e des arr?s ?e vous 
+effectue?
+Les données relatives ? vos déplace?nts sont conservées au ????
+(précisez). Au-del? toutes les données sont rendues anon?es et ont pour 
+seul ob?t la réalisation de statisti?es.
+?uls les services suivants sont destinataires de ces infor?tions 
+(précisez, par exemple direction des ressources humaines, responsables 
+opérationnels…).
+Confor??nt ?la loi ?infor?ti?e et libertés ?du ??nvier ?? ?di?e 
+en 2?? vous pouve? avoir acc? et recti?r les infor?tions ?i vous 
+concernent en vous adressant ? ?????? (préciser le 
+service et l’adresse).
+?
+?
+?
+?
+?
+L
+?
+?
+ 
+?
+?
+ 
+N
+?
+?
+?
+?
+ 
+?
+?
+I
+N
+?
+?
+?
+?
+A
+?
+I
+?
+N
+?
+??I?? ???? L?? ???L?????? ?? L?? ?ALA?I?? ?
+  Note d’information pour un dispositif de contrôle d’accès (badges, biométrie)
+??????? (indication de l’identité du responsable du 
+traitement)
+? dispositif ?io?tri?e? destiné au contr?e de l?cc? 
+?????? (préciser ici la finalité, par exemple contrôle 
+d’accès à un bâtiment ou à une zone en particulier, contrôle d’accès à un 
+poste informatique ou à une application) a été ?s en place.
+Les données vous concernant sont conservées au ???? (précisez). 
+Au-del? toutes les données sont détruites. 
+?ules les personnes habilitées du service ?????? 
+(préciser le service – par exemple le service informatique) auront acc? ?vos 
+données bio?tri?es.
+Confor??nt ?la loi ?infor?ti?e et libertés ?du ??nvier ?? ?di?e 
+en 2?? vous pouve? avoir acc? et recti?r les infor?tions ?i vous 
+concernent en vous adressant ? ?????? (préciser le 
+service et l’adresse).
+  Information par message téléphonique (enregistrement téléphonique)
+Nous vous infor?ns ?e votre conversation téléphoni?e est susceptible 
+d?tre enregistrée pour des raisons de ?(indiquer les finalités poursuivies).
+?ous pouve?vous opposer ? cet enregistre?nt de la ?ni?e suivante  : 
+(préciser la procédure à suivre, appui sur une touche téléphonique, demande 
+à formuler à l’opérateur…)
+? cas d?nregistre?nts des conversations?ceu?ci sont conservés pour 
+une durée de (préciser la durée). ?ules les personnes habilitées du service 
+?????? (préciser le service – par exemple le service 
+clientèle) auront acc? ?ces enregistre?nts.
+Confor??nt ? la loi ? infor?ti?e et libertés ? du ? ?nvier ?? 
+?di?e en 2?? vous pouve?accéder et recti?r les infor?tions ?i vous 
+concernent en vous adressant ? ?????? (préciser le 
+service et l’adresse).
+  Notice d’information en matière de recrutement 
+? re?ttre au candidat?
+??????... (indication de l’identité du responsable du 
+traitement)
+Nous vous prions de bien vouloir co?léter soigneuse?nt ce for?laire. 
+Les réponses au?cases ?nies d?n astéris?e sont facultatives et sans 
+consé?ence pour l???n du dossier ?dans les autres cas?le défaut de 
+réponse est susceptible de co?ro?ttre le bon suivi de votre candidature.
+?
+?
+?
+?
+?
+L
+?
+?
+ 
+?
+?
+ 
+N
+?
+?
+?
+?
+ 
+?
+?
+I
+N
+?
+?
+?
+?
+A
+?
+I
+?
+N
+?
+?
+Confor??nt au Code du travail?nous vous infor?ns ?e la procédure 
+de recrute?nt utilisée par notre société co?rend : (à préciser, par exemple 
+des entretiens, éventuellement une analyse graphologique et/ou des tests 
+psychotechniques). ?ns ce dernier cas il convient d??uter :
+Les résultats de ces tests vous seront restitués sur de?nde?ils ne seront 
+conservés dans votre dossier ??n cas d??auche.
+Nous vous infor?ns ?e les données vous concernant sont ?u ne sont 
+pas?infor?tisées?elles seront traitées de fa?n con?entielle.
+?os données sont conservées pour une durée de (à préciser, au maximum 24 
+mois à compter du dernier contact avec le candidat).
+?ules les personnes habilitées de notre société pourront accéder ? vos 
+données ?des ?s stricte?nt internes.
+Option pour les groupes internationaux :
+?autorise la société ? co?uni?er les infor?tions ? concernant au?
+?iales du groupe situées en dehors de l?nion ?ropéenne : ?i n Non n
+Option pour les cabinets de recrutement :
+?autorise la société ?co?uni?er les infor?tions ? concernant ?toute 
+entreprise cliente : ?i n Non n
+?tion pour les ?cvth?ues ?en ligne :
+?autorise la société ?:
+-  co?uni?er les infor?tions ? concernant ?toute entreprise cliente ?i 
+en ferait la de?nde : ?i n Non n
+-  diffuser en ligne les infor?tions ? concernant sans les rendre anon?es  : 
+?i n Non n
+?ous pouve?accéder au?infor?tions vous concernant?les recti?r ou les 
+suppri?r. ?ur ce faire il suf? de vous adresser aupr? du service suivant  : 
+? préciser?
+?it le ............................................... ?...............................................
+?gnature :
+?
+?
+?
+?
+?
+L
+?
+?
+ 
+?
+?
+ 
+N
+?
+?
+?
+?
+ 
+?
+?
+I
+N
+?
+?
+?
+?
+A
+?
+I
+?
+N
+?
+??I?? ???? L?? ???L?????? ?? L?? ?ALA?I?? ?
+   Mention d’information en cas de transfert de donnés en dehors 
+de l’union européenne
+???????? (identité du responsable du traitement) 
+dispose?t?de ??ns infor?ti?es destinés ?gérer ?????
+(indiquer la finalité du traitement, par exemple la gestion des ressources 
+humaines, le gestion de la paie, la maintenance informatique, etc.).
+Les infor?tions enregistrées sont réservées ?l?sage du ?u des?service??
+concerné?? et ne peuvent ?re co?uni?ées ??u? destinataires 
+suivants : ? (préciser les destinataires).
+Certains de ces destinataires sont situés en dehors de l?nion ?ropéenne?
+et en particulier les destinataires suivants (indiquer le nom des entités ou 
+services destinataires ainsi que leur pays d’établissement)
+Ces destinataires auront co?unication des données suivantes (à préciser, 
+par exemple nom, prénom, matricule, coordonnées professionnelles, salaire, 
+données de connexion…)
+La trans?ssion de ces données au? destinataires situés en dehors de 
+l?nion ?ropéenne est destinée ? ???.. (indiquer la finalité du 
+transfert des données).
+Les garanties suivantes ont été prises pour s?ssurer d?n niveau de 
+protection suf?ant des données personnelles :
+?  Le pa? du ou des destinataires??offre un niveau de protection adé?at 
+par décision de la Co?ission ?ropéenne : ???????
+?récise?la?elle?
+?Le ou les destinataires??adhérent au?principes du ?fe ?rbour?
+?  Le transfert de données a été autorisé par la CNIL et est encadré par 
+les clauses contractuelles t?es établies par la Co?ission ?ropéenne 
+?réciser le nu?ro de la délibération autorisant le transfert?
+?  Le transfert de données a été autorisée par la CNIL et est encadré par des 
+r?les internes validées par la CNIL?
+?  La société béné?ie d?ne des e?eptions ?ntionnées ? l?rticle ? de 
+la loi du ? ?nvier ?? ?di?e en 2?? : ??????.. 
+?réciser la?elle?
+Confor??nt au? articles ? et suivants de la loi n? ?-? du ? ?nvier 
+?? ?di?e en 2?? relatives ? l?nfor?ti?e? au? ?hiers et au?
+libertés? toute personne peut obtenir co?unication et? le cas échéant?
+recti?ation ou suppression des infor?tions la concernant?en s?dressant 
+au service?????? (citer le nom du service auprès duquel 
+il est possible d’exercer son droit d’accès).
+?
+?
+?
+?
+?
+L
+?
+?
+ 
+?
+?
+ 
+N
+?
+?
+?
+?
+ 
+?
+?
+I
+N
+?
+?
+?
+?
+A
+?
+I
+?
+N
+?
+Une difficulté ? Une hésitation ?
+?ur plus d?nfor?tions?vous trouvere?sur le site 
+de la CNIL www.cnil.fr?rubri?e ??clarer ?:
+?un scénario en ligne d?ide ?la déclaration
+?tous renseigne?nts utiles pour la désignation d?n CIL
+?e per?nence de renseigne?nts ?ridi?es par 
+téléphone est assurée tous les ?urs de ? heures 
+?? heures et de ? heures ?? heures 
+au 01 53 73 22 22
+?ous pouve?adresser toute de?nde 
+par télécopie au 01 53 73 22 00
+?éponse sous ? ?urs en ??nne?
+www.cnil.fr
+A
+g
+en
+ce A
+ri
+st
+o
+p
+h
+an
+e
+GUIDE
+POUR LES EMPLOYEURS  
+ET LES SALARIÉS
+É d i t i o n  2 0 1 0
+8, rue Vivienne - CS 30223  
+75083 Paris cedex 02 
+Tél. : 01 53 73 22 22  
+Fax : 01 53 73 22 00 

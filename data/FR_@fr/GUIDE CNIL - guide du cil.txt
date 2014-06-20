@@ -1,0 +1,3008 @@
+DU CORRESPONDANT 
+INFORMATIQUE 
+ET LIBERTES
+Édition 2011
+
+1
+Sommaire
+AvAnt-propos page 2
+Fiche n°1 - les 6 bonnes raisons de désigner un CIL page 3
+Fiche n°2 - les services à disposition du CIL page 4
+Fiche n°3 - le profil du correspondant page 6
+Fiche n°4 - le statut du correspondant page 9
+Fiche n°5 - les principales missions du CIL page 10
+Fiche n°6 - les modalités de désignation du CIL page 12
+Fiche n°7 - le choix du CIL externe page 14
+Fiche n°8 - la prise de fonction du correspondant page 16
+Fiche n°9 - la liste des traitements du CIL ou « registre » page 18
+Fiche n°10 - le CIL et les formalités préalables page 22
+Fiche n°11 - le bilan de l’action du CIL page 24
+Fiche n°12 - l’instruction des demandes de droit d’accès et de rectification page 26
+Fiche n°13 - l’exercice du droit d’alerte page 29
+Fiche n°14 - la responsabilité du CIL page 31
+Fiche n°15 - la fin de mission du CIL page 32
+Fiche n°16 - le CIL et les contrôles page 35
+Fiche n°17 - le CIL lors de la procédure de sanction page 37
+Fiche n°18 - le CIL et les instances représentatives du personnel page 38
+Fiche n°19 - les réseaux de CIL page 40
+Fiche n°20 - le CIL et les conventions de partenariats page 42
+Fiche n°21 - le CIL des organismes de presse écrite ou audiovisuelle page 43
+Fiche n°22 - le CIL et les transferts de données hors UE page 44
+Fiche n°23 - les CIL à l’étranger page 46
+Fiche n°24 - le CIL et la représentation sur le territoire national page 48
+AnnExEs page 49
+tExtEs dE rÉFÉrEnCE page 50
+ModÈLE dE CoUrrIEr d’InForMAtIon dEs rEprÉsEntAnts dU pErsonnEL page 56
+ModÈLE dE LEttrE dE MIssIon rEMIsE pAr LE rEsponsAbLE dEs trAItEMEnts 
+AU CIL Lors dE sA prIsE dE FonCtIons
+page 57
+ModÈLE dE FIChE À portEr AU rEgIstrE page 59
+Ce guide est téléchargeable sur le site Internet de la CNIL : www.cnil.fr
+2Guide Pratique COrreSPONdaNt
+Av
+ANt
+-propos
+Avant-propos
+Madame, Monsieur,
+Depuis 2005 et la parution du décret d’application de la loi Informatique et 
+Libertés, la fonction de Correspondant Informatique et Libertés (CIL) est en plein 
+essor. Le CIL est devenu un acteur incontournable de la protection des données 
+dans le paysage professionnel français. Il est représenté dans tous les secteurs 
+d’activité et dans tous les types d’organismes.
+Pour répondre aux besoins liés à l’affirmation du rôle de correspondant en tant 
+que métier à part entière, la CNIL a étoffé son offre de services. C’est ainsi qu’un 
+extranet a été mis en ligne en 2009 afin de proposer de nouveaux outils et 
+moyens d’échanger sur la protection des données. Différents niveaux d’expertise 
+ont par ailleurs été introduits dans les ateliers d’information organisés par la CNIL. 
+La présente actualisation et mise à jour du guide destiné au correspondant 
+participe de cette même logique qui consiste à mettre à disposition des CIL des 
+outils adaptés à leurs besoins en facilitant l’exercice de leurs missions au sein des 
+organismes qui les ont désignés.
+Cette démarche de collaboration entre la CNIL, le CIL et les responsables de 
+fichiers porte chaque jour ses fruits. Elle permet de garantir que le développement 
+de l’informatique s’opère sans danger pour les droits et libertés des usagers, des 
+clients et des salariés. 
+Je vous invite, avec ce nouveau guide, à découvrir ou approfondir, selon votre 
+niveau de connaissance, le statut et les missions du correspondant ainsi que les 
+modalités pratiques d’exercice de cette fonction.
+Isabelle FALQUE-PIERROTIN
+Présidente de la CNIL
+3
+F
+IChe 
+N
+°1 - 
+L
+es 6 bo
+NN
+es r
+AIso
+N
+s de dÉs
+I
+g
+N
+er u
+N
+ CIL
+Tous les responsables de fichiers peuvent désigner un Correspondant Informatique 
+et Libertés, qu’ils soient publics ou privés, qu’ils aient le statut d’associations, 
+de collectivités locales ou de grandes administrations de l’Etat, qu’il s’agisse 
+de PME-PMI ou d’entreprises multinationales. Les multiples avantages qu’ils y 
+trouvent, peuvent être résumés par les 6 points suivants : 
+  1. Un vecteur de sécurité juridique   
+Le CIL permet de garantir la conformité de l’organisme à la loi Informatique et 
+Libertés. Cette maîtrise des risques juridiques est d’autant plus importante que la 
+plupart des manquements à la loi du 6 janvier 1978 sont pénalement sanctionnés.
+  2. Une source de sécurité informatique   
+Parmi les missions du CIL, celui-ci doit s’assurer que toutes les précautions utiles 
+ont été prises pour préserver la sécurité des données et, notamment, empêcher 
+qu’elles soient déformées, endommagées, ou que des personnes non autorisées y 
+aient accès. Des outils sont mis à disposition du CIL pour l’aider dans cette tâche.
+  3. Un facteur de simplification des formalités administratives   
+La désignation d’un CIL permet de bénéficier d’un allègement considérable 
+des formalités. L’organisme est exonéré de l’obligation de déclaration préalable 
+des traitements ordinaires et courants. Seuls les traitements identifiés comme 
+sensibles dans la loi demeurent soumis à autorisation et continuent à faire l’objet 
+de formalités.   
+  4. Un accès personnalisé aux services de la CnIL   
+La CNIL met à disposition des correspondants :   
+-  une ligne téléphonique et une adresse électronique dédiées ;
+-  un extranet proposant des services exclusifs et notamment des forums de 
+discussion et des outils pratiques ;
+-  un suivi personnalisé de leurs dossiers de demandes d’avis et demandes 
+d’autorisation ;
+-  des ateliers d’information gratuits sur de nombreux thèmes (RH, sécurité 
+informatique, santé, etc.). 
+  5. La preuve d’un engagement éthique et citoyen   
+La désignation d’un correspondant témoigne de l’engagement de l’organisme en 
+faveur du respect de la vie privée et des droits des personnes dont les données 
+sont traitées.   
+  6. Un outil de valorisation du patrimoine informationnel   
+En s’assurant de la fiabilité des données traitées, le CIL garantit la possibilité de 
+céder, transmettre ou louer les fichiers détenus par l’organisme dans le respect 
+de la loi Informatique et Libertés. 
+Fiche n°1 - les 6 bonnes raisons 
+de désigner un CIL
+4Guide Pratique COrreSPONdaNt
+F
+IChe 
+N
+°2 - 
+L
+es ser
+v
+IC
+es À d
+I
+spos
+I
+t
+I
+o
+N
+ du CIL
+Pour accompagner les CIL dans l’accomplissement de leurs missions, la CNIL 
+dispose d’un service dédié, le Service des Correspondants Informatique et 
+Libertés. Celui-ci organise régulièrement des sessions d’information thématiques 
+et se tient en permanence à la disposition de chacun des membres de la 
+« communauté ». La CNIL a également mis en place un site Extranet à l’attention 
+des correspondants, notamment pour leur permettre d’échanger, entre eux et 
+avec elle, sur les différents sujets dont ils ont à traiter.
+  1.  Un service dédié à l’accompagnement et à l’animation du réseau 
+des correspondants
+La fonction de CIL garantit aux organismes un contact privilégié et régulier avec la 
+CNIL, par l’intermédiaire du Service des Correspondants Informatique et Libertés. 
+Celui-ci est disponible pour répondre aux diverses demandes d’information des 
+CIL et à toutes les questions qu’ils se posent dans l’exercice de leurs missions : 
+contenu du registre des traitements, modalités d’application de la réglementation, 
+régime de formalité applicable, etc.
+Quel que soit l’objet de leur interrogation, les CIL peuvent solliciter le Service 
+des correspondants par trois moyens :
+-  l’appel téléphonique,
+-  l’envoi d’un mail sur une boîte dédiée,
+-  la publication d’une question sur le forum de l’Extranet.
+Le Service s’engage à leur répondre dans les meilleurs délais. Sauf difficulté 
+particulière (complexité de la question, contrainte procédurale, etc.), une réponse 
+est ainsi apportée :
+-  immédiatement par téléphone,
+-  dans les dix/quinze jours sur le site Extranet,
+-  dans un délai moyen de trois/quatre semaines par mail.
+  2.  des ateliers d’information portant sur des thématiques diverses : 
+Ces ateliers sont gratuits et se tiennent, sur un rythme quasi-hebdomadaire, dans 
+les locaux de la CNIL. Les inscriptions se font à partir de l’Extranet des CIL où 
+se trouve également un programme détaillé de la journée. Les thèmes de ces 
+ateliers sont :
+-  fondamentaux de la loi informatique et libertés (3 niveaux) ;
+-  ressources humaines (2 niveaux) ;
+-  collectivités locales ;
+-  santé (2 niveaux) ;
+-  sécurité des données (2 niveaux) ;
+-  banque/assurance/marketing.
+Fiche n°2 - les services à 
+disposition du CIL
+5
+F
+IChe 
+N
+°2 - 
+L
+es ser
+v
+IC
+es À d
+I
+spos
+I
+t
+I
+o
+N
+ du CIL
+  3.  Le suivi de l’instruction des dossiers par la CnIL
+Le Service des correspondants renforce la visibilité des CIL sur l’instruction des 
+dossiers les concernant par le Service des Affaires juridiques. Il assure un suivi 
+des demandes d’avis/d’autorisation préalable émanant de leurs organismes et 
+les renseigne ainsi sur l’état d’avancement des démarches engagées auprès de 
+la CNIL. Il participe en outre à l’instruction des cas problématiques qui leur sont 
+relatifs (injonction de procéder aux formalités préalables, décharge du CIL en cas 
+de manquement grave aux devoirs de sa mission, etc.).
+  4.  L’Extranet des CIL : un forum, des actualités, des outils 
+d’information et d’auto-évaluation
+Accessible uniquement après saisie d’un identifiant et d’un mot de passe, le 
+site Extranet apporte aux CIL, de manière personnalisée, quatre catégories de 
+services adaptées à leurs besoins particuliers. Ils y trouvent ainsi la possibilité :
+-  de se former en accédant à des contenus pédagogiques vidéos, à des fiches 
+pratiques, à des foires aux questions relatives à l’exercice de leur fonction et à 
+divers points de la réglementation ;
+-  d’échanger avec leurs homologues, dans le cadre d’un forum organisé par 
+thématiques ;
+-  de consulter les dernières actualités sur les sujets et secteurs d’activité qui les 
+intéressent ;
+-  d’évaluer leur niveau de connaissance de la réglementation par le biais de QCM 
+prévus à cet effet.
+Cet Extranet a vocation à compléter le site Internet de la Commission, www.
+cnil.fr, sur lequel les CIL trouveront déjà un grand nombre d’informations utiles à 
+l’exercice de leurs missions. Notamment, dans les rubriques « Dossiers » et « En 
+savoir plus » :
+-  les textes fondateurs de la réglementation Informatique et Libertés (directive 
+européenne, loi, décret d’application, etc.) ;
+-  les différentes délibérations de la CNIL (recommandations, dispenses de 
+déclaration, normes simplifiées, autorisations uniques, actes réglementaires 
+uniques) ;
+-  des dossiers, rapports, fiches pratiques, questions/réponses et guides 
+thématiques (travail, santé, collectivités locales, banque, enseignement, 
+sécurité, etc.) ;
+-  des modèles de mentions légales et notes d’information (prospection 
+commerciale, vidéosurveillance, géolocalisation, délivrance d’informations 
+cadastrales, etc.).
+6Guide Pratique COrreSPONdaNt
+F
+IChe 
+N
+°3 - 
+L
+e pro
+FIL
+ du 
+C
+orrespo
+N
+d
+AN
+tLa loi informatique et libertés prévoit que le correspondant est une personne qui 
+« bénéficie des qualifications requises pour exercer ses missions », sans autre 
+indication. Son décret d’application précise qu’il peut s’agir d’une personne 
+physique ou morale, d’un employé de l’organisme ou, sous certaines conditions, 
+d’une personne extérieure à celui-ci. 
+  1. Un salarié ou une personne extérieure
+Le CIL est, de préférence, un employé du responsable des traitements 
+connaissant bien l’activité et le fonctionnement interne de son entreprise ou 
+administration. Le correspondant interne est en effet à même de veiller en temps 
+réel à la bonne application des règles de protection des données à caractère 
+personnel et, par conséquent, à la licéité des traitements mis en œuvre. 
+Il est toutefois possible, dans certains cas, de désigner un correspondant 
+extérieur à l’organisme. Les possibilités de choix d’un correspondant externe ne 
+sont pas les mêmes pour toutes les structures. A cet égard, deux hypothèses 
+doivent être envisagées.
+a)  Une liberté de choix lorsque moins de 50 personnes sont chargées de la 
+mise en œuvre des traitements ou y ont directement accès 1
+Dans les structures de petite et moyenne importance, il peut être difficile de 
+trouver parmi les salariés ou agents une personne disposant des qualifications 
+et compétences nécessaires pour exercer les fonctions de correspondant. De 
+même, l’embauche ou l’affectation d’un salarié à cette tâche, même à temps 
+partiel, peut apparaître impossible ou non nécessaire compte tenu de la nature et 
+du nombre de traitements mis en œuvre.
+C’est pourquoi, lorsque moins de 50 personnes sont chargées de la mise en 
+œuvre des traitements ou y ont directement accès, le choix du correspondant est 
+entièrement libre. Le CIL peut donc être aussi bien :
+-  un employé de l’organisme ;
+-  un employé d’une autre entité (société du groupe, association, groupement de 
+collectivités locales,…) ;
+-  ou un professionnel indépendant (avocat, expert comptable, consultant, ...).
+b)  Un choix limité lorsque plus de 50 personnes sont chargées de la mise 
+en œuvre des traitements ou y ont directement accès
+Dans les grandes structures, l’externalisation de la fonction risque de ne 
+pas répondre aux besoins de proximité, d’expérience et de disponibilité du 
+correspondant. Celui-ci doit en effet être facilement accessible et disposer d’une 
+connaissance approfondie du fonctionnement, des activités et des traitements 
+de l’organisme. 
+1 Doivent être considérées comme des « personnes chargées de la mise en oeuvre des traitements 
+ou y ayant directement accès », toutes les personnes chargées de développer et d’assurer la 
+maintenance de l’application (service informatique), tous les utilisateurs chargés notamment de 
+saisir les données ou de les consulter (services opérationnels comme, par exemple, la direction 
+des ressources humaines, la direction marketing, le service comptabilité,....), les éventuels sous-
+traitants, ainsi que toutes les personnes qui, en raison de leurs fonctions ou pour les besoins du 
+service, accèdent aux données enregistrées.
+Fiche n°3 - le profil  
+du correspondant
+7
+F
+IChe 
+N
+°3 - 
+L
+e pro
+FIL
+ du 
+C
+orrespo
+N
+d
+AN
+tC’est pourquoi, lorsque plus de 50 personnes sont chargées de la mise en œuvre 
+des traitements ou y ont directement accès, le choix du correspondant externe 
+est limité. Seul peut être désigné comme CIL un employé de l’organisme ou :
+-  un salarié d’une des entités du groupe de sociétés auquel appartient l’organisme 
+(siège, holding, filiale) ;
+-  un salarié du groupement économique dont est membre l’organisme ;
+-  une personne mandatée à cet effet par un organisme professionnel (ex. : 
+syndicat) 2 ;
+-  une personne mandatée à cet effet par un organisme regroupant des 
+responsables de traitements d’un même secteur d’activité (ex. : établissements 
+publics de coopération intercommunale, fédérations d’associations) 3.
+La fonction de CIL peut être mutualisée entre différents organismes publics et 
+privés, dès lors que ceux-ci sont liés par des intérêts économiques communs 
+ou appartiennent à un même secteur d’activité.
+L’avantage principal de la mutualisation est de permettre un lissage des coûts 
+associés au bénéfice d’un CIL présentant la disponibilité et les compétences 
+nécessaires à un bon exercice de la fonction.
+  2.  Une personne qualifiée
+La loi prévoit que le correspondant est une personne bénéficiant des qualifications 
+requises pour exercer ses missions. Lorsque le CIL est une personne morale, 
+cette condition de qualification doit être remplie par le préposé désigné par celle-
+ci pour mettre en œuvre les activités du correspondant.
+Aucun agrément n’est prévu et aucune exigence de diplôme n’est fixée. 
+Néanmoins, le CIL doit disposer de compétences variées et adaptées à la 
+taille comme à l’activité du responsable des traitements.
+Ces compétences doivent porter tant sur l’informatique et les nouvelles 
+technologies que sur la réglementation relative à la protection des données à 
+caractère personnel. Elles doivent également avoir trait au domaine d’activité 
+dans lequel il exerce ses fonctions. Ainsi, les connaissances du CIL devront aussi 
+concerner les législations spécifiquement applicables à l’organisme (par exemple, 
+2 Il peut s’agir d’un salarié de l’organisme professionnel, mais aussi d’un professionnel indépendant 
+avec lequel l’organisme aura conclu une convention définissant les qualifications exigées et les 
+conditions d’exercice des missions (règles de confidentialité, disponibilité, moyens,...). Cette 
+solution paraît notamment adaptée pour des organismes professionnels ayant adopté des codes 
+de conduites liés à l’application de la loi informatique et libertés. Le correspondant aurait dans ce 
+cas également pour mission de veiller à l’application du code de conduite.
+3 Attention : chaque organisme, en tant que responsable des traitements d’une entité juridique 
+particulière, devra notifier à la CNIL la désignation du correspondant concerné par la mutualisation. 
+Pour cette même raison, le CIL mutualisé tiendra autant de registre de traitements qu’il y aura 
+d’organismes concernés par sa désignation.
+8Guide Pratique COrreSPONdaNt
+F
+IChe 
+N
+°3 - 
+L
+e pro
+FIL
+ du 
+C
+orrespo
+N
+d
+AN
+ten matière de commerce électronique, de santé ou de travail) ainsi que les règles 
+particulières de recueil et de traitement de certaines données (par exemple, les 
+données couvertes par le secret médical ou bancaire).
+En informatique, une bonne compréhension du vocabulaire, des métiers et des 
+différents modes de traitement des données parait nécessaire. Les connaissances 
+du CIL porteront par exemple sur les systèmes de gestion et d’exploitation de 
+bases de données, les types de logiciels, de fichiers et de modes de stockage 
+des données, ainsi que sur les éléments d’une politique de confidentialité et 
+de sécurité des informations (chiffrement des données, signature électronique, 
+biométrie, ...). Elles doivent lui permettre de suivre le déploiement des projets 
+informatiques et de conseiller utilement le responsable de traitement.
+Lorsque le CIL ne dispose pas de l’ensemble des qualifications requises à la 
+date de sa désignation, il devra les acquérir, notamment, en participant aux 
+ateliers du CIL organisés par la CNIL.
+9
+F
+IChe 
+N
+°4 - 
+L
+e st
+A
+tut du 
+C
+orrespo
+N
+d
+AN
+tLa loi prévoit que le correspondant doit exercer ses missions de façon 
+indépendante. En conséquence, il doit disposer d’une autonomie d’action 
+reconnue par tous et garantie par le respect d’un certain nombre de règles.
+  1.  Le correspondant exerce sa fonction directement auprès du 
+responsable des traitements
+Le correspondant adresse au responsable des traitements les conseils, 
+recommandations et alertes concernant l’application de la loi  Informatique et 
+Libertés aussi bien lors des premières réflexions sur la création d’un nouveau 
+traitement que lors de la mise en œuvre effective des traitements. Il l’informe 
+également du nombre, de la nature et de l’état d’instruction des plaintes et requêtes 
+émanant des personnes concernées par ces traitements.
+Il n’a, à cet égard, aucun compte à rendre à son supérieur hiérarchique traditionnel, 
+c’est-à-dire à celui auquel il se trouve subordonné dans l’exercice de ses autres 
+missions de salarié ou d’agent (ex. : juriste, informaticien, etc.).
+  2.  Le correspondant dispose d’une liberté organisationnelle et 
+décisionnelle
+Le correspondant ne reçoit aucune instruction dans l’exercice de sa fonction et 
+arrête seul les décisions s’y rapportant (avis, recommandations, audits, alertes, etc.). 
+Cette liberté ne signifie pas qu’il agit seul et sans concertation. Au contraire, 
+il peut, et doit même dans certains cas, recueillir ou susciter l’avis des autres 
+personnes ou services concernés par l’accomplissement de ses missions 
+(juristes et informaticiens notamment). 
+  3.  Le correspondant est à l’abri des conflits d’intérêt
+L’absence de conflit d’intérêts avec d’autres fonctions ou activités exercées 
+parallèlement est également de nature à apporter les garanties de l’indépendance 
+du CIL. C’est pourquoi la fonction de correspondant est incompatible avec celle de 
+responsable de traitements. Sont concernés le représentant légal de l’organisme 
+(ex. : le maire / le PDG) et les autres personnes participant à la prise de décisions 
+en matière de mise en œuvre des traitements (ex. : les conseillers municipaux / les 
+personnes disposant d’une délégation de pouvoirs). 
+De même, le fait d’être investi  d’un mandat de représentant du personnel ou de 
+délégué syndical est susceptible de constituer un conflit d’intérêts avec la fonction 
+de CIL s’agissant des missions que ce dernier est amené à effectuer vis-à-vis 
+des traitements relatifs à la gestion du personnel, notamment dans le cadre de 
+l’instruction d’une réclamation effectuée par un employé. Il apparaît néanmoins 
+possible de contourner cette difficulté en procédant à une désignation partielle du 
+CIL, c’est-à-dire en sortant de son champ de compétence tous les traitements 
+concernant les personnels.
+  4.  Le correspondant est protégé des sanctions de l’employeur
+Le correspondant ne peut faire l’objet de sanctions de l’employeur du fait de 
+l’exercice de ses missions de CIL, sauf en cas de manquements graves dûment 
+constatés et qui lui sont directement imputables. 
+Afin d’assurer l’effectivité de cette protection, la CNIL devra être avertie de toute 
+modification affectant sa fonction. Il ne pourra notamment y être mis fin sans que 
+celle-ci en connaisse les raisons. En outre, dans l’hypothèse d’une fin de mission 
+liée à une décharge pour faute, la CNIL devra rendre un avis (cf. fiche n°15 - la fin 
+de mission du CIL). 
+Fiche n°4 - le statut  
+du correspondant
+10Guide Pratique COrreSPONdaNt
+F
+IChe 
+N
+°5 - 
+L
+es pr
+INCI
+p
+AL
+es m
+I
+ss
+I
+o
+N
+s du CIL
+  1. tenir la liste des traitements et assurer son accessibilité
+Dans les trois mois de sa désignation, le correspondant dresse la liste des 
+traitements automatisés pour lesquels il a été désigné. Ce document est 
+également appelé « registre des traitements » ou tout simplement « registre ». Ce 
+registre peut être établi de façon informatisée. 
+Comme le « fichier des fichiers » de la CNIL, le registre répond à un objectif 
+de transparence. Il s’agit de mettre à disposition de tous, les informations 
+relatives aux traitements mis en œuvre par un organisme. A cet égard, il doit être 
+communiqué à toute personne en faisant la demande, sans justification. 
+Un modèle de fiche à porter au registre figure en annexe de ce guide ainsi que 
+sur l’extranet des CIL. 
+La fiche n°9 de ce guide est dédiée au registre et aux obligations liées à sa 
+tenue.
+  2.  veiller en toute indépendance au respect de la loi 
+Le correspondant veille en toute indépendance à ce que les traitements pour 
+lesquels il est désigné respectent la loi Informatique et Libertés.
+-  Diffusion d’une « culture informatique et libertés »
+Le correspondant sensibilise le responsable des traitements et les personnes en 
+charge de leur mise en œuvre au contenu de la loi et aux enjeux de la mise en 
+conformité. Il peut élaborer des supports d’information, des documents internes 
+de référence, organiser des missions d’audit…
+-  Conseil et recommandation
+Le correspondant répond aux demandes de renseignements et d’avis dont il 
+est saisi. Il est obligatoirement consulté avant la mise en œuvre d’un nouveau 
+traitement ou la modification substantielle d’un traitement en cours et peut faire 
+toute recommandation au responsable de traitement.
+-  Exercice d’un droit d’alerte
+Le correspondant informe le responsable de traitement des difficultés qu’il 
+rencontre dans l’exercice de ses missions. Lorsque les démarches auprès du 
+responsable de traitement n’ont pas abouti, le CIL pourra saisir la CNIL. Cette 
+procédure, à activer avec précaution, répond à un formalisme particulier.
+La fiche n°13 de ce guide est dédiée au droit d’alerte et à ses modalités 
+d’exercice
+-  Médiation et coordination
+Le correspondant reçoit les réclamations et requêtes des personnes concernées 
+par les traitements pour lesquels il a été désigné, s’assure de leur transmission 
+aux services intéressés et leur apporte son conseil. Il veille également au respect 
+du droit d’accès et d’opposition et à l’information des personnes sur leurs droits. 
+Il est le contact privilégié du responsable de traitement et de la CNIL, mais aussi 
+des personnes dont les données sont traitées. 
+Fiche n°5 - les principales  
+missions du CIL
+11
+F
+IChe 
+N
+°5 - 
+L
+es pr
+INCI
+p
+AL
+es m
+I
+ss
+I
+o
+N
+s du CIL
+La fiche n°12 de ce guide est dédiée à la gestion des demandes de 
+droit d’accès, de rectification, d’opposition et des réclamations.
+  3.  rendre compte de son action 
+Le correspondant établit chaque année un bilan de ses activités qu’il présente au 
+responsable des traitements et qu’il tient à la disposition de la CNIL. Il ne transmet 
+son bilan d’activité à la Commission que sur demande expresse de sa part.
+La fiche n°11 du présent guide est dédiée au bilan annuel.
+Un modèle de bilan est mis à disposition des CIL sur leur extranet.
+  4.  Les autres missions 
+D’autres missions peuvent, de convention expresse, être confiées au 
+correspondant. Il peut s’agir, sans que cette liste soit exhaustive de :
+-  l’élaboration des dossiers de formalités auprès de la CNIL pour les traitements 
+non exonérés ;
+-  l’élaboration d’une politique de protection des données à caractère personnel 
+(par exemple, dans le cadre d’une charte d’utilisation sur les moyens 
+informatiques et sur la sécurité, dans le cadre d’un règlement intérieur…) ;
+-  la sensibilisation des personnels aux dispositions de la loi sous forme de 
+brochures explicatives, de mesures diffusées sur l’extranet, d’actions de 
+formation… ;
+-  l’élaboration et le contrôle de l’application de codes de conduite spécifiques…
+12Guide Pratique COrreSPONdaNt
+F
+IChe 
+N
+°6 - 
+L
+es mod
+ALI
+tÉs de dÉs
+I
+g
+NA
+t
+I
+o
+N
+ du CIL
+  1. L’information des représentants du personnel
+Le responsable des traitements doit, avant la notification de la désignation du 
+correspondant à la CNIL, informer les instances représentatives du personnel de 
+sa décision de nommer un CIL. Cette information doit être effectuée par lettre 
+remise contre signature.
+  2.  La notification de la désignation à la CnIL
+La désignation d’un correspondant peut être notifiée à la CNIL selon trois 
+modalités :
+-  par voie électronique directement sur le site internet de la CNIL : http://www.
+cnil.fr ; 
+-  par lettre remise contre signature comportant le formulaire complété, disponible 
+sur le site de la CNIL : www.cnil.fr ;
+-  par remise à l’accueil de la CNIL contre reçu.
+  3.  Les différents types de désignation
+Définition / portée
+Désignation 
+partielle
+La désignation est faite seulement pour certains des 
+traitements relevant des régimes de la dispense de 
+déclaration, de la déclaration normale et de la déclaration 
+simplifiée. 
+Désignation 
+générale
+La désignation est faite pour l’ensemble des traitements 
+relevant des régimes de la dispense de déclaration, de la 
+déclaration normale et de la déclaration simplifiée.
+Désignation 
+étendue
+La désignation est faite pour la totalité des traitements 
+relevant de la responsabilité de celui qui désigne : les 
+missions du CIL concernent également les traitements 
+soumis au régime de la demande d’autorisation ou d’avis 
+préalable.
+  4.  La prise d’effet de la désignation
+La désignation du correspondant prend effet un mois après la date de réception 
+de la notification par la CNIL. Cette prise d’effet est alors notifiée au responsable 
+des traitements et au correspondant, dès la clôture de l’instruction de la 
+désignation.
+  5.  En cas de modifications relatives à la désignation
+Toute modification substantielle affectant les informations mentionnées dans 
+la désignation, doit être portée à la connaissance de la CNIL dans les mêmes 
+conditions de formalisme que celles prévues pour la notification initiale.
+Fiche n°6 - les modalités  
+de désignation du CIL
+13
+F
+IChe 
+N
+°6 - 
+L
+es mod
+ALI
+tÉs de dÉs
+I
+g
+NA
+t
+I
+o
+N
+ du CIL
+  6.  L’information de la CnIL en cas de remplacement du correspondant
+Le responsable de traitement doit informer la CNIL du remplacement du 
+correspondant par lettre remise contre signature ou par remise au secrétariat de 
+la Commission contre reçu, ou par voie électronique avec accusé de réception. 
+Les circonstances et les motifs qui justifient le remplacement (démission, départ 
+à la retraite de l’ancien CIL, mobilité interne…) doivent être indiqués dans le 
+courrier. Le responsable de traitement doit justifier avoir informé le correspondant 
+de sa décision. Le remplacement ne peut devenir effectif que huit jours après la 
+date de réception du courrier d’information par la CNIL (pour plus de détails, se 
+reporter à la fiche n°15 – la fin de mission du CIL).
+14Guide Pratique COrreSPONdaNt
+F
+IChe 
+N
+°7 - 
+L
+e 
+C
+ho
+I
+x du CIL exter
+N
+eAu-delà des conditions formelles à remplir par l’organisme responsable de 
+traitement, le choix de désigner un CIL extérieur doit s’accompagner d’une 
+réflexion sur plusieurs autres points.
+  1. CIL externe personne morale ou personne physique ?
+Les deux sont possibles, il peut s’agir d’une société prestataire de service 
+informatique, d’un consultant, d’un avocat ou d’un syndicat mixte en charge, par 
+exemple, de l’informatisation des collectivités locales. 
+Lors de la désignation d’une personne morale, la désignation doit comporter des 
+renseignements sur la forme de l’organisme CIL (SAS, SARL…), sa dénomination, 
+son siège social ainsi que sur l’organe qui le représente légalement (Conseil 
+d’administration, PDG, DG…). 
+De même, il est nécessaire de préciser les nom, prénom, profession et 
+coordonnées professionnelles de la personne que l’organisme CIL aura 
+choisi pour exercer les missions de correspondant. En effet, même si le CIL 
+est une personne morale, l’identification d’un référent personne physique 
+est indispensable. Les qualifications ou références professionnelles de cette 
+personne devront également être précisées. Le plus souvent les relations entre 
+la CNIL et le CIL passeront par cette personne dénommée « le préposé » par 
+le décret du 20 octobre 2005 pris pour l’application de la loi du 6 janvier 1978 
+modifiée en août 2004.
+  2.  L’encadrement des relations entre le CIL externe et le responsable 
+des traitements
+-  L’encadrement contractuel 
+Comme toute prestation de service, l’exécution des missions de CIL fait 
+généralement l’objet d’un contrat. L’ensemble des points nécessaires à la 
+formalisation de la relation y figure (prix, objet, durée…) mais en aucun cas, 
+l’indépendance du CIL ne doit être remise en question. De même, le contrat ne 
+peut être l’occasion d’organiser un transfert de responsabilité sur la tête du CIL 
+pour ce qui est de la conformité à la loi Informatique et Libertés.
+-  L’encadrement opérationnel
+Dans la mesure où le CIL externe n’est pas présent dans les locaux du 
+responsable du traitement et qu’il n’a pas un vécu permanent et quotidien de 
+son activité, il est essentiel d’organiser cette relation de manière opérationnelle. 
+Ainsi, est-il recommandé de :
+•  formaliser des circuits de transmission d’informations notamment, s’agissant 
+de l’instruction des plaintes et des demandes des personnes dont les données 
+sont traitées ainsi que de la tenue de la liste des traitements (registre) ;
+•  mettre en place, au sein de l’organisme responsable de traitement, un ou 
+plusieurs points de contact, interlocuteurs privilégiés du CIL ;
+•  planifier régulièrement des points d’information entre le CIL et les services ou 
+personnes en charge de la mise en œuvre des traitements ;
+Fiche n°7 - le choix du CIL externe
+15
+F
+IChe 
+N
+°7 - 
+L
+e 
+C
+ho
+I
+x du CIL exter
+N
+e•  faire procéder par le CIL à un audit des traitements mis en œuvre afin qu’il en 
+ait une connaissance pratique.
+  3.  Les risques de conflit d’intérêt 
+Le responsable des traitements devra là aussi s’assurer que les activités annexes 
+de l’organisme ou de la personne externe choisie ne sont pas susceptibles de 
+provoquer un conflit d’intérêt avec sa fonction de CIL. 
+A titre d’exemple, le fait d’être CIL pour un organisme concurrent du responsable 
+de traitement, pourrait constituer une source de conflit d’intérêt. Il pourrait en être 
+de même s’agissant de l’existence de liens capitalistiques entre le responsable 
+de traitement et le CIL. 
+  4.  Le cas du CIL avocat
+L’avocat peut tenir le rôle de CIL avec efficacité. Il présente les garanties de 
+compétences techniques et d’indépendance requises par la loi. En outre, 
+étant chargé, de par sa fonction même, de la protection des libertés publiques 
+et individuelles, son rôle est essentiel dans les mécanismes de protection des 
+données à caractère personnel définis par les responsables de traitement.
+La modification, en mai 2009, du règlement intérieur national (RIN, art. 6.2.2) 
+encadrant désormais l’activité de CIL exercée par un avocat renforce par ailleurs 
+le rôle que cette profession pourra jouer dans les années à venir en matière de 
+protection des données à caractère personnel. Le RIN précise ainsi que « l’avocat 
+correspondant à la protection des données personnelles doit mettre un terme à 
+sa mission s’il estime ne pas pouvoir l’exercer, après avoir préalablement informé 
+et effectué les démarches nécessaires auprès de la personne responsable des 
+traitements ». Cette disposition a pour objet de garantir la compatibilité entre les 
+règles déontologiques de la profession d’avocat et les missions du CIL. 
+En outre, la désignation d’un avocat en tant que CIL ne saurait violer l’obligation 
+du secret professionnel, dès lors qu’aucune obligation de dénonciation n’est 
+mise à la charge du CIL au regard de la loi Informatique et Libertés et de son 
+décret d’application : le CIL doit systématiquement informer le responsable des 
+traitements préalablement à toute saisine de la CNIL (art. 49 et 51 du décret), un 
+avocat même désigné en tant que CIL doit dans le cadre du mandat qui le lie à 
+son client, obtenir son accord préalable avant toute saisine de la CNIL. 
+De même, cette désignation n’entraîne aucune exonération de responsabilité 
+civile ou pénale pour le responsable de traitement. Un avocat désigné en tant que 
+CIL n’est susceptible d’engager que sa responsabilité professionnelle d’avocat.
+Enfin, il est à noter que certaines dispositions particulières ont été insérées dans 
+le règlement intérieur du Barreau de Paris (RIBP) concernant les avocats parisiens 
+exerçant les fonctions de CIL (article P 6.2.0.2). 
+16Guide Pratique COrreSPONdaNt
+F
+IChe 
+N
+°8 - 
+LA
+ pr
+I
+se de 
+F
+o
+NC
+t
+I
+o
+N
+ du 
+C
+orrespo
+N
+d
+AN
+tDans les trois mois suivant sa prise de fonction, le correspondant doit dresser la 
+liste des traitements mis en œuvre par l’organisme et entrant dans le champ de 
+sa désignation. La constitution de ce registre est l’occasion de procéder à un état 
+des lieux sur les traitements en cours, les formalités accomplies auprès de la CNIL 
+et d’effectuer d’éventuelles régularisations. Pour être réalisée dans les meilleures 
+conditions possibles, la prise de fonction du CIL devra s’accompagner d’actions 
+de communication destinées à assurer sa visibilité et asseoir sa légitimité aux 
+différents niveaux de l’organisme.
+  1.  L’organisation d’actions de communication pour établir la visibilité 
+et la légitimité du CIL
+Au moment de la prise de fonction du correspondant, le responsable des 
+traitements met généralement en œuvre des actions d’information et de 
+sensibilisation sur la loi Informatique et Libertés auprès de l’ensemble du 
+personnel. A cet égard, il lui est recommandé d’adresser publiquement au CIL 
+une lettre de mission reprenant les points suivants :
+-  les enjeux de la conformité à la réglementation et l’opportunité de la mise en 
+place d’une telle fonction ;
+-  le statut, les missions et le positionnement du CIL au sein de la structure ;
+-  les moyens humains et matériels affectés à l’exercice de ses missions (ex. : 
+dotation d’un budget spécifique, création d’un service dédié ou allègement de 
+la charge de travail lié aux autres missions du CIL) ;
+-  les procédures et mesures organisationnelles associées à un exercice efficace 
+de la fonction (ex. : circuits d’information et d’échange avec les collaborateurs, 
+désignation de relais du CIL dans les principaux services/directions concernés 
+par la mise en œuvre des traitements, développement d’une application 
+spécifique pour la gestion des activités du CIL, création d’un espace dédié à la 
+protection des données personnelles sur le site Intranet de l’organisme).
+  2.  La constitution du registre dans les trois mois suivant sa désignation4 
+La loi prévoit que la désignation d’un correspondant a pour effet de dispenser 
+l’organisme des formalités préalables à la mise en œuvre des traitements qui 
+relèvent des régimes de la dispense de déclaration, de la déclaration normale et 
+de la déclaration simplifiée (articles 22, 23 et 24 de la loi). Il appartient ainsi au CIL 
+de tenir la liste de ces traitements qui sont mis en œuvre ou modifiés à compter 
+du début de l’exercice de sa fonction.
+Le décret précise que le correspondant dispose d’un délai de trois mois pour 
+établir son registre. En cas de désignation « partielle », seuls les traitements que 
+le représentant légal de l’organisme aura choisi de faire entrer dans le champ de 
+la désignation devront figurer dans le registre. 
+4 Cf. fiche n° 9 – la liste des traitements ou « le registre ».
+Fiche n°8 - la prise de fonction  
+du correspondant
+17
+F
+IChe 
+N
+°8 - 
+LA
+ pr
+I
+se de 
+F
+o
+NC
+t
+I
+o
+N
+ du 
+C
+orrespo
+N
+d
+AN
+t  3.  L’occasion de faire un état des lieux et de procéder aux 
+régularisations qui s’imposent 
+Dans le cadre de la constitution du registre, il est recommandé au CIL de 
+procéder à un audit des différents traitements mis en œuvre au sein de la 
+structure, afin d’obtenir une vue d’ensemble sur leur nombre, leur nature et leurs 
+caractéristiques principales. Pour ce faire, il lui appartient de prendre contact avec 
+les responsables des différents directions et services composant l’organisme. 
+A l’occasion de cet audit, le correspondant est susceptible de découvrir des 
+irrégularités entachant d’illégalité la mise en œuvre de ces derniers. Par exemple, 
+le CIL peut s’apercevoir qu’un traitement mis en œuvre au sein de l’organisme 
+n’a jamais été déclaré à la CNIL. 
+Dans ce cas, il lui appartiendra de régulariser la situation : en portant au registre 
+le traitement, si celui-ci relève du régime de la déclaration normale ou simplifiée ; 
+en faisant procéder, le cas échéant, à une demande d’avis ou à une demande 
+d’autorisation auprès de la Commission. C’est également l’occasion pour le 
+CIL d’être pédagogue et de rappeler au collègue en charge de la gestion du 
+fichier concerné, les principales règles de la protection des données à caractère 
+personnel.
+18Guide Pratique COrreSPONdaNt
+F
+IChe 
+N
+°9 - 
+LA
+ 
+LI
+ste des tr
+AIteme
+N
+ts du CIL ou «
+ 
+reg
+I
+stre
+ 
+»  1. Qu’est ce que le registre ?
+L’un des principaux avantages de la désignation d’un CIL est l’allègement des 
+formalités préalables auprès de la CNIL. En contrepartie, le correspondant est 
+chargé d’établir et de tenir à jour une liste des traitements mis en œuvre au sein 
+de l’organisme (article 22 de la loi Informatique et Libertés - article 47 du décret 
+de 2005)
+Le registre est la liste des traitements automatisés qui sont mis en œuvre par 
+un organisme public ou privé. 
+  2. La constitution du registre 
+Le CIL dispose d’un délai de trois mois à compter de sa désignation (sa prise 
+de fonction) pour constituer son registre. Ce délai ne peut faire l’objet d’aucune 
+prorogation. 
+Le responsable des traitements doit fournir au CIL tous les éléments nécessaires 
+lui permettant de rédiger la liste des traitements mis en œuvre (article 47). De 
+son coté, le CIL nouvellement désigné peut faire un audit des traitements mis 
+en œuvre par son organisme afin de garantir la fiabilité et l’exhaustivité de son 
+registre. Il peut également demander à la CNIL de lui fournir la liste des formalités 
+préalables déjà effectuées par son organisme. Cette demande s’effectue en 
+application de l’article 31 de la loi Informatique et Libertés. La liste communiquée 
+comporte l’indication de toutes les déclarations, demandes d’avis et demandes 
+d’autorisations effectuées auprès de la CNIL. Elle permettra au CIL de vérifier si 
+tous les traitements mis en œuvre au sein de son organisme ont bien fait l’objet 
+des formalités préalables exigées. 
+En principe, le registre contient uniquement les traitements mis en œuvre par 
+l’organisme à partir de cette date. Toutefois, dans un souci d’exhaustivité, le CIL 
+peut inscrire au registre les traitements qui sont antérieurs à sa désignation et qui 
+ont été déclarés auprès de la CNIL (dans cette hypothèse, il peut le faire à tout 
+moment, y compris après le délai de trois mois). 
+La tenue du registre est obligatoire et constitue une des missions principales 
+du correspondant. 
+Le cas particulier du CIL mutualisé 
+Lorsqu’un CIL a été désigné par plusieurs entités, il devra rédiger un registre 
+par organisme. Exemple : si un correspondant a été désigné par cinq 
+organismes, il lui incombera alors de rédiger et de tenir à jour cinq registres 
+distincts et propres à chaque organisme. 
+Fiche n°9 - la liste des traitements 
+du CIL ou « registre »
+19
+F
+IChe 
+N
+°9 - 
+LA
+ 
+LI
+ste des tr
+AIteme
+N
+ts du CIL ou «
+ 
+reg
+I
+stre
+ 
+»  3. Quels traitements recenser ? 
+Le CIL doit obligatoirement inscrire dans son registre les traitements relevant : 
+-  du régime de la déclaration normale ; 
+-  d’une norme simplifiée ; 
+-  d’une dispense de déclaration. 
+Pour tous les traitements relevant de l’un de ces trois régimes de déclaration, 
+le CIL n’enverra aucun dossier de formalité auprès de la CNIL puisqu’il devra 
+uniquement les inscrire dans son registre. 
+Comme indiqué dans le tableau ci-dessous, les obligations du CIL concernant la 
+tenue du registre varient en fonction de la portée de sa désignation.
+TRAITEMENTS RELEVANT DES REGIMES DE LA DISPENSE, 
+DE LA DECLARATION NORMALE ET SIMPLIFIEE 
+(articles 23 et 24 de la loi)
+Inscription au registre du CIL Déclaration
+5 auprès de la 
+CNIL 
+Désignation générale Oui Non
+Désignation partielle Seulement pour ceux qui ont 
+été limitativement énumérés 
+dans la notification de la 
+désignation faite à la CNIL
+Seulement pour ceux qui ne 
+sont pas dans le champ de 
+la désignation du CIL
+Désignation étendue Oui Non 
+A NOTER
+S’agissant des traitements qui se conforment à une norme simplifiée et 
+à une dispense, il est admis que le CIL indique uniquement dans sa fiche 
+de registre : « engagement de conformité à la norme simplifiée n°X ou à 
+la dispense n°X ». Il lui incombera ensuite d’annexer cette norme ou cette 
+dispense à son registre afin qu’on puisse la consulter rapidement. 
+De même, le CIL peut éventuellement inscrire dans son registre les traitements 
+relevant du régime de l’autorisation : il s’agit des traitements qui ont fait l’objet 
+d’une autorisation de la CNIL ainsi que ceux relevant d’une autorisation 
+unique. 
+Le CIL peut également porter dans son registre les traitements s’inscrivant 
+dans la procédure de la demande d’avis : cela concerne les traitements ayant 
+reçu un avis de la CNIL et ceux relevant d’un acte réglementaire unique. 
+Si le CIL décide de ne pas faire mention de ces traitements, il devra 
+impérativement préciser dans son registre que d’autres traitements mis en 
+œuvre par l’organisme figurent sur la liste nationale mise à la disposition du 
+public par la CNIL (article 31 de la loi).
+5 Déclaration normale (article 23) ou simplifiée (article 24). Voir la liste des normes simplifiées 
+adoptées par la CNIL à l’adresse URL suivante : http://www.cnil.fr/en-savoir-plus/deliberations/
+normes-simplifiees .
+20Guide Pratique COrreSPONdaNt
+F
+IChe 
+N
+°9 - 
+LA
+ 
+LI
+ste des tr
+AIteme
+N
+ts du CIL ou «
+ 
+reg
+I
+stre
+ 
+»  4. La composition d’une fiche de registre 
+Pour chaque traitement, et donc dans chaque fiche de registre, le correspondant 
+doit indiquer : 
+-  le nom et l’adresse du responsable du traitement ; 
+-  la finalité du traitement ;
+-  le service chargé de sa mise en œuvre ; 
+-  la fonction de la personne ou le service auprès duquel s’exerce le droit d’accès 
+et de rectification ainsi que leurs coordonnées ; 
+-  les catégories de données traitées ; 
+-  les catégories de personnes concernées par le traitement ; 
+-  les destinataires habilités à recevoir communication des données ; 
+-  et enfin, la durée de conservation des données traitées. 
+Une fiche de registre se compose donc obligatoirement de ces huit éléments 
+(article 48 du décret n°2005-1309). Néanmoins, le CIL reste libre de d’ajouter des 
+éléments supplémentaires permettant de préciser certains aspects du traitement. 
+Cela peut être, par exemple, des indications portant sur les mesures de sécurité 
+physique et logique mises en place. 
+Il convient de préciser que le registre doit être tenu à jour (article 48 du décret). 
+Si l’un des traitements relevant du champ de compétence du CIL fait l’objet 
+d’une modification substantielle6, son objet et la date à laquelle elle est intervenue 
+doivent être portés au registre. 
+  5. L’accès au registre 
+Au terme de l’article 48 du décret, toute personne en faisant expressément la 
+demande peut consulter le registre et en obtenir une copie. Cela peut être, par 
+exemple, un salarié de l’organisme, un organisme concurrent, un client, etc. Le 
+correspondant doit toujours répondre favorablement à une demande d’accès et 
+de copie du registre. 
+A cet égard, afin de faciliter l’accès au registre au sein de son organisme, il peut 
+être intéressant de le mettre en ligne sur l’intranet. Cela peut être l’occasion pour 
+le CIL d’obtenir un espace dédié à la protection des données sur l’intranet, dans 
+lequel il pourra diffuser des informations en lien avec la loi Informatique et Libertés 
+afin de sensibiliser ses collaborateurs et collègues. 
+Il est à souligner que certains organismes ont fait le choix de publier leur registre 
+sur leur site internet. 
+6 Une modification substantielle d’un traitement est une modification portant sur l’un des 
+éléments recensés dans l’article 48 du décret, à savoir : le nom du responsable des traitements, 
+la finalité du traitement, le service chargé de sa mise œuvre, la personne auprès duquel s’exerce 
+le droit d’accès, les catégories de données traitées, les catégories de personnes concernées, les 
+destinataires, les durées de conservation.
+21
+F
+IChe 
+N
+°9 - 
+LA
+ 
+LI
+ste des tr
+AIteme
+N
+ts du CIL ou «
+ 
+reg
+I
+stre
+ 
+»
+Cas particulier du CIL mutualisé 
+Il est conseillé au correspondant mutualisé d’envoyer un exemplaire de son 
+registre à l’organisme qui l’a désigné ou d’organiser un accès distant (diffusion 
+sur l’intranet ou un site internet). En effet, le CIL mutualisé se trouve dans la 
+plupart des cas, géographiquement éloigné de l’organisme qui l’a désigné. 
+Pour les demandes d’accès au registre faites dans les locaux de l’organisme, 
+il convient d’y répondre dans les délais les plus brefs et la transmission de la 
+demande au CIL serait susceptible de la retarder. 
+  6. Que devient le registre en cas de fin de mission du CIL? 
+-  si l’organisme remplace son CIL 
+Le nouveau correspondant désigné par l’organisme poursuivra la tenue et la mise 
+à jour du registre commencé par son prédécesseur. Toutefois, il lui appartiendra 
+de s’assurer de la conformité de celui-ci et de refaire éventuellement un audit des 
+traitements mis en œuvre au sein de son organisme. 
+-  si l’organisme ne souhaite pas désigner un nouveau CIL 
+Il appartiendra alors au responsable des traitements : 
+• d’informer la CNIL de la fin de mission de ce dernier ;
+•  de déclarer à la CNIL tous les traitements qui ont été inscrits dans le registre du 
+CIL. Pour cela, il disposera d’un délai d’un mois à compter de la fin de mission 
+de son correspondant. 
+22Guide Pratique COrreSPONdaNt
+F
+IChe 
+N
+°10 - 
+L
+e CIL et 
+L
+es 
+F
+ormALI
+tÉs prÉ
+ALA
+b
+L
+es
+  1. Le rôle de suivi des traitements et de leurs évolutions
+Le correspondant est chargé de veiller au respect des obligations informatique 
+et libertés pour l’ensemble des traitements entrant dans le champ de sa 
+désignation. A ce titre, il doit être consulté préalablement à la mise en œuvre de 
+tout nouveau traitement ou de toute modification d’un traitement en cours. Il peut 
+ainsi faire des recommandations au responsable de traitement, informer celui-ci 
+des manquements constatés et le guider dans les réponses à apporter pour y 
+remédier. 
+La vigilance du CIL doit couvrir toute la durée de vie du traitement. En effet, il doit 
+veiller à ce que sa mise en œuvre respecte les conditions prévues initialement 
+par le responsable du traitement ainsi que l’ensemble des principes relatifs à la 
+protection des données à caractère personnel.
+Ainsi, lorsqu’un traitement lui a été déclaré comme étant en conformité avec une 
+norme simplifiée, le CIL doit s’assurer, dans la durée, que les conditions de mise 
+en œuvre du traitement correspondent en tout point au cadre strict fixé par la 
+norme visée. S’il apprend ou constate que ce n’est plus le cas (modification de la 
+finalité, élargissement du champ des données traitées ou de leurs destinataires, 
+etc.), il lui appartient de régulariser la situation. En effet, la modification des 
+conditions de mise en œuvre du traitement peut avoir pour conséquence de faire 
+basculer celui-ci :
+• a minima, dans le régime de la déclaration normale ; 
+•  a maxima, dans le régime plus protecteur de la demande d’avis ou d’autorisation 
+(ex. : collecte de données biométriques ou relatives à des infractions).
+Dans la première hypothèse, le CIL devra détailler les caractéristiques du 
+traitement dans une fiche de registre ; dans la seconde hypothèse, l’inscription 
+au registre ne suffira plus et il lui faudra donc enclencher une démarche en bonne 
+et due forme auprès de la CNIL.
+  2.  L’extension possible de sa compétence aux traitements relevant des 
+régimes de la demande d’autorisation ou d’avis préalable
+-  Des traitements restant soumis à examen et décision préalables de la CNIL
+Quelle que soit la portée accordée à la désignation d’un correspondant, elle n’a 
+pas pour effet d’exonérer l’organisme des formalités qui lui incombent s’agissant 
+des traitements soumis aux régimes de la demande d’autorisation ou d’avis. En 
+effet, compte tenu des risques pour les droits, les libertés et la vie privée que 
+sont susceptibles de comporter de tels traitements, un examen et une décision 
+préalables de la Commission restent nécessaires. 
+Le Service des correspondants renforce la visibilité des CIL sur l’instruction 
+des dossiers par le Service des Affaires juridiques. Ils sont ainsi informés de 
+l’état d’avancement des demandes d’avis ou d’autorisation émanant de leurs 
+organismes.
+Fiche n°10 - le CIL et  
+les formalités préalables
+23
+F
+IChe 
+N
+°10 - 
+L
+e CIL et 
+L
+es 
+F
+ormALI
+tÉs prÉ
+ALA
+b
+L
+es
+TRAITEMENTS RELEVANT DES REGIMES DE L’AVIS OU DE 
+L’AUTORISATION PREALABLE
+(articles 26 et 27 / 25 et 69 de la loi)
+Démarche 
+auprès de la 
+CNIL
+Procédure à suivre Inscription au registre
+Demande 
+d’autorisation 
+ou demande 
+d’avis sur un 
+projet d’acte 
+réglementaire 
+Oui
+En renseignant un formulaire en 
+ligne sur le site de la CNIL :
+Vos responsabilités / Déclarer un 
+fichier / Autres formulaires (ou Toutes 
+les procédures complètes)
+Recommandé
+Engagement 
+de conformité à 
+une autorisation 
+ou à un acte 
+réglementaire 
+unique 7
+Oui
+En renseignant un formulaire en 
+ligne sur le site de la CNIL :
+Vos responsabilités / Déclarer un 
+fichier / Déclaration simplifiée 
+Recommandé
+Au stade de la mise en œuvre du traitement, il appartient à son responsable de 
+veiller au respect des termes de l’acte réglementaire ou de l’autorisation accordée 
+par la CNIL, c’est-à-dire aux limites qu’il s’est ou qui lui ont été fixées. Ainsi, s’il 
+souhaite que le traitement évolue dans un sens non prévu par l’acte réglementaire 
+ou l’autorisation initiale, il devra impérativement adresser un courrier à la CNIL, 
+lui signalant le contenu et les contours de cette évolution. La Commission jugera 
+alors de la nécessité ou non de statuer une nouvelle fois sur la conformité du 
+traitement à la réglementation Informatique et Libertés. 
+-  Des traitements soumis à l’analyse du correspondant
+Comme on l’a vu, le responsable des traitements peut, avec l’accord du 
+correspondant, lui confier la mission de veiller au respect des obligations légales 
+pour l’intégralité des traitements mis en œuvre au sein de l’organisme (désignation 
+étendue).
+Dans cette hypothèse, les projets de traitements relevant des régimes de la 
+demande d’autorisation ou d’avis préalable devront systématiquement être portés 
+à la connaissance du correspondant. De la même manière que pour les traitements 
+relevant du régime de la déclaration, le CIL pourra alerter leur responsable des 
+manquements constatés et émettre toute recommandation utile pour assurer la 
+conformité du projet à la réglementation. Il lui appartiendra en outre de veiller à la 
+pérennité de cette conformité, une fois le traitement mis en œuvre.
+Le bilan annuel d’activité établi par le correspondant rendra compte, d’une façon 
+concrète, de l’extension de sa compétence aux traitements susvisés.
+7 Voir la liste des autorisations uniques adoptées par la CNIL à l’adresse URL suivante : 
+http://www.cnil.fr/en-savoir-plus/deliberations/autorisations-uniques . Voir la liste des actes 
+réglementaires uniques pris après avis de la CNIL à l’adresse URL suivante : http://www.cnil.fr/
+en-savoir-plus/deliberations/actes-reglementaires-uniques
+24Guide Pratique COrreSPONdaNt
+F
+IChe 
+N
+°11 - 
+L
+e b
+ILAN
+ de 
+L
+’
+AC
+t
+I
+o
+N
+ du CIL
+  1. de quoi s’agit-il ? 
+Le CIL doit rédiger chaque année un bilan de ses activités qu’il présente au 
+responsable des traitements et qu’il tient à la disposition de la CNIL (article 49 
+du décret de 2005). 
+La rédaction du bilan est obligatoire et constitue une des missions principales 
+du correspondant. 
+  2.  Quand le CIL doit-il le rédiger ? 
+Ce bilan doit être rédigé chaque année, mais il n’existe aucune obligation 
+particulière quant à sa date de rédaction. Le CIL doit uniquement disposer pour 
+chaque année d’exercice d’un rapport exhaustif sur les actions qu’il a menées. 
+Plusieurs choix s’offrent ainsi au correspondant : il peut rédiger son bilan en 
+début d’année civile, au moment de l’établissement des budgets annuels de son 
+organisme ou en fonction de son exercice fiscal. La solution la plus opérationnelle, 
+notamment en cas de changement de CIL, semble cependant de le rédiger à 
+compter de la date de sa désignation.
+  3.  Quel contenu ? 
+Les textes ne précisent ni le contenu, ni la nature des informations à y faire 
+figurer. Le CIL peut donc y inscrire les éléments qu’il jugera utiles et pertinents. 
+L’important étant d’être relativement exhaustif. 
+A titre d’exemple, il est conseillé d’y faire figurer les informations suivantes : 
+-  la liste des traitements arrêtée à la date du bilan ;
+-  les procédures internes mises en place durant l’année en cours ;
+-  les plaquettes de communication interne ;
+-  un code de bonne conduite ;
+-  une charte informatique ;
+-  un exemple de fiche de contrôle ; 
+-  etc. 
+Un modèle de bilan est mis à disposition sur l’extranet des CIL.
+  4.  sous quelle forme ? 
+Les textes ne prévoient aucune forme particulière. Cela laisse donc une 
+grande liberté au CIL qui pourra, au choix, le rédiger sous un format papier ou 
+électronique. 
+Fiche n°11 - le bilan  
+de l’action du CIL
+25
+F
+IChe 
+N
+°11 - 
+L
+e b
+ILAN
+ de 
+L
+’
+AC
+t
+I
+o
+N
+ du CIL
+  5.  Le cas particulier du CIL mutualisé 
+Lorsqu’un CIL a été désigné par plusieurs entités, il devra rédiger un bilan 
+d’activité par organisme. 
+Exemple : si un correspondant a été désigné par cinq organismes, il lui incombera 
+alors de rédiger cinq bilans annuels distincts. 
+  6.  La communication du bilan 
+Le correspondant doit présenter le bilan qu’il a constitué au responsable des 
+traitements.
+Cette présentation peut s’effectuer par l’envoi d’un exemplaire du bilan au 
+responsable des traitements, mais il est recommandé, lorsque c’est possible, 
+d’organiser une présentation formelle à l’occasion, par exemple, d’une réunion.
+Il s’agit d’un moment privilégié entre le CIL et le responsable des traitements. 
+C’est l’occasion pour le CIL de communiquer sur ses actions et le niveau de 
+conformité de l’organisme.
+Le bilan n’obéit pas à la même règle de communication que le registre puisque 
+l’article 49 du décret circonscrit sa transmission au responsable des traitements 
+et à la CNIL si celle-ci en fait la demande expresse. En dehors de ces deux cas, 
+toute transmission du bilan doit se faire avec l’accord préalable du responsable 
+des traitements. 
+Si le CIL a obtenu son accord, il peut tout à fait présenter son bilan en interne à 
+l’ensemble du personnel. C’est d’ailleurs une très bonne initiative puisque cela 
+permettra de rendre visible son activité et son rôle au sein de l’organisme. Cela 
+peut également être un moyen pour mettre en avant ses collaborateurs directs et 
+différents relais en interne au sein des directions et services. 
+Quid d’une demande des Instances Représentatives du Personnel 
+(IRP) ? 
+Dans l’hypothèse où ce sont les IRP qui lui demandent expressément de leur 
+communiquer son ou ses bilans, le correspondant devra obtenir l’accord de 
+son responsable des traitements qui n’est pas tenu de donner suite. 
+26Guide Pratique COrreSPONdaNt
+F
+IChe 
+N
+°12 - 
+L
+’
+INstru
+C
+t
+I
+o
+N
+ des dem
+AN
+des de dro
+I
+t d’
+ACC
+Ès et de re
+C
+t
+IFICA
+t
+I
+o
+N
+  1. Qu’est ce que le droit d’accès et de rectification ?
+Toute personne peut obtenir communication des informations la 
+concernant détenues par un responsable de traitements (art. 39 de la loi 
+Informatique et Libertés). L’exercice de ce droit n’a pas à être motivé.
+Le droit d’accès est un droit strictement personnel. Toutefois, le demandeur peut 
+se faire représenter par un mandataire ou se faire assister. De même, les parents 
+ou les tuteurs peuvent accéder aux données concernant leurs enfants mineurs 
+ou les personnes dont ils ont la tutelle. Le CIL devra s’assurer de la réalité du lien 
+de parenté ou de la tutelle.
+Le titulaire de ce droit d’accès peut également demander, pour des raisons 
+légitimes, que les informations qui le concernent soient rectifiées (si elles sont 
+inexactes), complétées (si elles sont incomplètes ou équivoques), mises à jour 
+(si elles sont périmées) ou effacées (si ces données n’ont pas été régulièrement 
+collectées) : c’est le droit de rectification et de suppression (art. 40 de la loi).  
+Les héritiers détiennent un droit de rectification sur les données du défunt pour 
+permettre la mise à jour des informations et ainsi prendre en compte le décès 
+de la personne (art. 40 de la loi). En revanche, ils ne disposent pas d’un droit à 
+accéder aux données de la personne décédée.
+  2.  Quelles informations peut obtenir une personne exerçant son droit 
+d’accès ?
+Le demandeur peut obtenir une copie des données le concernant. Il doit 
+également être informé, sous une forme compréhensible :
+-  du fait que des données à caractère personnel le concernant font ou non l’objet 
+d’un traitement ;
+-  des catégories de données traitées ; 
+-  des finalités du ou des traitement(s) de ces données ;
+-  de l’origine et des destinataires ou catégories de destinataires des données, et 
+le cas échéant, des informations relatives à leurs transferts à destination d’un 
+Etat non membre de la Communauté européenne.
+De plus, le titulaire du droit d’accès pourra connaître le raisonnement appliqué 
+à ses données dans le cadre de processus aboutissant à une décision le 
+concernant (Ex : établissement de profils, scoring, segmentation, etc.)
+Fiche n°12 - l’instruction des 
+demandes de droit d’accès  
+et de rectification
+27
+F
+IChe 
+N
+°12 - 
+L
+’
+INstru
+C
+t
+I
+o
+N
+ des dem
+AN
+des de dro
+I
+t d’
+ACC
+Ès et de re
+C
+t
+IFICA
+t
+I
+o
+N  3.  Quelle forme doit prendre la demande ?
+Les demandes d’exercice du droit d’accès peuvent être formulées auprès du 
+CIL soit : 
+-  par écrit, le demandeur adresse un courrier signé accompagné de la copie d’un 
+titre d’identité ;
+-  sur place, en justifiant de son identité.
+  4.  Quel est le rôle du CIL ? Quelles sont ses obligations en cas de 
+demande d’accès et de rectification ?
+En pratique, le CIL reçoit les demandes et les réclamations des personnes 
+concernant les traitements recensés dans le registre. Dans le cas d’une 
+désignation « étendue », ce rôle s’étend aux traitements ayant fait l’objet d’une 
+demande d’autorisation ou d’avis auprès de la CNIL (art. 49 du décret du 20 
+octobre 2005). 
+Le CIL doit en premier lieu s’assurer de l’identité du demandeur par la présentation 
+d’un titre d’identité ou de la copie de ce titre dans le cas d’une demande faite par 
+écrit. Il doit également répondre à la demande dans un délai de 2 mois à compter 
+de sa réception (art. 92 du décret). Si la demande est imprécise, il peut être 
+demandé des compléments d’information au demandeur avant l’expiration de 
+ce délai qui sera alors suspendu et ne recommencera à courir qu’à compter de 
+la réception des compléments. Enfin, le CIL devra fournir une réponse complète, 
+rédigée en langage clair et lisible.
+Le droit d’accès au dossier médical :
+Sa communication doit être faite dans un délai allant de 48h à 8 jours au plus 
+tard. Ce délai est porté à 2 mois si les informations datent de plus de 5 ans. La 
+communication peut se faire directement au demandeur ou par l’intermédiaire 
+d’un médecin de son choix (art. L.1111-7 du code de la santé publique).
+Attention, un mineur peut s’opposer à ce que son dossier médical soit 
+transmis au titulaire de l’autorité parentale.
+  5.  dans quels cas peut-on ne pas répondre favorablement à une 
+demande ?
+Deux hypothèses doivent-être envisagées :
+L’organisme n’est matériellement pas en mesure de répondre à la demande, par 
+exemple :
+-  lorsque l’organisme ne détient aucune donnée à caractère personnel concernant 
+le demandeur,
+-  lorsque les données sont anonymisées et qu’il est par conséquent impossible 
+de « remonter » au demandeur,
+28Guide Pratique COrreSPONdaNt
+F
+IChe 
+N
+°12 - 
+L
+’
+INstru
+C
+t
+I
+o
+N
+ des dem
+AN
+des de dro
+I
+t d’
+ACC
+Ès et de re
+C
+t
+IFICA
+t
+I
+o
+N-  lorsque la demande de rectification n’est pas légitime ou fondée (par exemple : 
+demande de changement de sa date de naissance ou de son prénom sans 
+justificatif). 
+La décision de ne pas donner une suite favorable à une demande de droit 
+d’accès ou de rectification doit être motivée et doit mentionner la voie et le délai 
+de recours pour la contester (art. 94 du décret)
+La demande est manifestement abusive.
+Une demande est qualifiée d’abusive en raison de son nombre, son caractère 
+répétitif ou systématique ; par exemple : une personne ayant exercé son 
+droit d’accès auprès d’un organisme et obtenu une réponse satisfaisante qui 
+solliciterait tous les mois, ou plus, le même organisme sur les mêmes traitements.
+ATTENTION
+En l’absence de réponse ou en cas de réponse incomplète de l’organisme le 
+demandeur peut saisir le service des plaintes de la CNIL. A la suite de cette 
+plainte, la CNIL interroge le CIL afin d’obtenir une explication sur la réponse 
+apportée au demandeur ou son absence de réponse. Le CIL dispose alors 
+d’un délai d’un mois pour répondre à la demande de droit d’accès dans les 
+plus brefs délais. L’organisme encourt des sanctions pénales (contraventions 
+de cinquième classe) en cas de non respect du droit d’accès et de rectification 
+(art. R.625-11 et R.625-12 du code pénal)
+29
+F
+IChe 
+N
+°13 - 
+L
+’exerCIC
+e du dro
+I
+t d’
+ALer
+te
+  1. de quoi s’agit-il ? 
+Le correspondant et le responsable du traitement peuvent saisir la CNIL 
+concernant les difficultés liées à l’exercice des missions du CIL (article 51 du 
+décret du 20 octobre 2005). 
+L’alerte de la CNIL en cas de difficulté n’est pas une obligation mais 
+simplement un droit que le CIL ou le responsable du traitement peut exercer. 
+  2.  sur quoi porte le droit d’alerte ? 
+Cela couvre tout type de difficultés rencontrées dans le cadre de l’exercice des 
+missions du CIL, mais aussi des difficultés dans l’application des dispositions 
+législatives et réglementaires. 
+Exemples : 
+-  absence de consultation du CIL préalablement à la mise en œuvre d’un 
+traitement ; 
+-  constatation de l’existence d’une faille de sécurité ; 
+-  absence de mise à jour du registre par le CIL…
+  3.  Les modalités d’exercice 
+Lorsque le CIL est confronté à une difficulté dans le cadre de l’exercice de ses 
+missions, il doit tenter de résoudre ce problème au sein de son organisme. Il fera 
+remonter une alerte au responsable du traitement en précisant : la nature des 
+difficultés, ses préconisations et les délais dans lesquels il pourra y être mis fin. 
+Ce n’est que si la difficulté persiste et que le responsable du traitement n’agit pas 
+que le CIL peut décider d’exercer son droit d’alerte. Il doit dans ce cas, informer 
+au préalable le responsable du traitement qu’il saisit la CNIL.
+  4.  Comment saisir la CnIL ? 
+Ce droit peut être exercé à tout moment, c’est-à-dire à compter de la désignation 
+du CIL jusqu’à sa fin de mission. 
+La Commission doit être saisie par lettre recommandée avec demande d’avis 
+de réception ou par voie électronique avec accusé de réception (article 56 du 
+règlement intérieur de la CNIL). Le courrier doit contenir la preuve que le CIL ou le 
+responsable des traitements, selon le cas, a préalablement été informé de cette 
+saisie. 
+Le responsable de traitement est astreint au même formalisme s’il souhaite alerter 
+la CNIL sur des difficultés liées aux missions du CIL.
+Fiche n°13 - l’exercice  
+du droit d’alerte
+30Guide Pratique COrreSPONdaNt
+F
+IChe 
+N
+°13 - 
+L
+’exerCIC
+e du dro
+I
+t d’
+ALer
+te
+  5.  Les suites au droit d’alerte 
+La CNIL va solliciter les observations des deux parties (CIL et responsable des 
+traitements). Selon les cas, la CNIL peut : 
+-  tenter de résoudre « à l’amiable » le conflit entre le responsable des traitements 
+et le CIL – rôle d’intermédiaire entre le CIL et le responsable des traitements ; 
+-  demander au responsable des traitements de décharger son CIL s’il s’avère 
+que celui-ci a manqué à ses missions (article 52 du décret) ; 
+-  enjoindre le responsable des traitements de procéder aux formalités préalables 
+nécessaires (article 55 du décret) ; 
+-  effectuer un contrôle sur pièces ou sur place au sein de l’organisme ; 
+-  engager une procédure de sanction à l’encontre de l’organisme.
+31
+F
+IChe 
+N
+°14 - 
+LA
+ respo
+N
+s
+A
+b
+ILI
+tÉ du CIL
+  1. L’absence de transfert de responsabilité 
+La désignation d’un correspondant Informatique et Libertés n’entraine aucun 
+transfert de responsabilité. Il est également impossible d’organiser ce transfert de 
+responsabilité dans le cadre d’une délégation de pouvoir 
+En effet, l’article 46 du décret du 20 octobre 2005 organise une incompatibilité 
+entre les fonctions de correspondant et de responsable des traitements, ce qui 
+ne permet pas la mise en place d’une délégation dans le cadre de laquelle le CIL 
+assumerait les obligations et les responsabilités liées aux pouvoirs qui lui ont été 
+délégués. 
+La délégation de pouvoir est une création jurisprudentielle permettant au 
+représentant légal d’un organisme de se décharger d’une partie de ses fonctions 
+au profit d’un de ses salariés. Par ce biais, il délègue également la responsabilité 
+pénale en découlant, sauf s’il a pris part à la réalisation de l’infraction. 
+Il est à préciser que le droit administratif autorise uniquement les délégations de 
+pouvoirs entre organe des personnes morales de droit public, et non vers les 
+directeurs ou chefs de services. Les élus d’une collectivité locale ne sont donc 
+pas en mesure d’organiser des délégations de pouvoirs vers les agents. Il existe 
+en revanche des délégations de signature mais qui n’emportent aucun transfert 
+de responsabilité.
+  2.  Le cas de la commission d’une infraction à la loi ou de complicité
+Le responsable des traitements demeure responsable de tous les manquements 
+à la loi qui pourraient être constatés au sein de son organisme et ne peut 
+sanctionner le CIL du fait de l’accomplissement de ses missions. 
+Pour autant, il existe des situations dans lesquelles le correspondant peut, malgré 
+tout, voir sa responsabilité pénale engagée. Ainsi, la responsabilité pénale d’un 
+correspondant devrait pouvoir être retenue s’il enfreint intentionnellement 
+la législation Informatique et Libertés ou s’il aide le responsable des 
+traitements à violer la loi. 
+Pour plus de détails, vous pouvez consulter dans l’Extranet CIL, un tableau 
+portant sur la responsabilité pénale en cas de manquement aux dispositions 
+de la loi Informatique et Libertés ainsi qu’une note sur la responsabilité du CIL. 
+Fiche n°14 - la responsabilité  
+du CIL
+32Guide Pratique COrreSPONdaNt
+F
+IChe 
+N
+°15 - 
+LA
+ 
+FIN
+ de m
+I
+ss
+I
+o
+N
+ du CIL
+Le correspondant n’est pas un salarié protégé au sens des dispositions du Code 
+du travail. Toutefois, il bénéficie d’un statut spécifique d’indépendance, dont l’un 
+des effets est que le responsable des traitements ne peut mettre fin à l’exercice 
+de ses fonctions sans en informer la CNIL. La fin de mission du CIL est ainsi 
+encadrée, tant par la loi Informatique et Libertés que par son décret d’application8. 
+Pour chacune des hypothèses de fin de mission du CIL, un formalisme particulier 
+doit être respecté. En outre, la fin de mission du CIL aura des conséquences 
+distinctes pour l’organisme, selon qu’il procède ou non à la désignation d’un 
+nouveau correspondant.
+  1. Les différents cas de fin de mission du CIL et le formalisme à respecter
+-  Le CIL est « démissionnaire » ou « déchargé de ses fonctions »
+La fin de mission du CIL peut intervenir pour différentes raisons. La plupart du 
+temps, le correspondant est :
+•  soit « démissionnaire » : il décide de mettre fin à ses fonctions de CIL, tout en 
+conservant les autres fonctions qu’il exerce au sein de l’organisme, il part à la 
+retraite ou démissionne de l’organisme.
+•  soit « déchargé de ses fonctions » pour des raisons indépendantes de tout 
+manquement à l’exercice de ses missions particulières : il change de fonction au 
+sein de l’organisme et ce changement a pour effet de l’empêcher de poursuivre 
+ses activités de CIL (mutation, promotion, …) ; il fait l’objet d’une procédure de 
+licenciement au titre des autres fonctions qu’il exerce au sein de l’organisme.
+Dans toutes ces hypothèses, il appartient au responsable des traitements de 
+notifier à la CNIL la fin de mission du CIL, par lettre remise contre signature ou par 
+voie électronique avec accusé de réception. Le courrier doit mentionner le motif 
+de la démission ou de la décharge du correspondant. De plus, la preuve doit 
+être apportée que ce dernier a bien été averti de la décision du responsable des 
+traitements. Celui-ci doit ainsi joindre le justificatif de la lettre informant le CIL qu’il 
+est mis fin à ses fonctions (un accusé de réception est suffisant).
+La fin de mission du correspondant revêt un caractère officiel huit jours après la 
+date de réception par la CNIL de sa notification.
+-  Le cas particulier de la « décharge du CIL pour manquement à ses missions »
+La loi et son décret d’application distinguent deux hypothèses : la décharge 
+du CIL à la demande du responsable des traitements et la décharge du CIL à 
+l’initiative de la CNIL. 
+Une telle décharge doit être justifiée par un manquement grave, 
+personnellement imputable au CIL et relevant directement de l’exercice de 
+ses missions. Elle doit en outre obéir à un formalisme renforcé pour que soient 
+préservés les « droits de la défense » du correspondant.
+8 Articles 22-III de la loi et 52 à 55 de son décret d’application du 20 octobre 2005.
+Fiche n°15 - la fin de mission  
+du CIL
+33
+F
+IChe 
+N
+°15 - 
+LA
+ 
+FIN
+ de m
+I
+ss
+I
+o
+N
+ du CIL
+• La décharge du CIL à l’initiative du responsable des traitements
+Lorsque le responsable des traitements constate que son correspondant a 
+manqué aux devoirs de sa mission (ex. : non tenue du registre des traitements 
+alors qu’il disposait à la fois du temps, des moyens et des informations 
+nécessaires pour y procéder), il peut décider de le décharger de ses fonctions 
+pour faute. Il doit alors saisir la CNIL pour avis, par lettre recommandée avec 
+accusé de réception, mentionnant les manquements graves qu’il impute au CIL. 
+Le responsable des traitements doit en outre informer le correspondant dans 
+les mêmes formes, en lui indiquant qu’il peut adresser ses observations à la 
+Commission. A compter de la date de réception du courrier de saisine, la CNIL 
+dispose d’un délai d’un mois, renouvelable une fois sur décision motivée de son 
+président, pour entendre les arguments du CIL et rendre son avis.
+• La décharge du CIL à l’initiative de la CNIL
+Lorsqu’elle constate qu’un correspondant a manqué aux devoirs de sa mission, 
+la CNIL peut également être à l’initiative de sa décharge. Avant de procéder à une 
+demande en ce sens auprès du responsable des traitements, elle doit adresser 
+au CIL une lettre recommandée avec accusé de réception, l’invitant à lui fournir 
+ses observations sur les griefs dont elle fait état. 
+Dans ces deux hypothèses, si la procédure débouche sur la décharge du 
+correspondant, le responsable des traitements aura le choix de désigner ou non 
+un nouveau CIL.
+  2.  Le choix qui s’offre à l’organisme et ses conséquences 
+-  La désignation d’un nouveau CIL
+Le remplacement du CIL est la procédure la plus simple à mettre en œuvre, sous 
+réserve de respecter le formalisme prévu par les textes9.
+Ainsi, le responsable des traitements doit informer les instances représentatives 
+du personnel de la désignation d’un nouveau CIL, par lettre remise contre 
+signature. Il doit ensuite notifier à la CNIL le remplacement du correspondant en 
+lui transmettant un formulaire de désignation dûment complété. Une désignation 
+en ligne, sur le site Internet de la Commission, est également possible. 
+A noter que le responsable des traitements n’est pas lié par les caractéristiques 
+de sa première désignation. Ainsi, il est tout à fait possible pour lui de modifier, 
+à l’occasion d’un remplacement, la portée accordée à la désignation du CIL 
+(passage d’une désignation « partielle » à une désignation « générale » ou 
+« étendue », et inversement). De même, le responsable des traitements peut 
+décider, sous réserve de remplir les conditions prévues par le texte, d’externaliser 
+la fonction ou, au contraire, de l’internaliser.
+Le registre des traitements n’étant pas attaché à la personne du CIL mais 
+à l’organisme, le nouveau correspondant reprendra la liste en cours et se 
+chargera de sa mise à jour. 
+9 Articles 42 et 43 du décret d’application de la loi Informatique et Libertés.
+34Guide Pratique COrreSPONdaNt
+F
+IChe 
+N
+°15 - 
+LA
+ 
+FIN
+ de m
+I
+ss
+I
+o
+N
+ du CIL
+-  Le non renouvellement de la fonction
+La fonction de CIL n’étant pas obligatoire, le responsable des traitements est 
+parfaitement libre de décider de ne pas désigner un nouveau correspondant. 
+Dans cette hypothèse, l’organisme doit déclarer auprès de la CNIL, dans le 
+délai d’un mois, l’ensemble des traitements portés au registre par le CIL et 
+relevant des régimes de la déclaration normale et simplifiée.
+De même, il n’y a plus lieu de tenir un registre pour l’avenir puisqu’à compter de 
+la date de fin de mission du CIL, l’organisme cesse de bénéficier de l’exonération 
+des formalités de déclaration préalable auprès de la CNIL. Compte tenu de l’intérêt 
+administratif que peut présenter le registre établi par le CIL, notamment en cas de 
+contentieux, il est recommandé au responsable des traitements de procéder à 
+son archivage dans les conditions prévues par les règles de prescription légales 
+applicables (cinq ans en matière civile). 
+35
+F
+IChe 
+N
+°16 - 
+L
+e CIL et 
+L
+es 
+C
+o
+N
+trÔ
+L
+es
+Chargé de veiller au respect des obligations prévues par la loi Informatique 
+et Libertés, le CIL est amené à jouer un rôle prépondérant dans le cadre des 
+missions de contrôle mises en œuvre par des agents habilités de la CNIL. 
+  1. Le rôle du CIL en amont d’un contrôle
+Compte tenu du risque de destruction des preuves, le responsable de traitement 
+et le CIL ne sont pas, sauf exceptions10, informés de la réalisation prochaine 
+d’une mission de contrôle au sein de leur organisme. 
+Dans ce contexte, et pour que la mission se déroule dans les meilleures conditions 
+possibles, il appartient au CIL d’anticiper une telle éventualité en préparant le 
+personnel de l’organisme. Il peut ainsi :
+-  sensibiliser le responsable de traitement et ses collaborateurs à l’obligation de 
+coopération et aux risques encourus en cas d’entrave à l’action des agents de 
+la CNIL ;
+-  rédiger un document récapitulant les pouvoirs de la CNIL, les rôles des 
+personnels concernés et organisant leur mobilisation aussi rapide que possible ;
+-  dédramatiser le contrôle, en en faisant une présentation pratique et objective, 
+en particulier, aux personnes susceptibles d’être sollicités lors du contrôle.
+  2.  Le rôle du CIL lors du contrôle
+A l’occasion d’une mission de contrôle sur place, la délégation de la CNIL informe 
+le responsable des lieux de l’objet des vérifications qu’elle compte entreprendre. 
+Il est amené à accompagner la délégation de la CNIL tout au long du contrôle 
+et à signer le procès-verbal en fin de mission. C’est également au responsable 
+des lieux qu’il appartient de décider de s’opposer au contrôle de la CNIL (art. 
+44-I de la loi).
+Il n’existe pas dans la loi Informatique et Libertés et ses textes d’application, de 
+disposition définissant le responsable des lieux. Il peut ainsi s’agir du responsable 
+de traitements ou de toute autre personne qu’il aura désigné comme tel.
+Qu’il soit ou non désigné comme responsable des lieux, il est recommandé que 
+le CIL soit présent lors de toutes les phases du contrôle. Il est un interlocuteur 
+privilégié qui a vocation à :
+-  éclairer la délégation de la CNIL sur les actions qu’il a mené au titre de ses 
+missions de CIL ;
+-  fluidifier les relations entre les représentants de la Commission et les 
+collaborateurs sollicités ;
+-  mettre à disposition de la délégation le registre des traitements ainsi que les 
+bilans annuels d’activité.
+10 Notamment lorsque les agents de la CNIL souhaitent obtenir en amont des informations sur 
+l’architecture informatique mise en place ou ont besoin que certains personnels soient mis à leur 
+disposition.
+Fiche n°16 - le CIL et  
+les contrôles
+36Guide Pratique COrreSPONdaNt
+F
+IChe 
+N
+°16 - 
+L
+e CIL et 
+L
+es 
+C
+o
+N
+trÔ
+L
+es
+  3.  Le rôle du CIL après le contrôle 
+Après le contrôle, conformément à sa mission générale de veiller au respect des 
+obligations prévues par la loi Informatique et Libertés, le CIL devra :
+-  s’assurer de la transmission à la CNIL, dans les délais impartis, des éventuels 
+compléments d’information demandés par celle-ci ;
+-  veiller à la bonne prise en compte des observations adressées par la 
+Commission.
+Enfin, il pourra rendre compte, dans son bilan annuel, des conséquences du 
+contrôle, des suites qui y ont été données par la Commission et, le cas échéant, 
+des mesures correctives adoptées.
+37
+F
+IChe 
+N
+°17 - 
+L
+e CIL 
+L
+ors de 
+LA
+ pro
+C
+Édure de s
+ANC
+t
+I
+o
+NLe CIL a vocation à accompagner le responsable de traitement dans toutes 
+les phases de mise en conformité des fichiers à la loi Informatique et Libertés. 
+Dans ce contexte, il est naturel qu’il intervienne dans le cadre d’une procédure 
+de sanction et qu’il soit associé aux actions entreprises pour remédier aux 
+manquements constatés par la CNIL.
+  1. Un rôle de prévention des sanctions 
+-  Lors de l’instruction des demandes et des plaintes
+Plus d’un tiers des sanctions adoptées par la CNIL font suite à des plaintes. Il est 
+donc crucial que le CIL désamorce les situations conflictuelles les plus en amont :
+•  soit à l’occasion du traitement des demandes des personnes (droit d’accès, 
+rectification ou opposition) afin d’éviter qu’elles ne se transforment en saisine 
+de la CNIL ;
+•  soit lors des échanges avec la CNIL concernant l’instruction des plaintes qui lui 
+ont été adressées.
+Dans les deux cas, c’est la vigilance du CIL, sa capacité à respecter les délais et 
+la qualité de ses réponses qui permettront d’éviter une procédure de sanction.
+-  Lors de la phase de mise en demeure 
+La CNIL peut mettre en demeure un responsable de traitement de faire cesser 
+les manquements à la loi Informatiques et Libertés sous un délai pouvant aller 
+de dix jours à trois mois. Cette mise en demeure contient notamment la liste des 
+manquements constatés.
+Le CIL a un rôle crucial à jouer lors de cette ultime phase avant la possible 
+adoption d’une sanction par la Commission. Il est ainsi recommandé qu’il 
+participe activement à :
+•  la définition et la mise en place des actions correctives ;
+•  la rédaction d’un document de réponse à la CNIL détaillant les mesure de mise 
+en conformité adoptées et réalisées.
+  2.  Un rôle de conseil et d’accompagnement  
+lors de la procédure de sanction
+Un rapport proposant une sanction (sanction pécuniaire ou injonction) est adressé 
+au responsable de traitement mis en cause. Il a alors un mois pour adresser des 
+observations écrites. Il a la possibilité d’accéder au dossier et de se faire assister. 
+Il est, là encore, recommandé d’associer le CIL à la rédaction du document de 
+réponse compte tenu des connaissances pratiques et théoriques qu’il a de la loi.
+Enfin, lors de l’examen du dossier par la Commission réunie en formation 
+restreinte, le responsable de traitement a la possibilité de venir présenter ses 
+observations orales. Il peut se faire accompagner lors de cette phase par un 
+conseil ainsi que, le cas échéant, par son CIL. 
+L’intervention du CIL et les éléments de contexte qu’il peut être en mesure 
+d’indiquer à la Commission peuvent s’avérer essentiels pour la défense de 
+l’organisme mis en cause. 
+Fiche n°17 - le CIL lors de  
+la procédure de sanction
+38Guide Pratique COrreSPONdaNt
+F
+IChe 
+N
+°18 - 
+L
+e CIL et 
+L
+es 
+INst
+ANC
+es reprÉse
+N
+t
+A
+t
+I
+ves du perso
+NN
+e
+L  1.  L’information préalable des instances représentatives du personnel 
+(Irp)
+Avant l’envoi du formulaire de désignation du CIL à la CNIL, le responsable 
+des traitements doit informer les instances représentatives du personnel de sa 
+décision de nommer un correspondant. Cette information prend la forme d’une 
+lettre remise contre signature (article 45 du décret de 2005). 
+  2.   L’incompatibilité entre les fonctions de CIL et de membre d’une 
+instance représentative du personnel 
+Le CIL ne peut pas être également membre d’une instance représentative du 
+personnel. 
+En effet, le décret prévoit expressément que les fonctions ou activités exercées 
+concurremment par le correspondant ne doivent pas être susceptibles de 
+provoquer un conflit d’intérêts avec l’exercice de sa mission de CIL (article 46). 
+Or, il apparait que le cumul de la fonction de CIL et de membre d’une IRP pourrait 
+être de nature à provoquer un conflit d’intérêt s’agissant principalement de 
+l’exercice de ses missions concernant les fichiers liés au personnel. 
+Il y a, dans ce cas, un conflit d’intérêt et le risque d’une perte d’indépendance : 
+-  le CIL serait contraint de choisir entre son mandat social et sa fonction de CIL ;
+-  il pourrait être amené à concilier deux positions potentiellement différentes, voire 
+diamétralement opposées. 
+La seule possibilité d’échapper à ce conflit d’intérêt est de désigner le 
+correspondant avec une portée partielle (cf. fiche 4 «le statut du CIL») en excluant 
+les traitements de ressources humaines de son champ d’intervention. 
+  3.  Le CIL peut-il également exercer ses missions pour les traitements 
+mis en œuvre par les instances représentatives du personnel ?
+La désignation d’un CIL au sein d’un organisme de droit privé ne couvre pas par 
+défaut les traitements mis en œuvre par le comité d’entreprise, y compris, en cas 
+de désignation étendue. Néanmoins, le président du Comité d’entreprise – qui 
+se trouve être également le représentant légal de l’organisme auquel il appartient 
+– peut décider de désigner le CIL de l’organisme, ou une autre personne, pour 
+exercer cette fonction pour les traitements du CE. Dans ce cas, il lui appartiendra 
+de notifier cette désignation à la CNIL. 
+Dans la fonction publique, c’est le Comité Technique Paritaire (CCTP) - instance 
+de représentation et de dialogue – qui a pour objectif de donner un avis sur les 
+questions collectives, comme le fait le Comité d’entreprise institués au sein des 
+organismes privés. Ce Comité étant dépourvu de la personnalité juridique, il ne 
+peut donc désigner de CIL distinct du CIL ayant été désigné par l’organisme 
+public auquel il appartient. 
+Fiche n°18 - le CIL et les instances 
+représentatives du personnel
+39
+F
+IChe 
+N
+°18 - 
+L
+e CIL et 
+L
+es 
+INst
+ANC
+es reprÉse
+N
+t
+A
+t
+I
+ves du perso
+NN
+e
+LUn CIL désigné au sein d’un organisme public est également désigné d’office 
+CIL pour le CCTP de cet organisme. En conséquence, il devra inscrire au sein 
+de son registre les traitements mis en œuvre par le CCTP. 
+  4.  Quels peuvent être les rapports entre le CIL et les Instances 
+représentatives du personnel (Irp) au sein de l’organisme ? 
+Les IRP sont des acteurs à part entière dans l’organisme. Il est donc important de 
+prendre en compte leur existence et répondre éventuellement à leurs questions 
+lorsqu’elles sont en rapport avec les missions du CIL et l’application de la loi 
+Informatique et Libertés.
+  5.  Les Irp peuvent-elles solliciter la CnIL si elles pensent avoir décelé 
+un manquement dans l’exercice des missions du CIL ? 
+Au terme du décret, seul le responsable des traitements peut alerter la CNIL 
+sur un éventuel manquement du CIL (article 52 du décret – cf. fiche n°13 droit 
+d’alerte). 
+Les IRP peuvent toutefois informer la CNIL si elles constatent un dysfonctionnement 
+dans l’application de la loi Informatique et Libertés. Rien ne les empêche, par 
+exemple, d’adresser un courrier au service des plaintes de la Commission. 
+  6.  Les Irp peuvent elles accéder aux documents rédigés par le CIL : le 
+registre et le bilan ? 
+Les IRP peuvent consulter et demander une copie du registre du CIL. Cela est 
+permis par le décret d’application de la loi Informatique et Libertés qui précise 
+que toute personne peut accéder au registre tenu par le CIL (article 48). 
+En revanche, ils ne peuvent pas consulter le bilan d’activité du CIL qui ne peut 
+être communiqué qu’au responsable des traitements et à la CNIL (article 49 du 
+décret). Seul le responsable des traitements peut autoriser la transmission du 
+rapport annuel du correspondant aux IRP qui en auront fait la demande. 
+40Guide Pratique COrreSPONdaNt
+F
+IChe 
+N
+°19 - 
+L
+es rÉse
+A
+ux de CIL
+La fonction de CIL tend de plus à plus à s’imposer comme un nouveau métier, 
+avec ses problématiques. Des CIL ont ainsi ressenti le besoin de se regrouper 
+et de constituer des réseaux pour échanger sur leurs missions et partager leurs 
+expériences. La CNIL accompagne ces réseaux dans leur développement et 
+intervient ponctuellement, à leur demande, sur les travaux qu’ils mènent. 
+Les réseaux structurés existants 
+-  L’Association Française des correspondants à la protection des Données 
+à caractère personnel / AFCDP
+L’AFCDP est une association représentative des professionnels de la protection 
+des données personnelles. Elle a été créée en 2004 et agit pour le développement 
+d’une réflexion sur le statut et les missions des CIL, la promotion du métier de CIL 
+et la défense des intérêts de la profession auprès des pouvoirs publics. L’AFCDP 
+regroupe un grand nombre de CIL mais pas uniquement, elle est ouverte à tous 
+les professionnels de la protection des données personnelles.
+-  Le réseau des CIL de la Sécurité Sociale / CIL UCANSS
+Le réseau des CIL des caisses du régime général de sécurité sociale est né 
+début 2006. Il s’est élargi depuis aux caisses des autres régimes qui en font la 
+demande. Il a pour but de mutualiser les savoirs faire et les expériences. A cet 
+égard, il accompagne les CIL de la sécurité sociale dans l’interprétation de la loi 
+Informatique et Libertés et alimente la réflexion sur la simplification des formalités 
+préalables. Il est la conséquence logique d’un partenariat conclu entre l’UCANSS 
+et la CNIL en 2006. 
+-  Le réseau des CIL de l’enseignement supérieur et de la recherche / 
+SUPCIL : 
+Ce réseau, créé en 2007, a pour principal objet de promouvoir la fonction de CIL 
+dans les établissements d’enseignement supérieur et de recherche, de réaliser 
+des travaux relatifs à la protection des données et de mutualiser les expériences 
+lors de rencontres régulières. Le réseau SupCIL est né du partenariat noué entre 
+la CNIL et la Conférence des Présidents d’Université (CPU). Il s’est depuis élargi 
+aux établissements de la Conférence des Grandes Ecoles (CGE). 
+-  Le réseau des CIL des collectivités locales / CLUB CIL APRONET
+Le CLUB CIL s’inscrit dans le cadre plus large des réseaux de l’Association 
+des Professionnels Internet des collectivités territoriales (APRONET) dont il 
+bénéficie du soutien logistique. Depuis 2008, ce réseau contribue à développer 
+les échanges d’expériences et la mutualisation des connaissances entre ses 
+membres. Il encourage les collectivités territoriales à désigner un CIL. Ses travaux 
+s’organisent principalement autour d’un système de travail collaboratif réservé à 
+ses membres. 
+Fiche n°19 - les réseaux de CIL
+41
+F
+IChe 
+N
+°19 - 
+L
+es rÉse
+A
+ux de CIL
+-  Le réseau des CIL avocats / APACIL
+L’Association pour la Promotion des Avocats Correspondants Informatique et 
+Libertés (APACIL) a été créée en 2009 et a pour objet de promouvoir l’accès 
+des avocats à la fonction de CIL. Cette association met en place l’assistance, 
+l’information et l’aide nécessaires à ses membres pour la formation et l’exercice 
+des missions de CIL dans le respect des règles déontologiques des avocats. 
+Ce réseau doit enfin permettre l’élaboration d’une procédure d’audit par le CIL 
+avocat. 
+Ces réseaux disposent d’une fiche détaillée  
+dans l’extranet des CIL dans la rubrique « les réseaux ».
+Vous animez un réseau de CIL dans votre secteur d’activité. Vous souhaitez 
+que la CNIL relaie vos actions et mette en ligne une fiche de présentation 
+sur l’extranet des CIL. Rapprochez vous du Service des Correspondants 
+Informatique et Libertés.
+42Guide Pratique COrreSPONdaNt
+F
+IChe 
+N
+°20 - 
+L
+e CIL et 
+L
+es 
+C
+o
+N
+ve
+N
+t
+I
+o
+N
+s de p
+A
+rt
+e
+NA
+r
+IA
+ts
+  1.  Le correspondant Informatique et Libertés au centre des 
+conventions de partenariat
+Face à la place occupée par les traitements de données à caractère personnel 
+dans l’activité de tous les types d’organismes (entreprises, collectivités territoriales, 
+associations…) et aux risques induits par le non-respect ou la méconnaissance 
+de la loi Informatique et Libertés, la CNIL a mis en place des actions de partenariat 
+avec différents relais. L’objectif poursuivi par la Commission et ses partenaires est 
+d’aboutir à une meilleure prise en compte de la protection des données dans 
+le développement des Technologies de l’Information et de la Communication 
+(TIC) et à la mise en conformité des traitements. Pour atteindre cette cible, les 
+conventions de partenariat prévoient notamment des actions de promotion de la 
+fonction de correspondant. Ce choix témoigne du rôle majeur dévolu au CIL dans 
+la diffusion de la « culture Informatique et Libertés ». 
+  2.  Que prévoit une convention de partenariat ?
+Chaque convention définit les grands axes de la collaboration qui peuvent être 
+résumés ainsi :
+-  des actions de sensibilisation et de formation ;
+-  des réflexions conjointes portant sur les contenus pédagogiques ;
+-  des actions de communication et de promotion communes.
+Concrètement, ces conventions permettent à la CNIL et aux organismes 
+signataires de mener conjointement des travaux à destination des responsables 
+de fichiers et de leurs employés, des personnes concernées par les traitements 
+ainsi que des entités représentatives. Ces actions aboutissent également à la 
+création de réseaux de diffusion de l’information.
+  3.  Comment signer une convention de partenariat avec la CnIL ?
+Les correspondants Informatique et Libertés qui souhaiteraient mettre en place 
+une convention, peuvent s’adresser directement au Service des Correspondant 
+Informatique et Libertés (SCIL). Des entretiens préparatoires seront alors organisés 
+afin d’établir la faisabilité du projet et de convenir, le cas échéant, des axes de 
+collaboration. Une fois le principe d’un partenariat validé, un projet de convention 
+est rédigé en commun. La version définitive de ce document est ensuite soumise 
+pour signature au représentant légal du partenaire et au Président de la CNIL.
+Quelques exemples d’organismes ayant signé une convention de 
+partenariat avec la CNIL
+-  la Commission d’Accès Aux Documents Administratifs (CADA) ;
+-  l’Assemblée des chambres françaises de commerce et d’industrie (ACFCI) ;
+-  l’Union des Caisses Nationales de Sécurité Sociale (UCANSS) ;
+-  le Conseil National du Barreau (CNB) ;
+-  le Conseil Supérieur du Notariat (CSN) ;
+-  la Conférence des Présidents d’Université (CPU) ;
+-  l’Agence nationale des services à la personne ;
+-  l’Association des maires de Meurthe-et-Moselle.
+Fiche n°20 - le CIL et les 
+conventions de partenariats
+43
+F
+IChe 
+N
+°21 - Le CIL des org
+ANI
+smes de presse É
+C
+r
+I
+te ou 
+A
+ud
+I
+ov
+I
+sueLL
+eLa loi informatique et libertés prévoit un régime juridique spécifique pour 
+les traitements mis en œuvre au titre de l’activité de journaliste. En effet, des 
+dérogations sont apportées aux grands principes de la protection des données 
+personnelles et aux obligations relatives aux formalités préalables. De même, 
+les conditions de désignation d’un CIL par un organisme de presse ainsi que 
+l’étendue de ses missions font l’objet d’aménagements particuliers.
+  1. Les dérogations concernant les traitements aux fins de journalisme
+-  Les dérogations apportées aux grands principes de la loi :
+Le principe de durée limitée de conservation des données ne s’applique pas. 
+De même que l’interdiction de collecte des données sensibles (origines raciales 
+ou ethniques ; opinions politiques, philosophiques, religieuses ; appartenance 
+syndicale ; état de santé ; vie sexuelle). Est également levée l’interdiction de 
+collecte des données relatives aux infractions, condamnations et mesures de 
+sûreté. Enfin, le responsable des traitements n’a pas l’obligation d’informer les 
+personnes concernées ni de donner suite à leurs demandes de droits d’accès 
+et de rectification.
+-  Les dérogations apportées aux obligations relatives aux formalités préalables
+Les traitements portant sur des données sensibles et sur des données relatives 
+aux infractions, condamnations ou mesures de sûreté, ne sont pas soumis à 
+autorisation de la CNIL.
+  2.  Les dérogations apportées aux règles relatives à la désignation et 
+aux missions du CIL
+Les organismes de presse écrite ou audiovisuelle sont dispensés d’effectuer les 
+formalités préalables auprès de la CNIL concernant les traitements aux fins de 
+journalisme dés lors qu’ils ont désigné un correspondant.
+Le CIL est uniquement désigné en interne. Sa désignation n’a pas à être portée à 
+la connaissance des instances représentatives du personnel. 
+Dans la mesure où le principe du respect des droits d’accès et de rectification ne 
+s’applique pas, le correspondant n’a pas à préciser, dans ses fiches de registre 
+relatives aux différents traitements mis en œuvre au sein de l’organisme, la fonction 
+et les coordonnées de la personne ou du service auprès duquel s’exercent ces 
+droits. En outre, le CIL ne met pas à disposition son registre et n’en délivre aucune 
+copie. Seule la CNIL peut demander à en avoir communication.
+Enfin, le CIL ne saisit pas la Commission des manquements qu’il constate dans 
+l’exercice de ses missions.
+Attention
+Les dérogations apportées aux principes Informatique et Libertés ne font pas 
+obstacle à l’application des règles générales et spécifiques applicables à la 
+communication écrite ou audiovisuelle et relatives aux atteintes à la vie privée 
+et à la réputation des personnes : droit de réponse des personnes en cause, 
+responsabilité civile et pénale pour diffamation, ...
+Fiche n°21 - le CIL des organismes 
+de presse écrite ou audiovisuelle
+44Guide Pratique COrreSPONdaNt
+F
+IChe 
+N
+°22 - 
+L
+e CIL et 
+L
+es tr
+AN
+s
+F
+er
+ts de do
+NN
+Ées hors 
+ue
+Les transferts de données hors de l’Union européenne vers des pays ne disposant 
+pas d’une législation adéquate sont soumis à une demande d’autorisation préalable 
+auprès de la CNIL (article 68 de la loi Informatique et Libertés). La désignation 
+d’un CIL n’exempte pas l’organisme de remplir cette formalité. Se pose alors la 
+question du rôle du CIL dans ce contexte, quelle peut être sa plus value ? 
+Un transfert de données à caractère personnel vers un pays situé en dehors 
+de l’Union Européenne ne peut pas uniquement être inscrit dans le registre. Il 
+doit être autorisé par la Commission. 
+  1. Le CIL, un rôle de conseil et d’intermédiaire 
+Le CIL doit être consulté préalablement à la mise en œuvre des nouveaux 
+traitements (art. 49 décret n°2005-1309). Cela lui permet de veiller, en amont, 
+au respect de la loi Informatique et Libertés au sein de l’organisme et de jouer 
+pleinement son rôle de conseil auprès du responsable des traitements et des 
+services qui les mettent en œuvre. 
+Compte tenu de sa connaissance de la loi Informatique et Libertés et de ses 
+enjeux, le CIL se révèle être un partenaire essentiel pour garantir la conformité 
+du transfert des données à la loi Informatique et Libertés. Il pourra notamment 
+aider les services chargés de la mise en œuvre du traitement lors de la rédaction 
+du dossier de demande d’autorisation à déposer auprès de la CNIL. De même, 
+il sera le plus en mesure d’assurer le suivi de l’instruction de cette demande 
+d’autorisation par les services de la CNIL et de leur fournir tout complément 
+d’information.
+  2.  L’aide à la mise en place de bCr
+Dans les groupes internationaux au sein desquels des données à caractère 
+personnel sont régulièrement transférées d’une entité à une autre, il peut être 
+intéressant de mettre en place des Binding Corporate Rules (également appelées 
+BCR). 
+Les BCR sont un code de conduite définissant la politique globale d’une entreprise 
+en matière de transferts de données personnelles hors de l’Union européenne. 
+Ces règles permettent d’assurer un niveau de protection adéquat aux données 
+transférées hors UE et donc de limiter les risques juridiques. Il s’agit d’un outil 
+destiné à permettre aux multinationales de mettre en place une politique globale 
+de protection des données. Compte tenu de ses compétences en ce domaine, 
+le CIL pourra utilement participer à la rédaction des BCR et à leur mise en place. 
+Il est à souligner que :
+-  la présence d’une personne en charge de la protection des données, tel qu’un 
+CIL, fait partie des prérequis devant figurer dans les BCR ;
+-  les demandes d’autorisation relatives à des flux effectuées par des organismes 
+dotés de BCR font l’objet d’un traitement prioritaire dans la mesure où le 
+responsable de traitement respecte un code de conduite déjà validé par la CNIL. 
+Fiche n°22 - le CIL et les  
+transferts de données hors UE
+45
+F
+IChe 
+N
+°22 - 
+L
+e CIL et 
+L
+es tr
+AN
+s
+F
+er
+ts de do
+NN
+Ées hors 
+ue
+  3.  rappel des formalités
+Nature des garanties prises Inscription au registre du CIL 
+Demande 
+d’autorisation auprès 
+de la CNIL
+Transfert vers un pays présentant 
+une protection adéquate ou 
+équivalente 
+4
+Transfert vers une société américaine 
+adhérente au « Safe Harbor » 4
+Transfert vers un pays « non 
+adéquat » mais encadré par les 
+clauses contractuelles types 
+4
+Recours aux exceptions prévues 
+par l’article 69 de la loi (appréciation 
+restrictive par la CNIL) 
+4
+Adoption de BCR (règles internes au 
+sein d’un même groupe) 4
+Un guide dédié aux questions liées aux transferts de données vers un pays 
+tiers à l’Union européenne est disponible sur le site de la CNIL ainsi qu’une 
+carte interactive permettant de déterminer le niveau de protection des pays 
+concernés. 
+46Guide Pratique COrreSPONdaNt
+F
+IChe 
+N
+°23 - 
+L
+es CIL À 
+L
+’ÉtrANger
+C’est en Allemagne, dans le Land de Hessen, que le premier « CIL » a été désigné 
+dans le cadre d’une loi sur la protection des données promulguée en 1970. 
+Cette démarche s’est ensuite étendue aux différents lands allemands pour enfin 
+être reprise au niveau européen par la directive de 1995 sur la protection des 
+données. A l’occasion de la transposition de cette directive, une dizaine de pays 
+de l’Union européenne a décidé d’introduire dans leur législation le correspondant 
+à la protection des données. 
+Cette possibilité ouverte par la directive a permis à ces pays de mettre à disposition 
+des organismes publics et privés un nouvel outil de mise en conformité de leurs 
+traitements. Il est à noter que différents modèles de correspondants se côtoient 
+au sein de l’Union. En effet, certains pays ont choisi de le rendre obligatoire 
+alors que d’autres, la majorité, le proposent de manière facultative. De même, 
+les champs de compétences et les pouvoirs des correspondants peuvent varier 
+d’un pays à l’autre.
+Néanmoins, dans l’ensemble, les correspondants ont tous des obligations assez 
+similaires. 
+Ils doivent ainsi : 
+ -  être saisis avant la mise en œuvre des traitements afin d’exercer leur devoir de 
+conseil ; 
+-  tenir un registre des traitements mis en œuvre au sein de l’organisme ; 
+-  rédiger un rapport annuel de leur activité 
+-  détecter les éventuelles infractions à la législation ; 
+-  alerter l’autorité de protection des données en cas de problème ; 
+-  traiter les demandes de droit d’accès, rectification et les plaintes des personnes 
+concernées par les traitements que son organisme met en œuvre. 
+En synthèse, le CIL doit veiller à la bonne application de la législation relative à la 
+protection des données et être un vecteur de diffusion de ses grands principes. Il 
+peut aussi rédiger des codes de conduite, initier des procédures internes, rédiger 
+une charte réglementant l’usage de l’outil informatique au sein de son organisme, 
+etc. 
+Fiche n°23 - les CIL à l’étranger
+47
+F
+IChe 
+N
+°23 - 
+L
+es CIL À 
+L
+’ÉtrANger
+Tableau comparatif des différents pays où la désignation d’un correspondant 
+à la protection des données est possible et/ou obligatoire
+Pays Désignation obligatoire 
+Désignation 
+facultative Salarié protégé 
+Date d’entrée 
+en vigueur du 
+dispositif 
+Allemagne 4 4 1970
+11
+197712
+Chypre 4 2009
+Espagne13 4 1999
+Estonie 4 2008
+Grèce 4 2011
+Hongrie 4 1993
+Lettonie 4 2007
+Liechtenstein14 4 2009
+Lituanie 4 2009
+Luxembourg 4 2002
+Malte 4 2001
+Norvège15 4 2001
+Pays-Bas 4 4 2000
+Pologne16 4 1998
+Slovaquie 4 2002
+Suède 4 1998 
+Suisse17 4 2003
+Union 
+Européenne18 4 2001
+11 Création
+12 Généralisation
+13 Seul un « responsable de la sécurité de l’information » a été mis en place.
+14 Le Lichtenstein, la Norvège et la Suisse ne font pas partie de l’Union européenne, ces pays 
+disposent néanmoins d’une législation sur la protection des données qui prévoit la désignation 
+d’un délégué/conseiller/responsable à la protection des données.
+15 (Cf note n°11)
+16 Seul un « administrateur de la sécurité de l’information » a été mis en place.
+17 (Cf note n°11)
+18 L’Union Européenne dispose elle aussi d’une législation sur la protection des données qui 
+prévoit la désignation d’un « délégué à la protection des données » au sein de ses institutions et 
+organes
+48Guide Pratique COrreSPONdaNt
+F
+IChe 
+N
+°24 - 
+L
+e CIL et 
+LA
+ reprÉse
+N
+t
+A
+t
+I
+o
+N
+ sur 
+L
+e terr
+I
+to
+I
+re 
+NA
+t
+I
+o
+NAL
+Le responsable de traitement qui, sans être établi sur le territoire français ou sur 
+celui d’un autre État membre de la Communauté européenne, recourt à des 
+moyens de traitement situés sur le territoire français doit :
+-  respecter, pour les traitements effectués en France, la loi Informatique et 
+Libertés ;
+-  désigner un représentant établi sur le territoire français, qui se substitue à lui 
+dans l’accomplissement des obligations prévues par la loi.
+Se pose alors la question de l’articulation entre la fonction de CIL et celle de 
+représentant établi sur le territoire français. Deux hypothèses doivent être 
+envisagées.
+  1.  Le cumul des fonctions de CIL et de représentant sur le territoire 
+français pour une même société
+Le décret d’application de la loi Informatique et Libertés pose un principe 
+d’incompatibilité entre la fonction de CIL et celle de responsable de traitement. 
+Il en résulte que la personne choisie pour représenter l’organisme en France, 
+agissant au nom et pour le compte du responsable de traitement, ne peut 
+parallèlement exercer les missions de correspondant.
+  2.   Le cumul des fonctions de CIL et de représentant sur le territoire 
+français pour des sociétés différentes
+Le CIL d’un organisme, peut être choisi comme représentant établi sur le 
+territoire français par un autre organisme que celui qui l’a désigné en tant que 
+correspondant. Ainsi, par exemple, dans le cadre d’un groupe de société, le CIL 
+de la société A située en France pourra être le représentant établi sur le territoire 
+français de la société B située au Japon et appartenant au même groupe :
+Société A 
+France 
+Société B 
+Japon 
+CIL de la 
+ société A 
+Représentant de la 
+Société B pour les 
+traitements qu elle 
+réalise en France 
+Monsieur X 
+Groupe Z 
+Fiche n°24 - le CIL et  
+la représentation sur le  
+territoire national
+49
+A
+NNexes
+n  textes de références
+n  Modèle de lettre d’information  
+des représentants du personnel  
+sur la désignation d’un correspondant
+n  Modèle de lettre de mission  
+du correspondant
+n  Modèle de fiche de liste  
+des traitements (registre)
+Annexes
+50Guide Pratique COrreSPONdaNt
+t
+extes de rÉ
+F
+ÉreNC
+eLoi du 6 janvier 1978 modifiée le 6 août 2004 (extraits)
+Article 22 
+I. - A l’exception de ceux qui relèvent des dispositions prévues aux articles 25, 
+26 et 27 ou qui sont visés au deuxième alinéa de l’article 36, les traitements 
+automatisés de données à caractère personnel font l’objet d’une déclaration 
+auprès de la Commission nationale de l’informatique et des libertés. 
+ 
+II. - Toutefois, ne sont soumis à aucune des formalités préalables prévues au 
+présent chapitre : 
+1° Les traitements ayant pour seul objet la tenue d’un registre qui, en vertu 
+de dispositions législatives ou réglementaires, est destiné exclusivement à 
+l’information du public et est ouvert à la consultation de celui-ci ou de toute 
+personne justifiant d’un intérêt légitime ;
+2° Les traitements mentionnés au 3° du II de l’article 8. 
+III. - Les traitements pour lesquels le responsable a désigné un correspondant à 
+la protection des données à caractère personnel chargé d’assurer, d’une manière 
+indépendante, le respect des obligations prévues dans la présente loi sont 
+dispensés des formalités prévues aux articles 23 et 24, sauf lorsqu’un transfert 
+de données à caractère personnel à destination d’un État non membre de la 
+Communauté européenne est envisagé.
+La désignation du correspondant est notifiée à la Commission nationale de 
+l’informatique et des libertés. Elle est portée à la connaissance des instances 
+représentatives du personnel.
+Le correspondant est une personne bénéficiant des qualifications requises pour 
+exercer ses missions. Il tient une liste des traitements effectués immédiatement 
+accessible à toute personne en faisant la demande et ne peut faire l’objet 
+d’aucune sanction de la part de l’employeur du fait de l’accomplissement de ses 
+missions. Il peut saisir la Commission nationale de l’informatique et des libertés 
+des difficultés qu’il rencontre dans l’exercice de ses missions.
+En cas de non-respect des dispositions de la loi, le responsable du traitement est 
+enjoint par la Commission nationale de l’informatique et des libertés de procéder 
+aux formalités prévues aux articles 23 et 24. En cas de manquement constaté à 
+ses devoirs, le correspondant est déchargé de ses fonctions sur demande, ou 
+après consultation, de la Commission nationale de l’informatique et des libertés.
+IV. - Le responsable d’un traitement de données à caractère personnel qui n’est 
+soumis à aucune des formalités prévues au présent chapitre communique à 
+toute personne qui en fait la demande les informations relatives à ce traitement 
+mentionnées aux 2° à 6° du I de l’article 31. 
+Textes de référence
+51
+t
+extes de rÉ
+F
+ÉreNC
+eDécret du 20 octobre 2005 (extraits)
+Article 42
+La désignation d’un correspondant à la protection des données à caractère 
+personnel par le responsable de traitements relevant des formalités prévues aux 
+articles 22 à 24 de la loi du 6 janvier 1978 susvisée est notifiée à la Commission 
+nationale de l’informatique et des libertés par lettre remise contre signature ou par 
+remise au secrétariat de la commission contre reçu, ou par voie électronique avec 
+accusé de réception qui peut être adressé par la même voie.
+Article 43
+La notification prévue à l’article 42 du présent décret mentionne : 
+1° Les nom, prénom, profession et coordonnées professionnelles du responsable 
+des traitements, le cas échéant, ceux de son représentant, ainsi que ceux du 
+correspondant à la protection des données à caractère personnel. Pour les 
+personnes morales, la notification mentionne leur forme, leur dénomination, leur 
+siège social ainsi que l’organe qui les représente légalement ; 
+2° Lorsque le correspondant à la protection des données à caractère personnel 
+est une personne morale, les mêmes renseignements concernant le préposé 
+que la personne morale a désigné pour exercer les missions de correspondant ; 
+3° Si la désignation est faite seulement pour certains traitements ou catégories de 
+traitements, l’énumération de ceux-ci ; 
+4° La nature des liens juridiques entre le correspondant et la personne, l’autorité 
+publique, le service ou l’organisme auprès duquel il est appelé à exercer ses 
+fonctions ; 
+5° Tout élément relatif aux qualifications ou références professionnelles du 
+correspondant et, le cas échéant, de son préposé en rapport avec cette fonction ; 
+6° Les mesures prises par le responsable des traitements en vue de 
+l’accomplissement par le correspondant de ses missions en matière de protection 
+des données. 
+L’accord écrit de la personne désignée en qualité de correspondant est annexé 
+à la notification. 
+La désignation d’un correspondant à la protection des données à caractère 
+personnel prend effet un mois après la date de réception de la notification par la 
+Commission nationale de l’informatique et des libertés. 
+Toute modification substantielle affectant les informations mentionnées aux 1° à 
+6° est portée à la connaissance de la Commission nationale de l’informatique et 
+des libertés, dans les formes définies à l’article 42.
+52Guide Pratique COrreSPONdaNt
+t
+extes de rÉ
+F
+ÉreNC
+eArticle 44
+Lorsque plus de cinquante personnes sont chargées de la mise en œuvre ou 
+ont directement accès aux traitements ou catégories de traitements automatisés 
+pour lesquels le responsable entend désigner un correspondant à la protection 
+des données à caractère personnel, seul peut être désigné un correspondant 
+exclusivement attaché au service de la personne, de l’autorité publique ou de 
+l’organisme, ou appartenant au service, qui met en œuvre ces traitements. 
+Par dérogation au premier alinéa : 
+a)  Lorsque le responsable des traitements est une société qui contrôle ou qui est 
+contrôlée au sens de l’article L. 233-3 du code de commerce, le correspondant 
+peut être désigné parmi les personnes au service de la société qui contrôle, ou 
+de l’une des sociétés contrôlées par cette dernière ; 
+b)  Lorsque le responsable des traitements est membre d’un groupement d’intérêt 
+économique au sens du titre V du livre deuxième du code de commerce, 
+le correspondant peut être désigné parmi les personnes au service dudit 
+groupement ; 
+c)  Lorsque le responsable des traitements fait partie d’un organisme professionnel 
+ou d’un organisme regroupant des responsables de traitements d’un même 
+secteur d’activités, il peut désigner un correspondant mandaté à cette fin par 
+cet organisme.
+Article 45
+La désignation d’un correspondant à la protection des données à caractère 
+personnel est, préalablement à sa notification à la Commission nationale de 
+l’informatique et des libertés, portée à la connaissance de l’instance représentative 
+du personnel compétente par le responsable des traitements, par lettre remise 
+contre signature.
+Article 46
+Le correspondant à la protection des données à caractère personnel exerce sa 
+mission directement auprès du responsable des traitements. 
+Le correspondant ne reçoit aucune instruction pour l’exercice de sa mission. 
+Le responsable des traitements ou son représentant légal ne peut être désigné 
+comme correspondant. 
+Les fonctions ou activités exercées concurremment par le correspondant ne 
+doivent pas être susceptibles de provoquer un conflit d’intérêts avec l’exercice 
+de sa mission.
+Article 47
+Le responsable des traitements fournit au correspondant tous les éléments 
+lui permettant d’établir et d’actualiser régulièrement une liste des traitements 
+automatisés mis en œuvre au sein de l’établissement, du service ou de 
+l’organisme au sein duquel il a été désigné et qui, à défaut de désignation d’un 
+correspondant, relèveraient des formalités de déclaration prévues par les articles 
+22 à 24 de la loi du 6 janvier 1978 susvisée.
+53
+t
+extes de rÉ
+F
+ÉreNC
+eArticle 48
+Dans les trois mois de sa désignation, le correspondant à la protection des 
+données à caractère personnel dresse la liste mentionnée à l’article 47. La liste 
+précise, pour chacun des traitements automatisés : 
+1° Les nom et adresse du responsable du traitement et, le cas échéant, de son 
+représentant ; 
+2° La ou les finalités de traitement ; 
+3° Le ou les services chargés de le mettre en oeuvre ; 
+4° La fonction de la personne ou le service auprès duquel s’exerce le droit 
+d’accès et de rectification ainsi que leurs coordonnées ; 
+5° Une description des catégories de données traitées, ainsi que les catégories 
+de personnes concernées par le traitement ; 
+6° Les destinataires ou catégories de destinataires habilités à recevoir 
+communication des données ; 
+7° La durée de conservation des données traitées. 
+La liste est actualisée en cas de modification substantielle des traitements en 
+cause. Elle comporte la date et l’objet de ces mises à jour au cours des trois 
+dernières années. 
+Le correspondant tient la liste à la disposition de toute personne qui en fait la 
+demande. 
+Une copie de la liste est délivrée à l’intéressé à sa demande. Le responsable des 
+traitements peut subordonner la délivrance de cette copie au paiement d’une 
+somme qui ne peut excéder le coût de la reproduction. 
+Lorsque la liste ne recense pas la totalité des traitements mis en oeuvre par 
+le responsable, elle mentionne que d’autres traitements relevant du même 
+responsable figurent sur la liste nationale mise à la disposition du public en 
+application de l’article 31 de la loi du 6 janvier 1978 susvisée.
+Article 49
+Le correspondant veille au respect des obligations prévues par la loi du 6 janvier 
+1978 susvisée pour les traitements au titre desquels il a été désigné. 
+A cette fin, il peut faire toute recommandation au responsable des traitements. 
+Il est consulté, préalablement à leur mise en œuvre, sur l’ensemble des nouveaux 
+traitements appelés à figurer sur la liste prévue par l’article 47. 
+Il reçoit les demandes et les réclamations des personnes intéressées relatives aux 
+traitements figurant sur la liste prévue par l’article 47. Lorsqu’elles ne relèvent pas 
+de sa responsabilité, il les transmet au responsable des traitements et en avise 
+les intéressés. 
+Il informe le responsable des traitements des manquements constatés avant 
+toute saisine de la Commission nationale de l’informatique et des libertés. 
+Il établit un bilan annuel de ses activités qu’il présente au responsable des 
+traitements et qu’il tient à la disposition de la commission.
+54Guide Pratique COrreSPONdaNt
+t
+extes de rÉ
+F
+ÉreNC
+eArticle 50
+Le responsable des traitements peut, avec l’accord du correspondant à 
+la protection des données à caractère personnel, lui confier les missions 
+mentionnées à l’article 49 pour la totalité des traitements qui dépendent du 
+responsable. 
+Dans ce cas, la notification prévue à l’article 43 en fait mention.
+Article 51
+La Commission nationale de l’informatique et des libertés peut être saisie à tout 
+moment par le correspondant à la protection des données à caractère personnel 
+ou le responsable des traitements de toute difficulté rencontrée à l’occasion de 
+l’exercice des missions du correspondant. L’auteur de la saisine doit justifier qu’il 
+en a préalablement informé, selon le cas, le correspondant ou le responsable des 
+traitements. 
+La Commission nationale de l’informatique et des libertés peut à tout moment 
+solliciter les observations du correspondant à la protection des données ou celles 
+du responsable des traitements.
+Article 52
+Lorsque la Commission nationale de l’informatique et des libertés constate, après 
+avoir recueilli ses observations, que le correspondant manque aux devoirs de sa 
+mission, elle demande au responsable des traitements de le décharger de ses 
+fonctions en application du III de l’article 22 de la loi du 6 janvier 1978 susvisée.
+Article 53
+Hors le cas prévu à l’article 52, lorsqu’il envisage de mettre fin aux fonctions du 
+correspondant pour un motif tenant à un manquement aux devoirs de sa mission, 
+le responsable des traitements saisit la Commission nationale de l’informatique 
+et des libertés pour avis par lettre remise contre signature, comportant toutes 
+précisions relatives aux faits dont il est fait grief. 
+Le responsable des traitements notifie cette saisine au correspondant dans 
+les mêmes formes en l’informant qu’il peut adresser ses observations à la 
+Commission nationale de l’informatique et des libertés. 
+La Commission nationale de l’informatique et des libertés fait connaître son 
+avis au responsable des traitements dans un délai d’un mois à compter de la 
+réception de sa saisine. Ce délai peut être renouvelé une fois sur décision motivée 
+de son président. 
+Aucune décision mettant fin aux fonctions du correspondant ne peut intervenir 
+avant l’expiration du délai prévu à l’alinéa précédent.
+Article 54
+Lorsque le correspondant est démissionnaire ou déchargé de ses fonctions, le 
+responsable des traitements en informe la Commission nationale de l’informatique 
+et des libertés dans les formes prévues à l’article 42. 
+La notification de cette décision mentionne en outre le motif de la démission ou de 
+la décharge. Il y est annexé, en lieu et place de l’accord prévu au huitième alinéa 
+55
+t
+extes de rÉ
+F
+ÉreNC
+ede l’article 43, le justificatif de la notification de la décision au correspondant. 
+Cette décision prend effet huit jours après sa date de réception par la Commission 
+nationale de l’informatique et des libertés. 
+Hormis le cas du remplacement du correspondant, le responsable des 
+traitements est alors tenu de procéder, dans le délai d’un mois, aux formalités 
+prévues aux articles 23 et 24 de la loi du 6 janvier 1978 susvisée pour l’ensemble 
+des traitements qui s’en étaient trouvés dispensés du fait de la désignation à 
+laquelle il est mis fin.
+Article 55
+Lorsque le responsable des traitements ne respecte pas ses obligations légales 
+relatives au correspondant, la Commission nationale de l’informatique et des 
+libertés l’enjoint par lettre remise contre signature de procéder aux formalités 
+prévues aux articles 23 et 24 de la loi du 6 janvier 1978 susvisée. Cette lettre 
+mentionne les traitements concernés par l’injonction ainsi que le délai dans lequel 
+le responsable des traitements doit s’y conformer.
+56Guide Pratique COrreSPONdaNt
+m
+odÈ
+L
+e de 
+C
+ourr
+I
+er d’
+INForm
+A
+t
+I
+o
+N
+ des reprÉse
+N
+t
+AN
+ts du perso
+NN
+e
+L Date
+Madame, Monsieur,
+En application de l’article 22 de la loi n° 78-17 du 06 janvier 1978 modifiée par la loi du 
+06 août 2004 relative à l’informatique, aux fichiers et aux libertés, je vous informe que 
+j’ai désigné pour exercer les fonctions de correspondant à la protection des données à 
+caractère personnel : 
+Nom :  ..............................................................................................................................
+Prénom :  .........................................................................................................................
+Fonction/profession :  .......................................................................................................
+Service/organisme :  .........................................................................................................
+Adresse professionnelle (si différente de celle du responsable des traitements) : 
+ .........................................................................................................................................
+Téléphone :  .....................................................................................................................
+Adresse électronique :  .....................................................................................................
+Cette désignation va faire l’objet (ou a fait l’objet) d’une notification auprès de la 
+Commission Nationale de l’Informatique et des Libertés (CNIL). 
+Elle prend effet un mois à compter de la réception de la notification par la CNIL. 
+Elle emporte dispense de l’accomplissement des formalités relatives aux traitements 
+relevant d’un régime de simple déclaration. Ne sont donc pas concernés par la dispense 
+les traitements relevant d’un régime d’autorisation ou de demande d’avis, notamment 
+ceux impliquant le transfert de données à caractère personnel à destination d’un Etat non 
+membre de la Communauté européenne. 
+Le correspondant tiendra une liste des traitements dispensés, consultable sur place. 
+La liste (ou registre) pourra également être communiquée à toute personne en faisant la 
+demande. Cette liste ne concerne que les traitements dispensés de déclaration auprès de 
+la CNIL du fait de sa désignation. Les traitements soumis à autorisation ou à avis préalable 
+de la CNIL continueront à être recensés sur le « fichier des fichiers » tenu par la CNIL et 
+consultable sur demande auprès de la CNIL. 
+Le correspondant aura un rôle de conseil, de recommandation et d’alerte, s’il constate des 
+manquements. Pour ce faire, il devra être consulté préalablement à leur mise en œuvre et 
+être informé des projets de traitements. 
+Le correspondant sera chargé du droit d’accès, de rectification et d’opposition. Pour toute 
+contestation, réclamation, 
+Je vous précise également que le correspondant recevra également les réclamations et 
+requêtes des personnes concernées par les traitements. Il sera notamment chargé du 
+droit d’accès, de rectification et d’opposition. 
+Des moyens spécifiques seront mis à disposition du correspondant (ou les mesures 
+suivantes sont adoptées) : 
+-  ....... 
+-  ....... 
+Je vous prie, Madame, Monsieur, d’agréer l’expression de mes salutations distinguées.
+  Signature du responsable des traitements
+Modèle de courrier d’information 
+des représentants du personnel
+57
+m
+odÈ
+L
+e de 
+L
+ettre de m
+Iss
+Io
+N
+ rem
+Ise p
+A
+r 
+L
+e respo
+N
+s
+A
+b
+L
+e des tr
+AIteme
+N
+ts 
+A
+u CIL 
+L
+ors de s
+A
+ pr
+Ise de 
+F
+o
+NC
+t
+Io
+N
+s
+ Date
+Madame, Monsieur,
+Il a été procédé à votre désignation en tant que Correspondant informatique et 
+libertés de [Nom du ou des organismes concernés]. Cette désignation, effectuée 
+en application de l’article 22 de la loi n° 78-17 du 06 janvier 1978 modifiée par 
+la loi du 06 août 2004 relative à l’informatique, aux fichiers et aux libertés, est 
+effective depuis le [date à laquelle la désignation est effective]19. 
+En application de l’article 46 du décret n°2005-1309 du 20 octobre 2005, vous 
+êtes directement rattaché à [la Direction ou nom du DG, PDG, Maire …] et ne 
+recevez aucune instruction pour l’exercice de vos missions de CIL.
+Les instances représentatives ont été préalablement informées de la création de 
+cette fonction par un courrier avec accusé de réception adressé le [date].
+Conformément à ce qui a été indiqué à la CNIL, votre désignation est étendue, ce 
+qui signifie que vous exercez vos missions pour tous les traitements mis en œuvre 
+par [Nom du ou des organismes responsables des traitements], quel que soit le 
+régime des formalités applicable.
+Il vous appartiendra ainsi de veiller de manière indépendante au respect de la loi 
+informatique et libertés au sein [Nom du ou des organismes responsables des 
+traitements]. 
+Au titre de vos fonctions, vous devrez :
+A  établir, actualiser et communiquer aux personnes en faisant la demande, la liste 
+des traitements (ou registre) faisant l’objet d’une dispense de déclaration du fait 
+de votre désignation ;
+A  procéder aux formalités préalables concernant les traitements soumis à 
+autorisation ou à avis préalable de la CNIL ;
+A  accompagner la mise en œuvre des traitements de données à caractère 
+personnel et à cette occasion formuler les conseils et les recommandations 
+nécessaires au respect de la loi informatique et libertés ;
+A  recevoir les demandes et les réclamations adressées par les personnes 
+concernées par les traitements, et selon leur nature de les instruire ou de les 
+transmettre aux services compétents ;
+A  informer et sensibiliser le personnel aux enjeux de la protection des données ;
+A  alerter le responsable des traitements sur l’existence de manquements à la loi 
+informatique et libertés ;
+19 La désignation prend effet un mois à compter de la réception de la notification par la CNIL. 
+Modèle de lettre de mission 
+remise par le responsable des 
+traitements au CIL lors de sa 
+prise de fonctions
+58Guide Pratique COrreSPONdaNt
+m
+odÈ
+L
+e de 
+L
+ettre de m
+Iss
+Io
+N
+ rem
+Ise p
+A
+r 
+L
+e respo
+N
+s
+A
+b
+L
+e des tr
+AIteme
+N
+ts 
+A
+u CIL 
+L
+ors de s
+A
+ pr
+Ise de 
+F
+o
+NC
+t
+Io
+N
+sA  rédiger et remettre au responsable des traitements un bilan annuel des actions 
+menées pour au titre de vos fonctions de CIL.
+Pour vous permettre de mener à bien ces différentes missions, la Direction 
+s’engage à :
+A  prendre les mesures organisationnelles suivantes :
+•  désignation de relais dans les services mettant en œuvre des traitements ou 
+ayant accès aux données ;
+•  [à compléter en fonction de la situation – exemples : création d’un service 
+dédié, mise en place d’un circuit d’information …] ;
+A  vous proposer des formations relatives à la protection des données ;
+A  vous permettre de mener des actions de communication interne auprès du 
+personnel, par le biais de communiqués [autres exemples : de l’intranet, de 
+brochures, de stages …] ;
+A  vous permettre de mener des actions de communications externe par le 
+biais de communiqués [autres exemples : du site internet, de brochures, de 
+participation à des colloques …] ;
+A  mettre à votre disposition les moyens humains et matériels suivants :
+•  affectation de personnels ;
+•  [à compléter en fonction de la situation – exemples : dotation d’un budget 
+spécifique, allégement de la charge de travail liée aux autres fonctions du 
+CIL…] ;
+A  … 
+Je relève également qu’en application des articles 47 et 49 du décret du 20 
+octobre 2005 précité :
+•  tous les éléments vous permettant d’établir et d’actualiser la liste des traitements 
+(le registre) doivent être mis à votre disposition ;
+•  vous devez être consulté préalablement à la mise en œuvre de tout nouveau 
+traitement.
+Une copie de cette lettre de mission sera adressée à l’ensemble du personnel.
+Je vous prie, Madame, Monsieur, d’agréer l’expression de mes salutations 
+distinguées.
+ Signature [PDG, DG, Maire …]
+59
+m
+odÈ
+L
+e de 
+FIC
+he À por
+ter 
+A
+u reg
+I
+stre
+traitement n°1 Application de gestion des CIL
+date de mise en oeuvre : 20/10/2005
+Finalité principale : Gestion des Correspondants Informatique et Libertés20
+détail des finalités du traitement
+A  Instruction des désignations ;
+A  Actualisation du profil des CIL ;
+A  Edition de la liste des CIL.
+service chargé de la mise en 
+œuvre
+Service des Correspondants 
+Informatique et Libertés
+Fonction de la personne ou du 
+service auprès duquel s’exerce 
+le droit d’accès
+Service des Correspondants 
+Informatique et Libertés
+Catégories de personnes 
+concernées par le traitement
+Les correspondants Informatique 
+et Libertés (ci-après CIL), c’est-à-
+dire les personnes désignées dans 
+les conditions prescrites par le titre 
+III du décret n° 2005-1309 du 20 
+octobre 2005, pris pour application 
+de la loi informatique et libertés, et 
+qui assurent les missions définies à 
+l’article 22 de la loi précitée.
+20 Pour information, le détail des informations relatives aux CIL, tel que leurs coordonnées 
+(numéros de téléphone, l’adresse e-mail…), sont traitées dans une autre application ayant 
+notamment pour objet la gestion des usagers en contact avec la CNIL.
+Modèle de fiche à porter  
+au registre
+60Guide Pratique COrreSPONdaNt
+m
+odÈ
+L
+e de 
+FIC
+he À por
+ter 
+A
+u reg
+I
+stre
+Modèle de fiche à porter  
+au registre
+données  
+traitées
+Catégories de données traitées Détails des données traitées
+Données d’identification
+A  nom et le prénom ;
+A  fonction ;
+A  identifiant.
+Vie professionnelle
+A  statut du CIL (interne,      
+mutualisé, externe) ;
+A  les éléments d’identification de 
+l’organisme de rattachement ;
+A  portée de la désignation    
+(étendue, normale, partielle) ;
+A  indication du nombre de 
+personnes en charge de la mise 
+en œuvre de traitements au sein 
+de l’organisme ;
+A  date à partir de laquelle la 
+désignation est effective ;
+A  les dates de création, de 
+signature, de modification 
+et de fin d’instruction de la 
+désignation ;
+A  statut de la désignation (validée, 
+confirmée, refusée, fin de 
+mission) ;
+A  compétences professionnelles 
+du correspondant ;
+A  mesures d’accompagnement 
+des missions de CIL
+Catégories de 
+destinataires
+Catégories de destinataires Données concernées
+Les agents habilités de la CNIL 
+pour les stricts besoins de 
+l’accomplissement de leurs 
+missions
+Toutes
+durée de 
+conservation
+La CNIL conserve les données à caractère personnel pendant un 
+an à compter de la décharge du CIL ou de la démission de ses 
+fonctions. 
+Mise à jour (date 
+et objet): Néant
+61
+62Guide Pratique COrreSPONdaNt
+63
+64Guide Pratique COrreSPONdaNt
+65
+66Guide Pratique COrreSPONdaNt
+67
+68Guide Pratique COrreSPONdaNt
+69
+70Guide Pratique COrreSPONdaNt
+71
+72Guide Pratique COrreSPONdaNt
+73
+Une difficulté ? Une hésitation ?
+Plus d’informations sur www.cnil.fr, 
+Une permanence de renseignements juridiques  
+par téléphone est assurée tous les jours  
+de 10h à 12h et de 14h à 16h  
+au 01 53 73 22 22
+Vous pouvez adresser toute demande  
+par télécopie au 01 53 73 22 00
+Document Imprimé sur papier 100% recyclé
+8 rue Vivienne - CS 30223 
+75083 Paris cedex 02
+Tél : 01 53 73 22 22 
+Fax : 01 53 73 22 00
+www.cnil.fr

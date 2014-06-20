@@ -1,0 +1,634 @@
+www.cnil.fr
+A
+g
+en
+ce
+ A
+ri
+st
+op
+han
+e
+8, rue Vivienne - CS 30223  
+75083 Paris cedex 02 
+Tél. : 01 53 73 22 22  
+Fax : 01 53 73 22 00 
+GUIDE 
+LA PUB SI JE VEUX !
+Édition 2011
+
+Avant-propos
+Ce que vous devez savoir
+Vos droits
+Comment éviter de recevoir des publicités ?
+La prospection commerciale par courrier électronique, télécopie  
+et automate d’appel
+Quand saisir la CNIL ?
+Faire valoir vos droits : modèles de lettres
+Ce guide est téléchargeable sur le site Internet de la CNIL : www.cnil.fr
+page 2 
+page 3
+page 4
+page 6
+page 9 
+page 11
+page 13
+Sommaire
+1
+guide la pub si je veux ! 2
+Votre boîte aux lettres « déborde » de publicités 1, votre téléphone sonne 
+à l’heure des repas pour vous proposer des fenêtres ou un abonnement à 
+la télévision par câble, votre téléphone mobile ne cesse de vous signaler 
+la présence de SMS 2 publicitaires, votre ordinateur est envahi par les 
+spams 3, votre télécopieur ne vous laisse pas un moment de répit, 
+déversant jour et nuit des fax commerciaux ?
+Comment cette société, cette association, ce magazine - auxquels vous 
+n’avez jamais communiqué vos coordonnées - ont-ils pu vous adresser 
+cette publicité, cette demande de don, cette proposition d’abonnement ?
+Ce guide pratique, élaboré par les services de la CNIL, a pour objectif de 
+vous aider à comprendre comment ces organismes ont obtenu vos 
+coordonnées, de vous donner les moyens de ne plus recevoir leurs 
+publicités et enfin, de vous apporter des conseils pour vous éviter de 
+recevoir de nouvelles sollicitations.
+(1)  Attention : ce guide ne se rapporte qu’aux « publicités adressées » et non 
+aux « prospectus distribués ». En effet, ces prospectus (qui ne comportent 
+ni votre nom ni votre adresse) ne vous sont pas distribués à partir d’un 
+fichier vous identifiant.
+(2) Short Message Service ou « textos ».
+(3)  Courrier électronique non sollicité qui vous est adressé suite à une collecte 
+frauduleuse de votre adresse.
+Avant-propos
+avant-pr
+opos
+3
+Ce que vous devez savoir
+Ce que vous devez savoir
+Vous avez fait un don à une association, vous avez acheté des vêtements 
+à une société de vente par correspondance, vous êtes titulaire d’une 
+carte de fidélité, vous avez rempli un questionnaire sur vos habitudes 
+de consommation, vous avez souscrit un contrat de téléphonie fixe ou 
+mobile : non seulement l’organisme dont vous êtes devenu le « client » va 
+vraisemblablement vous adresser des publicités mais vous allez également 
+être démarché par d’autres associations ou d’autres sociétés.
+Les sociétés commerciales, associations, journaux ou magazines cher-
+chent, et ce n’est pas illégitime, à conquérir de nouveaux clients, de 
+nouveaux donateurs ou de nouveaux abonnés. En d’autres termes, elles 
+recherchent des prospects.
+Tous ces organismes vont donc s’échanger, se louer ou se vendre vos 
+coordonnées qu’ils ont enregistrées dans leurs fichiers dès lors que vous 
+les leur avez communiquées. Sachez que ces opérations sont appelées 
+des mises à disposition de fichiers.
+Quel que soit le chemin emprunté par la publicité que vous avez reçue, 
+vos coordonnées ne sont pas nécessairement enregistrées dans les 
+fichiers de l’organisme qui vous l’a envoyée. Dans la plupart des cas, ces 
+sociétés ou ces associations qui vous prospectent ne connaîtront pas 
+votre identité et votre adresse. Elles n’enregistreront vos coordonnées 
+dans leurs fichiers que si vous répondez à leur offre commerciale ou à leur 
+demande de don.
+Il existe aussi des sociétés spécialisées dans le traitement des 
+adresses chargées par les sociétés, associations ou magazines, auxquels 
+vous avez communiqué vos coordonnées, de vendre ou louer leurs 
+fichiers. Ces sociétés spécialisées compilent l’ensemble des données, 
+qu’elles reçoivent, parfois avec d’autres données (par exemple le prix du 
+m2 dans votre quartier), afin de proposer à d’autres organismes des fichiers 
+« ciblés » (par exemple, un fichier comportant les coordonnées d’hommes 
+abonnés à des magazines sportifs âgés de moins de 35 ans habitant la 
+région parisienne).
+Sachez enfin qu’il n’existe pas, en France, de « fichier central de consom-
+mateurs » recensant vos coordonnées et vos profils d’achats, dans lequel 
+les sociétés ou associations pourraient faire « leur marché ». 
+Si la CNIL tient un registre des fichiers informatisés qui lui ont été déclarés  
+par les organismes privés et publics, elle ne peut pas savoir dans quels  
+fichiers des données vous concernant y seraient enregistrées.
+Les informations personnelles vous concernant sont conservées par  
+chaque organisme dans leurs propres fichiers et ne sont pas communiquées 
+à la CNIL.
+guide la pub si je veux ! 4
+vos dr
+oits
+La loi du 6 janvier 1978 relative à l’informatique, aux fichiers et aux libertés, 
+modifiée en août 2004, n’interdit pas les mises à disposition de fichiers 
+mais vous donne le droit de vous y opposer ou, dans certains cas, exige 
+votre consentement préalable.
+Le droit d’être informé préalablement
+Si elles ne sont pas contraires à la loi, les opérations de mises à disposition 
+de vos noms et adresses sont toutefois soumises au respect de certaines 
+conditions qui portent, notamment, sur votre information préalable.
+Par exemple, lorsque vous communiquez vos coordonnées à une société 
+ou à une association à partir d’un formulaire d’abonnement, d’un coupon-
+réponse ou d’un bon de commande, ceux-ci doivent comporter une 
+mention lisible qui peut être ainsi rédigée :
+« Conformément à la loi « informatique et libertés » du 6 janvier 1978, ces 
+informations sont nécessaires à notre société pour traiter votre demande. 
+Elles sont enregistrées dans notre fichier de gestion de la clientèle. 
+Vous pouvez exercer votre droit d’accès et de rectification auprès de 
+notre service clientèle. Si vous ne souhaitez pas que les données vous 
+concernant soient transmises à nos partenaires à des fins de prospection 
+commerciale cochez cette case ».
+Le décret d’application de la loi « informatique et libertés » du 25 mars 2007 
+définit de nouvelles garanties au bénéfice des citoyens. Les personnes 
+doivent ainsi pouvoir s’opposer à l’utilisation commerciale de leurs  
+données avant la validation d’une commande ou la signature d’un contrat. 
+C’est pourquoi une case à cocher devrait désormais figurer sur tout 
+formulaire ou questionnaire. Il n’est plus possible de faire simplement 
+figurer une vague mention au sein des conditions générales de vente.
+Le droit d’être radié d’un fichier
+Vous avez le droit de demander la radiation de vos informations personnelles 
+des fichiers dans lesquels elles seraient enregistrées.
+Vous pouvez exercer gratuitement votre droit de radiation auprès des 
+sociétés dont vous êtes client ou des associations dont vous êtes membre 
+ou donateur afin que vos coordonnées ne figurent pas dans leurs fichiers 
+de prospection (voir modèle de lettre page 13) ou ne soient pas mises à 
+disposition d’organismes extérieurs à des fins de prospection (voir modèle 
+de lettre page 14).
+Vos droits
+5
+vos dr
+oits
+Par ailleurs, une société dont vous ne souhaiteriez plus être client ou une 
+association dont vous ne souhaiteriez plus être donateur doit, sur votre 
+demande écrite , procéder à la radiation des informations vous concernant 
+figurant dans ses fichiers. 
+Attention
+Si vous avez souscrit un contrat auprès d’une société  
+pour une durée prévue dans ce contrat,  
+vous ne pourrez pas le résilier quand vous le voulez.
+Cet organisme devra toutefois conserver dans ses archives les informa-
+tions comptables liées à l’exécution de votre contrat pendant dix ans  
+(article L.123-22 du code de commerce).
+Il est important de savoir que les campagnes publicitaires sont 
+programmées plusieurs semaines à l’avance. Il est donc possible que vous 
+receviez encore des publicités pendant un certain temps, même après 
+avoir exercé vos droits.
+Le droit d’obtenir une copie des informations vous concernant 
+et de connaître l’origine de ces données
+L’article 39 de la loi du 6 janvier 1978 modifiée vous donne, en justifiant 
+de votre identité, le droit d’interroger le responsable d’un fichier afin de 
+savoir si des informations personnelles vous concernant sont, ou non, 
+enregistrées dans ses fichiers. Vous pouvez obtenir la communication de 
+ces informations, sous une forme accessible, ainsi que de toute informa-
+tion disponible quant à l’origine de leur collecte.
+Vous pouvez aussi demander à un organisme qui vous a adressé une 
+sollicitation - et auquel vous n’avez jamais communiqué vos coordonnées 
+- de vous donner le nom de la société ou de l’association qui lui a fourni vos 
+coordonnées. Pour cela, il suffit de lui adresser un courrier en y joignant 
+l’étiquette-adresse, c’est-à-dire la partie de sa sollicitation sur laquelle 
+apparaissent vos nom et adresse. En effet, le code composé de chiffres 
+et/ou de lettres figurant sur ce document permet de retrouver le fichier 
+d’origine (voir modèle de lettre page 15).
+guide la pub si je veux ! 6
+comment éviter de r
+ecevoir des publicités
+ ?Le droit de vous opposer à une utilisation commerciale
+Vous pouvez décider vous-même de l’utilisation qui sera faite des données 
+vous concernant et notamment, vous opposer à figurer dans certains 
+fichiers commerciaux. Vous pouvez également refuser la mise à disposition 
+de ces données à des organismes extérieurs à des fins de prospection 
+commerciale.
+Vous pouvez exercer ce droit gratuitement et à tout moment, lorsque vous 
+communiquez des données ou ultérieurement, même si le document que 
+vous avez rempli ne comportait pas les mentions d’information obligatoires 
+ou si ces mentions étaient si peu lisibles que vous ne les avez pas vues.
+Vous pouvez ainsi systématiquement inscrire directement sur le formulaire 
+votre opposition à une utilisation commerciale de vos coordonnées (en 
+cochant la case prévue à cet effet ou en mentionnant, par exemple, « ne pas 
+communiquer mes coordonnées à vos partenaires »), soit encore adresser 
+à cet organisme un courrier simple lui faisant part de votre opposition (voir 
+modèle de lettre page 16). 
+Attention
+à chaque fois que vous allez remplir un bon de commande,  
+un questionnaire, un formulaire d’abonnement, un bulletin de soutien…, 
+vos coordonnées seront à nouveau enregistrées dans les fichiers  
+de l’organisme qui pourra les mettre à disposition de tiers si vous 
+ ne vous y êtes pas opposé.
+Comment éviter de recevoir  
+des publicités ?
+7
+comment éviter de r
+ecevoir des publicités
+ ?
+La maîtrise de vos informations personnelles, c’est à vous d’en décider !
+Vous ne devez communiquer que des informations indispensables à l’achat, 
+à l’abonnement, au don. 
+Par exemple, pour acheter un sèche-cheveux dans une grande surface, il 
+peut vous être demandé, outre vos nom, prénom et adresse pour bénéficier 
+de la garantie, de communiquer votre date de naissance. Rien ne vous oblige 
+à communiquer cette donnée, sauf si vous souhaitez recevoir une publicité 
+le jour de votre anniversaire. C’est à vous de décider.
+Si une société dont vous êtes client vous adresse un questionnaire « afin 
+de mieux vous connaître pour améliorer son service », vous n’êtes non 
+seulement pas obligé d’y répondre mais si vous choisissez de le faire rien ne 
+vous oblige à indiquer, par exemple, les prénoms des personnes composant 
+votre foyer, leur date de naissance, votre profession, si vous avez ou non un 
+téléviseur, un magnétoscope, un ordinateur, etc…. Là encore, c’est à vous 
+de décider.
+L’inscription sur les listes d’opposition
+Vous pouvez vous inscrire sur : 
+La Liste Robinson/Stop Publicité 
+S’adresser à l’U.F.M.D. (Union Française du Marketing Direct)
+60, rue de La Boëtie - 75008 Paris.
+Cette liste recense les personnes qui souhaitent recevoir moins de courriers 
+publicitaires nominatifs. Elle est transmise chaque trimestre par l’UFMD à ses 
+adhérents (vente par correspondance, organismes de presse, associations, 
+prestataires informatiques...) qui se sont engagés à respecter l’opposition 
+des consommateurs à recevoir de la publicité.
+Attention
+L’inscription sur la Liste Robinson/Stop Publicité  
+ne vous préserve pas des sollicitations téléphoniques.
+guide la pub si je veux ! 8
+comment éviter de r
+ecevoir des publicités
+ ?
+Les listes tenues par les opérateurs de téléphonie fixe
+Vous pouvez demander à votre opérateur, à l’occasion de la souscription de 
+votre abonnement, à être inscrit sur :
+la « liste rouge » (inscription gratuite) :
+• vos coordonnées ne figurent pas dans les annuaires ;
+• vos coordonnées ne sont pas communiquées par les services des 
+ renseignements ; 
+• vos coordonnées ne sont pas communiquées par votre opérateur à des  
+ fins de prospection.
+la liste « anti-prospection » (inscription gratuite)
+• vos coordonnées figurent dans les annuaires ;
+• vos coordonnées sont communiquées par les services des 
+ renseignements ; 
+• vos coordonnées ne sont pas communiquées par votre opérateur à des  
+ fins de prospection et un signe distinctif dans les annuaires précise votre  
+ volonté de ne pas être démarché. 
+Attention
+Vous devez demander votre inscription en liste « anti-prospection »  
+à chaque nouvel abonnement téléphonique.
+Téléphonie mobile
+Les informations relatives à votre abonnement de téléphonie mobile  
+ne figureront dans les annuaires que si vous en faites la demande  
+auprès de votre opérateur.
+En cas de changement d’adresse
+Au moment de votre changement d’adresse auprès des services  
+postaux, vous pouvez vous opposer à la communication de votre  
+nouvelle adresse à des sociétés commerciales en cochant la case  
+prévue à cet effet sur le formulaire proposé par La Poste.
+9
+la pr
+ospection par courrier électr
+onique, télécopie ou automate d’appel
+La prospection commerciale par courrier électronique, par télécopie et par 
+automate d’appel à destination des particuliers est subordonnée à l’accord 
+préalable de la personne démarchée : si vous n’avez pas demandé à 
+recevoir des courriers électroniques (méls, SMS, MMS), des télécopies 
+ou des appels téléphoniques préenregistrés à caractère publicitaire, les 
+sociétés qui vous en adressent sont en infraction 4.
+Le consentement à être prospecté doit être « éclairé ». À titre d’exemple, le 
+fait d’accepter des conditions générales de vente ne signifie pas que vous 
+avez donné votre consentement à être prospecté. 
+Dans l’hypothèse où vous auriez consenti à de tels envois, vous avez 
+toujours la possibilité de demander à tout moment et gratuitement que 
+l’envoi de ces messages cesse (voir modèles de lettres pages 16 et 18)
+Le fait de vous adresser des messages à caractère publicitaire par courrier 
+électronique, par télécopie ou par automate d’appel sans avoir obtenu votre 
+consentement est puni d’une amende de 750 € par message envoyé 5. 
+Vous avez la possibilité de déposer une plainte auprès du procureur de la 
+République près le tribunal de grande instance de votre domicile contre 
+les organismes qui vous adressent ces messages (voir modèles de lettres 
+pages 17 et 19).
+(4) Article L34-5 du code des postes et des communications électroniques.
+(5) Article R10-1 du code des postes et des communications électroniques.
+Contre les SMS PUBLICITAIRES, le 33700
+Vous pouvez transmettre gratuitement au 33700 les SMS indésirables  
+que vous recevez. Des actions rapides seront engagées par les 
+opérateurs contre les émetteurs de ces messages publicitaires.
+Le site internet www.33700-spam-sms.fr vous donne toutes les 
+informations utiles sur ce service.
+La prospection par courrier électronique, 
+télécopie ou automate d’appel
+guide la pub si je veux ! 10
+la pr
+ospection par courrier électr
+onique, télécopie ou automate d’appel
+Exceptions à ce principe d’accord préalable
+• la société qui vous a vendu un bien ou un service peut vous envoyer  
+ par courrier électronique des messages publicitaires pour des biens  
+ ou services analogues à celui que vous avez acquis auprès d’elle, sauf  
+ opposition de votre part.
+ Par exemple, si vous achetez un livre sur un site internet qui vend des  
+ biens culturels, ce site pourra vous adresser des publicités pour d’autres  
+ livres, pour des DVD ou des disques, sauf si vous vous êtes opposé à  
+ être ainsi démarché.
+• la prospection téléphonique avec intervention humaine (c’est-à-dire sans  
+ message enregistré) est soumise au simple droit d’opposition.
+ La prospection à caractère associatif, caritatif ou religieux n’est pas 
+ soumise à ce régime de consentement préalable (à distinguer de la  
+ prospection à caractère politique pour laquelle la CNIL recommande  
+ l’accord préalable des personnes). 
+Afin de ne plus recevoir ces sollicitations, vous devez exprimer votre 
+opposition, comme pour la prospection par courrier postal.
+LA CNIL, PARTENAIRE DE SIGNAL- SPAM
+Si vous recevez dans votre messagerie des courriers électroniques non 
+sollicités (« spams »), vous pouvez les transmettre à www.signal-spam.fr. 
+Cette plate-forme nationale de lutte contre le spam est partenaire de la 
+CNIL. Chaque mois, elle établit et transmet à la CNIL la liste des principaux 
+émetteurs de spams français. À partir de cette liste, la CNIL peut procéder 
+à une enquête et, si les faits sont établis, sanctionner ces « spammeurs ». 
+Alors, pour lutter contre le spam, n’hésitez pas : ayez le réflexe Signal Spam ! 
+11
+quand saisir la cnil
+ ?
+•  Si vous avez écrit à une société dont vous êtes client ou à une association 
+dont vous êtes membre ou donateur pour vous opposer à ce que vos 
+coordonnées soient mises à disposition d’organismes extérieurs et que 
+votre demande n’a pas été respectée (voir modèle de lettre page 14) ;
+ou
+•  si vous avez écrit à une société dont vous êtes client ou à une associa-
+tion dont vous êtes membre ou donateur afin de demander la radiation 
+de vos données personnelles enregistrées dans leur fichier et que vous 
+n’avez obtenu aucune réponse ou que la réponse a été négative (voir 
+modèle de lettre page 13) ;
+ou
+•  si vous avez écrit pour savoir par quel moyen la société, l’association ou 
+le magazine qui vous a envoyé une sollicitation a pris connaissance de 
+vos coordonnées et que vous n’avez obtenu aucune réponse ou que la 
+réponse a été négative (voir modèle de lettre page 15) ;
+et
+•  si vous vous êtes inscrit sur les listes d’opposition mentionnées dans ce 
+guide pratique (voir page 7) ;
+et
+•  si vous avez attendu quelques semaines après avoir exercé vos droits ;
+dans tous ces cas, vous pouvez saisir la Commission nationale de 
+l’informatique et des libertés (la CNIL) qui interviendra auprès de la société 
+ou de l’association qui n’a pas respecté vos demandes. 
+PLAINTE EN LIGNE
+Vous pouvez adresser une plainte en ligne si vous avez demandé 
+sans succès à ne plus recevoir de publicité à votre nom.
+Vous pouvez ainsi en quelques clics :
+-  vous informer de vos droits et sur la marche à suivre pour les faire 
+respecter ;
+-  demander l’intervention de la CNIL à partir du formulaire de plainte 
+en ligne ;
+-  accèder aux plateformes de signalement spécialisées contre les 
+spams et les SMS.
+Vous pouvez également adresser un courrier au service des plaintes de la 
+CNIL, 8 rue Vivienne - CS 30223 - 75083 PARIS Cedex 02. Vous y exposerez 
+votre situation et joindrez tout document justificatif : la publicité reçue, la 
+lettre que vous avez adressée à l’organisme, son éventuelle réponse (voir 
+modèle page 20).
+Quand s’adresser à la CNIL ?
+guide la pub si je veux ! 12
+LES DISPOSITIONS PÉNALES 
+Vous avez la possibilité de déposer une plainte auprès du procureur de 
+la République si des organismes ne respectent pas l’opposition que vous 
+avez formulée à la mise à disposition de vos coordonnées ou ne procèdent 
+pas à la radiation de vos coordonnées enregistrées dans leurs fichiers. 
+Pour cela, vous pouvez invoquer l’article 226-18-1 du code pénal 6. 
+Vous devez adresser une lettre relatant précisément les faits au procureur 
+de la République près le tribunal de grande instance du lieu où se trouve 
+le siège social de l’organisme incriminé. N’oubliez pas de joindre à votre 
+courrier tous les éléments justificatifs en votre possession.
+(6)  Article 226-18-1 du code pénal : « Le fait de procéder ou de faire procéder à 
+un traitement de données à caractère personnel concernant une personne 
+physique malgré l’opposition de cette personne, lorsque le traitement répond 
+à des fins de prospection, notamment commerciale, […] est puni de cinq ans 
+d’emprisonnement et de 300 000 € d’amende ».
+quand saisir la cnil
+ ?
+13
+Modèle 1 - Ne plus recevoir de publicités
+Attention
+Ces courriers sont à adresser aux organismes auprès desquels vous souhaitez  
+exercer vos droits et non à la CNIL.
+Expéditeur :
+Vous
+Destinataire :
+Nom de la société 
+ou de l’association
+Le … (date),
+Objet : Je ne souhaite plus recevoir de publicités 
+Madame, Monsieur,
+Conformément aux dispositions de l’article 38 alinéa 2 de la loi du 6 janvier 1978 
+modifiée, je vous demande de supprimer mes coordonnées de vos fichiers d’envoi de 
+publicités.
+Je vous rappelle que vous disposez d’un délai maximal de deux mois suivant la 
+réception de ce courrier pour répondre à ma demande, conformément à l’article 94 du 
+décret du 20 octobre 2005 pris pour l’application de la loi du 6 janvier 1978 modifiée.
+Je vous prie d’agréer, Madame, Monsieur, l’expression de mes salutations 
+distinguées.
+P.J. : votre dernière publicité
+modèle 1 - ne plus r
+ecevoir de publicités
+guide la pub si je veux ! 14
+Expéditeur :
+Vous
+Destinataire :
+Nom de la société 
+ou de l’association
+Le… (date), 
+Objet : Je m’oppose à ce que vous communiquiez mes coordonnées
+Madame, Monsieur,
+Conformément aux dispositions de l’article 38 alinéa 2 de la loi du 6 janvier 1978 
+modifiée, je vous demande de noter que je m’oppose à ce que mes coordonnées, 
+figurant dans vos fichiers, soient mises à disposition d’organismes extérieurs à des 
+fins de prospection commerciale.
+Je vous prie d’agréer, Madame, Monsieur, l’expression de mes salutations 
+distinguées.
+Modèle 2 - S’opposer à la communication 
+de ses coordonnées
+modèle 2 - s’opposer à la communication de ses coor
+données
+15
+Expéditeur :
+Vous
+Destinataire :
+Nom de la société 
+ou de l’association
+Le… (date), 
+Objet : Je souhaite exercer mon droit d’accès
+Madame, Monsieur,
+Conformément à l’article 39 de la loi du 6 janvier 1978 modifiée, je vous demande de 
+m’indiquer si des données me concernant figurent dans vos fichiers informatisés ou 
+manuels et dans l’affirmative, me faire parvenir une copie en langage clair de l’ensemble 
+de ces données, ainsi que toute information disponible quant à l’origine de celles-ci.
+Je vous prie d’agréer, Madame, Monsieur, l’expression de mes salutations 
+distinguées.
+P.J.  - photocopie d’une pièce d’identité 
+- éventuellement votre dernière publicité avec l’étiquette adresse
+Modèle 3 - Exercer son droit d’accès
+modèle 3 - exer
+cer son dr
+oit d’accès
+guide la pub si je veux ! 16
+Expéditeur :
+Vous
+Destinataire :
+Nom de la société 
+ou de l’association
+Le … (date),
+Objet : Je m’oppose à recevoir des télécopies non sollicitées
+Madame, Monsieur,
+Je viens de recevoir une (ou des) télécopie(s) à caractère publicitaire de votre société 
+(copie ci-jointe) alors que je ne vous ai en aucun cas autorisé à me démarcher ainsi.
+Je vous rappelle que l’article L34-5 du code des postes et des communications 
+électroniques interdit toute prospection directe, par voie de télécopie, d’une personne 
+physique qui n’a pas au préalable exprimé son consentement à être démarchée.
+Je vous rappelle également que l’article R10-1 de ce même code punit de 750 € 
+d’amende tout message adressé en infraction à ces dispositions.
+Dès lors, j’exige que vous procédiez à la radiation de mon numéro de télécopieur 
+(indiquez votre numéro) qui figure dans vos fichiers.
+Si ce courrier demeurait sans réponse, je ne manquerai pas de déposer une plainte 
+auprès du procureur de la République.
+Je vous prie d’agréer, Madame, Monsieur, l’expression de mes salutations 
+distinguées.
+Modèle 4 - Ne plus recevoir de télécopies 
+publicitaires
+modèle 4 - ne plus r
+ecevoir de télécopies publicitair
+es
+17
+Expéditeur :
+Vous
+Destinataire :
+TRIBUNAL DE GRANDE INSTANCE
+Monsieur le procureur  
+de la République
+(du lieu où se trouve le siège social  
+de la société mise en cause)
+Le... (date),
+Objet : Plainte relative à l’envoi de télécopies non sollicitées
+Monsieur le procureur de la République,
+J’ai l’honneur de porter à votre connaissance les faits suivants : plusieurs sociétés 
+m’adressent des télécopies publicitaires alors que je n’ai, à aucun moment, exprimé 
+mon consentement à les recevoir.
+Or, l’article L. 34-5 du code des postes et des communications électroniques interdit 
+« la prospection directe, au moyen d’un automate d’appels, d’un télécopieur ou d’un 
+courrier électronique utilisant, sous quelque forme que ce soit, les coordonnées d’une 
+personne physique qui n’a pas exprimé son consentement préalable à recevoir des 
+prospections directes par ce moyen ».
+L’article R.10-1 du code des postes et des communications électroniques punit de 
+l’amende prévue par les contraventions de la quatrième classe tout message de 
+prospection adressé en infraction à ces dispositions.
+Aussi, ai-je l’honneur de porter plainte contre (indiquer les noms des sociétés mises en 
+cause) sur le fondement de ces dispositions.
+Vous trouverez ci-joint les télécopies publicitaires non sollicitées qui m’ont été 
+adressées par ces sociétés.
+Je vous prie d’agréer, Monsieur le procureur de la République, l’assurance de ma 
+considération distinguée.
+Modèle 5 - Déposer plainte en raison  
+de la réception de télécopies publicitaires 
+non sollicitées
+Modèle 5 - Déposer plainte en raison de la réception de télécopies
+ 
+ publicitair
+es non sollicitées
+guide la pub si je veux ! 18
+Expéditeur :
+Vous
+Destinataire :
+Nom de la société 
+ou de l’association
+Le … (date), 
+Objet : Je m’oppose à recevoir des courriers électroniques 
+non sollicités
+Madame, Monsieur,
+Vous m’avez adressé dans ma boîte aux lettres électronique, et sans que je l’aie 
+sollicité, le message ci-joint. 
+Aussi, conformément à l’article 38 alinéa 2 de la loi du 6 janvier 1978 modifiée, je vous 
+demande de bien vouloir procéder à la radiation de toutes les données me concernant 
+qui figureraient dans vos fichiers. 
+Je vous rappelle qu’à défaut de prendre en compte ma demande de radiation, le fait 
+de m’envoyer d’autres messages ou de transmettre mon adresse de messagerie à des 
+tiers malgré mon opposition est passible des peines prévues aux articles 226-18-1 
+(jusqu’à 300 000 euros d’amende et 5 années d’emprisonnement) et 226-24 (peine 
+d’amende multipliée par 5 pour les personnes morales) du code pénal. 
+Souhaitant ne pas avoir à utiliser les voies de droit qui me seraient ouvertes si vous ne 
+preniez pas en compte ma demande, 
+Je vous prie d’agréer, Madame, Monsieur, l’expression de mes salutations 
+distinguées.
+Modèle 6 - Ne plus recevoir de courriers 
+électroniques publicitaires
+modèle 6 - ne plus r
+ecevoir de courriers électr
+oniques publicitair
+es
+19
+Expéditeur :
+Vous
+Destinataire :
+TRIBUNAL  
+DE GRANDE INSTANCE
+Monsieur le procureur  
+de la République
+(du lieu où se trouve le siège social 
+de la société mise en cause)
+Le … (date), 
+Objet : Plainte relative à l’envoi de courriers électroniques non sollicités
+Monsieur le procureur de la République,
+J’ai l’honneur de porter à votre connaissance les faits suivants : plusieurs sociétés 
+m’adressent des courriers électroniques publicitaires alors que je n’ai, à aucun 
+moment, exprimé mon consentement à les recevoir.
+Or, l’article L. 34-5 du code des postes et des communications électroniques interdit 
+« la prospection directe, au moyen d’un automate d’appels, d’un télécopieur ou d’un 
+courrier électronique utilisant, sous quelque forme que ce soit, les coordonnées d’une 
+personne physique qui n’a pas exprimé son consentement préalable à recevoir des 
+prospections directes par ce moyen ».
+L’article R.10-1 du code des postes et des communications électroniques, modifié 
+par le décret n° 2003-752 du 1er août 2003 relatif aux annuaires universels et aux 
+services universels de renseignements, punit désormais de l’amende prévue par 
+les contraventions de la quatrième classe tout message de prospection adressé en 
+infraction à ces dispositions.
+Aussi, ai-je l’honneur de porter plainte contre (indiquer dans la mesure du possible les 
+noms des sociétés mises en cause), et vous demande de bien vouloir procéder ou faire 
+procéder à la recherche et la poursuite des auteurs des infractions à l’article R.10-1 du 
+code des postes et des communications électroniques.
+Vous trouverez ci-joints les courriers électroniques publicitaires non sollicités 
+accompagnés d’une copie des en-têtes des messages incriminés.
+Je vous prie d’agréer, Monsieur le procureur de la République, l’assurance de ma 
+considération distinguée.
+Modèle 7 - Déposer plainte en raison  
+de la réception de courriers électroniques 
+publicitaires non sollicités
+Modèle 7 - Déposer plainte en raison de la réception de courriers
+  
+électr
+oniques publicitair
+es non sollicités
+guide la pub si je veux ! 20
+Attention
+Ce courrier est à adresser à la CNIL uniquement si vous avez exercé  
+sans succès vos droits.
+Expéditeur :
+Vous
+Destinataire :
+Monsieur le président 
+Commission nationale 
+de l’informatique et des libertés
+8, rue Vivienne-CS 30223
+75083 PARIS Cedex 02
+Le … (date),
+Objet : Demande d’intervention de la CNIL
+Monsieur le président,
+Je souhaite appeler votre attention sur les faits suivants.
+Je vous prie d’agréer, Monsieur le président, l’expression de mes salutations 
+distinguées.
+Signature
+PJ :  - Photocopies des échanges de courriers avec l’organisme mis en cause. 
+- Justificatif d’identité en cas de demande de droit d’accès ou de rectification. 
+Modèle 8 - Modèle de lettre pour 
+demander l’intervention de la CNIL
+modèle 8 - modèle de lettr
+e pour demander l’intervention de la cnil
+
+www.cnil.fr
+A
+g
+en
+ce
+ A
+ri
+st
+op
+han
+e
+8, rue Vivienne - CS 30223  
+75083 Paris cedex 02 
+Tél. : 01 53 73 22 22  
+Fax : 01 53 73 22 00 
+GUIDE 
+LA PUB SI JE VEUX !
+Édition 2011

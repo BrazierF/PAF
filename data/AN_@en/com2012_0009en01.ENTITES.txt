@@ -1,0 +1,340 @@
+EUROPEAN COMMISSION
+
+http://dbpedia.org/resource/European_Commission
+
+Brussels
+Schema:Place,DBpedia:Place,DBpedia:PopulatedPlace,DBpedia:Settlement
+http://dbpedia.org/resource/Brussels
+
+EUROPEAN PARLIAMENT
+DBpedia:Agent,Schema:Organization,DBpedia:Organisation,DBpedia:Legislature
+http://dbpedia.org/resource/European_Parliament
+
+EUROPEAN ECONOMIC AND SOCIAL COMMITTEE
+
+http://dbpedia.org/resource/European_Economic_and_Social_Committee
+
+COMMITTEE OF THE REGIONS
+
+http://dbpedia.org/resource/Committee_of_the_Regions
+
+EEA
+
+http://dbpedia.org/resource/European_Economic_Area
+
+EUROPEAN PARLIAMENT
+DBpedia:Agent,Schema:Organization,DBpedia:Organisation,DBpedia:Legislature
+http://dbpedia.org/resource/European_Parliament
+
+EUROPEAN ECONOMIC AND SOCIAL COMMITTEE
+
+http://dbpedia.org/resource/European_Economic_and_Social_Committee
+
+COMMITTEE OF THE REGIONS
+
+http://dbpedia.org/resource/Committee_of_the_Regions
+
+EEA
+
+http://dbpedia.org/resource/European_Economic_Area
+
+European Union
+
+http://dbpedia.org/resource/European_Union
+
+European Union
+
+http://dbpedia.org/resource/European_Union
+
+TFEU
+
+http://dbpedia.org/resource/Treaties_of_the_European_Union
+
+digital economy
+
+http://dbpedia.org/resource/Digital_economy
+
+European Council
+DBpedia:Agent,Schema:Organization,DBpedia:Organisation
+http://dbpedia.org/resource/European_Council
+
+European Commission
+
+http://dbpedia.org/resource/European_Commission
+
+Stockholm
+Schema:Place,DBpedia:Place,DBpedia:PopulatedPlace,DBpedia:Settlement
+http://dbpedia.org/resource/Stockholm
+
+European Commission
+
+http://dbpedia.org/resource/European_Commission
+
+Lisbon Treaty
+
+http://dbpedia.org/resource/Treaty_of_Lisbon
+
+TFEU
+
+http://dbpedia.org/resource/Treaties_of_the_European_Union
+
+European Commission
+
+http://dbpedia.org/resource/European_Commission
+
+Stockholm Programme
+
+http://dbpedia.org/resource/Stockholm_Programme
+
+Stockholm
+Schema:Place,DBpedia:Place,DBpedia:PopulatedPlace,DBpedia:Settlement
+http://dbpedia.org/resource/Stockholm
+
+European Data Protection Supervisor
+
+http://dbpedia.org/resource/European_Data_Protection_Supervisor
+
+TEU
+
+http://dbpedia.org/resource/Treaties_of_the_European_Union
+
+Viviane Reding
+DBpedia:Agent,Schema:Person,Http://xmlns.com/foaf/0.1/Person,DBpedia:Person,DBpedia:OfficeHolder
+http://dbpedia.org/resource/Viviane_Reding
+
+Viviane Reding
+DBpedia:Agent,Schema:Person,Http://xmlns.com/foaf/0.1/Person,DBpedia:Person,DBpedia:OfficeHolder
+http://dbpedia.org/resource/Viviane_Reding
+
+Article 29 Working Party
+
+http://dbpedia.org/resource/Article_29_Working_Party
+
+European Commission
+
+http://dbpedia.org/resource/European_Commission
+
+European Commission
+
+http://dbpedia.org/resource/European_Commission
+
+red
+DBpedia:Colour
+http://dbpedia.org/resource/Red
+
+SEC
+DBpedia:Agent,Schema:Organization,DBpedia:Organisation,Schema:GovernmentOrganization,DBpedia:GovernmentAgency
+http://dbpedia.org/resource/U.S._Securities_and_Exchange_Commission
+
+European Parliament
+DBpedia:Agent,Schema:Organization,DBpedia:Organisation,DBpedia:Legislature
+http://dbpedia.org/resource/European_Parliament
+
+Eurobarometer
+
+http://dbpedia.org/resource/Eurobarometer
+
+European Union
+
+http://dbpedia.org/resource/European_Union
+
+social networking service
+
+http://dbpedia.org/resource/Social_networking_service
+
+social networking services
+
+http://dbpedia.org/resource/Social_networking_service
+
+ICT
+
+http://dbpedia.org/resource/Information_and_communications_technology
+
+ICT
+
+http://dbpedia.org/resource/Information_and_communications_technology
+
+ICT
+
+http://dbpedia.org/resource/Information_and_communications_technology
+
+affirmative action
+
+http://dbpedia.org/resource/Affirmative_action
+
+privacy-enhancing technologies
+
+http://dbpedia.org/resource/Privacy-enhancing_technologies
+
+telecommunications
+
+http://dbpedia.org/resource/Telecommunication
+
+Article 29 Working Party
+
+http://dbpedia.org/resource/Article_29_Working_Party
+
+SEC
+DBpedia:Agent,Schema:Organization,DBpedia:Organisation,Schema:GovernmentOrganization,DBpedia:GovernmentAgency
+http://dbpedia.org/resource/U.S._Securities_and_Exchange_Commission
+
+Article 29 Working Party
+
+http://dbpedia.org/resource/Article_29_Working_Party
+
+European Data Protection Supervisor
+
+http://dbpedia.org/resource/European_Data_Protection_Supervisor
+
+EN 8
+
+http://dbpedia.org/resource/EN_8
+
+red
+DBpedia:Colour
+http://dbpedia.org/resource/Red
+
+Article 29 Working Party
+
+http://dbpedia.org/resource/Article_29_Working_Party
+
+European Data Protection Supervisor
+
+http://dbpedia.org/resource/European_Data_Protection_Supervisor
+
+European Data Protection Supervisor
+
+http://dbpedia.org/resource/European_Data_Protection_Supervisor
+
+European Union
+
+http://dbpedia.org/resource/European_Union
+
+Lisbon Treaty
+
+http://dbpedia.org/resource/Treaty_of_Lisbon
+
+TFEU
+
+http://dbpedia.org/resource/Treaties_of_the_European_Union
+
+Lisbon Treaty
+
+http://dbpedia.org/resource/Treaty_of_Lisbon
+
+C-
+
+http://dbpedia.org/resource/Grading_(education)
+
+C-93
+Schema:Product,DBpedia:Device,DBpedia:Weapon
+http://dbpedia.org/resource/Borchardt_C-93
+
+European Union
+
+http://dbpedia.org/resource/European_Union
+
+C-
+
+http://dbpedia.org/resource/Grading_(education)
+
+I-
+DBpedia:ChemicalSubstance,DBpedia:ChemicalCompound
+http://dbpedia.org/resource/Iodide
+
+C-
+
+http://dbpedia.org/resource/Grading_(education)
+
+I-
+DBpedia:ChemicalSubstance,DBpedia:ChemicalCompound
+http://dbpedia.org/resource/Iodide
+
+Intergovernmental Conference
+
+http://dbpedia.org/resource/Intergovernmental_Conference
+
+Lisbon Treaty
+
+http://dbpedia.org/resource/Treaty_of_Lisbon
+
+cloud computing
+
+http://dbpedia.org/resource/Cloud_computing
+
+Article 29 Working Party
+
+http://dbpedia.org/resource/Article_29_Working_Party
+
+Article 29 Working Party
+
+http://dbpedia.org/resource/Article_29_Working_Party
+
+European Commission
+
+http://dbpedia.org/resource/European_Commission
+
+cloud computing
+
+http://dbpedia.org/resource/Cloud_computing
+
+European Neighbourhood Policy
+
+http://dbpedia.org/resource/European_Neighbourhood_Policy
+
+United Nations
+Schema:Place,DBpedia:Place,DBpedia:PopulatedPlace,Schema:Country,DBpedia:Country
+http://dbpedia.org/resource/United_Nations
+
+European Union
+
+http://dbpedia.org/resource/European_Union
+
+digital economy
+
+http://dbpedia.org/resource/Digital_economy
+
+Europe 2020 strategy
+
+http://dbpedia.org/resource/Europe_2020
+
+European Commission
+
+http://dbpedia.org/resource/European_Commission
+
+European Parliament
+DBpedia:Agent,Schema:Organization,DBpedia:Organisation,DBpedia:Legislature
+http://dbpedia.org/resource/European_Parliament
+
+Europol
+DBpedia:Agent,Schema:Organization,DBpedia:Organisation
+http://dbpedia.org/resource/Europol
+
+Fundamental Rights Agency
+DBpedia:Agent,Schema:Organization,DBpedia:Organisation
+http://dbpedia.org/resource/Fundamental_Rights_Agency
+
+digital economy
+
+http://dbpedia.org/resource/Digital_economy
+
+Europe 2020 strategy
+
+http://dbpedia.org/resource/Europe_2020
+
+European Commission
+
+http://dbpedia.org/resource/European_Commission
+
+European Parliament
+DBpedia:Agent,Schema:Organization,DBpedia:Organisation,DBpedia:Legislature
+http://dbpedia.org/resource/European_Parliament
+
+Europol
+DBpedia:Agent,Schema:Organization,DBpedia:Organisation
+http://dbpedia.org/resource/Europol
+
+Fundamental Rights Agency
+DBpedia:Agent,Schema:Organization,DBpedia:Organisation
+http://dbpedia.org/resource/Fundamental_Rights_Agency
+

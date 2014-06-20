@@ -1,0 +1,2484 @@
+Parlement européen
+
+http://fr.dbpedia.org/resource/Parlement_européen
+
+Jan Philipp Albrecht
+
+http://fr.dbpedia.org/resource/Jan_Philipp_Albrecht
+
+Procédure législative ordinaire
+
+http://fr.dbpedia.org/resource/Procédure_législative_ordinaire
+
+Procédure législative ordinaire
+
+http://fr.dbpedia.org/resource/Procédure_législative_ordinaire
+
+Procédure législative ordinaire
+
+http://fr.dbpedia.org/resource/Procédure_législative_ordinaire
+
+Parlement
+
+http://fr.dbpedia.org/resource/Parlement_européen
+
+Parlement
+
+http://fr.dbpedia.org/resource/Parlement_européen
+
+.......
+
+http://fr.dbpedia.org/resource/.......
+
+.......
+
+http://fr.dbpedia.org/resource/.......
+
+.......
+
+http://fr.dbpedia.org/resource/.......
+
+.......
+
+http://fr.dbpedia.org/resource/.......
+
+.......
+
+http://fr.dbpedia.org/resource/.......
+
+.......
+
+http://fr.dbpedia.org/resource/.......
+
+.......
+
+http://fr.dbpedia.org/resource/.......
+
+.......
+
+http://fr.dbpedia.org/resource/.......
+
+.......
+
+http://fr.dbpedia.org/resource/.......
+
+.......
+
+http://fr.dbpedia.org/resource/.......
+
+.......
+
+http://fr.dbpedia.org/resource/.......
+
+.......
+
+http://fr.dbpedia.org/resource/.......
+
+.......
+
+http://fr.dbpedia.org/resource/.......
+
+.......
+
+http://fr.dbpedia.org/resource/.......
+
+.......
+
+http://fr.dbpedia.org/resource/.......
+
+.......
+
+http://fr.dbpedia.org/resource/.......
+
+.......
+
+http://fr.dbpedia.org/resource/.......
+
+.......
+
+http://fr.dbpedia.org/resource/.......
+
+Parlement européen
+
+http://fr.dbpedia.org/resource/Parlement_européen
+
+Procédure législative ordinaire
+
+http://fr.dbpedia.org/resource/Procédure_législative_ordinaire
+
+Parlement européen
+
+http://fr.dbpedia.org/resource/Parlement_européen
+
+Parlement européen
+
+http://fr.dbpedia.org/resource/Parlement_européen
+
+Union européenne
+
+http://fr.dbpedia.org/resource/Union_européenne
+
+Union européenne
+
+http://fr.dbpedia.org/resource/Union_européenne
+
+Sénat français
+
+http://fr.dbpedia.org/resource/Sénat_(France)
+
+belge
+Schema:Place,DBpedia:Place,DBpedia:PopulatedPlace,Schema:Country,DBpedia:Country
+http://fr.dbpedia.org/resource/Belgique
+
+Parlement
+
+http://fr.dbpedia.org/resource/Parlement_européen
+
+suédois
+Schema:Place,DBpedia:Place,DBpedia:PopulatedPlace,Schema:Country,DBpedia:Country
+http://fr.dbpedia.org/resource/Suède
+
+Bundesrat
+
+http://fr.dbpedia.org/resource/Bundesrat_(Allemagne)
+
+allemand
+Schema:Language,DBpedia:Language
+http://fr.dbpedia.org/resource/Allemand
+
+principe de subsidiarité
+
+http://fr.dbpedia.org/resource/Principe_de_subsidiarité
+
+Union européenne
+
+http://fr.dbpedia.org/resource/Union_européenne
+
+A7
+
+http://fr.dbpedia.org/resource/Autoroute_A7_(France)
+
+JO
+Schema:CreativeWork,DBpedia:Work,DBpedia:WrittenWork,DBpedia:PeriodicalLiterature,DBpedia:Newspaper
+http://fr.dbpedia.org/resource/Journal_officiel_de_la_République_française
+
+Parlement
+
+http://fr.dbpedia.org/resource/Parlement_européen
+
+CEDH
+
+http://fr.dbpedia.org/resource/Convention_européenne_des_droits_de_l'homme
+
+mondialisation
+
+http://fr.dbpedia.org/resource/Mondialisation
+
+organisations internationales
+
+http://fr.dbpedia.org/resource/Organisation_internationale
+
+mondialisation
+
+http://fr.dbpedia.org/resource/Mondialisation
+
+organisations internationales
+
+http://fr.dbpedia.org/resource/Organisation_internationale
+
+directive
+
+http://fr.dbpedia.org/resource/Directive_de_l'Union_européenne
+
+directive
+
+http://fr.dbpedia.org/resource/Directive_de_l'Union_européenne
+
+directive
+
+http://fr.dbpedia.org/resource/Directive_de_l'Union_européenne
+
+directive
+
+http://fr.dbpedia.org/resource/Directive_de_l'Union_européenne
+
+sécurité juridique
+
+http://fr.dbpedia.org/resource/Sécurité_juridique
+
+droits opposables
+
+http://fr.dbpedia.org/resource/Droit_opposable
+
+sécurité juridique
+
+http://fr.dbpedia.org/resource/Sécurité_juridique
+
+sécurité juridique
+
+http://fr.dbpedia.org/resource/Sécurité_juridique
+
+droits opposables
+
+http://fr.dbpedia.org/resource/Droit_opposable
+
+sécurité juridique
+
+http://fr.dbpedia.org/resource/Sécurité_juridique
+
+Parlement européen
+
+http://fr.dbpedia.org/resource/Parlement_européen
+
+traitements de données à caractère personnel
+
+http://fr.dbpedia.org/resource/Fichage_en_France
+
+traitements de données à caractère personnel
+
+http://fr.dbpedia.org/resource/Fichage_en_France
+
+traitement de données à caractère personnel
+
+http://fr.dbpedia.org/resource/Fichage_en_France
+
+traitement de données à caractère personnel
+
+http://fr.dbpedia.org/resource/Fichage_en_France
+
+directive
+
+http://fr.dbpedia.org/resource/Directive_de_l'Union_européenne
+
+directive
+
+http://fr.dbpedia.org/resource/Directive_de_l'Union_européenne
+
+directive
+
+http://fr.dbpedia.org/resource/Directive_de_l'Union_européenne
+
+directive
+
+http://fr.dbpedia.org/resource/Directive_de_l'Union_européenne
+
+Parlement européen
+
+http://fr.dbpedia.org/resource/Parlement_européen
+
+commerce électronique
+
+http://fr.dbpedia.org/resource/Commerce_électronique
+
+directive
+
+http://fr.dbpedia.org/resource/Directive_de_l'Union_européenne
+
+commerce électronique
+
+http://fr.dbpedia.org/resource/Commerce_électronique
+
+directive
+
+http://fr.dbpedia.org/resource/Directive_de_l'Union_européenne
+
+sécurité juridique
+
+http://fr.dbpedia.org/resource/Sécurité_juridique
+
+directive
+
+http://fr.dbpedia.org/resource/Directive_de_l'Union_européenne
+
+traitement de données à caractère personnel
+
+http://fr.dbpedia.org/resource/Fichage_en_France
+
+traitement de données à caractère personnel
+
+http://fr.dbpedia.org/resource/Fichage_en_France
+
+Union européenne
+
+http://fr.dbpedia.org/resource/Union_européenne
+
+traitement de données à caractère personnel
+
+http://fr.dbpedia.org/resource/Fichage_en_France
+
+traitement de données à caractère personnel
+
+http://fr.dbpedia.org/resource/Fichage_en_France
+
+Union européenne
+
+http://fr.dbpedia.org/resource/Union_européenne
+
+Conseil de l'Europe
+
+http://fr.dbpedia.org/resource/Conseil_de_l'Europe
+
+Nations unies
+
+http://fr.dbpedia.org/resource/Organisation_des_Nations_unies
+
+Nations unies
+
+http://fr.dbpedia.org/resource/Organisation_des_Nations_unies
+
+Amendement 18
+
+http://fr.dbpedia.org/resource/XVIIIe_amendement_de_la_Constitution_des_??tats-Unis
+
+Nations unies
+
+http://fr.dbpedia.org/resource/Organisation_des_Nations_unies
+
+Amendement 18
+
+http://fr.dbpedia.org/resource/XVIIIe_amendement_de_la_Constitution_des_??tats-Unis
+
+traitement de données à caractère personnel
+
+http://fr.dbpedia.org/resource/Fichage_en_France
+
+traitement de données à caractère personnel
+
+http://fr.dbpedia.org/resource/Fichage_en_France
+
+Union européenne
+
+http://fr.dbpedia.org/resource/Union_européenne
+
+Union européenne
+
+http://fr.dbpedia.org/resource/Union_européenne
+
+Union européenne
+
+http://fr.dbpedia.org/resource/Union_européenne
+
+Union européenne
+
+http://fr.dbpedia.org/resource/Union_européenne
+
+système d'information
+
+http://fr.dbpedia.org/resource/Système_d'information
+
+CERT
+
+http://fr.dbpedia.org/resource/Computer_Emergency_Response_Team
+
+sécurité informatique
+
+http://fr.dbpedia.org/resource/Sécurité_des_systèmes_d'information
+
+déni de service
+
+http://fr.dbpedia.org/resource/Attaque_par_déni_de_service
+
+système d'information
+
+http://fr.dbpedia.org/resource/Système_d'information
+
+CERT
+
+http://fr.dbpedia.org/resource/Computer_Emergency_Response_Team
+
+sécurité informatique
+
+http://fr.dbpedia.org/resource/Sécurité_des_systèmes_d'information
+
+déni de service
+
+http://fr.dbpedia.org/resource/Attaque_par_déni_de_service
+
+Media Access Control
+
+http://fr.dbpedia.org/resource/Contrôle_d'accès_au_support
+
+courrier électronique
+
+http://fr.dbpedia.org/resource/Courrier_électronique
+
+ter
+
+http://fr.dbpedia.org/resource/Transport_express_régional
+
+ter
+
+http://fr.dbpedia.org/resource/Transport_express_régional
+
+courrier électronique
+
+http://fr.dbpedia.org/resource/Courrier_électronique
+
+messagerie électronique
+
+http://fr.dbpedia.org/resource/Courrier_électronique
+
+ter
+
+http://fr.dbpedia.org/resource/Transport_express_régional
+
+ter
+
+http://fr.dbpedia.org/resource/Transport_express_régional
+
+courrier électronique
+
+http://fr.dbpedia.org/resource/Courrier_électronique
+
+messagerie électronique
+
+http://fr.dbpedia.org/resource/Courrier_électronique
+
+ter
+
+http://fr.dbpedia.org/resource/Transport_express_régional
+
+ter
+
+http://fr.dbpedia.org/resource/Transport_express_régional
+
+courrier électronique
+
+http://fr.dbpedia.org/resource/Courrier_électronique
+
+messagerie électronique
+
+http://fr.dbpedia.org/resource/Courrier_électronique
+
+traitement de données à caractère personnel
+
+http://fr.dbpedia.org/resource/Fichage_en_France
+
+traitement de données à caractère personnel
+
+http://fr.dbpedia.org/resource/Fichage_en_France
+
+traitement de données à caractère personnel
+
+http://fr.dbpedia.org/resource/Fichage_en_France
+
+traitement de données à caractère personnel
+
+http://fr.dbpedia.org/resource/Fichage_en_France
+
+traitement de données à caractère personnel
+
+http://fr.dbpedia.org/resource/Fichage_en_France
+
+traitement de données à caractère personnel
+
+http://fr.dbpedia.org/resource/Fichage_en_France
+
+traitement de données à caractère personnel
+
+http://fr.dbpedia.org/resource/Fichage_en_France
+
+traitement de données à caractère personnel
+
+http://fr.dbpedia.org/resource/Fichage_en_France
+
+ter
+
+http://fr.dbpedia.org/resource/Transport_express_régional
+
+ter
+
+http://fr.dbpedia.org/resource/Transport_express_régional
+
+Union européenne
+
+http://fr.dbpedia.org/resource/Union_européenne
+
+Union européenne
+
+http://fr.dbpedia.org/resource/Union_européenne
+
+traitement de données à caractère personnel
+
+http://fr.dbpedia.org/resource/Fichage_en_France
+
+traitement de données à caractère personnel
+
+http://fr.dbpedia.org/resource/Fichage_en_France
+
+étape
+
+http://fr.dbpedia.org/resource/8e_étape_du_Tour_de_France_2011
+
+Instagram
+Schema:CreativeWork,DBpedia:Work,DBpedia:Software
+http://fr.dbpedia.org/resource/Instagram
+
+Facebook
+
+http://fr.dbpedia.org/resource/Facebook
+
+Instagram
+Schema:CreativeWork,DBpedia:Work,DBpedia:Software
+http://fr.dbpedia.org/resource/Instagram
+
+Facebook
+
+http://fr.dbpedia.org/resource/Facebook
+
+interopérabilité
+
+http://fr.dbpedia.org/resource/Interopérabilité
+
+interopérabilité
+
+http://fr.dbpedia.org/resource/Interopérabilité
+
+interopérabilité
+
+http://fr.dbpedia.org/resource/Interopérabilité
+
+interopérabilité
+
+http://fr.dbpedia.org/resource/Interopérabilité
+
+interopérabilité
+
+http://fr.dbpedia.org/resource/Interopérabilité
+
+interopérabilité
+
+http://fr.dbpedia.org/resource/Interopérabilité
+
+interopérabilité
+
+http://fr.dbpedia.org/resource/Interopérabilité
+
+interopérabilité
+
+http://fr.dbpedia.org/resource/Interopérabilité
+
+cents
+
+http://fr.dbpedia.org/resource/Dollar_américain
+
+cents
+
+http://fr.dbpedia.org/resource/Dollar_américain
+
+cents
+
+http://fr.dbpedia.org/resource/Dollar_américain
+
+sécurité juridique
+
+http://fr.dbpedia.org/resource/Sécurité_juridique
+
+organisations internationales
+
+http://fr.dbpedia.org/resource/Organisation_internationale
+
+sécurité juridique
+
+http://fr.dbpedia.org/resource/Sécurité_juridique
+
+organisations internationales
+
+http://fr.dbpedia.org/resource/Organisation_internationale
+
+sécurité juridique
+
+http://fr.dbpedia.org/resource/Sécurité_juridique
+
+organisations internationales
+
+http://fr.dbpedia.org/resource/Organisation_internationale
+
+sécurité juridique
+
+http://fr.dbpedia.org/resource/Sécurité_juridique
+
+organisations internationales
+
+http://fr.dbpedia.org/resource/Organisation_internationale
+
+sécurité juridique
+
+http://fr.dbpedia.org/resource/Sécurité_juridique
+
+organisations internationales
+
+http://fr.dbpedia.org/resource/Organisation_internationale
+
+sécurité juridique
+
+http://fr.dbpedia.org/resource/Sécurité_juridique
+
+organisations internationales
+
+http://fr.dbpedia.org/resource/Organisation_internationale
+
+sécurité juridique
+
+http://fr.dbpedia.org/resource/Sécurité_juridique
+
+organisations internationales
+
+http://fr.dbpedia.org/resource/Organisation_internationale
+
+sécurité juridique
+
+http://fr.dbpedia.org/resource/Sécurité_juridique
+
+organisations internationales
+
+http://fr.dbpedia.org/resource/Organisation_internationale
+
+traitement de données à caractère personnel
+
+http://fr.dbpedia.org/resource/Fichage_en_France
+
+sécurité juridique
+
+http://fr.dbpedia.org/resource/Sécurité_juridique
+
+traitement de données à caractère personnel
+
+http://fr.dbpedia.org/resource/Fichage_en_France
+
+sécurité juridique
+
+http://fr.dbpedia.org/resource/Sécurité_juridique
+
+sécurité juridique
+
+http://fr.dbpedia.org/resource/Sécurité_juridique
+
+Cour de justice de l'Union
+
+http://fr.dbpedia.org/resource/Cour_de_justice_(Union_européenne)
+
+Union européenne
+
+http://fr.dbpedia.org/resource/Union_européenne
+
+directive
+
+http://fr.dbpedia.org/resource/Directive_de_l'Union_européenne
+
+directive
+
+http://fr.dbpedia.org/resource/Directive_de_l'Union_européenne
+
+Union européenne
+
+http://fr.dbpedia.org/resource/Union_européenne
+
+directive
+
+http://fr.dbpedia.org/resource/Directive_de_l'Union_européenne
+
+Union européenne
+
+http://fr.dbpedia.org/resource/Union_européenne
+
+traitement de données à caractère personnel
+
+http://fr.dbpedia.org/resource/Fichage_en_France
+
+Union européenne
+
+http://fr.dbpedia.org/resource/Union_européenne
+
+traitements de données à caractère personnel
+
+http://fr.dbpedia.org/resource/Fichage_en_France
+
+traitement de données à caractère personnel
+
+http://fr.dbpedia.org/resource/Fichage_en_France
+
+Union européenne
+
+http://fr.dbpedia.org/resource/Union_européenne
+
+traitements de données à caractère personnel
+
+http://fr.dbpedia.org/resource/Fichage_en_France
+
+organisations internationales
+
+http://fr.dbpedia.org/resource/Organisation_internationale
+
+organisations internationales
+
+http://fr.dbpedia.org/resource/Organisation_internationale
+
+organisations internationales
+
+http://fr.dbpedia.org/resource/Organisation_internationale
+
+sécurité sociale
+
+http://fr.dbpedia.org/resource/Sécurité_sociale
+
+sécurité sociale
+
+http://fr.dbpedia.org/resource/Sécurité_sociale
+
+Union européenne
+
+http://fr.dbpedia.org/resource/Union_européenne
+
+Union européenne
+
+http://fr.dbpedia.org/resource/Union_européenne
+
+Union européenne
+
+http://fr.dbpedia.org/resource/Union_européenne
+
+Parlement européen
+
+http://fr.dbpedia.org/resource/Parlement_européen
+
+Parlement européen
+
+http://fr.dbpedia.org/resource/Parlement_européen
+
+Parlement européen
+
+http://fr.dbpedia.org/resource/Parlement_européen
+
+Parlement européen
+
+http://fr.dbpedia.org/resource/Parlement_européen
+
+Parlement européen
+
+http://fr.dbpedia.org/resource/Parlement_européen
+
+directive
+
+http://fr.dbpedia.org/resource/Directive_de_l'Union_européenne
+
+directive
+
+http://fr.dbpedia.org/resource/Directive_de_l'Union_européenne
+
+directive
+
+http://fr.dbpedia.org/resource/Directive_de_l'Union_européenne
+
+directive
+
+http://fr.dbpedia.org/resource/Directive_de_l'Union_européenne
+
+Parlement européen
+
+http://fr.dbpedia.org/resource/Parlement_européen
+
+Union européenne
+
+http://fr.dbpedia.org/resource/Union_européenne
+
+Union européenne
+
+http://fr.dbpedia.org/resource/Union_européenne
+
+TFUE
+
+http://fr.dbpedia.org/resource/Traité_sur_le_fonctionnement_de_l'Union_européenne
+
+Cour de justice de l'Union
+
+http://fr.dbpedia.org/resource/Cour_de_justice_(Union_européenne)
+
+Union européenne
+
+http://fr.dbpedia.org/resource/Union_européenne
+
+Cour de justice de l'Union
+
+http://fr.dbpedia.org/resource/Cour_de_justice_(Union_européenne)
+
+Union européenne
+
+http://fr.dbpedia.org/resource/Union_européenne
+
+Cour de justice de l'Union
+
+http://fr.dbpedia.org/resource/Cour_de_justice_(Union_européenne)
+
+traitement de données à caractère personnel
+
+http://fr.dbpedia.org/resource/Fichage_en_France
+
+Union européenne
+
+http://fr.dbpedia.org/resource/Union_européenne
+
+Union européenne
+
+http://fr.dbpedia.org/resource/Union_européenne
+
+orientation sexuelle
+
+http://fr.dbpedia.org/resource/Orientation_sexuelle
+
+ter
+
+http://fr.dbpedia.org/resource/Transport_express_régional
+
+ter
+
+http://fr.dbpedia.org/resource/Transport_express_régional
+
+traitement automatisé de données à caractère personnel
+
+http://fr.dbpedia.org/resource/Traitement_automatisé_de_données_à_caractère_personnel
+
+ter
+
+http://fr.dbpedia.org/resource/Transport_express_régional
+
+systèmes de traitement automatisé de données
+
+http://fr.dbpedia.org/resource/Système_de_traitement_automatisé_de_données
+
+ter
+
+http://fr.dbpedia.org/resource/Transport_express_régional
+
+systèmes de traitement automatisé de données
+
+http://fr.dbpedia.org/resource/Système_de_traitement_automatisé_de_données
+
+ter
+
+http://fr.dbpedia.org/resource/Transport_express_régional
+
+systèmes de traitement automatisé de données
+
+http://fr.dbpedia.org/resource/Système_de_traitement_automatisé_de_données
+
+ter
+
+http://fr.dbpedia.org/resource/Transport_express_régional
+
+systèmes de traitement automatisé de données
+
+http://fr.dbpedia.org/resource/Système_de_traitement_automatisé_de_données
+
+ter
+
+http://fr.dbpedia.org/resource/Transport_express_régional
+
+ter
+
+http://fr.dbpedia.org/resource/Transport_express_régional
+
+sécurité juridique
+
+http://fr.dbpedia.org/resource/Sécurité_juridique
+
+sécurité juridique
+
+http://fr.dbpedia.org/resource/Sécurité_juridique
+
+ter
+
+http://fr.dbpedia.org/resource/Transport_express_régional
+
+ter
+
+http://fr.dbpedia.org/resource/Transport_express_régional
+
+ter
+
+http://fr.dbpedia.org/resource/Transport_express_régional
+
+sécurité juridique
+
+http://fr.dbpedia.org/resource/Sécurité_juridique
+
+biométriques
+
+http://fr.dbpedia.org/resource/Biométrie
+
+sécurité juridique
+
+http://fr.dbpedia.org/resource/Sécurité_juridique
+
+ter
+
+http://fr.dbpedia.org/resource/Transport_express_régional
+
+directive
+
+http://fr.dbpedia.org/resource/Directive_de_l'Union_européenne
+
+sécurité juridique
+
+http://fr.dbpedia.org/resource/Sécurité_juridique
+
+directive
+
+http://fr.dbpedia.org/resource/Directive_de_l'Union_européenne
+
+ter
+
+http://fr.dbpedia.org/resource/Transport_express_régional
+
+ter
+
+http://fr.dbpedia.org/resource/Transport_express_régional
+
+ter
+
+http://fr.dbpedia.org/resource/Transport_express_régional
+
+ter
+
+http://fr.dbpedia.org/resource/Transport_express_régional
+
+orientation sexuelle
+
+http://fr.dbpedia.org/resource/Orientation_sexuelle
+
+identité de genre
+
+http://fr.dbpedia.org/resource/Identité_de_genre
+
+orientation sexuelle
+
+http://fr.dbpedia.org/resource/Orientation_sexuelle
+
+identité de genre
+
+http://fr.dbpedia.org/resource/Identité_de_genre
+
+orientation sexuelle
+
+http://fr.dbpedia.org/resource/Orientation_sexuelle
+
+identité de genre
+
+http://fr.dbpedia.org/resource/Identité_de_genre
+
+orientation sexuelle
+
+http://fr.dbpedia.org/resource/Orientation_sexuelle
+
+identité de genre
+
+http://fr.dbpedia.org/resource/Identité_de_genre
+
+ter
+
+http://fr.dbpedia.org/resource/Transport_express_régional
+
+ter
+
+http://fr.dbpedia.org/resource/Transport_express_régional
+
+ter
+
+http://fr.dbpedia.org/resource/Transport_express_régional
+
+ter
+
+http://fr.dbpedia.org/resource/Transport_express_régional
+
+ter
+
+http://fr.dbpedia.org/resource/Transport_express_régional
+
+ter
+
+http://fr.dbpedia.org/resource/Transport_express_régional
+
+ter
+
+http://fr.dbpedia.org/resource/Transport_express_régional
+
+ter
+
+http://fr.dbpedia.org/resource/Transport_express_régional
+
+ter
+
+http://fr.dbpedia.org/resource/Transport_express_régional
+
+ter
+
+http://fr.dbpedia.org/resource/Transport_express_régional
+
+ter
+
+http://fr.dbpedia.org/resource/Transport_express_régional
+
+ter
+
+http://fr.dbpedia.org/resource/Transport_express_régional
+
+ter
+
+http://fr.dbpedia.org/resource/Transport_express_régional
+
+ter
+
+http://fr.dbpedia.org/resource/Transport_express_régional
+
+ter
+
+http://fr.dbpedia.org/resource/Transport_express_régional
+
+ter
+
+http://fr.dbpedia.org/resource/Transport_express_régional
+
+ter
+
+http://fr.dbpedia.org/resource/Transport_express_régional
+
+ter
+
+http://fr.dbpedia.org/resource/Transport_express_régional
+
+ter
+
+http://fr.dbpedia.org/resource/Transport_express_régional
+
+ter
+
+http://fr.dbpedia.org/resource/Transport_express_régional
+
+ter
+
+http://fr.dbpedia.org/resource/Transport_express_régional
+
+directive
+
+http://fr.dbpedia.org/resource/Directive_de_l'Union_européenne
+
+Parlement
+
+http://fr.dbpedia.org/resource/Parlement_européen
+
+ter
+
+http://fr.dbpedia.org/resource/Transport_express_régional
+
+ter
+
+http://fr.dbpedia.org/resource/Transport_express_régional
+
+ter
+
+http://fr.dbpedia.org/resource/Transport_express_régional
+
+directive
+
+http://fr.dbpedia.org/resource/Directive_de_l'Union_européenne
+
+Parlement
+
+http://fr.dbpedia.org/resource/Parlement_européen
+
+ter
+
+http://fr.dbpedia.org/resource/Transport_express_régional
+
+ter
+
+http://fr.dbpedia.org/resource/Transport_express_régional
+
+ter
+
+http://fr.dbpedia.org/resource/Transport_express_régional
+
+ter
+
+http://fr.dbpedia.org/resource/Transport_express_régional
+
+directive
+
+http://fr.dbpedia.org/resource/Directive_de_l'Union_européenne
+
+Parlement
+
+http://fr.dbpedia.org/resource/Parlement_européen
+
+ter
+
+http://fr.dbpedia.org/resource/Transport_express_régional
+
+ter
+
+http://fr.dbpedia.org/resource/Transport_express_régional
+
+ter
+
+http://fr.dbpedia.org/resource/Transport_express_régional
+
+ter
+
+http://fr.dbpedia.org/resource/Transport_express_régional
+
+directive
+
+http://fr.dbpedia.org/resource/Directive_de_l'Union_européenne
+
+Parlement
+
+http://fr.dbpedia.org/resource/Parlement_européen
+
+ter
+
+http://fr.dbpedia.org/resource/Transport_express_régional
+
+ter
+
+http://fr.dbpedia.org/resource/Transport_express_régional
+
+ter
+
+http://fr.dbpedia.org/resource/Transport_express_régional
+
+ter
+
+http://fr.dbpedia.org/resource/Transport_express_régional
+
+ter
+
+http://fr.dbpedia.org/resource/Transport_express_régional
+
+ter
+
+http://fr.dbpedia.org/resource/Transport_express_régional
+
+ter
+
+http://fr.dbpedia.org/resource/Transport_express_régional
+
+ter
+
+http://fr.dbpedia.org/resource/Transport_express_régional
+
+traitement de données à caractère personnel
+
+http://fr.dbpedia.org/resource/Fichage_en_France
+
+traitement de données à caractère personnel
+
+http://fr.dbpedia.org/resource/Fichage_en_France
+
+traitement de données à caractère personnel
+
+http://fr.dbpedia.org/resource/Fichage_en_France
+
+traitement de données à caractère personnel
+
+http://fr.dbpedia.org/resource/Fichage_en_France
+
+as
+
+http://fr.dbpedia.org/resource/As_(monnaie)
+
+rating
+
+http://fr.dbpedia.org/resource/Notation_financière
+
+freedom of expression
+
+http://fr.dbpedia.org/resource/Freedom_of_Expression
+
+as
+
+http://fr.dbpedia.org/resource/As_(monnaie)
+
+rating
+
+http://fr.dbpedia.org/resource/Notation_financière
+
+freedom of expression
+
+http://fr.dbpedia.org/resource/Freedom_of_Expression
+
+as
+
+http://fr.dbpedia.org/resource/As_(monnaie)
+
+rating
+
+http://fr.dbpedia.org/resource/Notation_financière
+
+freedom of expression
+
+http://fr.dbpedia.org/resource/Freedom_of_Expression
+
+Profilage
+Schema:CreativeWork,DBpedia:Work,DBpedia:TelevisionShow
+http://fr.dbpedia.org/resource/Profilage_(série_télévisée)
+
+traitement de données à caractère personnel
+
+http://fr.dbpedia.org/resource/Fichage_en_France
+
+ban
+
+http://fr.dbpedia.org/resource/Ban_(Moyen_??ge)
+
+as
+
+http://fr.dbpedia.org/resource/As_(monnaie)
+
+practice
+
+http://fr.dbpedia.org/resource/Terrain_de_golf
+
+Profilage
+Schema:CreativeWork,DBpedia:Work,DBpedia:TelevisionShow
+http://fr.dbpedia.org/resource/Profilage_(série_télévisée)
+
+traitement de données à caractère personnel
+
+http://fr.dbpedia.org/resource/Fichage_en_France
+
+ban
+
+http://fr.dbpedia.org/resource/Ban_(Moyen_??ge)
+
+as
+
+http://fr.dbpedia.org/resource/As_(monnaie)
+
+practice
+
+http://fr.dbpedia.org/resource/Terrain_de_golf
+
+boxe
+
+http://fr.dbpedia.org/resource/Boxe
+
+orientation sexuelle
+
+http://fr.dbpedia.org/resource/Orientation_sexuelle
+
+identité de genre
+
+http://fr.dbpedia.org/resource/Identité_de_genre
+
+ter
+
+http://fr.dbpedia.org/resource/Transport_express_régional
+
+ter
+
+http://fr.dbpedia.org/resource/Transport_express_régional
+
+ter
+
+http://fr.dbpedia.org/resource/Transport_express_régional
+
+ter
+
+http://fr.dbpedia.org/resource/Transport_express_régional
+
+ter
+
+http://fr.dbpedia.org/resource/Transport_express_régional
+
+ter
+
+http://fr.dbpedia.org/resource/Transport_express_régional
+
+systèmes de traitement de données
+
+http://fr.dbpedia.org/resource/Systèmes_de_traitement_de_données
+
+systèmes de traitement de données
+
+http://fr.dbpedia.org/resource/Systèmes_de_traitement_de_données
+
+traitement de données à caractère personnel
+
+http://fr.dbpedia.org/resource/Fichage_en_France
+
+traitement de données à caractère personnel
+
+http://fr.dbpedia.org/resource/Fichage_en_France
+
+systèmes de traitement de données
+
+http://fr.dbpedia.org/resource/Systèmes_de_traitement_de_données
+
+traitement de données à caractère personnel
+
+http://fr.dbpedia.org/resource/Fichage_en_France
+
+traitement de données à caractère personnel
+
+http://fr.dbpedia.org/resource/Fichage_en_France
+
+systèmes de traitement de données
+
+http://fr.dbpedia.org/resource/Systèmes_de_traitement_de_données
+
+traitement de données à caractère personnel
+
+http://fr.dbpedia.org/resource/Fichage_en_France
+
+traitement de données à caractère personnel
+
+http://fr.dbpedia.org/resource/Fichage_en_France
+
+systèmes de traitement de données
+
+http://fr.dbpedia.org/resource/Systèmes_de_traitement_de_données
+
+traitement de données à caractère personnel
+
+http://fr.dbpedia.org/resource/Fichage_en_France
+
+traitement de données à caractère personnel
+
+http://fr.dbpedia.org/resource/Fichage_en_France
+
+systèmes de traitement de données
+
+http://fr.dbpedia.org/resource/Systèmes_de_traitement_de_données
+
+traitement de données à caractère personnel
+
+http://fr.dbpedia.org/resource/Fichage_en_France
+
+traitement de données à caractère personnel
+
+http://fr.dbpedia.org/resource/Fichage_en_France
+
+systèmes de traitement de données
+
+http://fr.dbpedia.org/resource/Systèmes_de_traitement_de_données
+
+traitement de données à caractère personnel
+
+http://fr.dbpedia.org/resource/Fichage_en_France
+
+traitement de données à caractère personnel
+
+http://fr.dbpedia.org/resource/Fichage_en_France
+
+systèmes de traitement de données
+
+http://fr.dbpedia.org/resource/Systèmes_de_traitement_de_données
+
+traitement de données à caractère personnel
+
+http://fr.dbpedia.org/resource/Fichage_en_France
+
+traitement de données à caractère personnel
+
+http://fr.dbpedia.org/resource/Fichage_en_France
+
+systèmes de traitement de données
+
+http://fr.dbpedia.org/resource/Systèmes_de_traitement_de_données
+
+traitement de données à caractère personnel
+
+http://fr.dbpedia.org/resource/Fichage_en_France
+
+traitement de données à caractère personnel
+
+http://fr.dbpedia.org/resource/Fichage_en_France
+
+directive
+
+http://fr.dbpedia.org/resource/Directive_de_l'Union_européenne
+
+directive
+
+http://fr.dbpedia.org/resource/Directive_de_l'Union_européenne
+
+directive
+
+http://fr.dbpedia.org/resource/Directive_de_l'Union_européenne
+
+directive
+
+http://fr.dbpedia.org/resource/Directive_de_l'Union_européenne
+
+opto-électroniques
+
+http://fr.dbpedia.org/resource/Opto-électronique
+
+vidéosurveillance
+
+http://fr.dbpedia.org/resource/Vidéosurveillance
+
+opto-électroniques
+
+http://fr.dbpedia.org/resource/Opto-électronique
+
+traitement de données à caractère personnel
+
+http://fr.dbpedia.org/resource/Fichage_en_France
+
+biométriques
+
+http://fr.dbpedia.org/resource/Biométrie
+
+biométriques
+
+http://fr.dbpedia.org/resource/Biométrie
+
+opto-électroniques
+
+http://fr.dbpedia.org/resource/Opto-électronique
+
+vidéosurveillance
+
+http://fr.dbpedia.org/resource/Vidéosurveillance
+
+opto-électroniques
+
+http://fr.dbpedia.org/resource/Opto-électronique
+
+traitement de données à caractère personnel
+
+http://fr.dbpedia.org/resource/Fichage_en_France
+
+biométriques
+
+http://fr.dbpedia.org/resource/Biométrie
+
+biométriques
+
+http://fr.dbpedia.org/resource/Biométrie
+
+opto-électroniques
+
+http://fr.dbpedia.org/resource/Opto-électronique
+
+vidéosurveillance
+
+http://fr.dbpedia.org/resource/Vidéosurveillance
+
+opto-électroniques
+
+http://fr.dbpedia.org/resource/Opto-électronique
+
+traitement de données à caractère personnel
+
+http://fr.dbpedia.org/resource/Fichage_en_France
+
+biométriques
+
+http://fr.dbpedia.org/resource/Biométrie
+
+biométriques
+
+http://fr.dbpedia.org/resource/Biométrie
+
+opto-électroniques
+
+http://fr.dbpedia.org/resource/Opto-électronique
+
+vidéosurveillance
+
+http://fr.dbpedia.org/resource/Vidéosurveillance
+
+opto-électroniques
+
+http://fr.dbpedia.org/resource/Opto-électronique
+
+traitement de données à caractère personnel
+
+http://fr.dbpedia.org/resource/Fichage_en_France
+
+biométriques
+
+http://fr.dbpedia.org/resource/Biométrie
+
+biométriques
+
+http://fr.dbpedia.org/resource/Biométrie
+
+traitement de données à caractère personnel
+
+http://fr.dbpedia.org/resource/Fichage_en_France
+
+traitement de données à caractère personnel
+
+http://fr.dbpedia.org/resource/Fichage_en_France
+
+traitement de données à caractère personnel
+
+http://fr.dbpedia.org/resource/Fichage_en_France
+
+traitement de données à caractère personnel
+
+http://fr.dbpedia.org/resource/Fichage_en_France
+
+traitement de données à caractère personnel
+
+http://fr.dbpedia.org/resource/Fichage_en_France
+
+traitement de données à caractère personnel
+
+http://fr.dbpedia.org/resource/Fichage_en_France
+
+traitement de données à caractère personnel
+
+http://fr.dbpedia.org/resource/Fichage_en_France
+
+traitement de données à caractère personnel
+
+http://fr.dbpedia.org/resource/Fichage_en_France
+
+traitement de données à caractère personnel
+
+http://fr.dbpedia.org/resource/Fichage_en_France
+
+traitement de données à caractère personnel
+
+http://fr.dbpedia.org/resource/Fichage_en_France
+
+traitement de données à caractère personnel
+
+http://fr.dbpedia.org/resource/Fichage_en_France
+
+traitement de données à caractère personnel
+
+http://fr.dbpedia.org/resource/Fichage_en_France
+
+traitement de données à caractère personnel
+
+http://fr.dbpedia.org/resource/Fichage_en_France
+
+traitement de données à caractère personnel
+
+http://fr.dbpedia.org/resource/Fichage_en_France
+
+traitement de données à caractère personnel
+
+http://fr.dbpedia.org/resource/Fichage_en_France
+
+traitement de données à caractère personnel
+
+http://fr.dbpedia.org/resource/Fichage_en_France
+
+traitement de données à caractère personnel
+
+http://fr.dbpedia.org/resource/Fichage_en_France
+
+traitement de données à caractère personnel
+
+http://fr.dbpedia.org/resource/Fichage_en_France
+
+traitement de données à caractère personnel
+
+http://fr.dbpedia.org/resource/Fichage_en_France
+
+traitement de données à caractère personnel
+
+http://fr.dbpedia.org/resource/Fichage_en_France
+
+droits opposables
+
+http://fr.dbpedia.org/resource/Droit_opposable
+
+ter
+
+http://fr.dbpedia.org/resource/Transport_express_régional
+
+ter
+
+http://fr.dbpedia.org/resource/Transport_express_régional
+
+droits opposables
+
+http://fr.dbpedia.org/resource/Droit_opposable
+
+ter
+
+http://fr.dbpedia.org/resource/Transport_express_régional
+
+ter
+
+http://fr.dbpedia.org/resource/Transport_express_régional
+
+droit pénal
+
+http://fr.dbpedia.org/resource/Droit_pénal
+
+droit pénal
+
+http://fr.dbpedia.org/resource/Droit_pénal
+
+droit pénal
+
+http://fr.dbpedia.org/resource/Droit_pénal
+
+droit pénal
+
+http://fr.dbpedia.org/resource/Droit_pénal
+
+organisations internationales
+
+http://fr.dbpedia.org/resource/Organisation_internationale
+
+organisations internationales
+
+http://fr.dbpedia.org/resource/Organisation_internationale
+
+directive
+
+http://fr.dbpedia.org/resource/Directive_de_l'Union_européenne
+
+directive
+
+http://fr.dbpedia.org/resource/Directive_de_l'Union_européenne
+
+l'Article 23
+
+http://fr.dbpedia.org/resource/Article_23_de_la_Charte_canadienne_des_droits_et_libertés
+
+directive
+
+http://fr.dbpedia.org/resource/Directive_de_l'Union_européenne
+
+directive
+
+http://fr.dbpedia.org/resource/Directive_de_l'Union_européenne
+
+droits opposables
+
+http://fr.dbpedia.org/resource/Droit_opposable
+
+droits opposables
+
+http://fr.dbpedia.org/resource/Droit_opposable
+
+traitement de données à caractère personnel
+
+http://fr.dbpedia.org/resource/Fichage_en_France
+
+traitement de données à caractère personnel
+
+http://fr.dbpedia.org/resource/Fichage_en_France
+
+traitement de données à caractère personnel
+
+http://fr.dbpedia.org/resource/Fichage_en_France
+
+traitement de données à caractère personnel
+
+http://fr.dbpedia.org/resource/Fichage_en_France
+
+Union européenne
+
+http://fr.dbpedia.org/resource/Union_européenne
+
+Union européenne
+
+http://fr.dbpedia.org/resource/Union_européenne
+
+Parlement européen
+
+http://fr.dbpedia.org/resource/Parlement_européen
+
+Parlement européen
+
+http://fr.dbpedia.org/resource/Parlement_européen
+
+Parlement
+
+http://fr.dbpedia.org/resource/Parlement_européen
+
+ter
+
+http://fr.dbpedia.org/resource/Transport_express_régional
+
+ter
+
+http://fr.dbpedia.org/resource/Transport_express_régional
+
+Parlement
+
+http://fr.dbpedia.org/resource/Parlement_européen
+
+ter
+
+http://fr.dbpedia.org/resource/Transport_express_régional
+
+ter
+
+http://fr.dbpedia.org/resource/Transport_express_régional
+
+Parlement
+
+http://fr.dbpedia.org/resource/Parlement_européen
+
+ter
+
+http://fr.dbpedia.org/resource/Transport_express_régional
+
+ter
+
+http://fr.dbpedia.org/resource/Transport_express_régional
+
+Parlement
+
+http://fr.dbpedia.org/resource/Parlement_européen
+
+ter
+
+http://fr.dbpedia.org/resource/Transport_express_régional
+
+ter
+
+http://fr.dbpedia.org/resource/Transport_express_régional
+
+Parlement
+
+http://fr.dbpedia.org/resource/Parlement_européen
+
+ter
+
+http://fr.dbpedia.org/resource/Transport_express_régional
+
+ter
+
+http://fr.dbpedia.org/resource/Transport_express_régional
+
+Parlement
+
+http://fr.dbpedia.org/resource/Parlement_européen
+
+ter
+
+http://fr.dbpedia.org/resource/Transport_express_régional
+
+ter
+
+http://fr.dbpedia.org/resource/Transport_express_régional
+
+the authority
+DBpedia:Agent,Schema:Person,Http://xmlns.com/foaf/0.1/Person,DBpedia:Person,DBpedia:FictionalCharacter
+http://fr.dbpedia.org/resource/Authority
+
+as
+
+http://fr.dbpedia.org/resource/As_(monnaie)
+
+the event
+Schema:CreativeWork,DBpedia:Work,DBpedia:TelevisionShow
+http://fr.dbpedia.org/resource/The_Event
+
+the authority
+DBpedia:Agent,Schema:Person,Http://xmlns.com/foaf/0.1/Person,DBpedia:Person,DBpedia:FictionalCharacter
+http://fr.dbpedia.org/resource/Authority
+
+as
+
+http://fr.dbpedia.org/resource/As_(monnaie)
+
+the event
+Schema:CreativeWork,DBpedia:Work,DBpedia:TelevisionShow
+http://fr.dbpedia.org/resource/The_Event
+
+the authority
+DBpedia:Agent,Schema:Person,Http://xmlns.com/foaf/0.1/Person,DBpedia:Person,DBpedia:FictionalCharacter
+http://fr.dbpedia.org/resource/Authority
+
+as
+
+http://fr.dbpedia.org/resource/As_(monnaie)
+
+the event
+Schema:CreativeWork,DBpedia:Work,DBpedia:TelevisionShow
+http://fr.dbpedia.org/resource/The_Event
+
+the authority
+DBpedia:Agent,Schema:Person,Http://xmlns.com/foaf/0.1/Person,DBpedia:Person,DBpedia:FictionalCharacter
+http://fr.dbpedia.org/resource/Authority
+
+as
+
+http://fr.dbpedia.org/resource/As_(monnaie)
+
+the event
+Schema:CreativeWork,DBpedia:Work,DBpedia:TelevisionShow
+http://fr.dbpedia.org/resource/The_Event
+
+the authority
+DBpedia:Agent,Schema:Person,Http://xmlns.com/foaf/0.1/Person,DBpedia:Person,DBpedia:FictionalCharacter
+http://fr.dbpedia.org/resource/Authority
+
+as
+
+http://fr.dbpedia.org/resource/As_(monnaie)
+
+the event
+Schema:CreativeWork,DBpedia:Work,DBpedia:TelevisionShow
+http://fr.dbpedia.org/resource/The_Event
+
+the authority
+DBpedia:Agent,Schema:Person,Http://xmlns.com/foaf/0.1/Person,DBpedia:Person,DBpedia:FictionalCharacter
+http://fr.dbpedia.org/resource/Authority
+
+as
+
+http://fr.dbpedia.org/resource/As_(monnaie)
+
+the event
+Schema:CreativeWork,DBpedia:Work,DBpedia:TelevisionShow
+http://fr.dbpedia.org/resource/The_Event
+
+the authority
+DBpedia:Agent,Schema:Person,Http://xmlns.com/foaf/0.1/Person,DBpedia:Person,DBpedia:FictionalCharacter
+http://fr.dbpedia.org/resource/Authority
+
+as
+
+http://fr.dbpedia.org/resource/As_(monnaie)
+
+the event
+Schema:CreativeWork,DBpedia:Work,DBpedia:TelevisionShow
+http://fr.dbpedia.org/resource/The_Event
+
+ter
+
+http://fr.dbpedia.org/resource/Transport_express_régional
+
+ter
+
+http://fr.dbpedia.org/resource/Transport_express_régional
+
+Cour de justice de l'Union
+
+http://fr.dbpedia.org/resource/Cour_de_justice_(Union_européenne)
+
+ter
+
+http://fr.dbpedia.org/resource/Transport_express_régional
+
+ter
+
+http://fr.dbpedia.org/resource/Transport_express_régional
+
+Cour de justice de l'Union
+
+http://fr.dbpedia.org/resource/Cour_de_justice_(Union_européenne)
+
+ter
+
+http://fr.dbpedia.org/resource/Transport_express_régional
+
+ter
+
+http://fr.dbpedia.org/resource/Transport_express_régional
+
+Cour de justice de l'Union
+
+http://fr.dbpedia.org/resource/Cour_de_justice_(Union_européenne)
+
+ter
+
+http://fr.dbpedia.org/resource/Transport_express_régional
+
+Cour de justice de l'Union
+
+http://fr.dbpedia.org/resource/Cour_de_justice_(Union_européenne)
+
+Union européenne
+
+http://fr.dbpedia.org/resource/Union_européenne
+
+Cour de justice de l'Union
+
+http://fr.dbpedia.org/resource/Cour_de_justice_(Union_européenne)
+
+ter
+
+http://fr.dbpedia.org/resource/Transport_express_régional
+
+Cour de justice de l'Union
+
+http://fr.dbpedia.org/resource/Cour_de_justice_(Union_européenne)
+
+Union européenne
+
+http://fr.dbpedia.org/resource/Union_européenne
+
+Cour de justice de l'Union
+
+http://fr.dbpedia.org/resource/Cour_de_justice_(Union_européenne)
+
+Parlement européen
+
+http://fr.dbpedia.org/resource/Parlement_européen
+
+Parlement européen
+
+http://fr.dbpedia.org/resource/Parlement_européen
+
+Parlement européen
+
+http://fr.dbpedia.org/resource/Parlement_européen
+
+Parlement européen
+
+http://fr.dbpedia.org/resource/Parlement_européen
+
+ter
+
+http://fr.dbpedia.org/resource/Transport_express_régional
+
+ter
+
+http://fr.dbpedia.org/resource/Transport_express_régional
+
+ter
+
+http://fr.dbpedia.org/resource/Transport_express_régional
+
+ter
+
+http://fr.dbpedia.org/resource/Transport_express_régional
+
+directive
+
+http://fr.dbpedia.org/resource/Directive_de_l'Union_européenne
+
+directive
+
+http://fr.dbpedia.org/resource/Directive_de_l'Union_européenne
+
+directive
+
+http://fr.dbpedia.org/resource/Directive_de_l'Union_européenne
+
+Parlement européen
+
+http://fr.dbpedia.org/resource/Parlement_européen
+
+Parlement européen
+
+http://fr.dbpedia.org/resource/Parlement_européen
+
+ter
+
+http://fr.dbpedia.org/resource/Transport_express_régional
+
+ter
+
+http://fr.dbpedia.org/resource/Transport_express_régional
+
+agences de l'Union européenne
+
+http://fr.dbpedia.org/resource/Agence_de_l'Union_européenne
+
+traitement de données à caractère personnel
+
+http://fr.dbpedia.org/resource/Fichage_en_France
+
+traitement de données à caractère personnel
+
+http://fr.dbpedia.org/resource/Fichage_en_France
+
+traitement de données à caractère personnel
+
+http://fr.dbpedia.org/resource/Fichage_en_France
+
+traitement de données à caractère personnel
+
+http://fr.dbpedia.org/resource/Fichage_en_France
+
+ne bis in idem
+
+http://fr.dbpedia.org/resource/Liste_de_locutions_latines_commençant_par_N
+
+ne bis in idem
+
+http://fr.dbpedia.org/resource/Liste_de_locutions_latines_commençant_par_N
+
+l'Article 23
+
+http://fr.dbpedia.org/resource/Article_23_de_la_Charte_canadienne_des_droits_et_libertés
+
+l'Article 23
+
+http://fr.dbpedia.org/resource/Article_23_de_la_Charte_canadienne_des_droits_et_libertés
+
+EUR
+
+http://fr.dbpedia.org/resource/Euro
+
+EUR
+
+http://fr.dbpedia.org/resource/Euro
+
+EUR
+
+http://fr.dbpedia.org/resource/Euro
+
+EUR
+
+http://fr.dbpedia.org/resource/Euro
+
+EUR
+
+http://fr.dbpedia.org/resource/Euro
+
+EUR
+
+http://fr.dbpedia.org/resource/Euro
+
+EUR
+
+http://fr.dbpedia.org/resource/Euro
+
+EUR
+
+http://fr.dbpedia.org/resource/Euro
+
+traitement de données à caractère personnel
+
+http://fr.dbpedia.org/resource/Fichage_en_France
+
+EUR
+
+http://fr.dbpedia.org/resource/Euro
+
+EUR
+
+http://fr.dbpedia.org/resource/Euro
+
+label de protection
+
+http://fr.dbpedia.org/resource/Label_de_qualité
+
+label de protection
+
+http://fr.dbpedia.org/resource/Label_de_qualité
+
+traitements de données à caractère personnel
+
+http://fr.dbpedia.org/resource/Fichage_en_France
+
+organisations internationales
+
+http://fr.dbpedia.org/resource/Organisation_internationale
+
+organisations internationales
+
+http://fr.dbpedia.org/resource/Organisation_internationale
+
+Union européenne
+
+http://fr.dbpedia.org/resource/Union_européenne
+
+CEDH
+
+http://fr.dbpedia.org/resource/Convention_européenne_des_droits_de_l'homme
+
+traitements de données à caractère personnel
+
+http://fr.dbpedia.org/resource/Fichage_en_France
+
+traitements de données à caractère personnel
+
+http://fr.dbpedia.org/resource/Fichage_en_France
+
+traitements de données à caractère personnel
+
+http://fr.dbpedia.org/resource/Fichage_en_France
+
+traitement de données à caractère personnel
+
+http://fr.dbpedia.org/resource/Fichage_en_France
+
+Conseil de l'Europe
+
+http://fr.dbpedia.org/resource/Conseil_de_l'Europe
+
+traitement de données à caractère personnel
+
+http://fr.dbpedia.org/resource/Fichage_en_France
+
+traitement de données à caractère personnel
+
+http://fr.dbpedia.org/resource/Fichage_en_France
+
+contrat de travail
+
+http://fr.dbpedia.org/resource/Contrat_de_travail_en_France
+
+contrat de travail
+
+http://fr.dbpedia.org/resource/Contrat_de_travail_en_France
+
+traitement de données à caractère personnel
+
+http://fr.dbpedia.org/resource/Fichage_en_France
+
+traitement de données à caractère personnel
+
+http://fr.dbpedia.org/resource/Fichage_en_France
+
+sécurité sociale
+
+http://fr.dbpedia.org/resource/Sécurité_sociale
+
+sécurité sociale
+
+http://fr.dbpedia.org/resource/Sécurité_sociale
+
+sécurité sociale
+
+http://fr.dbpedia.org/resource/Sécurité_sociale
+
+ter
+
+http://fr.dbpedia.org/resource/Transport_express_régional
+
+ter
+
+http://fr.dbpedia.org/resource/Transport_express_régional
+
+ter
+
+http://fr.dbpedia.org/resource/Transport_express_régional
+
+ter
+
+http://fr.dbpedia.org/resource/Transport_express_régional
+
+ter
+
+http://fr.dbpedia.org/resource/Transport_express_régional
+
+ter
+
+http://fr.dbpedia.org/resource/Transport_express_régional
+
+traitement de données à caractère personnel
+
+http://fr.dbpedia.org/resource/Fichage_en_France
+
+ter
+
+http://fr.dbpedia.org/resource/Transport_express_régional
+
+ter
+
+http://fr.dbpedia.org/resource/Transport_express_régional
+
+traitement de données à caractère personnel
+
+http://fr.dbpedia.org/resource/Fichage_en_France
+
+ter
+
+http://fr.dbpedia.org/resource/Transport_express_régional
+
+ter
+
+http://fr.dbpedia.org/resource/Transport_express_régional
+
+l'Article 23
+
+http://fr.dbpedia.org/resource/Article_23_de_la_Charte_canadienne_des_droits_et_libertés
+
+ter
+
+http://fr.dbpedia.org/resource/Transport_express_régional
+
+l'Article 23
+
+http://fr.dbpedia.org/resource/Article_23_de_la_Charte_canadienne_des_droits_et_libertés
+
+Parlement européen
+
+http://fr.dbpedia.org/resource/Parlement_européen
+
+Union européenne
+
+http://fr.dbpedia.org/resource/Union_européenne
+
+ter
+
+http://fr.dbpedia.org/resource/Transport_express_régional
+
+Parlement européen
+
+http://fr.dbpedia.org/resource/Parlement_européen
+
+Union européenne
+
+http://fr.dbpedia.org/resource/Union_européenne
+
+l'Article 23
+
+http://fr.dbpedia.org/resource/Article_23_de_la_Charte_canadienne_des_droits_et_libertés
+
+Parlement européen
+
+http://fr.dbpedia.org/resource/Parlement_européen
+
+Parlement européen
+
+http://fr.dbpedia.org/resource/Parlement_européen
+
+Parlement européen
+
+http://fr.dbpedia.org/resource/Parlement_européen
+
+Parlement européen
+
+http://fr.dbpedia.org/resource/Parlement_européen
+
+ter
+
+http://fr.dbpedia.org/resource/Transport_express_régional
+
+Parlement européen
+
+http://fr.dbpedia.org/resource/Parlement_européen
+
+Parlement européen
+
+http://fr.dbpedia.org/resource/Parlement_européen
+
+Parlement européen
+
+http://fr.dbpedia.org/resource/Parlement_européen
+
+Parlement européen
+
+http://fr.dbpedia.org/resource/Parlement_européen
+
+sécurité juridique
+
+http://fr.dbpedia.org/resource/Sécurité_juridique
+
+Union européenne
+
+http://fr.dbpedia.org/resource/Union_européenne
+
+Union européenne
+
+http://fr.dbpedia.org/resource/Union_européenne
+
+directive
+
+http://fr.dbpedia.org/resource/Directive_de_l'Union_européenne
+
+mondialisation
+
+http://fr.dbpedia.org/resource/Mondialisation
+
+directive
+
+http://fr.dbpedia.org/resource/Directive_de_l'Union_européenne
+
+traité de Lisbonne
+
+http://fr.dbpedia.org/resource/Traité_de_Lisbonne
+
+Lisbonne
+
+http://fr.dbpedia.org/resource/Traité_de_Lisbonne
+
+traité FUE
+
+http://fr.dbpedia.org/resource/Traité_sur_le_fonctionnement_de_l'Union_européenne
+
+traité FUE
+
+http://fr.dbpedia.org/resource/Traité_sur_le_fonctionnement_de_l'Union_européenne
+
+directive
+
+http://fr.dbpedia.org/resource/Directive_de_l'Union_européenne
+
+Jan Philipp Albrecht
+
+http://fr.dbpedia.org/resource/Jan_Philipp_Albrecht
+
+Verts/ALE
+
+http://fr.dbpedia.org/resource/Groupe_des_Verts/Alliance_libre_européenne
+
+directive
+
+http://fr.dbpedia.org/resource/Directive_de_l'Union_européenne
+
+JAI
+
+http://fr.dbpedia.org/resource/Coopération_policière_et_judiciaire_en_matière_pénale
+
+S&D
+
+http://fr.dbpedia.org/resource/Alliance_progressiste_des_socialistes_et_démocrates_au_Parlement_européen
+
+Parlement
+
+http://fr.dbpedia.org/resource/Parlement_européen
+
+directive
+
+http://fr.dbpedia.org/resource/Directive_de_l'Union_européenne
+
+Union européenne
+
+http://fr.dbpedia.org/resource/Union_européenne
+
+Eurojust
+
+http://fr.dbpedia.org/resource/Eurojust
+
+directive
+
+http://fr.dbpedia.org/resource/Directive_de_l'Union_européenne
+
+directive
+
+http://fr.dbpedia.org/resource/Directive_de_l'Union_européenne
+
+Union européenne
+
+http://fr.dbpedia.org/resource/Union_européenne
+
+sécurité juridique
+
+http://fr.dbpedia.org/resource/Sécurité_juridique
+
+sécurité juridique
+
+http://fr.dbpedia.org/resource/Sécurité_juridique
+
+ter
+
+http://fr.dbpedia.org/resource/Transport_express_régional
+
+Union européenne
+
+http://fr.dbpedia.org/resource/Union_européenne
+
+ter
+
+http://fr.dbpedia.org/resource/Transport_express_régional
+
+ter
+
+http://fr.dbpedia.org/resource/Transport_express_régional
+
+ter
+
+http://fr.dbpedia.org/resource/Transport_express_régional
+
+ter
+
+http://fr.dbpedia.org/resource/Transport_express_régional
+
+Union européenne
+
+http://fr.dbpedia.org/resource/Union_européenne
+
+ter
+
+http://fr.dbpedia.org/resource/Transport_express_régional
+
+ter
+
+http://fr.dbpedia.org/resource/Transport_express_régional
+
+ter
+
+http://fr.dbpedia.org/resource/Transport_express_régional
+
+ter
+
+http://fr.dbpedia.org/resource/Transport_express_régional
+
+Union européenne
+
+http://fr.dbpedia.org/resource/Union_européenne
+
+ter
+
+http://fr.dbpedia.org/resource/Transport_express_régional
+
+ter
+
+http://fr.dbpedia.org/resource/Transport_express_régional
+
+ter
+
+http://fr.dbpedia.org/resource/Transport_express_régional
+
+ter
+
+http://fr.dbpedia.org/resource/Transport_express_régional
+
+sécurité juridique
+
+http://fr.dbpedia.org/resource/Sécurité_juridique
+
+droits opposables
+
+http://fr.dbpedia.org/resource/Droit_opposable
+
+sécurité juridique
+
+http://fr.dbpedia.org/resource/Sécurité_juridique
+
+droits opposables
+
+http://fr.dbpedia.org/resource/Droit_opposable
+
+Cour de justice de l'Union
+
+http://fr.dbpedia.org/resource/Cour_de_justice_(Union_européenne)
+
+latitude
+
+http://fr.dbpedia.org/resource/Latitude
+
+organisations internationales
+
+http://fr.dbpedia.org/resource/Organisation_internationale
+
+Parlement
+
+http://fr.dbpedia.org/resource/Parlement_européen
+
+Cour de justice de l'Union
+
+http://fr.dbpedia.org/resource/Cour_de_justice_(Union_européenne)
+
+latitude
+
+http://fr.dbpedia.org/resource/Latitude
+
+organisations internationales
+
+http://fr.dbpedia.org/resource/Organisation_internationale
+
+Parlement
+
+http://fr.dbpedia.org/resource/Parlement_européen
+
+Parlement
+
+http://fr.dbpedia.org/resource/Parlement_européen
+
+Parlement européen
+
+http://fr.dbpedia.org/resource/Parlement_européen
+

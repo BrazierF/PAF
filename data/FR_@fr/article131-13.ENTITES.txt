@@ -1,0 +1,12 @@
+2e
+
+http://fr.dbpedia.org/resource/Deuxième_circonscription_de_la_Meuse
+
+tribunal de police
+
+http://fr.dbpedia.org/resource/Tribunal_de_police_(France)
+
+tence
+Schema:Place,DBpedia:Place,DBpedia:PopulatedPlace,DBpedia:Settlement
+http://fr.dbpedia.org/resource/Tence
+

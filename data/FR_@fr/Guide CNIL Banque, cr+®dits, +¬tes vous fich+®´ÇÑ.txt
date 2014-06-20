@@ -1,0 +1,1354 @@
+ www.cnil.fr
+Agence Aristophane
+Édition Septembre 2007
+GUIDE
+BANQUE, CRÉDIT :
+ÊTES-VOUS FICHÉ ?
+ 8 rue Vivienne - CS 30223 
+75083 Paris cedex 02
+Tél : 01 53 73 22 22 
+Fax : 01 53 73 22 00
+ AVANT-PROPOS
+OÙ POUVEZ-VOUS ÊTRE FICHÉ ?
+Les fi chiers des banques et des organismes de crédit
+Les fi chiers de la Banque de France
+Les fi chiers du ministère de l’économie et des fi nances
+L’INTERDICTION BANCAIRE
+LE REFUS DE CRÉDIT
+LE CONTRÔLE DES CHÈQUES
+QUELS SONT VOS DROITS ?
+LA CNIL À VOS CÔTÉS
+MODÈLES DE LETTRES POUR EXERCER VOS DROITS
+Modèle de lettre pour exercer votre droit d’accès
+Modèle de lettre pour exercer votre droit de rectifi cation
+Modèle de lettre pour exercer votre droit d’opposition
+Modèle de lettre pour demander l’intervention de la CNIL
+Ce guide est téléchargeable sur le site internet de la CNIL www.cnil.fr
+page 1
+ 
+page 2
+page 5
+page 7
+page 9
+page 11
+page 14
+page 17
+page 19
+ 
+page 21
+page 22
+page 23
+page 24
+Sommaire
+
+? Quelles informations votre banquier détient-il sur vous?
+? Pourquoi refuse-t-il de vous fournir une carte bancaire ou un chéquier ?
+? Pourquoi ne parvenez-vous pas à obtenir un crédit ?
+? Pourquoi votre chèque est-il refusé par une grande surface ?
+C’est pour répondre aux questions que vous vous posez sur les fichiers de 
+la banque et du crédit, sur leurs règles de fonctionnement et sur les droits 
+qui vous sont reconnus par la loi «informatique et libertés» que ce guide 
+a été élaboré par la CNIL.
+Avant-propos 
+a
+v
+a
+n
+t
+-
+p
+r
+o
+p
+o
+s
+ 
+banque, crÉdit : Êtes-vous fichÉ ? 
+Où pouvez-vous être fiché ? 
+Les fichiers des banques et des organismes de crédit 
+Lorsque vous ouvrez un compte auprès d’une banque ou lorsque vous  
+demandez un prêt à un organisme de crédit, vous devez fournir un cer-
+tain nombre d’informations sur votre situation personnelle et financière. 
+Ces informations sont enregistrées dans une base de données « clients ». 
+La banque ou l’organisme de crédit ne peut détenir sur vous que des don-
+nées qui sont pertinentes pour la gestion de vos comptes et de vos crédits. 
+Par exemple, ils ne peuvent détenir votre numéro de sécurité sociale, des 
+informations sur vos opinions politiques, sur votre appartenance syndicale 
+ou sur votre religion.
+Que comporte votre dossier client ?
+- des données d’identification : nom, prénoms, date et lieu de naissance, 
+nationalité, adresse postale, numéro de client, coordonnées téléphoniques 
+(facultatif), adresse électronique (facultatif) ;
+- des données liées à la gestion des produits et services souscrits ou de-
+mandés :  situation professionnelle, situation familiale, revenus, score cal-
+culé pour l’obtention d’un crédit, note de risque attribuée au client, seg-
+ment de clientèle (notamment pour vous adresser des offres commerciales 
+adaptées), opérations effectuées sur vos comptes (pour éditer les relevés 
+de compte par exemple), litiges ou difficultés passés ou en cours (inscrip-
+tion dans un fichier de la Banque de France, saisie sur salaire, surendette-
+ment…), existence d’une mesure de protection (tutelle, curatelle), résumé 
+des entretiens avec votre chargé de clientèle.
+o
+Ù
+ 
+p
+o
+u
+v
+e
+z
+-
+v
+o
+u
+s
+ 
+Ê
+t
+r
+e
+ 
+f
+i
+c
+h
+É
+ 
+? 
+
+Qu’est-ce que c’est ?
+Score : note globale attribuée lors d’une demande de crédit. Cette note est 
+établie en fonction de critères disposant chacun d’une notation élaborée à 
+partir de données statistiques. Au-dessus d’un certain montant de points, 
+variable selon les organismes, le crédit est automatiquement accordé.
+Note de risque : note permettant d’identifier la probabilité que le client 
+entraîne une perte financière pour l’organisme.
+Segment de clientèle : sous-catégorie de clientèle dans laquelle se trouve 
+un client en fonction de critères propres à chaque organisme (ex. : VIP, à fort 
+potentiel, etc.).
+   
+   À noter
+Aucun jugement de valeur, aucun commentaire subjectif ou désobligeant, 
+aucune donnée sans lien avec l’activité bancaire ne peuvent être inscrits 
+dans votre dossier client.
+o
+Ù
+ 
+p
+o
+u
+v
+e
+z
+-
+v
+o
+u
+s
+ 
+Ê
+t
+r
+e
+ 
+f
+i
+c
+h
+É
+ 
+? 
+banque, crÉdit : Êtes-vous fichÉ ? 
+Qui d’autre que votre banquier a accès à vos informations personnelles ?
+Les informations vous concernant qui sont enregistrées par votre banque 
+ou votre organisme de crédit sont couvertes par le secret bancaire et ne 
+peuvent être divulguées. De même, elles ne peuvent pas être utilisées pour 
+autre chose que pour la gestion de vos comptes ou de vos crédits.
+Mais, votre banque ou votre organisme de crédit peut être la filiale d’un 
+groupe financier, comportant d’autres banques, des sociétés de crédit, des 
+compagnies d’assurance, etc. Sous certaines conditions, vos données peu-
+vent être transmises aux autres sociétés du groupe afin de mieux gérer «le 
+risque client» (ex. : possibilité qu’un client ne rembourse pas un crédit).
+Cette pratique n’est pas illégale, mais elle est encadrée.
+À retenir
+Vos données ne peuvent pas être transmises à d’autres sociétés du même 
+groupe afin de vérifier votre situation financière sans une autorisation de la 
+CNIL et sans votre accord écrit.
+Avant de recueillir votre accord, une information claire sur ce partage d’in-
+formations et sur l’autorisation de la CNIL doit vous être donnée par vo-
+tre banque ou votre organisme de crédit (formulaire de demande, clauses 
+contractuelles, notice d’information…). 
+Enfin, sachez que, lors d’une demande de prêt assortie d’une assurance, 
+l’établissement de crédit communique à sa compagnie d’assurance, même 
+si elle ne fait pas partie du même groupe, des informations telles que votre 
+identité et vos coordonnées, la nature, le montant et la durée du prêt que 
+vous avez demandé.
+Ces informations permettent à la compagnie d’assurance de vous contacter 
+afin d’obtenir d’autres informations (par exemple sur votre état de santé, 
+sous certaines conditions, et sous pli confidentiel remis au médecin conseil 
+de la compagnie d’assurance) en vue de se prononcer sur la demande 
+d’assurance liée à votre demande de crédit.
+En revanche, la compagnie d’assurance n’est pas fondée à obtenir des 
+informations sans lien avec son activité, comme par exemple votre situation 
+financière qui relève du secret bancaire.
+o
+Ù
+ 
+p
+o
+u
+v
+e
+z
+-
+v
+o
+u
+s
+ 
+Ê
+t
+r
+e
+ 
+f
+i
+c
+h
+É
+ 
+? 
+
+Les fichiers gérés par la Banque de France : FCC, FNCI et FICP
+Ces fichiers sont gérés techniquement par la Banque de France. Celle-ci n’a 
+aucun pouvoir d’appréciation sur le bien-fondé des inscriptions qui lui sont 
+demandées par les banques ou les organismes de crédit.
+• Le Fichier Central des Chèques (FCC) centralise les interdictions d’émet-
+tre des chèques, prononcées par votre banque ou par la Justice, à la suite 
+de l’émission de chèques sans provision.
+Les informations recensées sont les nom, prénoms, sexe, date et lieu de 
+naissance de la personne fichée, le nom de l’organisme ayant demandé 
+l’inscription, la date et la nature de l’incident, le montant du chèque rejeté et 
+le montant de l’insuffisance de provision. Ces informations sont conservées 
+pendant 5 ans maximum. Sauf en cas d’interdiction judiciaire, la banque 
+doit demander la suppression de l’inscription dans le fichier dans les 2 jours 
+ouvrés suivant la régularisation de l’incident.
+• Le Fichier Central des Chèques – volet «carte bancaire» est un « sous 
+fichier » du FCC. Il met à la disposition des banques des informations sur les 
+personnes dont les cartes bancaires ont été retirées à la suite d’incidents qui 
+résultent directement de l’utilisation abusive de la carte (absence de provi-
+sion disponible sur le compte au moment du débit).
+Les informations enregistrées sont les nom, prénoms, sexe, date et lieu de 
+naissance de la personne fichée, le nom de l’organisme ayant demandé 
+l’inscription, la date et la nature de l’incident. Ces informations sont conser-
+vées pendant  ans à défaut de régularisation de l’incident.
+• Le Fichier National des Chèques Irréguliers (FNCI) recense les 
+oppositions sur chèques pour perte ou vol, les comptes clôturés et les 
+interdictions bancaires ou judiciaires d’émettre des chèques.
+Il permet à tout bénéficiaire d’un chèque remis en paiement d’un bien 
+ou d’un service de vérifier la régularité de l’émission du chèque. 
+(1) Cf. www.cnil.fr pour prendre connaissance des « fichiers en fiche ».
+o
+Ù
+ 
+p
+o
+u
+v
+e
+z
+-
+v
+o
+u
+s
+ 
+Ê
+t
+r
+e
+ 
+f
+i
+c
+h
+É
+ 
+? 
+banque, crÉdit : Êtes-vous fichÉ ? 
+Les informations recensées sont les relevés d’identité bancaire, 
+éventuellement complétés par les numéros de chèques (en cas d’oppo- 
+sition pour perte ou vol), mais le nom du titulaire du compte n’y figure pas. 
+Ces informations sont conservées pendant des durées différentes en 
+fonction du motif de l’inscription dans le fichier.
+? Où vous adresser pour obtenir une copie des données vous concernant 
+enregistrées dans ces fichiers ? Auprès de n’importe quel bureau de la 
+Banque de France, muni d’une pièce d’identité et d’un relevé d’identité 
+bancaire pour le FNCI.
+? Information des personnes fichées : avant toute inscription au FCC, vous 
+devez être mis en demeure de régulariser l’incident. Vous devez également 
+être informé par votre banquier lors de votre inscription dans le fichier.
+• Le Fichier national des Incidents de remboursement des Crédits 
+aux Particuliers (FICP) recense les informations sur les «incidents de 
+remboursement caractérisés» liés aux crédits accordés aux particuliers. 
+Sont considérés comme des crédits les prêts personnels, les découverts 
+autorisés, les locations avec option d’achat, les financements d’achats à 
+tempérament.
+Sont également inscrites les mesures prises en matière de surendettement, 
+telles que le dépôt d’un dossier de surendettement, les recommandations, 
+le plan de redressement, l’effacement des dettes.
+Les informations recensées sont les nom, prénom, date et lieu de naissance 
+de la personne concernée, le nom de l’organisme qui a demandé l’inscrip-
+tion et son motif, ainsi que la date de radiation présumée. 
+Ces informations sont conservées pendant 5 ans pour un incident de 
+remboursement, sauf régularisation de l’incident. En cas de régularisation 
+de l’incident, les informations doivent être supprimées du fichier par la 
+Banque de France dès qu’elle en est informée par le créancier.
+o
+Ù
+ 
+p
+o
+u
+v
+e
+z
+-
+v
+o
+u
+s
+ 
+Ê
+t
+r
+e
+ 
+f
+i
+c
+h
+É
+ 
+? 
+
+Elles sont conservées pendant 8 ans en cas de procédure de rétablissement 
+personnel et 10 ans maximum en cas de plan de redressement ou de re-
+commandations de la Commission de surendettement.
+? Où vous adresser pour connaître les données vous concernant en-
+registrées dans ce fichier ? Auprès de n’importe quel bureau de la 
+Banque de France, muni d’une pièce d’identité. Il ne vous sera pas remis de 
+copie de l’enregistrement. Cette règle vise à vous protéger en évitant qu’on 
+puisse vous réclamer une attestation de non-inscription au FICP. 
+? Information des personnes fichées : avant toute inscription au FICP, 
+l’établissement financier doit vous informer que l’incident sera déclaré 
+à la Banque de France à l’issue d’un délai d’un mois à compter de la date de 
+l’envoi de cette information. Au terme de ce délai, sauf si les sommes dues 
+ont été réglées ou si une solution amiable a été trouvée, vous serez informé 
+par l’établissement financier de votre inscription au FICP.
+Les fichiers gérés par le ministère de l’économie et des finances :
+FICOBA  et TRACINFO
+La loi impose aux banques d’informer le ministère de l’économie et des fi-
+nances des ouvertures, modifications et fermetures de comptes et de sur-
+veiller les opérations bancaires suspectes.
+• Le Fichier des Comptes Bancaires et assimilés (FICOBA) recense les 
+comptes de toute nature ouverts en France ou clos depuis moins de trois 
+ans. Son objectif est de permettre aux services fiscaux et aux créanciers 
+(sous certaines conditions) de retrouver l’ensemble des comptes bancaires 
+dont une personne est titulaire en France.
+Les informations enregistrées concernent l’établissement gestionnaire du 
+compte, les numéro, nature, type et caractéristiques du compte, les date et 
+nature de l’opération déclarée (ouverture, clôture ou modification), les nom, 
+prénom, date et lieu de naissance et adresse des personnes physiques et 
+les coordonnées des entreprises individuelles.
+Ces informations sont conservées pendant toute la durée de vie du compte 
+et 3 ans après sa clôture.
+(2) Cf. www.cnil.fr pour prendre connaissance des « fichiers en fiche ».
+o
+Ù
+ 
+p
+o
+u
+v
+e
+z
+-
+v
+o
+u
+s
+ 
+Ê
+t
+r
+e
+ 
+f
+i
+c
+h
+É
+ 
+? 
+banque, crÉdit : Êtes-vous fichÉ ? 
+o
+Ù
+ 
+p
+o
+u
+v
+e
+z
+-
+v
+o
+u
+s
+ 
+Ê
+t
+r
+e
+ 
+f
+i
+c
+h
+É
+ 
+? ? Où vous adresser pour obtenir une copie des données vous concernant 
+enregistrées dans ce fichier ? Par écrit, auprès du Centre Régional Informa-
+tique de la Direction Générale des Impôts ( avenue JF Kennedy - 9 
+Nemours cedex).
+? Information des personnes fichées : au moment de l’ouverture d’un compte 
+par l’établissement qui en sera le gestionnaire.
+• Le fichier de vigilance (TRACINFO) recense les informations communi-
+quées par les banques à la cellule TRACFIN du ministère de l’économie et 
+des finances.
+Les organismes financiers ont l’obligation de surveiller les opérations finan-
+cières susceptibles de transformer de «l’argent mal acquis en actifs res-
+pectables». Ces opérations pourraient provenir, par exemple, du trafic de 
+stupéfiants ou d’activités criminelles organisées. 
+À retenir
+Les organismes financiers ont un devoir de vigilance, de surveillance et de 
+dénonciation des faits dont ils ont connaissance en matière de trafic de stu-
+péfiants, de corruption, d’activités criminelles organisées ou de financement 
+du terrorisme. 
+Afin de s’assurer de l’identité de leurs clients, ils doivent leur demander, lors 
+d’une ouverture de compte ou d’une opération financière particulière (par 
+exemple, l’envoi d’un mandat cash), de présenter une pièce officielle munie 
+d’une photographie prouvant leur identité, et ils en prennent copie.
+Ces photocopies doivent être conservées pendant  ans après la fin des 
+relations avec l’organisme financier.
+9
+Que signifie être interdit bancaire ?
+Si votre banque rejette un chèque que vous avez émis sans provision, 
+vous devenez interdit bancaire, c’est-à-dire interdit de chéquier.
+L’interdiction bancaire est générale. Elle s’applique à tous vos comptes, 
+même dans d’autres banques. Elle s’applique également, en cas de 
+compte joint, à chacun des co-titulaires, sauf si ceux-ci ont désigné préala-
+blement un seul des titulaires comme responsable en cas d’incident.
+Quelles sont les conséquences d’une interdiction bancaire ?
+Votre banque ou la Justice demande à la Banque de France de vous inscrire 
+dans le Fichier Central des Chèques (FCC). 
+Vous ne pouvez plus émettre de chèques et vous devez rendre les chéquiers 
+de vos comptes. En effet, la Banque de France informe toutes les banques 
+de cette interdiction.
+Un tel incident peut entraîner, sous certaines conditions, la suppres-
+sion de vos cartes de paiement et de crédit ainsi que la suppression de 
+votre autorisation de découvert. Par ailleurs, les établissements 
+financiers risquent de vous refuser toute nouvelle demande de crédit. 
+Vous pouvez cependant demander à bénéficier d’une carte de paiement 
+avec autorisation systématique.
+En revanche, l’interdiction bancaire n’entraîne pas en elle-même une 
+inscription au FCC « volet carte bancaire » ou au FICP.
+Combien de temps peut-on rester interdit bancaire ?
+Sauf régularisation, l’interdiction bancaire est enregistrée pour 5 ans au FCC.
+Une fois que vous avez régularisé votre situation, votre banquier a deux 
+jours ouvrés pour en informer la Banque de France afin que votre ins-
+cription au FCC soit supprimée.
+L’interdiction bancaire
+l
+’
+i
+n
+t
+e
+r
+d
+i
+c
+t
+i
+o
+n
+ 
+b
+a
+n
+c
+a
+i
+r
+e
+banque, crÉdit : Êtes-vous fichÉ ? 0
+La régularisation de l’incident ne consiste pas uniquement à payer le mon-
+tant du chèque rejeté, mais également, dans certains cas, à payer une  
+pénalité libératoire.
+Cette pénalité ne pourra pas vous être réclamée si vous n’avez eu aucun 
+autre chèque rejeté dans les douze mois précédents et que vous avez 
+suffisamment approvisionné votre compte dans les deux mois du rejet 
+du chèque.
+Le non-respect de l’interdiction d’émettre des chèques vous expose à 
+des sanctions pénales (quel que soit le montant du chèque émis en vio-
+lation de l’interdiction), notamment une amende.
+l
+’
+i
+n
+t
+e
+r
+d
+i
+c
+t
+i
+o
+n
+ 
+b
+a
+n
+c
+a
+i
+r
+e
+
+Vous avez demandé un crédit, une carte de paiement en plusieurs 
+échéances avec ou sans frais, ou un découvert sur votre compte courant. 
+Sachez que le banquier n’a pas l’obligation de répondre favorablement à 
+votre demande et que sa réponse tiendra compte de sa politique interne 
+en matière d’octroi de crédit.
+Si cette demande vous a été refusée et que vous pensez que ce refus 
+provient du fait que vous figurez dans un fichier d’interdiction, ce qui 
+n’est pas certain, la première démarche indispensable consiste à vérifier 
+si vous êtes fiché à la Banque de France. 
+En effet, lors de l’instruction de toute demande de crédit, l’organisme 
+prêteur interroge systématiquement le FICP (cf. page ), géré par la 
+Banque de France, afin de vérifier si le demandeur y est inscrit ou non. 
+• Si vous êtes fiché au FICP, votre demande de crédit risque 
+d’être refusée. Lorsque son refus est lié à votre inscription au FICP, 
+l’établissement de crédit doit vous le dire.
+• Si vous n’êtes pas fiché au FICP mais qu’on vous a refusé un crédit, 
+vous pouvez obtenir des indications sur les raisons de ce refus : 
+? Votre dossier ne remplit pas les conditions fixées par l’organisme pour 
+obtenir ce crédit : l’organisme prêteur peut considérer que vos revenus sont 
+insuffisants ou que votre situation est «risquée». 
+Ces organismes utilisent généralement des systèmes informatiques 
+d’aide à la décision permettant de calculer automatiquement un «sco-
+re». Ce score est calculé à partir des données que vous leur avez 
+communiquées lors de la demande de crédit ou de celles déjà en leur 
+possession (âge, profession, situation familiale, nationalité, fonction-
+nement du compte, etc.). Ces scores additionnés donnent un score 
+final qui va permettre à l’organisme d’apprécier si le crédit peut ou 
+non vous être accordé. Le refus peut donc être lié au score qui vous 
+est attribué.
+Vous pouvez obtenir communication de votre score et des autres 
+éléments ayant fondé ce refus en exerçant votre droit d’accès. 
+Le refus de crédit
+l
+e
+ 
+r
+e
+f
+u
+s
+ 
+d
+e
+ 
+c
+r
+É
+d
+i
+t
+banque, crÉdit : Êtes-vous fichÉ ? 
+? Sachez que l’organisme prêteur, ou l’une de ses filiales, a le droit de conserver 
+la trace d’un incident passé. Cet organisme pourra donc refuser de vous 
+octroyer un nouveau crédit, au motif d’un « fichage interne » faisant ap-
+paraître des difficultés de paiement lors de l’exécution d’un contrat précé-
+dent.
+À savoir
+Lorsque vous faites une demande de crédit à une banque pour un prêt à 
+la consommation, quand vous demandez une carte de paiement dans une 
+grande surface, ou si vous souhaitez obtenir un crédit pour payer en plu-
+sieurs fois dans un magasin, votre demande est généralement traitée par 
+une société spécialisée dans le crédit à la consommation et non par la ban-
+que, la grande surface ou le magasin. Dès lors, si vous avez eu dans le 
+passé des difficultés avec cet organisme de crédit, votre demande risque 
+d’être refusée.
+? L’organisme prêteur prétend que vous êtes fiché au FICP alors que vous pen-
+sez ne pas l’être. C’est possible si votre radiation du FICP est récente. En 
+effet, si la Banque de France procède immédiatement à votre radiation dès 
+que l’établissement prêteur le lui demande, les autres banques et organis-
+mes de crédit n’en sont pas immédiatement informés. 
+Une fois par mois, la Banque de France leur envoie une copie du FICP com-
+prenant les mises à jour. Cet envoi s’effectue entre le  et le 0 de chaque 
+mois, ce qui peut avoir pour conséquence de porter à la connaissance des 
+organismes prêteurs une radiation du FICP avec un mois de retard par rap-
+port à la radiation effective.
+Afin d’éviter qu’un crédit vous soit refusé pour ce motif, nous vous re-
+commandons de patienter au moins un mois à compter de la date de 
+radiation du FICP par la Banque de France avant de demander un nou-
+veau crédit. 
+Sachez que, dans une telle hypothèse, vous pouvez également deman-
+der à l’organisme prêteur d’interroger directement le FICP auprès des 
+services de la Banque de France à Poitiers (fax : 0.9...9). Il pour-
+ra ainsi avoir la confirmation que vous n’êtes plus fiché. 
+l
+e
+ 
+r
+e
+f
+u
+s
+ 
+d
+e
+ 
+c
+r
+É
+d
+i
+t
+
+? Vous avez fait une demande de crédit auprès du même organisme qui 
+a été refusée il y a moins de 6 mois :
+ Les organismes prêteurs conservent en général pendant  mois les infor-
+mations relatives aux refus d’octroi de crédit. Cette pratique a pour objet 
+d’éviter qu’une personne n’effectue des demandes répétées auprès de plu-
+sieurs établissements d’une même enseigne. Ainsi, si un organisme vous a 
+refusé un crédit il y a moins de  mois, votre nouvelle demande risque d’être 
+refusée. 
+? Vous avez un homonyme qui est fiché :
+ Vous avez appris qu’une personne ayant les mêmes nom, prénom, ou les 
+mêmes date et lieu de naissance était fichée. 
+À ce jour, le FICP ne permet pas de mettre en évidence les cas d’homony-
+mie car les critères d’interrogation du fichier pour vérifier l’inscription d’une 
+personne sont les cinq premières lettres du nom de famille ainsi que la date 
+de naissance. 
+Dans ce cas, la seule solution est de signaler à l’organisme prêteur que 
+vous avez un homonyme et de lui demander de préciser, lorsqu’il inter-
+roge le FICP, votre nom de famille en entier, tous vos prénoms, ainsi que 
+vos date et commune de naissance.
+l
+e
+ 
+r
+e
+f
+u
+s
+ 
+d
+e
+ 
+c
+r
+É
+d
+i
+t
+banque, crÉdit : Êtes-vous fichÉ ? 
+Le contrôle des chèques
+Un commerçant a refusé votre paiement par chèque ? 
+Le paiement par chèque à la caisse d’un magasin peut faire l’objet de 
+contrôles. Ces contrôles permettent aux commerçants d’éviter des im-
+payés. Ils ne sont pas systématiques et chaque commerçant décide ou 
+non d’y procéder. 
+A partir de la suite de chiffres figurant au bas du chèque, de nombreuses 
+vérifications peuvent être effectuées lors de son remplissage automatique 
+en caisse. Une fois déchiffrées, ces informations permettent au commerçant 
+de procéder à des contrôles, sur son propre système informatique, ou en 
+sollicitant des informations auprès de tiers.
+Les vérifications effectuées par le commerçant dans son système 
+informatique
+Certains commerçants décident d’évaluer le risque de non-paiement du 
+chèque sur la base d’informations dont ils disposent déjà. 
+Ils s’appuient sur :
+• les incidents de paiement non encore régularisés (suite à un chèque 
+rejeté) ; 
+• les dernières transactions effectuées par chèque, afin de repérer 
+les émissions massives de chèques sur une courte période, en particulier 
+lorsqu’ils correspondent à des achats de même nature pour des 
+montants importants. 
+l
+e
+ 
+c
+o
+n
+t
+r
+Ô
+l
+e
+ 
+d
+e
+s
+ 
+c
+h
+È
+q
+u
+e
+s
+
+Les vérifications effectuées par le commerçant auprès du FNCI 
+(Fichier National des Chèques Irréguliers) 
+Tout commerçant peut interroger le FNCI (cf. page ) à partir de la suite de 
+chiffres figurant au bas du chèque.
+La réponse obtenue du FNCI prend la forme d’un code couleur :
+• Vert : aucune information recensée dans le fichier concernant le chèque
+• Rouge : chèque irrégulier (compte dont le titulaire est frappé d’une 
+interdiction bancaire ou judiciaire, formule de chèque recensée au titre 
+d’une opposition pour perte ou vol, compte clôturé, faux chèque) 
+• Orange : compte déclaré au titre d’une opposition pour perte ou vol 
+auprès du Centre national d’appel des chèques perdus ou volés, ou du 
+banquier (les numéros des chèques concernés n’ont pas encore été 
+enregistrés dans le FNCI)
+ Blanc : réponse impossible
+Les vérifications effectuées par les sociétés de « garantie de chèques »
+Les commerçants peuvent adhérer à un service de « garantie de chèques » 
+qui leur offre une garantie de paiement lorsque le chèque est rejeté pour 
+défaut de provision.
+Ce service s’appuie également sur la lecture de la suite de chiffres figurant 
+au bas du chèque. Au moment de la transaction, un calcul du risque statis-
+tique est effectué par les sociétés offrant ce service.
+Ce risque statistique est calculé à partir des paiements que vous avez effec-
+tués par chèque auprès des commerçants adhérents à ce service au cours 
+des trois derniers mois. Il se base également sur différents éléments objec-
+tifs concernant votre transaction (nom de votre banque, heure et montant 
+de l’achat, type de commerce concerné, type de pièce d’identité présentée, 
+région de l’achat). Selon le score obtenu, la société accepte ou non de ga-
+rantir le paiement de votre chèque au commerçant. 
+l
+e
+ 
+c
+o
+n
+t
+r
+Ô
+l
+e
+ 
+d
+e
+s
+ 
+c
+h
+È
+q
+u
+e
+s
+banque, crÉdit : Êtes-vous fichÉ ? 
+Le commerçant est uniquement informé de l’acceptation ou du refus de la 
+garantie mais pas des motifs de cette décision.
+À noter
+Les informations collectées lors de ces opérations ne sont utilisées que 
+par la société de garantie de chèques qui ne conserve l’historique des 
+demandes de garantie de paiement que trois mois.
+Le nom et le numéro de téléphone de la société de garantie de chèques 
+doivent vous être communiqués par le commerçant adhérant au service. 
+Le plus souvent, ces informations sont affichées dans ses locaux (par 
+exemple, sur chaque caisse dans une grande surface).
+Quelle que soit la décision de la société de garantie de chèques (accep-
+tation ou refus), le commerçant a toujours le choix d’accepter ou non 
+votre chèque. 
+l
+e
+ 
+c
+o
+n
+t
+r
+Ô
+l
+e
+ 
+d
+e
+s
+ 
+c
+h
+È
+q
+u
+e
+s
+
+La loi «informatique et libertés» vous reconnaît plusieurs droits. 
+Ces droits vous permettent de contrôler l’utilisation que les banques et 
+les organismes de crédit font de vos informations personnelles. Si vous 
+exercez vos droits, vous devez obtenir une réponse dans les 2 mois 
+suivant votre demande.
+Le droit à l’information
+Vous devez être informé lorsqu’une banque ou un organisme de crédit 
+enregistre des informations sur vous. Ils doivent notamment vous indi-
+quer : dans quel but ces informations sont collectées, qui en seront les 
+destinataires, le caractère obligatoire ou non des informations deman-
+dées et les droits dont vous disposez.
+Le droit d’accès  
+Vous avez le droit de savoir si des données vous concernant sont 
+enregistrées dans un fichier et d’en obtenir une copie (la facturation 
+éventuelle de cette copie ne peut pas excéder le coût de la reproduc-
+tion). Plus votre demande est précise (en indiquant les informations qui 
+vous intéressent), plus elle aura de chance d’être rapidement satisfaite, 
+par exemple au guichet de votre banque. 
+Les éléments qui vous sont communiqués doivent être compréhensibles. 
+Ainsi, les codes, les sigles et les abréviations utilisés doivent vous être 
+expliqués (éventuellement par le biais d’un lexique).
+Dans le domaine de la banque et du crédit, ce droit vous permet 
+notamment de savoir :
+- si votre banque ou votre organisme de crédit a conservé la trace 
+d’incidents de paiement lors de l’exécution d’un contrat précédent ;
+- le score qui vous a été attribué ainsi que les notes minimales et 
+maximales possibles ;
+- les commentaires que votre banquier a inscrits sur vous dans 
+votre dossier. 
+(3) La CNIL a édité un guide du droit d’accès, que vous pouvez demander ou télécharger sur son site 
+internet www.cnil.fr, rubrique «La CNIL – Publications».
+q
+u
+e
+l
+s
+ 
+s
+o
+n
+t
+ 
+v
+o
+s
+ 
+d
+r
+o
+i
+t
+s
+ 
+?
+Quels sont vos droits ?
+banque, crÉdit : Êtes-vous fichÉ ? 
+Comment faire : adressez un courrier à la banque ou à l’établissement 
+de crédit (cf. modèle de lettre page ) ou rendez-vous à votre agence 
+muni d’une pièce d’identité.
+- si vous êtes inscrit dans un fichier de la Banque de France, dans quel 
+fichier, par quel organisme, pour quel motif et pour combien de temps.
+Comment faire : rendez-vous dans un bureau de la Banque de France, 
+muni d’une pièce d’identité.
+Le droit de rectification 
+Une fois en possession de l’ensemble de vos données, vous pourrez 
+demander à l’organisme qui les détient qu’elles soient rectifiées (si elles 
+sont inexactes), complétées (si elles sont incomplètes ou équivoques), 
+mises à jour (si elles sont périmées) ou effacées (si ces informations ne 
+pouvaient être régulièrement collectées).
+Le droit d’opposition 
+Vous avez le droit de vous opposer à ce que des données vous 
+concernant soient enregistrées dans un fichier. L’exercice de ce droit 
+est soumis à l’existence de motifs légitimes, et parfois vous ne pouvez 
+pas l’exercer, tout simplement parce que la loi impose l’enregistrement 
+d’une information sur vous par la banque (par exemple, votre banquier 
+a l’obligation de s’assurer de votre identité).
+En revanche, vous pouvez vous opposer, sans frais et sans justifica-
+tion, à recevoir des sollicitations commerciales d’une banque ou d’un 
+organisme de crédit. 
+(4) La CNIL a édité un guide intitulé «Halte aux publicités» , que vous pouvez demander aux services de la 
+Commission ou télécharger sur son site internet www.cnil.fr, rubrique «La CNIL – Publications».
+q
+u
+e
+l
+s
+ 
+s
+o
+n
+t
+ 
+v
+o
+s
+ 
+d
+r
+o
+i
+t
+s
+ 
+?
+9
+- Si vous avez exercé vos droits «informatique et libertés»  (droit d’accès, 
+de rectification, d’opposition) sans avoir obtenu de réponse satisfaisante 
+dans les deux mois ;
+- si vous constatez que la confidentialité de vos données n’est pas res-
+pectée par votre banque ou votre établissement de crédit ;
+- si une banque ou un organisme de crédit vous demande de lui trans-
+mettre des informations dont la communication ne vous paraît pas né-
+cessaire ;
+- si vous contestez le maintien de votre inscription dans un fichier de la 
+Banque de France ;
+- si vous contestez le maintien de votre inscription dans un fichier interne 
+d’une banque ou d’un établissement de crédit :
+dans tous ces cas, vous pouvez saisir la CNIL qui interviendra 
+auprès de l’organisme avec lequel vous rencontrez des difficultés. 
+Pour cela, il suffit d’adresser un courrier à :
+CNIL - Service des plaintes  
+8 rue Vivienne - CS30223 
+75083 Paris Cedex 02
+N’oubliez pas de joindre la copie du ou des courriers que vous avez 
+adressés à l’organisme ainsi que de ses réponses éventuelles. 
+Si vous souhaitez que la CNIL intervienne, précisez bien les coordonnées 
+de cet organisme.
+Si vous contestez votre inscription dans un fichier de la Banque de Fran-
+ce, indiquez de quel fichier il s’agit, ainsi que vos date et lieu de nais-
+sance (et votre nom de jeune fille si vous êtes une femme mariée). Ces 
+informations nous permettront de vérifier auprès de la Banque de France 
+les informations vous concernant qui lui ont été communiquées.
+l
+a
+ 
+c
+n
+i
+l
+ 
+À
+ 
+v
+o
+s
+ 
+c
+Ô
+t
+É
+s
+La CNIL à vos côtés
+banque, crÉdit : Êtes-vous fichÉ ? 0
+À retenir
+La CNIL n’est pas compétente pour vous aider si :
+- vous contestez les sommes que votre banque ou qu’un organisme de 
+crédit vous réclame ;
+- vous contestez la régularité du contrat qui vous lie à une banque ou un 
+organisme de crédit ; 
+- vous souhaitez obtenir des dommages-intérêts à la suite d’une 
+inscription abusive dans un fichier de la Banque de France.
+l
+a
+ 
+c
+n
+i
+l
+ 
+À
+ 
+v
+o
+s
+ 
+c
+Ô
+t
+É
+s
+
+Recommandé avec accusé de réception
+Objet : Droit d’accès 
+Réf. : n° de client
+Madame, Monsieur, 
+[si vous souhaitez obtenir une copie intégrale des données qui vous concernent 
+détenues par votre banque ou votre organisme de crédit :
+Conformément à l’article 9 de la loi du  janvier 9 modifiée relative à l’informa-
+tique, aux fichiers et aux libertés, je vous prie de me communiquer une copie de 
+l’ensemble des données me concernant enregistrées dans vos fichiers informatisés 
+et manuels, y compris celles enregistrées dans les zones «commentaires». 
+Je vous rappelle que vous disposez d’un délai maximal de deux mois suivant la 
+réception de ce courrier pour répondre à ma demande, conformément à l’article 
+9 du décret du 0 octobre 00 pris pour l’application de la loi du  janvier 9 
+modifiée.]
+[si vous souhaitez simplement savoir pourquoi on vous a refusé un crédit :
+Conformément à l’article 9 de la loi du  janvier 9 modifiée relative à l’informa-
+tique, aux fichiers et aux libertés, je vous prie de m’indiquer si le refus de crédit que 
+vous m’avez opposé est fondé sur ma présence dans le Fichier des Incidents de 
+remboursement des Crédits aux Particuliers (FICP) géré par la Banque de France 
+ou sur ma présence dans un fichier d’incidents interne à votre organisme. Dans ce 
+dernier cas, je vous demande de m’adresser une copie intégrale des données me 
+concernant contenues dans ce fichier.
+Vous voudrez bien également me communiquer le score qui m’a été attribué lors de la 
+demande de crédit, ainsi que les notes minimales et maximales possibles aux fins de 
+comparaison avec mon propre score.
+Je vous rappelle que vous disposez d’un délai maximal de deux mois suivant la 
+réception de ce courrier pour répondre à ma demande, conformément à l’article 9 du 
+décret du 0 octobre 00 pris pour l’application de la loi du  janvier 9 modifiée.]
+Je vous prie d’agréer, Madame, Monsieur, l’expression de mes salutations distinguées.
+Signature 
+P. J. : photocopie de tout document d’identité comportant vos nom, prénoms, date et lieu de naissance
+Modèle de lettre pour exercer 
+votre droit d’accès
+Expéditeur :
+Destinataire :
+indiquez ici l’adresse 
+de votre banque ou de 
+votre organisme de crédit
+Attention : A adapter à votre situation et aux informations que vous voulez obtenir.
+M
+o
+d
+È
+l
+e
+ 
+d
+e
+ 
+l
+e
+t
+t
+r
+e
+ 
+p
+o
+u
+r
+ 
+e
+x
+e
+r
+c
+e
+r
+ 
+v
+o
+t
+r
+e
+ 
+d
+r
+o
+i
+t
+ 
+d
+’
+a
+c
+c
+È
+s
+banque, crÉdit : Êtes-vous fichÉ ? 
+Objet : Droit de rectification
+Réf. : n° de client 
+Madame, Monsieur, 
+Conformément à l’article 0 de la loi du  janvier 9 modifiée relative à l’in-
+formatique, aux fichiers et aux libertés, je vous prie de [à adapter en fonction de 
+votre demande]
+Rectifier……
+Compléter ou clarifier……
+Mettre à jour……
+Effacer……
+Vous voudrez bien m’adresser copie de l’enregistrement ainsi modifié (article 0, alinéa ).
+Je vous rappelle que vous disposez d’un délai maximal de deux mois suivant la récep-
+tion de ce courrier pour répondre à ma demande, conformément à l’article 9 du décret 
+du 0 octobre 00 pris pour l’application de la loi du  janvier 9 modifiée.
+Je vous prie d’agréer, Madame, Monsieur, l’expression de mes salutations distinguées.
+Signature 
+ 
+P.J. : photocopie de tout document d’identité comportant vos nom, prénoms, date 
+et lieu de naissance
+Expéditeur :
+Destinataire :
+indiquez ici l’adresse 
+de votre banque ou de 
+votre organisme de crédit
+M
+o
+d
+È
+l
+e
+ 
+d
+e
+ 
+l
+e
+t
+t
+r
+e
+ 
+p
+o
+u
+r
+ 
+e
+x
+e
+r
+c
+e
+r
+ 
+v
+o
+t
+r
+e
+ 
+d
+r
+o
+i
+t
+ 
+d
+e
+ 
+r
+e
+c
+t
+i
+f
+i
+c
+a
+t
+i
+o
+n
+Modèle de lettre pour exercer 
+votre droit de rectification
+
+Objet : Droit d’opposition 
+Madame, Monsieur, 
+Conformément à l’article  alinéa  de la loi du  janvier 9 modifiée relative à 
+l’informatique, aux fichiers et aux libertés, je vous demande de ne plus m’adresser vos 
+publicités.
+Je vous rappelle que vous disposez d’un délai maximal de deux mois suivant la 
+réception de ce courrier pour répondre à ma demande, conformément à l’article 9 du 
+décret du 0 octobre 00 pris pour l’application de la loi du  janvier 9 modifiée.
+Je vous prie d’agréer, Madame, Monsieur, l’expression de mes salutations distinguées.
+Signature 
+P. J. : photocopie de tout document d’identité comportant vos nom, prénoms, date 
+et lieu de naissance
+Expéditeur :
+Destinataire :
+indiquez ici l’adresse 
+de votre banque ou de 
+votre organisme de crédit
+M
+o
+d
+È
+l
+e
+ 
+d
+e
+ 
+l
+e
+t
+t
+r
+e
+ 
+p
+o
+u
+r
+ 
+e
+x
+e
+r
+c
+e
+r
+ 
+v
+o
+t
+r
+e
+ 
+d
+r
+o
+i
+t
+ 
+d
+’
+o
+p
+p
+o
+s
+i
+t
+i
+o
+n
+Modèle de lettre pour exercer 
+votre droit d’opposition
+banque, crÉdit : Êtes-vous fichÉ ? 
+Objet : Demande d’intervention de la CNIL
+Monsieur le président, 
+Je souhaite appeler votre attention sur les faits suivants.
+Je vous prie d’agréer, Monsieur le président, l’expression de mes salutations 
+distinguées.
+Signature
+ 
+P.J. : Photocopies des courriers adressés à votre banque ou organisme de crédit 
+avec, éventuellement, photocopies de ses réponses ;
+- N° client, adresse de votre agence bancaire ou de votre organisme de crédit ;
+- vos date et lieu de naissance et, éventuellement, votre nom de jeune fille en cas de 
+contestation d’inscription dans un fichier de la Banque de France.
+Expéditeur :
+Destinataire :
+Monsieur le président 
+Commission nationale 
+de l’informatique et des libertés
+ rue Vivienne - CS 0
+0 Paris Cedex 0
+M
+o
+d
+È
+l
+e
+ 
+d
+e
+ 
+l
+e
+t
+t
+r
+e
+ 
+p
+o
+u
+r
+ 
+d
+e
+M
+a
+n
+d
+e
+r
+ 
+l
+’
+i
+n
+t
+e
+r
+v
+e
+n
+t
+i
+o
+n
+ 
+d
+e
+ 
+l
+a
+ 
+c
+n
+i
+l
+Modèle de lettre pour demander 
+l’intervention de la CNIL
+Attention : Courrier à adresser à la CNIL uniquement si vous avez exercé sans succès vos droits.
+ AVANT-PROPOS
+OÙ POUVEZ-VOUS ÊTRE FICHÉ ?
+Les fi chiers des banques et des organismes de crédit
+Les fi chiers de la Banque de France
+Les fi chiers du ministère de l’économie et des fi nances
+L’INTERDICTION BANCAIRE
+LE REFUS DE CRÉDIT
+LE CONTRÔLE DES CHÈQUES
+QUELS SONT VOS DROITS ?
+LA CNIL À VOS CÔTÉS
+MODÈLES DE LETTRES POUR EXERCER VOS DROITS
+Modèle de lettre pour exercer votre droit d’accès
+Modèle de lettre pour exercer votre droit de rectifi cation
+Modèle de lettre pour exercer votre droit d’opposition
+Modèle de lettre pour demander l’intervention de la CNIL
+Ce guide est téléchargeable sur le site internet de la CNIL www.cnil.fr
+page 1
+ 
+page 2
+page 5
+page 7
+page 9
+page 11
+page 14
+page 17
+page 19
+ 
+page 21
+page 22
+page 23
+page 24
+Sommaire
+ www.cnil.fr
+Agence Aristophane
+Édition Septembre 2007
+GUIDE
+BANQUE, CRÉDIT :
+ÊTES-VOUS FICHÉ ?
+ 8 rue Vivienne - CS 30223 
+75083 Paris cedex 02
+Tél : 01 53 73 22 22 
+Fax : 01 53 73 22 00

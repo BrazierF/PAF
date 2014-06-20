@@ -1,0 +1,880 @@
+Jan Philipp Albrecht
+
+http://fr.dbpedia.org/resource/Jan_Philipp_Albrecht
+
+Parlement européen
+
+http://fr.dbpedia.org/resource/Parlement_européen
+
+Alexander Alvaro
+
+http://fr.dbpedia.org/resource/Alexander_Alvaro
+
+Alexander Alvaro
+
+http://fr.dbpedia.org/resource/Alexander_Alvaro
+
+traitement de données à caractère personnel
+
+http://fr.dbpedia.org/resource/Fichage_en_France
+
+traitements de données à caractère personnel
+
+http://fr.dbpedia.org/resource/Fichage_en_France
+
+Torvalds
+DBpedia:Agent,Schema:Person,Http://xmlns.com/foaf/0.1/Person,DBpedia:Person
+http://fr.dbpedia.org/resource/Linus_Torvalds
+
+traitement de données à caractère personnel
+
+http://fr.dbpedia.org/resource/Fichage_en_France
+
+traitement de données à caractère personnel
+
+http://fr.dbpedia.org/resource/Fichage_en_France
+
+traitement de données à caractère personnel
+
+http://fr.dbpedia.org/resource/Fichage_en_France
+
+traitement de données à caractère personnel
+
+http://fr.dbpedia.org/resource/Fichage_en_France
+
+Jan Philipp Albrecht
+
+http://fr.dbpedia.org/resource/Jan_Philipp_Albrecht
+
+traitement de données à caractère personnel
+
+http://fr.dbpedia.org/resource/Fichage_en_France
+
+traitement de données à caractère personnel
+
+http://fr.dbpedia.org/resource/Fichage_en_France
+
+Consuegra
+Schema:Place,DBpedia:Place,DBpedia:PopulatedPlace,DBpedia:Settlement
+http://fr.dbpedia.org/resource/Consuegra
+
+traitement de données à caractère personnel
+
+http://fr.dbpedia.org/resource/Fichage_en_France
+
+traitement de données à caractère personnel
+
+http://fr.dbpedia.org/resource/Fichage_en_France
+
+traitement de données à caractère personnel
+
+http://fr.dbpedia.org/resource/Fichage_en_France
+
+traitement de données à caractère personnel
+
+http://fr.dbpedia.org/resource/Fichage_en_France
+
+traitement de données à caractère personnel
+
+http://fr.dbpedia.org/resource/Fichage_en_France
+
+traitement de données à caractère personnel
+
+http://fr.dbpedia.org/resource/Fichage_en_France
+
+traitement de données à caractère personnel
+
+http://fr.dbpedia.org/resource/Fichage_en_France
+
+traitement de données à caractère personnel
+
+http://fr.dbpedia.org/resource/Fichage_en_France
+
+traitement de données à caractère personnel
+
+http://fr.dbpedia.org/resource/Fichage_en_France
+
+traitement de données à caractère personnel
+
+http://fr.dbpedia.org/resource/Fichage_en_France
+
+Alexander Alvaro
+
+http://fr.dbpedia.org/resource/Alexander_Alvaro
+
+traitement de données à caractère personnel
+
+http://fr.dbpedia.org/resource/Fichage_en_France
+
+traitement de données à caractère personnel
+
+http://fr.dbpedia.org/resource/Fichage_en_France
+
+traitement de données à caractère personnel
+
+http://fr.dbpedia.org/resource/Fichage_en_France
+
+traitement de données à caractère personnel
+
+http://fr.dbpedia.org/resource/Fichage_en_France
+
+Consuegra
+Schema:Place,DBpedia:Place,DBpedia:PopulatedPlace,DBpedia:Settlement
+http://fr.dbpedia.org/resource/Consuegra
+
+traitement de données à caractère personnel
+
+http://fr.dbpedia.org/resource/Fichage_en_France
+
+traitement de données à caractère personnel
+
+http://fr.dbpedia.org/resource/Fichage_en_France
+
+Alexander Alvaro
+
+http://fr.dbpedia.org/resource/Alexander_Alvaro
+
+traitements de données à caractère personnel
+
+http://fr.dbpedia.org/resource/Fichage_en_France
+
+Alexander Alvaro
+
+http://fr.dbpedia.org/resource/Alexander_Alvaro
+
+Alexander Alvaro
+
+http://fr.dbpedia.org/resource/Alexander_Alvaro
+
+traitements de données à caractère personnel
+
+http://fr.dbpedia.org/resource/Fichage_en_France
+
+Alexander Alvaro
+
+http://fr.dbpedia.org/resource/Alexander_Alvaro
+
+Alexander Alvaro
+
+http://fr.dbpedia.org/resource/Alexander_Alvaro
+
+traitements de données à caractère personnel
+
+http://fr.dbpedia.org/resource/Fichage_en_France
+
+Alexander Alvaro
+
+http://fr.dbpedia.org/resource/Alexander_Alvaro
+
+Alexander Alvaro
+
+http://fr.dbpedia.org/resource/Alexander_Alvaro
+
+traitements de données à caractère personnel
+
+http://fr.dbpedia.org/resource/Fichage_en_France
+
+Alexander Alvaro
+
+http://fr.dbpedia.org/resource/Alexander_Alvaro
+
+Alexander Alvaro
+
+http://fr.dbpedia.org/resource/Alexander_Alvaro
+
+traitements de données à caractère personnel
+
+http://fr.dbpedia.org/resource/Fichage_en_France
+
+Alexander Alvaro
+
+http://fr.dbpedia.org/resource/Alexander_Alvaro
+
+Alexander Alvaro
+
+http://fr.dbpedia.org/resource/Alexander_Alvaro
+
+traitements de données à caractère personnel
+
+http://fr.dbpedia.org/resource/Fichage_en_France
+
+Alexander Alvaro
+
+http://fr.dbpedia.org/resource/Alexander_Alvaro
+
+Alexander Alvaro
+
+http://fr.dbpedia.org/resource/Alexander_Alvaro
+
+traitements de données à caractère personnel
+
+http://fr.dbpedia.org/resource/Fichage_en_France
+
+Alexander Alvaro
+
+http://fr.dbpedia.org/resource/Alexander_Alvaro
+
+Alexander Alvaro
+
+http://fr.dbpedia.org/resource/Alexander_Alvaro
+
+Alexander Alvaro
+
+http://fr.dbpedia.org/resource/Alexander_Alvaro
+
+traitements de données à caractère personnel
+
+http://fr.dbpedia.org/resource/Fichage_en_France
+
+Consuegra
+Schema:Place,DBpedia:Place,DBpedia:PopulatedPlace,DBpedia:Settlement
+http://fr.dbpedia.org/resource/Consuegra
+
+Alexander Alvaro
+
+http://fr.dbpedia.org/resource/Alexander_Alvaro
+
+Alexander Alvaro
+
+http://fr.dbpedia.org/resource/Alexander_Alvaro
+
+Alexander Alvaro
+
+http://fr.dbpedia.org/resource/Alexander_Alvaro
+
+Jan Mulder
+DBpedia:Agent,Schema:Person,Http://xmlns.com/foaf/0.1/Person,DBpedia:Person,DBpedia:Athlete,DBpedia:SoccerPlayer
+http://fr.dbpedia.org/resource/Jan_Mulder
+
+Jan Mulder
+DBpedia:Agent,Schema:Person,Http://xmlns.com/foaf/0.1/Person,DBpedia:Person,DBpedia:Athlete,DBpedia:SoccerPlayer
+http://fr.dbpedia.org/resource/Jan_Mulder
+
+Salvador
+Schema:Place,DBpedia:Place,DBpedia:PopulatedPlace,Schema:Country,DBpedia:Country
+http://fr.dbpedia.org/resource/Salvador
+
+Consuegra
+Schema:Place,DBpedia:Place,DBpedia:PopulatedPlace,DBpedia:Settlement
+http://fr.dbpedia.org/resource/Consuegra
+
+Torvalds
+DBpedia:Agent,Schema:Person,Http://xmlns.com/foaf/0.1/Person,DBpedia:Person
+http://fr.dbpedia.org/resource/Linus_Torvalds
+
+Birgit Sippel
+
+http://fr.dbpedia.org/resource/Birgit_Sippel
+
+Jutta Steinruck
+
+http://fr.dbpedia.org/resource/Jutta_Steinruck
+
+'t Veld
+
+http://fr.dbpedia.org/resource/'t_Veld_(Meulebeke)
+
+Marita Ulvskog
+DBpedia:Agent,Schema:Person,Http://xmlns.com/foaf/0.1/Person,DBpedia:Person,DBpedia:OfficeHolder
+http://fr.dbpedia.org/resource/Marita_Ulvskog
+
+Consuegra
+Schema:Place,DBpedia:Place,DBpedia:PopulatedPlace,DBpedia:Settlement
+http://fr.dbpedia.org/resource/Consuegra
+
+Jan Mulder
+DBpedia:Agent,Schema:Person,Http://xmlns.com/foaf/0.1/Person,DBpedia:Person,DBpedia:Athlete,DBpedia:SoccerPlayer
+http://fr.dbpedia.org/resource/Jan_Mulder
+
+'t Veld
+
+http://fr.dbpedia.org/resource/'t_Veld_(Meulebeke)
+
+Jan Mulder
+DBpedia:Agent,Schema:Person,Http://xmlns.com/foaf/0.1/Person,DBpedia:Person,DBpedia:Athlete,DBpedia:SoccerPlayer
+http://fr.dbpedia.org/resource/Jan_Mulder
+
+Stanimir
+
+http://fr.dbpedia.org/resource/Stanimir
+
+Consuegra
+Schema:Place,DBpedia:Place,DBpedia:PopulatedPlace,DBpedia:Settlement
+http://fr.dbpedia.org/resource/Consuegra
+
+Alexander Alvaro
+
+http://fr.dbpedia.org/resource/Alexander_Alvaro
+
+ter
+
+http://fr.dbpedia.org/resource/Transport_express_régional
+
+ter
+
+http://fr.dbpedia.org/resource/Transport_express_régional
+
+Françoise Castex
+
+http://fr.dbpedia.org/resource/Françoise_Castex
+
+Marie-Christine Vergiat
+DBpedia:Agent,Schema:Person,Http://xmlns.com/foaf/0.1/Person,DBpedia:Person,DBpedia:OfficeHolder
+http://fr.dbpedia.org/resource/Marie-Christine_Vergiat
+
+traitement de données à caractère personnel
+
+http://fr.dbpedia.org/resource/Fichage_en_France
+
+Birgit Sippel
+
+http://fr.dbpedia.org/resource/Birgit_Sippel
+
+Jutta Steinruck
+
+http://fr.dbpedia.org/resource/Jutta_Steinruck
+
+Marie-Christine Vergiat
+DBpedia:Agent,Schema:Person,Http://xmlns.com/foaf/0.1/Person,DBpedia:Person,DBpedia:OfficeHolder
+http://fr.dbpedia.org/resource/Marie-Christine_Vergiat
+
+Birgit Sippel
+
+http://fr.dbpedia.org/resource/Birgit_Sippel
+
+Jutta Steinruck
+
+http://fr.dbpedia.org/resource/Jutta_Steinruck
+
+Alexander Alvaro
+
+http://fr.dbpedia.org/resource/Alexander_Alvaro
+
+ter
+
+http://fr.dbpedia.org/resource/Transport_express_régional
+
+Consuegra
+Schema:Place,DBpedia:Place,DBpedia:PopulatedPlace,DBpedia:Settlement
+http://fr.dbpedia.org/resource/Consuegra
+
+commission ITRE
+
+http://fr.dbpedia.org/resource/Commission_de_l'industrie,_de_la_recherche_et_de_l'énergie
+
+Marie-Christine Vergiat
+DBpedia:Agent,Schema:Person,Http://xmlns.com/foaf/0.1/Person,DBpedia:Person,DBpedia:OfficeHolder
+http://fr.dbpedia.org/resource/Marie-Christine_Vergiat
+
+ter
+
+http://fr.dbpedia.org/resource/Transport_express_régional
+
+ter
+
+http://fr.dbpedia.org/resource/Transport_express_régional
+
+Commission européenne
+
+http://fr.dbpedia.org/resource/Commission_européenne
+
+Stanimir
+
+http://fr.dbpedia.org/resource/Stanimir
+
+Alexander Alvaro
+
+http://fr.dbpedia.org/resource/Alexander_Alvaro
+
+Torvalds
+DBpedia:Agent,Schema:Person,Http://xmlns.com/foaf/0.1/Person,DBpedia:Person
+http://fr.dbpedia.org/resource/Linus_Torvalds
+
+Jan Mulder
+DBpedia:Agent,Schema:Person,Http://xmlns.com/foaf/0.1/Person,DBpedia:Person,DBpedia:Athlete,DBpedia:SoccerPlayer
+http://fr.dbpedia.org/resource/Jan_Mulder
+
+Consuegra
+Schema:Place,DBpedia:Place,DBpedia:PopulatedPlace,DBpedia:Settlement
+http://fr.dbpedia.org/resource/Consuegra
+
+Alexander Alvaro
+
+http://fr.dbpedia.org/resource/Alexander_Alvaro
+
+Torvalds
+DBpedia:Agent,Schema:Person,Http://xmlns.com/foaf/0.1/Person,DBpedia:Person
+http://fr.dbpedia.org/resource/Linus_Torvalds
+
+Jan Mulder
+DBpedia:Agent,Schema:Person,Http://xmlns.com/foaf/0.1/Person,DBpedia:Person,DBpedia:Athlete,DBpedia:SoccerPlayer
+http://fr.dbpedia.org/resource/Jan_Mulder
+
+Consuegra
+Schema:Place,DBpedia:Place,DBpedia:PopulatedPlace,DBpedia:Settlement
+http://fr.dbpedia.org/resource/Consuegra
+
+Birgit Sippel
+
+http://fr.dbpedia.org/resource/Birgit_Sippel
+
+Jutta Steinruck
+
+http://fr.dbpedia.org/resource/Jutta_Steinruck
+
+ter
+
+http://fr.dbpedia.org/resource/Transport_express_régional
+
+Sari Essayah
+
+http://fr.dbpedia.org/resource/Sari_Essayah
+
+Torvalds
+DBpedia:Agent,Schema:Person,Http://xmlns.com/foaf/0.1/Person,DBpedia:Person
+http://fr.dbpedia.org/resource/Linus_Torvalds
+
+Marie-Christine Vergiat
+DBpedia:Agent,Schema:Person,Http://xmlns.com/foaf/0.1/Person,DBpedia:Person,DBpedia:OfficeHolder
+http://fr.dbpedia.org/resource/Marie-Christine_Vergiat
+
+Consuegra
+Schema:Place,DBpedia:Place,DBpedia:PopulatedPlace,DBpedia:Settlement
+http://fr.dbpedia.org/resource/Consuegra
+
+Torvalds
+DBpedia:Agent,Schema:Person,Http://xmlns.com/foaf/0.1/Person,DBpedia:Person
+http://fr.dbpedia.org/resource/Linus_Torvalds
+
+Consuegra
+Schema:Place,DBpedia:Place,DBpedia:PopulatedPlace,DBpedia:Settlement
+http://fr.dbpedia.org/resource/Consuegra
+
+Torvalds
+DBpedia:Agent,Schema:Person,Http://xmlns.com/foaf/0.1/Person,DBpedia:Person
+http://fr.dbpedia.org/resource/Linus_Torvalds
+
+Consuegra
+Schema:Place,DBpedia:Place,DBpedia:PopulatedPlace,DBpedia:Settlement
+http://fr.dbpedia.org/resource/Consuegra
+
+Torvalds
+DBpedia:Agent,Schema:Person,Http://xmlns.com/foaf/0.1/Person,DBpedia:Person
+http://fr.dbpedia.org/resource/Linus_Torvalds
+
+Birgit Sippel
+
+http://fr.dbpedia.org/resource/Birgit_Sippel
+
+Jutta Steinruck
+
+http://fr.dbpedia.org/resource/Jutta_Steinruck
+
+Marie-Christine Vergiat
+DBpedia:Agent,Schema:Person,Http://xmlns.com/foaf/0.1/Person,DBpedia:Person,DBpedia:OfficeHolder
+http://fr.dbpedia.org/resource/Marie-Christine_Vergiat
+
+Birgit Sippel
+
+http://fr.dbpedia.org/resource/Birgit_Sippel
+
+Jutta Steinruck
+
+http://fr.dbpedia.org/resource/Jutta_Steinruck
+
+Marie-Christine Vergiat
+DBpedia:Agent,Schema:Person,Http://xmlns.com/foaf/0.1/Person,DBpedia:Person,DBpedia:OfficeHolder
+http://fr.dbpedia.org/resource/Marie-Christine_Vergiat
+
+Torvalds
+DBpedia:Agent,Schema:Person,Http://xmlns.com/foaf/0.1/Person,DBpedia:Person
+http://fr.dbpedia.org/resource/Linus_Torvalds
+
+Torvalds
+DBpedia:Agent,Schema:Person,Http://xmlns.com/foaf/0.1/Person,DBpedia:Person
+http://fr.dbpedia.org/resource/Linus_Torvalds
+
+Torvalds
+DBpedia:Agent,Schema:Person,Http://xmlns.com/foaf/0.1/Person,DBpedia:Person
+http://fr.dbpedia.org/resource/Linus_Torvalds
+
+Consuegra
+Schema:Place,DBpedia:Place,DBpedia:PopulatedPlace,DBpedia:Settlement
+http://fr.dbpedia.org/resource/Consuegra
+
+Consuegra
+Schema:Place,DBpedia:Place,DBpedia:PopulatedPlace,DBpedia:Settlement
+http://fr.dbpedia.org/resource/Consuegra
+
+Birgit Sippel
+
+http://fr.dbpedia.org/resource/Birgit_Sippel
+
+Jutta Steinruck
+
+http://fr.dbpedia.org/resource/Jutta_Steinruck
+
+Marita Ulvskog
+DBpedia:Agent,Schema:Person,Http://xmlns.com/foaf/0.1/Person,DBpedia:Person,DBpedia:OfficeHolder
+http://fr.dbpedia.org/resource/Marita_Ulvskog
+
+Marie-Christine Vergiat
+DBpedia:Agent,Schema:Person,Http://xmlns.com/foaf/0.1/Person,DBpedia:Person,DBpedia:OfficeHolder
+http://fr.dbpedia.org/resource/Marie-Christine_Vergiat
+
+Birgit Sippel
+
+http://fr.dbpedia.org/resource/Birgit_Sippel
+
+Jan Mulder
+DBpedia:Agent,Schema:Person,Http://xmlns.com/foaf/0.1/Person,DBpedia:Person,DBpedia:Athlete,DBpedia:SoccerPlayer
+http://fr.dbpedia.org/resource/Jan_Mulder
+
+Torvalds
+DBpedia:Agent,Schema:Person,Http://xmlns.com/foaf/0.1/Person,DBpedia:Person
+http://fr.dbpedia.org/resource/Linus_Torvalds
+
+Torvalds
+DBpedia:Agent,Schema:Person,Http://xmlns.com/foaf/0.1/Person,DBpedia:Person
+http://fr.dbpedia.org/resource/Linus_Torvalds
+
+Sari Essayah
+
+http://fr.dbpedia.org/resource/Sari_Essayah
+
+Torvalds
+DBpedia:Agent,Schema:Person,Http://xmlns.com/foaf/0.1/Person,DBpedia:Person
+http://fr.dbpedia.org/resource/Linus_Torvalds
+
+Consuegra
+Schema:Place,DBpedia:Place,DBpedia:PopulatedPlace,DBpedia:Settlement
+http://fr.dbpedia.org/resource/Consuegra
+
+Consuegra
+Schema:Place,DBpedia:Place,DBpedia:PopulatedPlace,DBpedia:Settlement
+http://fr.dbpedia.org/resource/Consuegra
+
+Torvalds
+DBpedia:Agent,Schema:Person,Http://xmlns.com/foaf/0.1/Person,DBpedia:Person
+http://fr.dbpedia.org/resource/Linus_Torvalds
+
+'t Veld
+
+http://fr.dbpedia.org/resource/'t_Veld_(Meulebeke)
+
+Alexander Alvaro
+
+http://fr.dbpedia.org/resource/Alexander_Alvaro
+
+Jan Mulder
+DBpedia:Agent,Schema:Person,Http://xmlns.com/foaf/0.1/Person,DBpedia:Person,DBpedia:Athlete,DBpedia:SoccerPlayer
+http://fr.dbpedia.org/resource/Jan_Mulder
+
+Consuegra
+Schema:Place,DBpedia:Place,DBpedia:PopulatedPlace,DBpedia:Settlement
+http://fr.dbpedia.org/resource/Consuegra
+
+Torvalds
+DBpedia:Agent,Schema:Person,Http://xmlns.com/foaf/0.1/Person,DBpedia:Person
+http://fr.dbpedia.org/resource/Linus_Torvalds
+
+Birgit Sippel
+
+http://fr.dbpedia.org/resource/Birgit_Sippel
+
+Hélène Flautre
+DBpedia:Agent,Schema:Person,Http://xmlns.com/foaf/0.1/Person,DBpedia:Person,DBpedia:OfficeHolder
+http://fr.dbpedia.org/resource/Hélène_Flautre
+
+Alexander Alvaro
+
+http://fr.dbpedia.org/resource/Alexander_Alvaro
+
+Consuegra
+Schema:Place,DBpedia:Place,DBpedia:PopulatedPlace,DBpedia:Settlement
+http://fr.dbpedia.org/resource/Consuegra
+
+Torvalds
+DBpedia:Agent,Schema:Person,Http://xmlns.com/foaf/0.1/Person,DBpedia:Person
+http://fr.dbpedia.org/resource/Linus_Torvalds
+
+Birgit Sippel
+
+http://fr.dbpedia.org/resource/Birgit_Sippel
+
+Marie-Christine Vergiat
+DBpedia:Agent,Schema:Person,Http://xmlns.com/foaf/0.1/Person,DBpedia:Person,DBpedia:OfficeHolder
+http://fr.dbpedia.org/resource/Marie-Christine_Vergiat
+
+Hélène Flautre
+DBpedia:Agent,Schema:Person,Http://xmlns.com/foaf/0.1/Person,DBpedia:Person,DBpedia:OfficeHolder
+http://fr.dbpedia.org/resource/Hélène_Flautre
+
+Birgit Sippel
+
+http://fr.dbpedia.org/resource/Birgit_Sippel
+
+Marie-Christine Vergiat
+DBpedia:Agent,Schema:Person,Http://xmlns.com/foaf/0.1/Person,DBpedia:Person,DBpedia:OfficeHolder
+http://fr.dbpedia.org/resource/Marie-Christine_Vergiat
+
+Hélène Flautre
+DBpedia:Agent,Schema:Person,Http://xmlns.com/foaf/0.1/Person,DBpedia:Person,DBpedia:OfficeHolder
+http://fr.dbpedia.org/resource/Hélène_Flautre
+
+Nathalie Griesbeck
+
+http://fr.dbpedia.org/resource/Nathalie_Griesbeck
+
+ter
+
+http://fr.dbpedia.org/resource/Transport_express_régional
+
+ter
+
+http://fr.dbpedia.org/resource/Transport_express_régional
+
+ter
+
+http://fr.dbpedia.org/resource/Transport_express_régional
+
+ter
+
+http://fr.dbpedia.org/resource/Transport_express_régional
+
+ter
+
+http://fr.dbpedia.org/resource/Transport_express_régional
+
+ter
+
+http://fr.dbpedia.org/resource/Transport_express_régional
+
+Torvalds
+DBpedia:Agent,Schema:Person,Http://xmlns.com/foaf/0.1/Person,DBpedia:Person
+http://fr.dbpedia.org/resource/Linus_Torvalds
+
+Torvalds
+DBpedia:Agent,Schema:Person,Http://xmlns.com/foaf/0.1/Person,DBpedia:Person
+http://fr.dbpedia.org/resource/Linus_Torvalds
+
+Consuegra
+Schema:Place,DBpedia:Place,DBpedia:PopulatedPlace,DBpedia:Settlement
+http://fr.dbpedia.org/resource/Consuegra
+
+Torvalds
+DBpedia:Agent,Schema:Person,Http://xmlns.com/foaf/0.1/Person,DBpedia:Person
+http://fr.dbpedia.org/resource/Linus_Torvalds
+
+Marita Ulvskog
+DBpedia:Agent,Schema:Person,Http://xmlns.com/foaf/0.1/Person,DBpedia:Person,DBpedia:OfficeHolder
+http://fr.dbpedia.org/resource/Marita_Ulvskog
+
+Consuegra
+Schema:Place,DBpedia:Place,DBpedia:PopulatedPlace,DBpedia:Settlement
+http://fr.dbpedia.org/resource/Consuegra
+
+Torvalds
+DBpedia:Agent,Schema:Person,Http://xmlns.com/foaf/0.1/Person,DBpedia:Person
+http://fr.dbpedia.org/resource/Linus_Torvalds
+
+Marita Ulvskog
+DBpedia:Agent,Schema:Person,Http://xmlns.com/foaf/0.1/Person,DBpedia:Person,DBpedia:OfficeHolder
+http://fr.dbpedia.org/resource/Marita_Ulvskog
+
+Torvalds
+DBpedia:Agent,Schema:Person,Http://xmlns.com/foaf/0.1/Person,DBpedia:Person
+http://fr.dbpedia.org/resource/Linus_Torvalds
+
+Torvalds
+DBpedia:Agent,Schema:Person,Http://xmlns.com/foaf/0.1/Person,DBpedia:Person
+http://fr.dbpedia.org/resource/Linus_Torvalds
+
+Consuegra
+Schema:Place,DBpedia:Place,DBpedia:PopulatedPlace,DBpedia:Settlement
+http://fr.dbpedia.org/resource/Consuegra
+
+Torvalds
+DBpedia:Agent,Schema:Person,Http://xmlns.com/foaf/0.1/Person,DBpedia:Person
+http://fr.dbpedia.org/resource/Linus_Torvalds
+
+Torvalds
+DBpedia:Agent,Schema:Person,Http://xmlns.com/foaf/0.1/Person,DBpedia:Person
+http://fr.dbpedia.org/resource/Linus_Torvalds
+
+Consuegra
+Schema:Place,DBpedia:Place,DBpedia:PopulatedPlace,DBpedia:Settlement
+http://fr.dbpedia.org/resource/Consuegra
+
+Alexander Alvaro
+
+http://fr.dbpedia.org/resource/Alexander_Alvaro
+
+Torvalds
+DBpedia:Agent,Schema:Person,Http://xmlns.com/foaf/0.1/Person,DBpedia:Person
+http://fr.dbpedia.org/resource/Linus_Torvalds
+
+Torvalds
+DBpedia:Agent,Schema:Person,Http://xmlns.com/foaf/0.1/Person,DBpedia:Person
+http://fr.dbpedia.org/resource/Linus_Torvalds
+
+Birgit Sippel
+
+http://fr.dbpedia.org/resource/Birgit_Sippel
+
+Alexander Alvaro
+
+http://fr.dbpedia.org/resource/Alexander_Alvaro
+
+Torvalds
+DBpedia:Agent,Schema:Person,Http://xmlns.com/foaf/0.1/Person,DBpedia:Person
+http://fr.dbpedia.org/resource/Linus_Torvalds
+
+Torvalds
+DBpedia:Agent,Schema:Person,Http://xmlns.com/foaf/0.1/Person,DBpedia:Person
+http://fr.dbpedia.org/resource/Linus_Torvalds
+
+Birgit Sippel
+
+http://fr.dbpedia.org/resource/Birgit_Sippel
+
+Alexander Alvaro
+
+http://fr.dbpedia.org/resource/Alexander_Alvaro
+
+Torvalds
+DBpedia:Agent,Schema:Person,Http://xmlns.com/foaf/0.1/Person,DBpedia:Person
+http://fr.dbpedia.org/resource/Linus_Torvalds
+
+Consuegra
+Schema:Place,DBpedia:Place,DBpedia:PopulatedPlace,DBpedia:Settlement
+http://fr.dbpedia.org/resource/Consuegra
+
+'t Veld
+
+http://fr.dbpedia.org/resource/'t_Veld_(Meulebeke)
+
+AUTOREGULATION
+
+http://fr.dbpedia.org/resource/Autorégulation
+
+organisations internationales
+
+http://fr.dbpedia.org/resource/Organisation_internationale
+
+traitement de données à caractère personnel
+
+http://fr.dbpedia.org/resource/Fichage_en_France
+
+publicité
+
+http://fr.dbpedia.org/resource/Publicité
+
+Consuegra
+Schema:Place,DBpedia:Place,DBpedia:PopulatedPlace,DBpedia:Settlement
+http://fr.dbpedia.org/resource/Consuegra
+
+Alexander Alvaro
+
+http://fr.dbpedia.org/resource/Alexander_Alvaro
+
+sécurité juridique
+
+http://fr.dbpedia.org/resource/Sécurité_juridique
+
+Alexander Alvaro
+
+http://fr.dbpedia.org/resource/Alexander_Alvaro
+
+sécurité juridique
+
+http://fr.dbpedia.org/resource/Sécurité_juridique
+
+Alexander Alvaro
+
+http://fr.dbpedia.org/resource/Alexander_Alvaro
+
+Consuegra
+Schema:Place,DBpedia:Place,DBpedia:PopulatedPlace,DBpedia:Settlement
+http://fr.dbpedia.org/resource/Consuegra
+
+Alexander Alvaro
+
+http://fr.dbpedia.org/resource/Alexander_Alvaro
+
+Parlement européen
+
+http://fr.dbpedia.org/resource/Parlement_européen
+
+droits opposables
+
+http://fr.dbpedia.org/resource/Droit_opposable
+
+Consuegra
+Schema:Place,DBpedia:Place,DBpedia:PopulatedPlace,DBpedia:Settlement
+http://fr.dbpedia.org/resource/Consuegra
+
+publicité
+
+http://fr.dbpedia.org/resource/Publicité
+
+publicité
+
+http://fr.dbpedia.org/resource/Publicité
+
+publicité
+
+http://fr.dbpedia.org/resource/Publicité
+
+Promotion
+Schema:Event,DBpedia:Event,Schema:SportsEvent,DBpedia:SportsEvent
+http://fr.dbpedia.org/resource/Championnat_de_Belgique_de_football_D4
+
+FR 2
+DBpedia:Agent,Schema:Organization,DBpedia:Organisation,DBpedia:Broadcaster,Schema:TelevisionStation,DBpedia:TelevisionStation
+http://fr.dbpedia.org/resource/France_2
+
+groupes d'entreprises
+
+http://fr.dbpedia.org/resource/Groupe_d'entreprises
+
+ter
+
+http://fr.dbpedia.org/resource/Transport_express_régional
+
+ter
+
+http://fr.dbpedia.org/resource/Transport_express_régional
+
+droits opposables
+
+http://fr.dbpedia.org/resource/Droit_opposable
+
+traitement de données à caractère personnel
+
+http://fr.dbpedia.org/resource/Fichage_en_France
+
+droits opposables
+
+http://fr.dbpedia.org/resource/Droit_opposable
+
+traitement de données à caractère personnel
+
+http://fr.dbpedia.org/resource/Fichage_en_France
+
+Codes de conduite
+
+http://fr.dbpedia.org/resource/Code_de_conduite
+
+organisations internationales
+
+http://fr.dbpedia.org/resource/Organisation_internationale
+
+traitement de données à caractère personnel
+
+http://fr.dbpedia.org/resource/Fichage_en_France
+
+publicité
+
+http://fr.dbpedia.org/resource/Publicité
+

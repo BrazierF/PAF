@@ -1,0 +1,740 @@
+EC.
+Schema:Language,DBpedia:Language
+http://dbpedia.org/resource/Koine_Greek
+
+EC.
+Schema:Language,DBpedia:Language
+http://dbpedia.org/resource/Koine_Greek
+
+European Commission
+
+http://dbpedia.org/resource/European_Commission
+
+Brussels
+Schema:Place,DBpedia:Place,DBpedia:PopulatedPlace,DBpedia:Settlement
+http://dbpedia.org/resource/Brussels
+
+Belgium
+Schema:Place,DBpedia:Place,DBpedia:PopulatedPlace,Schema:Country,DBpedia:Country
+http://dbpedia.org/resource/Belgium
+
+02
+
+http://dbpedia.org/resource/Codex_Alexandrinus
+
+/11
+DBpedia:TimePeriod,DBpedia:Year
+http://dbpedia.org/resource/11
+
+Data Protection Directive
+
+http://dbpedia.org/resource/Data_Protection_Directive
+
+Article 29 Working Party
+
+http://dbpedia.org/resource/Article_29_Working_Party
+
+Data Protection Directive
+
+http://dbpedia.org/resource/Data_Protection_Directive
+
+European Parliament
+DBpedia:Agent,Schema:Organization,DBpedia:Organisation,DBpedia:Legislature
+http://dbpedia.org/resource/European_Parliament
+
+Article 29 Working Party
+
+http://dbpedia.org/resource/Article_29_Working_Party
+
+Work Programme
+
+http://dbpedia.org/resource/Work_Programme
+
+EC.
+Schema:Language,DBpedia:Language
+http://dbpedia.org/resource/Koine_Greek
+
+European Union
+
+http://dbpedia.org/resource/European_Union
+
+Data Protection Directive
+
+http://dbpedia.org/resource/Data_Protection_Directive
+
+Work Programme
+
+http://dbpedia.org/resource/Work_Programme
+
+Article 29 Working Party
+
+http://dbpedia.org/resource/Article_29_Working_Party
+
+draft
+
+http://dbpedia.org/resource/Conscription
+
+EC.
+Schema:Language,DBpedia:Language
+http://dbpedia.org/resource/Koine_Greek
+
+EC.
+Schema:Language,DBpedia:Language
+http://dbpedia.org/resource/Koine_Greek
+
+EC.
+Schema:Language,DBpedia:Language
+http://dbpedia.org/resource/Koine_Greek
+
+EC.
+Schema:Language,DBpedia:Language
+http://dbpedia.org/resource/Koine_Greek
+
+EC.
+Schema:Language,DBpedia:Language
+http://dbpedia.org/resource/Koine_Greek
+
+Brussels
+Schema:Place,DBpedia:Place,DBpedia:PopulatedPlace,DBpedia:Settlement
+http://dbpedia.org/resource/Brussels
+
+Brussels
+Schema:Place,DBpedia:Place,DBpedia:PopulatedPlace,DBpedia:Settlement
+http://dbpedia.org/resource/Brussels
+
+Brussels
+Schema:Place,DBpedia:Place,DBpedia:PopulatedPlace,DBpedia:Settlement
+http://dbpedia.org/resource/Brussels
+
+CNIL
+
+http://dbpedia.org/resource/CNIL
+
+Data Protection Directive
+
+http://dbpedia.org/resource/Data_Protection_Directive
+
+common law
+
+http://dbpedia.org/resource/Common_law
+
+interact
+
+http://dbpedia.org/resource/Interaction
+
+contract law
+
+http://dbpedia.org/resource/Contract
+
+civil law
+
+http://dbpedia.org/resource/Civil_law_(legal_system)
+
+civil law
+
+http://dbpedia.org/resource/Civil_law_(legal_system)
+
+civil law
+
+http://dbpedia.org/resource/Civil_law_(legal_system)
+
+civil law
+
+http://dbpedia.org/resource/Civil_law_(legal_system)
+
+EC.
+Schema:Language,DBpedia:Language
+http://dbpedia.org/resource/Koine_Greek
+
+civil law
+
+http://dbpedia.org/resource/Civil_law_(legal_system)
+
+civil law
+
+http://dbpedia.org/resource/Civil_law_(legal_system)
+
+civil law
+
+http://dbpedia.org/resource/Civil_law_(legal_system)
+
+civil law
+
+http://dbpedia.org/resource/Civil_law_(legal_system)
+
+EC.
+Schema:Language,DBpedia:Language
+http://dbpedia.org/resource/Koine_Greek
+
+C-
+
+http://dbpedia.org/resource/Grading_(education)
+
+C-
+
+http://dbpedia.org/resource/Grading_(education)
+
+informational self-determination
+
+http://dbpedia.org/resource/Informational_self-determination
+
+informational self-determination
+
+http://dbpedia.org/resource/Informational_self-determination
+
+German Civil code
+
+http://dbpedia.org/resource/Bürgerliches_Gesetzbuch
+
+EC.
+Schema:Language,DBpedia:Language
+http://dbpedia.org/resource/Koine_Greek
+
+Article 29 Working Party
+
+http://dbpedia.org/resource/Article_29_Working_Party
+
+European Data Protection Supervisor
+
+http://dbpedia.org/resource/European_Data_Protection_Supervisor
+
+European Union
+
+http://dbpedia.org/resource/European_Union
+
+European Commission
+
+http://dbpedia.org/resource/European_Commission
+
+European Data Protection Supervisor
+
+http://dbpedia.org/resource/European_Data_Protection_Supervisor
+
+Data Protection Directive
+
+http://dbpedia.org/resource/Data_Protection_Directive
+
+Bluetooth
+
+http://dbpedia.org/resource/Bluetooth
+
+Bluetooth
+
+http://dbpedia.org/resource/Bluetooth
+
+Bluetooth
+
+http://dbpedia.org/resource/Bluetooth
+
+Bluetooth
+
+http://dbpedia.org/resource/Bluetooth
+
+Bluetooth
+
+http://dbpedia.org/resource/Bluetooth
+
+Bluetooth
+
+http://dbpedia.org/resource/Bluetooth
+
+Bluetooth
+
+http://dbpedia.org/resource/Bluetooth
+
+Bluetooth
+
+http://dbpedia.org/resource/Bluetooth
+
+Bluetooth
+
+http://dbpedia.org/resource/Bluetooth
+
+Bluetooth
+
+http://dbpedia.org/resource/Bluetooth
+
+World Anti-Doping Agency
+DBpedia:Agent,Schema:Organization,DBpedia:Organisation
+http://dbpedia.org/resource/World_Anti-Doping_Agency
+
+EHR
+
+http://dbpedia.org/resource/Electronic_health_record
+
+World Anti-Doping Agency
+DBpedia:Agent,Schema:Organization,DBpedia:Organisation
+http://dbpedia.org/resource/World_Anti-Doping_Agency
+
+EHR
+
+http://dbpedia.org/resource/Electronic_health_record
+
+interact
+
+http://dbpedia.org/resource/Interaction
+
+Electronic health records
+
+http://dbpedia.org/resource/Electronic_health_record
+
+EC.
+Schema:Language,DBpedia:Language
+http://dbpedia.org/resource/Koine_Greek
+
+public security
+
+http://dbpedia.org/resource/Safety
+
+Article 29 Working Party
+
+http://dbpedia.org/resource/Article_29_Working_Party
+
+DG TREN
+
+http://dbpedia.org/resource/Directorate-General_for_Mobility_and_Transport_(European_Commission)
+
+human rights
+
+http://dbpedia.org/resource/Human_rights
+
+/2009
+DBpedia:TimePeriod,DBpedia:Year
+http://dbpedia.org/resource/2009
+
+Passenger Name Record
+
+http://dbpedia.org/resource/Passenger_name_record
+
+Article 29 Working Party
+
+http://dbpedia.org/resource/Article_29_Working_Party
+
+United States
+
+http://dbpedia.org/resource/Federal_government_of_the_United_States
+
+census
+
+http://dbpedia.org/resource/United_States_Census
+
+census
+
+http://dbpedia.org/resource/United_States_Census
+
+census
+
+http://dbpedia.org/resource/United_States_Census
+
+census
+
+http://dbpedia.org/resource/United_States_Census
+
+Deutsche Telekom AG
+DBpedia:Agent,Schema:Organization,DBpedia:Organisation,DBpedia:Company
+http://dbpedia.org/resource/Deutsche_Telekom
+
+C-
+
+http://dbpedia.org/resource/Grading_(education)
+
+Federal Administrative Court
+
+http://dbpedia.org/resource/Federal_Administrative_Court_of_Germany
+
+EHR
+
+http://dbpedia.org/resource/Electronic_health_record
+
+EHR
+
+http://dbpedia.org/resource/Electronic_health_record
+
+social network services
+
+http://dbpedia.org/resource/Social_networking_service
+
+social network service
+
+http://dbpedia.org/resource/Social_networking_service
+
+social network service
+
+http://dbpedia.org/resource/Social_networking_service
+
+social network service
+
+http://dbpedia.org/resource/Social_networking_service
+
+social network service
+
+http://dbpedia.org/resource/Social_networking_service
+
+social network service
+
+http://dbpedia.org/resource/Social_networking_service
+
+social network services
+
+http://dbpedia.org/resource/Social_networking_service
+
+data protection directive
+
+http://dbpedia.org/resource/Data_Protection_Directive
+
+Article 29 Working party
+
+http://dbpedia.org/resource/Article_29_Working_Party
+
+Article 29 Working Party
+
+http://dbpedia.org/resource/Article_29_Working_Party
+
+data protection directive
+
+http://dbpedia.org/resource/Data_Protection_Directive
+
+Article 29 Working party
+
+http://dbpedia.org/resource/Article_29_Working_Party
+
+Article 29 Working Party
+
+http://dbpedia.org/resource/Article_29_Working_Party
+
+Hessen
+Schema:Place,DBpedia:Place,DBpedia:PopulatedPlace,DBpedia:Region,Schema:AdministrativeArea,DBpedia:AdministrativeRegion
+http://dbpedia.org/resource/Hesse
+
+The Advocate
+Schema:CreativeWork,DBpedia:Work,DBpedia:WrittenWork,DBpedia:PeriodicalLiterature,DBpedia:Magazine
+http://dbpedia.org/resource/The_Advocate
+
+The Advocate
+Schema:CreativeWork,DBpedia:Work,DBpedia:WrittenWork,DBpedia:PeriodicalLiterature,DBpedia:Magazine
+http://dbpedia.org/resource/The_Advocate
+
+C-
+
+http://dbpedia.org/resource/Grading_(education)
+
+C-93
+Schema:Product,DBpedia:Device,DBpedia:Weapon
+http://dbpedia.org/resource/Borchardt_C-93
+
+European Union
+
+http://dbpedia.org/resource/European_Union
+
+C-
+
+http://dbpedia.org/resource/Grading_(education)
+
+C-93
+Schema:Product,DBpedia:Device,DBpedia:Weapon
+http://dbpedia.org/resource/Borchardt_C-93
+
+European Union
+
+http://dbpedia.org/resource/European_Union
+
+C-
+
+http://dbpedia.org/resource/Grading_(education)
+
+C-93
+Schema:Product,DBpedia:Device,DBpedia:Weapon
+http://dbpedia.org/resource/Borchardt_C-93
+
+European Union
+
+http://dbpedia.org/resource/European_Union
+
+direct marketing
+
+http://dbpedia.org/resource/Direct_marketing
+
+direct marketing
+
+http://dbpedia.org/resource/Direct_marketing
+
+Article 29 Working Party
+
+http://dbpedia.org/resource/Article_29_Working_Party
+
+EHR
+
+http://dbpedia.org/resource/Electronic_health_record
+
+EHR
+
+http://dbpedia.org/resource/Electronic_health_record
+
+affirmative action
+
+http://dbpedia.org/resource/Affirmative_action
+
+digital signatures
+
+http://dbpedia.org/resource/Digital_signature
+
+affirmative action
+
+http://dbpedia.org/resource/Affirmative_action
+
+digital signatures
+
+http://dbpedia.org/resource/Digital_signature
+
+digital signature
+
+http://dbpedia.org/resource/Digital_signature
+
+electronic commerce
+
+http://dbpedia.org/resource/E-commerce
+
+digital signatures
+
+http://dbpedia.org/resource/Digital_signature
+
+Greek
+Schema:Language,DBpedia:Language
+http://dbpedia.org/resource/Greek_language
+
+Greek
+Schema:Language,DBpedia:Language
+http://dbpedia.org/resource/Greek_language
+
+digital signatures
+
+http://dbpedia.org/resource/Digital_signature
+
+digital signatures
+
+http://dbpedia.org/resource/Digital_signature
+
+Article 29 Working Party
+
+http://dbpedia.org/resource/Article_29_Working_Party
+
+affirmative action
+
+http://dbpedia.org/resource/Affirmative_action
+
+Data Protection Directive
+
+http://dbpedia.org/resource/Data_Protection_Directive
+
+data protection Directive
+
+http://dbpedia.org/resource/Data_Protection_Directive
+
+Article 29 Working Party
+
+http://dbpedia.org/resource/Article_29_Working_Party
+
+civil law
+
+http://dbpedia.org/resource/Civil_law_(legal_system)
+
+Article 29 Working Party
+
+http://dbpedia.org/resource/Article_29_Working_Party
+
+lex specialis
+
+http://dbpedia.org/resource/Lex_specialis
+
+/2009
+DBpedia:TimePeriod,DBpedia:Year
+http://dbpedia.org/resource/2009
+
+European Parliament
+DBpedia:Agent,Schema:Organization,DBpedia:Organisation,DBpedia:Legislature
+http://dbpedia.org/resource/European_Parliament
+
+Directive 2002/22/EC
+
+http://dbpedia.org/resource/Universal_Service_Directive
+
+universal service
+
+http://dbpedia.org/resource/Universal_service
+
+Internet service providers
+
+http://dbpedia.org/resource/Internet_service_provider
+
+Article 29 Working Party
+
+http://dbpedia.org/resource/Article_29_Working_Party
+
+EC.
+Schema:Language,DBpedia:Language
+http://dbpedia.org/resource/Koine_Greek
+
+electronic communications network
+
+http://dbpedia.org/resource/Electronic_communication_network
+
+routing
+
+http://dbpedia.org/resource/Routing
+
+Article 29 Working Party
+
+http://dbpedia.org/resource/Article_29_Working_Party
+
+EC.
+Schema:Language,DBpedia:Language
+http://dbpedia.org/resource/Koine_Greek
+
+direct marketing
+
+http://dbpedia.org/resource/Direct_marketing
+
+Data Protection Directive
+
+http://dbpedia.org/resource/Data_Protection_Directive
+
+terminal equipment
+
+http://dbpedia.org/resource/Terminal_equipment
+
+terminal equipment
+
+http://dbpedia.org/resource/Terminal_equipment
+
+Article 29 Working Party
+
+http://dbpedia.org/resource/Article_29_Working_Party
+
+Data Protection Directive
+
+http://dbpedia.org/resource/Data_Protection_Directive
+
+direct marketing
+
+http://dbpedia.org/resource/Direct_marketing
+
+European Parliament
+DBpedia:Agent,Schema:Organization,DBpedia:Organisation,DBpedia:Legislature
+http://dbpedia.org/resource/European_Parliament
+
+Directive 2002/22/EC
+
+http://dbpedia.org/resource/Universal_Service_Directive
+
+universal service
+
+http://dbpedia.org/resource/Universal_service
+
+EEA
+
+http://dbpedia.org/resource/European_Economic_Area
+
+/12
+DBpedia:TimePeriod,DBpedia:Year
+http://dbpedia.org/resource/12
+
+/2009
+DBpedia:TimePeriod,DBpedia:Year
+http://dbpedia.org/resource/2009
+
+direct marketing
+
+http://dbpedia.org/resource/Direct_marketing
+
+EC.
+Schema:Language,DBpedia:Language
+http://dbpedia.org/resource/Koine_Greek
+
+EEA
+
+http://dbpedia.org/resource/European_Economic_Area
+
+/12
+DBpedia:TimePeriod,DBpedia:Year
+http://dbpedia.org/resource/12
+
+/2009
+DBpedia:TimePeriod,DBpedia:Year
+http://dbpedia.org/resource/2009
+
+direct marketing
+
+http://dbpedia.org/resource/Direct_marketing
+
+EC.
+Schema:Language,DBpedia:Language
+http://dbpedia.org/resource/Koine_Greek
+
+terminal equipment
+
+http://dbpedia.org/resource/Terminal_equipment
+
+EC.
+Schema:Language,DBpedia:Language
+http://dbpedia.org/resource/Koine_Greek
+
+EC.
+Schema:Language,DBpedia:Language
+http://dbpedia.org/resource/Koine_Greek
+
+EC.
+Schema:Language,DBpedia:Language
+http://dbpedia.org/resource/Koine_Greek
+
+EC.
+Schema:Language,DBpedia:Language
+http://dbpedia.org/resource/Koine_Greek
+
+EC.
+Schema:Language,DBpedia:Language
+http://dbpedia.org/resource/Koine_Greek
+
+EC.
+Schema:Language,DBpedia:Language
+http://dbpedia.org/resource/Koine_Greek
+
+EC.
+Schema:Language,DBpedia:Language
+http://dbpedia.org/resource/Koine_Greek
+
+EC.
+Schema:Language,DBpedia:Language
+http://dbpedia.org/resource/Koine_Greek
+
+Article 29 Working Party
+
+http://dbpedia.org/resource/Article_29_Working_Party
+
+Article 29 Working Party
+
+http://dbpedia.org/resource/Article_29_Working_Party
+
+Article 29 Working Party
+
+http://dbpedia.org/resource/Article_29_Working_Party
+
+Article 29 Working Party
+
+http://dbpedia.org/resource/Article_29_Working_Party
+
+Article 29 Working Party
+
+http://dbpedia.org/resource/Article_29_Working_Party
+
+Article 29 Working Party
+
+http://dbpedia.org/resource/Article_29_Working_Party
+
+draft
+
+http://dbpedia.org/resource/Conscription
+
+Brussels
+Schema:Place,DBpedia:Place,DBpedia:PopulatedPlace,DBpedia:Settlement
+http://dbpedia.org/resource/Brussels
+

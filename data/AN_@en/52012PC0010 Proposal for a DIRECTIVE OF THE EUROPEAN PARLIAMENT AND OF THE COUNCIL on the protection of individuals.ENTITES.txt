@@ -1,0 +1,904 @@
+EUROPEAN PARLIAMENT
+DBpedia:Agent,Schema:Organization,DBpedia:Organisation,DBpedia:Legislature
+http://dbpedia.org/resource/European_Parliament
+
+European Parliament
+DBpedia:Agent,Schema:Organization,DBpedia:Organisation,DBpedia:Legislature
+http://dbpedia.org/resource/European_Parliament
+
+General Data Protection Regulation
+
+http://dbpedia.org/resource/General_Data_Protection_Regulation
+
+European Parliament
+DBpedia:Agent,Schema:Organization,DBpedia:Organisation,DBpedia:Legislature
+http://dbpedia.org/resource/European_Parliament
+
+European Council
+DBpedia:Agent,Schema:Organization,DBpedia:Organisation,DBpedia:Legislature
+http://dbpedia.org/resource/Council_of_the_European_Union
+
+Stockholm Programme
+
+http://dbpedia.org/resource/Stockholm_Programme
+
+European Parliament
+DBpedia:Agent,Schema:Organization,DBpedia:Organisation,DBpedia:Legislature
+http://dbpedia.org/resource/European_Parliament
+
+Stockholm Programme
+
+http://dbpedia.org/resource/Stockholm_Programme
+
+Article 29 Working Party
+
+http://dbpedia.org/resource/Article_29_Working_Party
+
+European Union
+
+http://dbpedia.org/resource/European_Union
+
+TFEU
+
+http://dbpedia.org/resource/Treaties_of_the_European_Union
+
+TFEU
+
+http://dbpedia.org/resource/Treaties_of_the_European_Union
+
+Lisbon Treaty
+
+http://dbpedia.org/resource/Treaty_of_Lisbon
+
+TFEU
+
+http://dbpedia.org/resource/Treaties_of_the_European_Union
+
+TFEU
+
+http://dbpedia.org/resource/Treaties_of_the_European_Union
+
+European Union
+
+http://dbpedia.org/resource/European_Union
+
+Eurobarometer
+
+http://dbpedia.org/resource/Eurobarometer
+
+European Data Protection Supervisor
+
+http://dbpedia.org/resource/European_Data_Protection_Supervisor
+
+European Parliament
+DBpedia:Agent,Schema:Organization,DBpedia:Organisation,DBpedia:Legislature
+http://dbpedia.org/resource/European_Parliament
+
+European Union
+
+http://dbpedia.org/resource/European_Union
+
+EC.
+Schema:Language,DBpedia:Language
+http://dbpedia.org/resource/Koine_Greek
+
+IAB
+DBpedia:Agent,Schema:Organization,DBpedia:Organisation
+http://dbpedia.org/resource/Interactive_Advertising_Bureau
+
+draft
+
+http://dbpedia.org/resource/Conscription
+
+TFEU
+
+http://dbpedia.org/resource/Treaties_of_the_European_Union
+
+Lisbon Treaty
+
+http://dbpedia.org/resource/Treaty_of_Lisbon
+
+subsidiarity
+
+http://dbpedia.org/resource/Subsidiarity
+
+TEU
+
+http://dbpedia.org/resource/Treaties_of_the_European_Union
+
+subsidiarity
+
+http://dbpedia.org/resource/Subsidiarity
+
+TFEU
+
+http://dbpedia.org/resource/Treaties_of_the_European_Union
+
+terrorism
+
+http://dbpedia.org/resource/Terrorism
+
+TFEU
+
+http://dbpedia.org/resource/Treaties_of_the_European_Union
+
+ECHR
+
+http://dbpedia.org/resource/European_Convention_on_Human_Rights
+
+sexual orientation
+
+http://dbpedia.org/resource/Sexual_orientation
+
+biometric
+
+http://dbpedia.org/resource/Biometrics
+
+TFEU
+
+http://dbpedia.org/resource/Treaties_of_the_European_Union
+
+Europol
+DBpedia:Agent,Schema:Organization,DBpedia:Organisation
+http://dbpedia.org/resource/Europol
+
+Europol
+DBpedia:Agent,Schema:Organization,DBpedia:Organisation
+http://dbpedia.org/resource/Europol
+
+public security
+
+http://dbpedia.org/resource/Safety
+
+Madrid
+Schema:Place,DBpedia:Place,DBpedia:PopulatedPlace,DBpedia:Settlement
+http://dbpedia.org/resource/Madrid
+
+EC.
+Schema:Language,DBpedia:Language
+http://dbpedia.org/resource/Koine_Greek
+
+EC.
+Schema:Language,DBpedia:Language
+http://dbpedia.org/resource/Koine_Greek
+
+General Data Protection Regulation
+
+http://dbpedia.org/resource/General_Data_Protection_Regulation
+
+General Data Protection Regulation
+
+http://dbpedia.org/resource/General_Data_Protection_Regulation
+
+EC.
+Schema:Language,DBpedia:Language
+http://dbpedia.org/resource/Koine_Greek
+
+General Data Protection Regulation
+
+http://dbpedia.org/resource/General_Data_Protection_Regulation
+
+Europol
+DBpedia:Agent,Schema:Organization,DBpedia:Organisation
+http://dbpedia.org/resource/Europol
+
+e-Commerce Directive
+
+http://dbpedia.org/resource/Electronic_Commerce_Directive_(EU)
+
+TFEU
+
+http://dbpedia.org/resource/Treaties_of_the_European_Union
+
+TFEU
+
+http://dbpedia.org/resource/Treaties_of_the_European_Union
+
+General Data Protection Regulation
+
+http://dbpedia.org/resource/General_Data_Protection_Regulation
+
+EUROPEAN PARLIAMENT
+DBpedia:Agent,Schema:Organization,DBpedia:Organisation,DBpedia:Legislature
+http://dbpedia.org/resource/European_Parliament
+
+EUROPEAN PARLIAMENT
+DBpedia:Agent,Schema:Organization,DBpedia:Organisation,DBpedia:Legislature
+http://dbpedia.org/resource/European_Parliament
+
+European Union
+
+http://dbpedia.org/resource/European_Union
+
+European Commission
+
+http://dbpedia.org/resource/European_Commission
+
+draft
+
+http://dbpedia.org/resource/Conscription
+
+European Data Protection Supervisor
+
+http://dbpedia.org/resource/European_Data_Protection_Supervisor
+
+ordinary legislative procedure
+
+http://dbpedia.org/resource/Legislature_of_the_European_Union
+
+European Union
+
+http://dbpedia.org/resource/European_Union
+
+European Union
+
+http://dbpedia.org/resource/European_Union
+
+European Parliament
+DBpedia:Agent,Schema:Organization,DBpedia:Organisation,DBpedia:Legislature
+http://dbpedia.org/resource/European_Parliament
+
+European Union
+
+http://dbpedia.org/resource/European_Union
+
+European Parliament
+DBpedia:Agent,Schema:Organization,DBpedia:Organisation,DBpedia:Legislature
+http://dbpedia.org/resource/European_Parliament
+
+European Parliament
+DBpedia:Agent,Schema:Organization,DBpedia:Organisation,DBpedia:Legislature
+http://dbpedia.org/resource/European_Parliament
+
+General Data Protection Regulation
+
+http://dbpedia.org/resource/General_Data_Protection_Regulation
+
+intergovernmental conference
+
+http://dbpedia.org/resource/Intergovernmental_Conference
+
+Lisbon
+Schema:Place,DBpedia:Place
+http://dbpedia.org/resource/Lisbon
+
+European Union
+
+http://dbpedia.org/resource/European_Union
+
+Europol
+DBpedia:Agent,Schema:Organization,DBpedia:Organisation
+http://dbpedia.org/resource/Europol
+
+Europol
+DBpedia:Agent,Schema:Organization,DBpedia:Organisation
+http://dbpedia.org/resource/Europol
+
+public security
+
+http://dbpedia.org/resource/Safety
+
+public security
+
+http://dbpedia.org/resource/Safety
+
+public security
+
+http://dbpedia.org/resource/Safety
+
+public security
+
+http://dbpedia.org/resource/Safety
+
+identity theft
+
+http://dbpedia.org/resource/Identity_theft
+
+human rights
+
+http://dbpedia.org/resource/Human_rights
+
+human rights
+
+http://dbpedia.org/resource/Human_rights
+
+public security
+
+http://dbpedia.org/resource/Safety
+
+human rights
+
+http://dbpedia.org/resource/Human_rights
+
+human rights
+
+http://dbpedia.org/resource/Human_rights
+
+public security
+
+http://dbpedia.org/resource/Safety
+
+judicial review
+
+http://dbpedia.org/resource/Judicial_review
+
+force majeure
+
+http://dbpedia.org/resource/Force_majeure
+
+European Union
+
+http://dbpedia.org/resource/European_Union
+
+European Parliament
+DBpedia:Agent,Schema:Organization,DBpedia:Organisation,DBpedia:Legislature
+http://dbpedia.org/resource/European_Parliament
+
+European Parliament
+DBpedia:Agent,Schema:Organization,DBpedia:Organisation,DBpedia:Legislature
+http://dbpedia.org/resource/European_Parliament
+
+subsidiarity
+
+http://dbpedia.org/resource/Subsidiarity
+
+European Union
+
+http://dbpedia.org/resource/European_Union
+
+child pornography
+
+http://dbpedia.org/resource/Child_pornography
+
+European Parliament
+DBpedia:Agent,Schema:Organization,DBpedia:Organisation,DBpedia:Legislature
+http://dbpedia.org/resource/European_Parliament
+
+United Kingdom
+DBpedia:Agent,Schema:Organization,DBpedia:Organisation,DBpedia:Legislature
+http://dbpedia.org/resource/Parliament_of_the_United_Kingdom
+
+Ireland
+Schema:Place,DBpedia:Place,DBpedia:PopulatedPlace,Schema:Country,DBpedia:Country
+http://dbpedia.org/resource/Republic_of_Ireland
+
+European Union
+
+http://dbpedia.org/resource/Member_state_of_the_European_Union
+
+European Union
+
+http://dbpedia.org/resource/Member_state_of_the_European_Union
+
+United Kingdom
+DBpedia:Agent,Schema:Organization,DBpedia:Organisation,DBpedia:Legislature
+http://dbpedia.org/resource/Parliament_of_the_United_Kingdom
+
+Ireland
+Schema:Place,DBpedia:Place,DBpedia:PopulatedPlace,Schema:Country,DBpedia:Country
+http://dbpedia.org/resource/Republic_of_Ireland
+
+United Kingdom
+DBpedia:Agent,Schema:Organization,DBpedia:Organisation,DBpedia:Legislature
+http://dbpedia.org/resource/Parliament_of_the_United_Kingdom
+
+Ireland
+Schema:Place,DBpedia:Place,DBpedia:PopulatedPlace,Schema:Country,DBpedia:Country
+http://dbpedia.org/resource/Republic_of_Ireland
+
+European Union
+
+http://dbpedia.org/resource/Member_state_of_the_European_Union
+
+Denmark
+Schema:Place,DBpedia:Place,DBpedia:PopulatedPlace,Schema:Country,DBpedia:Country
+http://dbpedia.org/resource/Denmark
+
+European Union
+
+http://dbpedia.org/resource/Member_state_of_the_European_Union
+
+European Union
+
+http://dbpedia.org/resource/Member_state_of_the_European_Union
+
+Denmark
+Schema:Place,DBpedia:Place,DBpedia:PopulatedPlace,Schema:Country,DBpedia:Country
+http://dbpedia.org/resource/Denmark
+
+Schengen
+
+http://dbpedia.org/resource/Schengen_Agreement
+
+European Union
+
+http://dbpedia.org/resource/Member_state_of_the_European_Union
+
+Denmark
+Schema:Place,DBpedia:Place,DBpedia:PopulatedPlace,Schema:Country,DBpedia:Country
+http://dbpedia.org/resource/Denmark
+
+Iceland
+
+http://dbpedia.org/resource/Accession_of_Iceland_to_the_European_Union
+
+Norway
+Schema:Place,DBpedia:Place,DBpedia:PopulatedPlace,Schema:Country,DBpedia:Country
+http://dbpedia.org/resource/Norway
+
+Schengen
+
+http://dbpedia.org/resource/Schengen_Agreement
+
+European Union
+
+http://dbpedia.org/resource/Member_state_of_the_European_Union
+
+Iceland
+
+http://dbpedia.org/resource/Accession_of_Iceland_to_the_European_Union
+
+Norway
+Schema:Place,DBpedia:Place,DBpedia:PopulatedPlace,Schema:Country,DBpedia:Country
+http://dbpedia.org/resource/Norway
+
+Schengen
+
+http://dbpedia.org/resource/Schengen_Agreement
+
+Switzerland
+Schema:Place,DBpedia:Place,DBpedia:PopulatedPlace,Schema:Country,DBpedia:Country
+http://dbpedia.org/resource/Switzerland
+
+Schengen
+
+http://dbpedia.org/resource/Schengen_Agreement
+
+European Union
+
+http://dbpedia.org/resource/European_Union
+
+European Community
+
+http://dbpedia.org/resource/European_Commission
+
+Swiss Confederation
+Schema:Place,DBpedia:Place,DBpedia:PopulatedPlace,Schema:Country,DBpedia:Country
+http://dbpedia.org/resource/Switzerland
+
+Swiss Confederation
+Schema:Place,DBpedia:Place,DBpedia:PopulatedPlace,Schema:Country,DBpedia:Country
+http://dbpedia.org/resource/Switzerland
+
+Schengen
+
+http://dbpedia.org/resource/Schengen_Agreement
+
+Liechtenstein
+Schema:Place,DBpedia:Place,DBpedia:PopulatedPlace,Schema:Country,DBpedia:Country
+http://dbpedia.org/resource/Liechtenstein
+
+Schengen
+
+http://dbpedia.org/resource/Schengen_Agreement
+
+European Union
+
+http://dbpedia.org/resource/European_Union
+
+European Community
+
+http://dbpedia.org/resource/European_Commission
+
+Swiss Confederation
+Schema:Place,DBpedia:Place,DBpedia:PopulatedPlace,Schema:Country,DBpedia:Country
+http://dbpedia.org/resource/Switzerland
+
+Liechtenstein
+Schema:Place,DBpedia:Place,DBpedia:PopulatedPlace,Schema:Country,DBpedia:Country
+http://dbpedia.org/resource/Liechtenstein
+
+Liechtenstein
+Schema:Place,DBpedia:Place,DBpedia:PopulatedPlace,Schema:Country,DBpedia:Country
+http://dbpedia.org/resource/Liechtenstein
+
+European Union
+
+http://dbpedia.org/resource/European_Union
+
+European Community
+
+http://dbpedia.org/resource/European_Commission
+
+Swiss Confederation
+Schema:Place,DBpedia:Place,DBpedia:PopulatedPlace,Schema:Country,DBpedia:Country
+http://dbpedia.org/resource/Switzerland
+
+Schengen
+
+http://dbpedia.org/resource/Schengen_Agreement
+
+European Union
+
+http://dbpedia.org/resource/European_Union
+
+criminal procedure
+
+http://dbpedia.org/resource/Criminal_procedure
+
+Switzerland
+Schema:Place,DBpedia:Place,DBpedia:PopulatedPlace,Schema:Country,DBpedia:Country
+http://dbpedia.org/resource/Switzerland
+
+Schengen
+
+http://dbpedia.org/resource/Schengen_Agreement
+
+European Union
+
+http://dbpedia.org/resource/European_Union
+
+European Community
+
+http://dbpedia.org/resource/European_Commission
+
+Swiss Confederation
+Schema:Place,DBpedia:Place,DBpedia:PopulatedPlace,Schema:Country,DBpedia:Country
+http://dbpedia.org/resource/Switzerland
+
+Swiss Confederation
+Schema:Place,DBpedia:Place,DBpedia:PopulatedPlace,Schema:Country,DBpedia:Country
+http://dbpedia.org/resource/Switzerland
+
+Schengen
+
+http://dbpedia.org/resource/Schengen_Agreement
+
+Liechtenstein
+Schema:Place,DBpedia:Place,DBpedia:PopulatedPlace,Schema:Country,DBpedia:Country
+http://dbpedia.org/resource/Liechtenstein
+
+Schengen
+
+http://dbpedia.org/resource/Schengen_Agreement
+
+European Union
+
+http://dbpedia.org/resource/European_Union
+
+European Community
+
+http://dbpedia.org/resource/European_Commission
+
+Swiss Confederation
+Schema:Place,DBpedia:Place,DBpedia:PopulatedPlace,Schema:Country,DBpedia:Country
+http://dbpedia.org/resource/Switzerland
+
+Liechtenstein
+Schema:Place,DBpedia:Place,DBpedia:PopulatedPlace,Schema:Country,DBpedia:Country
+http://dbpedia.org/resource/Liechtenstein
+
+Liechtenstein
+Schema:Place,DBpedia:Place,DBpedia:PopulatedPlace,Schema:Country,DBpedia:Country
+http://dbpedia.org/resource/Liechtenstein
+
+European Union
+
+http://dbpedia.org/resource/European_Union
+
+European Community
+
+http://dbpedia.org/resource/European_Commission
+
+Swiss Confederation
+Schema:Place,DBpedia:Place,DBpedia:PopulatedPlace,Schema:Country,DBpedia:Country
+http://dbpedia.org/resource/Switzerland
+
+Schengen
+
+http://dbpedia.org/resource/Schengen_Agreement
+
+European Union
+
+http://dbpedia.org/resource/European_Union
+
+criminal procedure
+
+http://dbpedia.org/resource/Criminal_procedure
+
+biometric
+
+http://dbpedia.org/resource/Biometrics
+
+biometric
+
+http://dbpedia.org/resource/Biometrics
+
+public security
+
+http://dbpedia.org/resource/Safety
+
+public security
+
+http://dbpedia.org/resource/Safety
+
+public security
+
+http://dbpedia.org/resource/Safety
+
+public security
+
+http://dbpedia.org/resource/Safety
+
+public security
+
+http://dbpedia.org/resource/Safety
+
+public security
+
+http://dbpedia.org/resource/Safety
+
+public security
+
+http://dbpedia.org/resource/Safety
+
+public security
+
+http://dbpedia.org/resource/Safety
+
+public security
+
+http://dbpedia.org/resource/Safety
+
+media control
+DBpedia:Agent,Schema:Organization,DBpedia:Organisation
+http://dbpedia.org/resource/Media_Control_Charts
+
+media control
+DBpedia:Agent,Schema:Organization,DBpedia:Organisation
+http://dbpedia.org/resource/Media_Control_Charts
+
+media control
+DBpedia:Agent,Schema:Organization,DBpedia:Organisation
+http://dbpedia.org/resource/Media_Control_Charts
+
+media control
+DBpedia:Agent,Schema:Organization,DBpedia:Organisation
+http://dbpedia.org/resource/Media_Control_Charts
+
+media control
+DBpedia:Agent,Schema:Organization,DBpedia:Organisation
+http://dbpedia.org/resource/Media_Control_Charts
+
+public security
+
+http://dbpedia.org/resource/Safety
+
+European Union
+
+http://dbpedia.org/resource/European_Union
+
+public security
+
+http://dbpedia.org/resource/Safety
+
+public security
+
+http://dbpedia.org/resource/Safety
+
+public security
+
+http://dbpedia.org/resource/Safety
+
+public security
+
+http://dbpedia.org/resource/Safety
+
+public security
+
+http://dbpedia.org/resource/Safety
+
+public security
+
+http://dbpedia.org/resource/Safety
+
+public security
+
+http://dbpedia.org/resource/Safety
+
+public security
+
+http://dbpedia.org/resource/Safety
+
+public security
+
+http://dbpedia.org/resource/Safety
+
+European Parliament
+DBpedia:Agent,Schema:Organization,DBpedia:Organisation,DBpedia:Legislature
+http://dbpedia.org/resource/European_Parliament
+
+European Union
+
+http://dbpedia.org/resource/European_Union
+
+European Parliament
+DBpedia:Agent,Schema:Organization,DBpedia:Organisation,DBpedia:Legislature
+http://dbpedia.org/resource/European_Parliament
+
+European Parliament
+DBpedia:Agent,Schema:Organization,DBpedia:Organisation,DBpedia:Legislature
+http://dbpedia.org/resource/European_Parliament
+
+European Parliament
+DBpedia:Agent,Schema:Organization,DBpedia:Organisation,DBpedia:Legislature
+http://dbpedia.org/resource/European_Parliament
+
+European Parliament
+DBpedia:Agent,Schema:Organization,DBpedia:Organisation,DBpedia:Legislature
+http://dbpedia.org/resource/European_Parliament
+
+European Parliament
+DBpedia:Agent,Schema:Organization,DBpedia:Organisation,DBpedia:Legislature
+http://dbpedia.org/resource/European_Parliament
+
+European Union
+
+http://dbpedia.org/resource/European_Union
+
+European Parliament
+DBpedia:Agent,Schema:Organization,DBpedia:Organisation,DBpedia:Legislature
+http://dbpedia.org/resource/European_Parliament
+
+European Union
+
+http://dbpedia.org/resource/European_Union
+
+Brussels
+Schema:Place,DBpedia:Place,DBpedia:PopulatedPlace,DBpedia:Settlement
+http://dbpedia.org/resource/Brussels
+
+European Parliament
+DBpedia:Agent,Schema:Organization,DBpedia:Organisation,DBpedia:Legislature
+http://dbpedia.org/resource/European_Parliament
+
+SEC
+DBpedia:Agent,Schema:Organization,DBpedia:Organisation,Schema:GovernmentOrganization,DBpedia:GovernmentAgency
+http://dbpedia.org/resource/U.S._Securities_and_Exchange_Commission
+
+Stockholm Programme
+
+http://dbpedia.org/resource/Stockholm_Programme
+
+European Parliament
+DBpedia:Agent,Schema:Organization,DBpedia:Organisation,DBpedia:Legislature
+http://dbpedia.org/resource/European_Parliament
+
+Stockholm Programme
+
+http://dbpedia.org/resource/Stockholm_Programme
+
+European Commission
+
+http://dbpedia.org/resource/European_Commission
+
+Intergovernmental Conference
+
+http://dbpedia.org/resource/Intergovernmental_Conference
+
+Lisbon
+Schema:Place,DBpedia:Place
+http://dbpedia.org/resource/Lisbon
+
+Eurobarometer
+
+http://dbpedia.org/resource/Eurobarometer
+
+/archives
+
+http://dbpedia.org/resource/Archive
+
+European Data Protection Supervisor
+
+http://dbpedia.org/resource/European_Data_Protection_Supervisor
+
+EC.
+Schema:Language,DBpedia:Language
+http://dbpedia.org/resource/Koine_Greek
+
+EP
+DBpedia:Agent,Schema:Organization,DBpedia:Organisation,DBpedia:Legislature
+http://dbpedia.org/resource/European_Parliament
+
+European Union
+
+http://dbpedia.org/resource/European_Union
+
+TA
+
+http://dbpedia.org/resource/Ampere
+
+TA
+
+http://dbpedia.org/resource/Ampere
+
+rapporteur
+
+http://dbpedia.org/resource/Rapporteur
+
+MEP
+DBpedia:Agent,Schema:Organization,DBpedia:Organisation,DBpedia:Legislature
+http://dbpedia.org/resource/European_Parliament
+
+EPP
+
+http://dbpedia.org/resource/European_People's_Party_(European_Parliament_group)
+
+DE
+Schema:Place,DBpedia:Place,DBpedia:PopulatedPlace,Schema:Country,DBpedia:Country
+http://dbpedia.org/resource/Germany
+
+SEC
+DBpedia:Agent,Schema:Organization,DBpedia:Organisation,Schema:GovernmentOrganization,DBpedia:GovernmentAgency
+http://dbpedia.org/resource/U.S._Securities_and_Exchange_Commission
+
+C-
+
+http://dbpedia.org/resource/Grading_(education)
+
+C-93
+Schema:Product,DBpedia:Device,DBpedia:Weapon
+http://dbpedia.org/resource/Borchardt_C-93
+
+I-
+DBpedia:ChemicalSubstance,DBpedia:ChemicalCompound
+http://dbpedia.org/resource/Iodide
+
+European Union
+
+http://dbpedia.org/resource/European_Union
+
+European Parliament
+DBpedia:Agent,Schema:Organization,DBpedia:Organisation,DBpedia:Legislature
+http://dbpedia.org/resource/European_Parliament
+
+child pornography
+
+http://dbpedia.org/resource/Child_pornography
+
+Europol
+DBpedia:Agent,Schema:Organization,DBpedia:Organisation
+http://dbpedia.org/resource/Europol
+
+Europol
+DBpedia:Agent,Schema:Organization,DBpedia:Organisation
+http://dbpedia.org/resource/Europol
+
+Germany
+Schema:Place,DBpedia:Place,DBpedia:PopulatedPlace,Schema:Country,DBpedia:Country
+http://dbpedia.org/resource/Germany
+
+C-
+
+http://dbpedia.org/resource/Grading_(education)
+
+I-
+DBpedia:ChemicalSubstance,DBpedia:ChemicalCompound
+http://dbpedia.org/resource/Iodide
+
+European Parliament
+DBpedia:Agent,Schema:Organization,DBpedia:Organisation,DBpedia:Legislature
+http://dbpedia.org/resource/European_Parliament
+
+European Parliament
+DBpedia:Agent,Schema:Organization,DBpedia:Organisation,DBpedia:Legislature
+http://dbpedia.org/resource/European_Parliament
+
+electronic commerce
+
+http://dbpedia.org/resource/E-commerce
+
+electronic commerce
+
+http://dbpedia.org/resource/E-commerce
+

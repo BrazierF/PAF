@@ -1,0 +1,348 @@
+Bruxelles
+Schema:Place,DBpedia:Place,DBpedia:PopulatedPlace,DBpedia:Settlement,Schema:City,DBpedia:City
+http://fr.dbpedia.org/resource/Bruxelles
+
+COMIT?? ??CONOMIQUE ET SOCIAL EUROP??EN
+
+http://fr.dbpedia.org/resource/Comité_économique_et_social_européen
+
+FR 2
+DBpedia:Agent,Schema:Organization,DBpedia:Organisation,DBpedia:Broadcaster,Schema:TelevisionStation,DBpedia:TelevisionStation
+http://fr.dbpedia.org/resource/France_2
+
+COMIT?? ??CONOMIQUE ET SOCIAL EUROP??EN
+
+http://fr.dbpedia.org/resource/Comité_économique_et_social_européen
+
+mondialisation
+
+http://fr.dbpedia.org/resource/Mondialisation
+
+Union européenne
+
+http://fr.dbpedia.org/resource/Union_européenne
+
+Union européenne
+
+http://fr.dbpedia.org/resource/Union_européenne
+
+TFUE
+
+http://fr.dbpedia.org/resource/Traité_sur_le_fonctionnement_de_l'Union_européenne
+
+sécurité juridique
+
+http://fr.dbpedia.org/resource/Sécurité_juridique
+
+FR 3
+DBpedia:Agent,Schema:Organization,DBpedia:Organisation,DBpedia:Broadcaster,Schema:TelevisionStation,DBpedia:TelevisionStation
+http://fr.dbpedia.org/resource/France_3
+
+sécurité juridique
+
+http://fr.dbpedia.org/resource/Sécurité_juridique
+
+Commission européenne
+
+http://fr.dbpedia.org/resource/Commission_européenne
+
+Europe 2020
+
+http://fr.dbpedia.org/resource/Europe_2020
+
+Commission européenne
+
+http://fr.dbpedia.org/resource/Commission_européenne
+
+traité de Lisbonne
+
+http://fr.dbpedia.org/resource/Traité_de_Lisbonne
+
+TFUE
+
+http://fr.dbpedia.org/resource/Traité_sur_le_fonctionnement_de_l'Union_européenne
+
+Commission européenne
+
+http://fr.dbpedia.org/resource/Commission_européenne
+
+programme de Stockholm
+
+http://fr.dbpedia.org/resource/Programme_de_Stockholm
+
+Conseil européen
+
+http://fr.dbpedia.org/resource/Conseil_de_l'Union_européenne
+
+Directive 95/46/CE
+
+http://fr.dbpedia.org/resource/Directive_95/46/CE_sur_la_protection_des_données_personnelles
+
+JO
+Schema:CreativeWork,DBpedia:Work,DBpedia:WrittenWork,DBpedia:PeriodicalLiterature,DBpedia:Newspaper
+http://fr.dbpedia.org/resource/Journal_officiel_de_la_République_française
+
+TUE
+
+http://fr.dbpedia.org/resource/Traité_sur_l'Union_européenne
+
+Commission européenne
+
+http://fr.dbpedia.org/resource/Commission_européenne
+
+Commission européenne
+
+http://fr.dbpedia.org/resource/Commission_européenne
+
+directive
+
+http://fr.dbpedia.org/resource/Directive_de_l'Union_européenne
+
+directive
+
+http://fr.dbpedia.org/resource/Directive_de_l'Union_européenne
+
+commissaire européenne
+
+http://fr.dbpedia.org/resource/Commission_européenne
+
+Viviane Reding
+DBpedia:Agent,Schema:Person,Http://xmlns.com/foaf/0.1/Person,DBpedia:Person,DBpedia:OfficeHolder
+http://fr.dbpedia.org/resource/Viviane_Reding
+
+Viviane Reding
+DBpedia:Agent,Schema:Person,Http://xmlns.com/foaf/0.1/Person,DBpedia:Person,DBpedia:OfficeHolder
+http://fr.dbpedia.org/resource/Viviane_Reding
+
+commissaire européenne
+
+http://fr.dbpedia.org/resource/Commission_européenne
+
+SEC
+
+http://fr.dbpedia.org/resource/Securities_and_Exchange_Commission
+
+JO
+Schema:CreativeWork,DBpedia:Work,DBpedia:WrittenWork,DBpedia:PeriodicalLiterature,DBpedia:Newspaper
+http://fr.dbpedia.org/resource/Journal_officiel_de_la_République_française
+
+directive
+
+http://fr.dbpedia.org/resource/Directive_de_l'Union_européenne
+
+directive
+
+http://fr.dbpedia.org/resource/Directive_de_l'Union_européenne
+
+directive
+
+http://fr.dbpedia.org/resource/Directive_de_l'Union_européenne
+
+JO
+Schema:CreativeWork,DBpedia:Work,DBpedia:WrittenWork,DBpedia:PeriodicalLiterature,DBpedia:Newspaper
+http://fr.dbpedia.org/resource/Journal_officiel_de_la_République_française
+
+directive
+
+http://fr.dbpedia.org/resource/Directive_de_l'Union_européenne
+
+directive
+
+http://fr.dbpedia.org/resource/Directive_de_l'Union_européenne
+
+directive
+
+http://fr.dbpedia.org/resource/Directive_de_l'Union_européenne
+
+Parlement européen
+
+http://fr.dbpedia.org/resource/Parlement_européen
+
+JAI
+
+http://fr.dbpedia.org/resource/Coopération_policière_et_judiciaire_en_matière_pénale
+
+JO
+Schema:CreativeWork,DBpedia:Work,DBpedia:WrittenWork,DBpedia:PeriodicalLiterature,DBpedia:Newspaper
+http://fr.dbpedia.org/resource/Journal_officiel_de_la_République_française
+
+directive
+
+http://fr.dbpedia.org/resource/Directive_de_l'Union_européenne
+
+Eurobaromètre
+
+http://fr.dbpedia.org/resource/Eurobaromètre
+
+Ibidem
+
+http://fr.dbpedia.org/resource/Liste_de_locutions_latines_commençant_par_I
+
+TIC
+
+http://fr.dbpedia.org/resource/Technologies_de_l'information_et_de_la_communication
+
+TIC
+
+http://fr.dbpedia.org/resource/Technologies_de_l'information_et_de_la_communication
+
+Union européenne
+
+http://fr.dbpedia.org/resource/Union_européenne
+
+pirates
+
+http://fr.dbpedia.org/resource/Piraterie
+
+TIC
+
+http://fr.dbpedia.org/resource/Technologies_de_l'information_et_de_la_communication
+
+TIC
+
+http://fr.dbpedia.org/resource/Technologies_de_l'information_et_de_la_communication
+
+Union européenne
+
+http://fr.dbpedia.org/resource/Union_européenne
+
+pirates
+
+http://fr.dbpedia.org/resource/Piraterie
+
+directive
+
+http://fr.dbpedia.org/resource/Directive_de_l'Union_européenne
+
+directive
+
+http://fr.dbpedia.org/resource/Directive_de_l'Union_européenne
+
+directive
+
+http://fr.dbpedia.org/resource/Directive_de_l'Union_européenne
+
+directive
+
+http://fr.dbpedia.org/resource/Directive_de_l'Union_européenne
+
+SEC
+
+http://fr.dbpedia.org/resource/Securities_and_Exchange_Commission
+
+directive
+
+http://fr.dbpedia.org/resource/Directive_de_l'Union_européenne
+
+directive
+
+http://fr.dbpedia.org/resource/Directive_de_l'Union_européenne
+
+Union européenne
+
+http://fr.dbpedia.org/resource/Union_européenne
+
+Cour de justice de l'Union
+
+http://fr.dbpedia.org/resource/Cour_de_justice_(Union_européenne)
+
+Cour de justice de l'Union
+
+http://fr.dbpedia.org/resource/Cour_de_justice_(Union_européenne)
+
+Union européenne
+
+http://fr.dbpedia.org/resource/Union_européenne
+
+Cour de justice de l'Union
+
+http://fr.dbpedia.org/resource/Cour_de_justice_(Union_européenne)
+
+C-101
+
+http://fr.dbpedia.org/resource/CASA_C-101
+
+traité de Lisbonne
+
+http://fr.dbpedia.org/resource/Traité_de_Lisbonne
+
+TFUE
+
+http://fr.dbpedia.org/resource/Traité_sur_le_fonctionnement_de_l'Union_européenne
+
+JAI
+
+http://fr.dbpedia.org/resource/Coopération_policière_et_judiciaire_en_matière_pénale
+
+traité de Lisbonne
+
+http://fr.dbpedia.org/resource/Traité_de_Lisbonne
+
+traitement de données à caractère personnel
+
+http://fr.dbpedia.org/resource/Fichage_en_France
+
+directive
+
+http://fr.dbpedia.org/resource/Directive_de_l'Union_européenne
+
+Union européenne
+
+http://fr.dbpedia.org/resource/Union_européenne
+
+mondialisation
+
+http://fr.dbpedia.org/resource/Mondialisation
+
+traité de Lisbonne
+
+http://fr.dbpedia.org/resource/Traité_de_Lisbonne
+
+directive
+
+http://fr.dbpedia.org/resource/Directive_de_l'Union_européenne
+
+mondialisation
+
+http://fr.dbpedia.org/resource/Mondialisation
+
+Commission européenne
+
+http://fr.dbpedia.org/resource/Commission_européenne
+
+politique européenne de voisinage
+
+http://fr.dbpedia.org/resource/Politique_européenne_de_voisinage
+
+organisations internationales
+
+http://fr.dbpedia.org/resource/Organisation_internationale
+
+Conseil de l'Europe
+
+http://fr.dbpedia.org/resource/Conseil_de_l'Europe
+
+Nations unies
+
+http://fr.dbpedia.org/resource/Organisation_des_Nations_unies
+
+Union européenne
+
+http://fr.dbpedia.org/resource/Union_européenne
+
+Europe 2020
+
+http://fr.dbpedia.org/resource/Europe_2020
+
+Commission européenne
+
+http://fr.dbpedia.org/resource/Commission_européenne
+
+Parlement européen
+
+http://fr.dbpedia.org/resource/Parlement_européen
+
+Europol
+
+http://fr.dbpedia.org/resource/Europol
+

@@ -1,0 +1,1176 @@
+Jan Philipp Albrecht
+
+http://fr.dbpedia.org/resource/Jan_Philipp_Albrecht
+
+Parlement européen
+
+http://fr.dbpedia.org/resource/Parlement_européen
+
+Alexander Alvaro
+
+http://fr.dbpedia.org/resource/Alexander_Alvaro
+
+sécurité juridique
+
+http://fr.dbpedia.org/resource/Sécurité_juridique
+
+sécurité juridique
+
+http://fr.dbpedia.org/resource/Sécurité_juridique
+
+Consuegra
+Schema:Place,DBpedia:Place,DBpedia:PopulatedPlace,DBpedia:Settlement
+http://fr.dbpedia.org/resource/Consuegra
+
+Consuegra
+Schema:Place,DBpedia:Place,DBpedia:PopulatedPlace,DBpedia:Settlement
+http://fr.dbpedia.org/resource/Consuegra
+
+Consuegra
+Schema:Place,DBpedia:Place,DBpedia:PopulatedPlace,DBpedia:Settlement
+http://fr.dbpedia.org/resource/Consuegra
+
+traitement de données à caractère personnel
+
+http://fr.dbpedia.org/resource/Fichage_en_France
+
+ter
+
+http://fr.dbpedia.org/resource/Transport_express_régional
+
+ter
+
+http://fr.dbpedia.org/resource/Transport_express_régional
+
+Alexander Alvaro
+
+http://fr.dbpedia.org/resource/Alexander_Alvaro
+
+Alexander Alvaro
+
+http://fr.dbpedia.org/resource/Alexander_Alvaro
+
+ter
+
+http://fr.dbpedia.org/resource/Transport_express_régional
+
+ter
+
+http://fr.dbpedia.org/resource/Transport_express_régional
+
+Alexander Alvaro
+
+http://fr.dbpedia.org/resource/Alexander_Alvaro
+
+Alexander Alvaro
+
+http://fr.dbpedia.org/resource/Alexander_Alvaro
+
+organisations non gouvernementales
+
+http://fr.dbpedia.org/resource/Organisation_non_gouvernementale
+
+organisations non gouvernementales
+
+http://fr.dbpedia.org/resource/Organisation_non_gouvernementale
+
+Consuegra
+Schema:Place,DBpedia:Place,DBpedia:PopulatedPlace,DBpedia:Settlement
+http://fr.dbpedia.org/resource/Consuegra
+
+droits opposables
+
+http://fr.dbpedia.org/resource/Droit_opposable
+
+Marie-Christine Vergiat
+DBpedia:Agent,Schema:Person,Http://xmlns.com/foaf/0.1/Person,DBpedia:Person,DBpedia:OfficeHolder
+http://fr.dbpedia.org/resource/Marie-Christine_Vergiat
+
+directive
+
+http://fr.dbpedia.org/resource/Directive_de_l'Union_européenne
+
+Commission européenne
+
+http://fr.dbpedia.org/resource/Commission_européenne
+
+France
+Schema:Place,DBpedia:Place,DBpedia:PopulatedPlace,Schema:Country,DBpedia:Country
+http://fr.dbpedia.org/resource/France
+
+Allemagne
+Schema:Place,DBpedia:Place,DBpedia:PopulatedPlace,Schema:Country,DBpedia:Country
+http://fr.dbpedia.org/resource/Allemagne
+
+Espagne
+Schema:Place,DBpedia:Place,DBpedia:PopulatedPlace,Schema:Country,DBpedia:Country
+http://fr.dbpedia.org/resource/Espagne
+
+Alexander Alvaro
+
+http://fr.dbpedia.org/resource/Alexander_Alvaro
+
+Parlement européen
+
+http://fr.dbpedia.org/resource/Parlement_européen
+
+Nathalie Griesbeck
+
+http://fr.dbpedia.org/resource/Nathalie_Griesbeck
+
+interopérabilité
+
+http://fr.dbpedia.org/resource/Interopérabilité
+
+ter
+
+http://fr.dbpedia.org/resource/Transport_express_régional
+
+ter
+
+http://fr.dbpedia.org/resource/Transport_express_régional
+
+interopérabilité
+
+http://fr.dbpedia.org/resource/Interopérabilité
+
+ter
+
+http://fr.dbpedia.org/resource/Transport_express_régional
+
+ter
+
+http://fr.dbpedia.org/resource/Transport_express_régional
+
+interopérabilité
+
+http://fr.dbpedia.org/resource/Interopérabilité
+
+ter
+
+http://fr.dbpedia.org/resource/Transport_express_régional
+
+ter
+
+http://fr.dbpedia.org/resource/Transport_express_régional
+
+directive
+
+http://fr.dbpedia.org/resource/Directive_de_l'Union_européenne
+
+directive
+
+http://fr.dbpedia.org/resource/Directive_de_l'Union_européenne
+
+directive
+
+http://fr.dbpedia.org/resource/Directive_de_l'Union_européenne
+
+directive
+
+http://fr.dbpedia.org/resource/Directive_de_l'Union_européenne
+
+Consuegra
+Schema:Place,DBpedia:Place,DBpedia:PopulatedPlace,DBpedia:Settlement
+http://fr.dbpedia.org/resource/Consuegra
+
+Union européenne
+
+http://fr.dbpedia.org/resource/Union_européenne
+
+Union européenne
+
+http://fr.dbpedia.org/resource/Union_européenne
+
+Alexander Alvaro
+
+http://fr.dbpedia.org/resource/Alexander_Alvaro
+
+droit pénal
+
+http://fr.dbpedia.org/resource/Droit_pénal
+
+droit pénal
+
+http://fr.dbpedia.org/resource/Droit_pénal
+
+droit pénal
+
+http://fr.dbpedia.org/resource/Droit_pénal
+
+droit pénal
+
+http://fr.dbpedia.org/resource/Droit_pénal
+
+Gianni Vattimo
+DBpedia:Agent,Schema:Person,Http://xmlns.com/foaf/0.1/Person,DBpedia:Person,DBpedia:Philosopher
+http://fr.dbpedia.org/resource/Gianni_Vattimo
+
+droit pénal
+
+http://fr.dbpedia.org/resource/Droit_pénal
+
+droit pénal
+
+http://fr.dbpedia.org/resource/Droit_pénal
+
+Consuegra
+Schema:Place,DBpedia:Place,DBpedia:PopulatedPlace,DBpedia:Settlement
+http://fr.dbpedia.org/resource/Consuegra
+
+droit pénal
+
+http://fr.dbpedia.org/resource/Droit_pénal
+
+droit pénal
+
+http://fr.dbpedia.org/resource/Droit_pénal
+
+droit international
+
+http://fr.dbpedia.org/resource/Droit_international_public
+
+convention 108
+
+http://fr.dbpedia.org/resource/Convention_pour_la_protection_des_personnes_à_l'égard_du_traitement_automatisé_des_données_à_caractère_personnel
+
+Conseil de l'Europe
+
+http://fr.dbpedia.org/resource/Conseil_de_l'Europe
+
+Alexander Alvaro
+
+http://fr.dbpedia.org/resource/Alexander_Alvaro
+
+Parlement européen
+
+http://fr.dbpedia.org/resource/Parlement_européen
+
+Alexander Alvaro
+
+http://fr.dbpedia.org/resource/Alexander_Alvaro
+
+Parlement européen
+
+http://fr.dbpedia.org/resource/Parlement_européen
+
+étape
+
+http://fr.dbpedia.org/resource/17e_étape_du_Tour_d'Espagne_2012
+
+Alexander Alvaro
+
+http://fr.dbpedia.org/resource/Alexander_Alvaro
+
+Parlement européen
+
+http://fr.dbpedia.org/resource/Parlement_européen
+
+Consuegra
+Schema:Place,DBpedia:Place,DBpedia:PopulatedPlace,DBpedia:Settlement
+http://fr.dbpedia.org/resource/Consuegra
+
+Marie-Christine Vergiat
+DBpedia:Agent,Schema:Person,Http://xmlns.com/foaf/0.1/Person,DBpedia:Person,DBpedia:OfficeHolder
+http://fr.dbpedia.org/resource/Marie-Christine_Vergiat
+
+Alexander Alvaro
+
+http://fr.dbpedia.org/resource/Alexander_Alvaro
+
+Union européenne
+
+http://fr.dbpedia.org/resource/Union_européenne
+
+organisations internationales
+
+http://fr.dbpedia.org/resource/Organisation_internationale
+
+Union européenne
+
+http://fr.dbpedia.org/resource/Union_européenne
+
+organisations internationales
+
+http://fr.dbpedia.org/resource/Organisation_internationale
+
+Union européenne
+
+http://fr.dbpedia.org/resource/Union_européenne
+
+organisations internationales
+
+http://fr.dbpedia.org/resource/Organisation_internationale
+
+Union européenne
+
+http://fr.dbpedia.org/resource/Union_européenne
+
+organisations internationales
+
+http://fr.dbpedia.org/resource/Organisation_internationale
+
+Union européenne
+
+http://fr.dbpedia.org/resource/Union_européenne
+
+organisations internationales
+
+http://fr.dbpedia.org/resource/Organisation_internationale
+
+Union européenne
+
+http://fr.dbpedia.org/resource/Union_européenne
+
+organisations internationales
+
+http://fr.dbpedia.org/resource/Organisation_internationale
+
+directive
+
+http://fr.dbpedia.org/resource/Directive_de_l'Union_européenne
+
+directive
+
+http://fr.dbpedia.org/resource/Directive_de_l'Union_européenne
+
+directive
+
+http://fr.dbpedia.org/resource/Directive_de_l'Union_européenne
+
+directive
+
+http://fr.dbpedia.org/resource/Directive_de_l'Union_européenne
+
+Parlement
+
+http://fr.dbpedia.org/resource/Parlement_européen
+
+directive
+
+http://fr.dbpedia.org/resource/Directive_de_l'Union_européenne
+
+directive
+
+http://fr.dbpedia.org/resource/Directive_de_l'Union_européenne
+
+Union européenne
+
+http://fr.dbpedia.org/resource/Union_européenne
+
+Union européenne
+
+http://fr.dbpedia.org/resource/Union_européenne
+
+directive
+
+http://fr.dbpedia.org/resource/Directive_de_l'Union_européenne
+
+Alexander Alvaro
+
+http://fr.dbpedia.org/resource/Alexander_Alvaro
+
+directive
+
+http://fr.dbpedia.org/resource/Directive_de_l'Union_européenne
+
+Union européenne
+
+http://fr.dbpedia.org/resource/Union_européenne
+
+Union européenne
+
+http://fr.dbpedia.org/resource/Union_européenne
+
+directive
+
+http://fr.dbpedia.org/resource/Directive_de_l'Union_européenne
+
+Alexander Alvaro
+
+http://fr.dbpedia.org/resource/Alexander_Alvaro
+
+traitement de données à caractère personnel
+
+http://fr.dbpedia.org/resource/Fichage_en_France
+
+ter
+
+http://fr.dbpedia.org/resource/Transport_express_régional
+
+Alexander Alvaro
+
+http://fr.dbpedia.org/resource/Alexander_Alvaro
+
+sécurité juridique
+
+http://fr.dbpedia.org/resource/Sécurité_juridique
+
+Alexander Alvaro
+
+http://fr.dbpedia.org/resource/Alexander_Alvaro
+
+Parlement européen
+
+http://fr.dbpedia.org/resource/Parlement_européen
+
+Constantin
+
+http://fr.dbpedia.org/resource/Constantin_Ier_(empereur_romain)
+
+Constantin
+
+http://fr.dbpedia.org/resource/Constantin_Ier_(empereur_romain)
+
+Consuegra
+Schema:Place,DBpedia:Place,DBpedia:PopulatedPlace,DBpedia:Settlement
+http://fr.dbpedia.org/resource/Consuegra
+
+Constantin
+
+http://fr.dbpedia.org/resource/Constantin_Ier_(empereur_romain)
+
+APEC
+
+http://fr.dbpedia.org/resource/Coopération_économique_pour_l'Asie-Pacifique
+
+CEDEAO
+
+http://fr.dbpedia.org/resource/Communauté_économique_des_??tats_de_l'Afrique_de_l'Ouest
+
+système international
+
+http://fr.dbpedia.org/resource/Système_international_d'unités
+
+ter
+
+http://fr.dbpedia.org/resource/Transport_express_régional
+
+ter
+
+http://fr.dbpedia.org/resource/Transport_express_régional
+
+ter
+
+http://fr.dbpedia.org/resource/Transport_express_régional
+
+ter
+
+http://fr.dbpedia.org/resource/Transport_express_régional
+
+ter
+
+http://fr.dbpedia.org/resource/Transport_express_régional
+
+ter
+
+http://fr.dbpedia.org/resource/Transport_express_régional
+
+Union européenne
+
+http://fr.dbpedia.org/resource/Union_européenne
+
+Constantin
+
+http://fr.dbpedia.org/resource/Constantin_Ier_(empereur_romain)
+
+Alexander Alvaro
+
+http://fr.dbpedia.org/resource/Alexander_Alvaro
+
+ter
+
+http://fr.dbpedia.org/resource/Transport_express_régional
+
+groupes d'entreprises
+
+http://fr.dbpedia.org/resource/Groupe_d'entreprises
+
+'t Veld
+
+http://fr.dbpedia.org/resource/'t_Veld_(Meulebeke)
+
+Consuegra
+Schema:Place,DBpedia:Place,DBpedia:PopulatedPlace,DBpedia:Settlement
+http://fr.dbpedia.org/resource/Consuegra
+
+Consuegra
+Schema:Place,DBpedia:Place,DBpedia:PopulatedPlace,DBpedia:Settlement
+http://fr.dbpedia.org/resource/Consuegra
+
+Consuegra
+Schema:Place,DBpedia:Place,DBpedia:PopulatedPlace,DBpedia:Settlement
+http://fr.dbpedia.org/resource/Consuegra
+
+Consuegra
+Schema:Place,DBpedia:Place,DBpedia:PopulatedPlace,DBpedia:Settlement
+http://fr.dbpedia.org/resource/Consuegra
+
+ter
+
+http://fr.dbpedia.org/resource/Transport_express_régional
+
+ter
+
+http://fr.dbpedia.org/resource/Transport_express_régional
+
+directive
+
+http://fr.dbpedia.org/resource/Directive_de_l'Union_européenne
+
+directive
+
+http://fr.dbpedia.org/resource/Directive_de_l'Union_européenne
+
+Marie-Christine Vergiat
+DBpedia:Agent,Schema:Person,Http://xmlns.com/foaf/0.1/Person,DBpedia:Person,DBpedia:OfficeHolder
+http://fr.dbpedia.org/resource/Marie-Christine_Vergiat
+
+directive
+
+http://fr.dbpedia.org/resource/Directive_de_l'Union_européenne
+
+directive
+
+http://fr.dbpedia.org/resource/Directive_de_l'Union_européenne
+
+directive
+
+http://fr.dbpedia.org/resource/Directive_de_l'Union_européenne
+
+'t Veld
+
+http://fr.dbpedia.org/resource/'t_Veld_(Meulebeke)
+
+directive
+
+http://fr.dbpedia.org/resource/Directive_de_l'Union_européenne
+
+directive
+
+http://fr.dbpedia.org/resource/Directive_de_l'Union_européenne
+
+Consuegra
+Schema:Place,DBpedia:Place,DBpedia:PopulatedPlace,DBpedia:Settlement
+http://fr.dbpedia.org/resource/Consuegra
+
+directive
+
+http://fr.dbpedia.org/resource/Directive_de_l'Union_européenne
+
+directive
+
+http://fr.dbpedia.org/resource/Directive_de_l'Union_européenne
+
+directive
+
+http://fr.dbpedia.org/resource/Directive_de_l'Union_européenne
+
+directive
+
+http://fr.dbpedia.org/resource/Directive_de_l'Union_européenne
+
+directive
+
+http://fr.dbpedia.org/resource/Directive_de_l'Union_européenne
+
+directive
+
+http://fr.dbpedia.org/resource/Directive_de_l'Union_européenne
+
+mémorandum d'entente
+
+http://fr.dbpedia.org/resource/Mémorandum_d'entente
+
+directive
+
+http://fr.dbpedia.org/resource/Directive_de_l'Union_européenne
+
+directive
+
+http://fr.dbpedia.org/resource/Directive_de_l'Union_européenne
+
+droits opposables
+
+http://fr.dbpedia.org/resource/Droit_opposable
+
+traitement de données à caractère personnel
+
+http://fr.dbpedia.org/resource/Fichage_en_France
+
+droits opposables
+
+http://fr.dbpedia.org/resource/Droit_opposable
+
+traitement de données à caractère personnel
+
+http://fr.dbpedia.org/resource/Fichage_en_France
+
+droits opposables
+
+http://fr.dbpedia.org/resource/Droit_opposable
+
+traitement de données à caractère personnel
+
+http://fr.dbpedia.org/resource/Fichage_en_France
+
+droits opposables
+
+http://fr.dbpedia.org/resource/Droit_opposable
+
+droits opposables
+
+http://fr.dbpedia.org/resource/Droit_opposable
+
+Alexander Alvaro
+
+http://fr.dbpedia.org/resource/Alexander_Alvaro
+
+Birgit Sippel
+
+http://fr.dbpedia.org/resource/Birgit_Sippel
+
+Alexander Alvaro
+
+http://fr.dbpedia.org/resource/Alexander_Alvaro
+
+Birgit Sippel
+
+http://fr.dbpedia.org/resource/Birgit_Sippel
+
+Alexander Alvaro
+
+http://fr.dbpedia.org/resource/Alexander_Alvaro
+
+Birgit Sippel
+
+http://fr.dbpedia.org/resource/Birgit_Sippel
+
+Alexander Alvaro
+
+http://fr.dbpedia.org/resource/Alexander_Alvaro
+
+Birgit Sippel
+
+http://fr.dbpedia.org/resource/Birgit_Sippel
+
+Alexander Alvaro
+
+http://fr.dbpedia.org/resource/Alexander_Alvaro
+
+Alexander Alvaro
+
+http://fr.dbpedia.org/resource/Alexander_Alvaro
+
+Parlement européen
+
+http://fr.dbpedia.org/resource/Parlement_européen
+
+Consuegra
+Schema:Place,DBpedia:Place,DBpedia:PopulatedPlace,DBpedia:Settlement
+http://fr.dbpedia.org/resource/Consuegra
+
+Marie-Christine Vergiat
+DBpedia:Agent,Schema:Person,Http://xmlns.com/foaf/0.1/Person,DBpedia:Person,DBpedia:OfficeHolder
+http://fr.dbpedia.org/resource/Marie-Christine_Vergiat
+
+'t Veld
+
+http://fr.dbpedia.org/resource/'t_Veld_(Meulebeke)
+
+'t Veld
+
+http://fr.dbpedia.org/resource/'t_Veld_(Meulebeke)
+
+Marie-Christine Vergiat
+DBpedia:Agent,Schema:Person,Http://xmlns.com/foaf/0.1/Person,DBpedia:Person,DBpedia:OfficeHolder
+http://fr.dbpedia.org/resource/Marie-Christine_Vergiat
+
+'t Veld
+
+http://fr.dbpedia.org/resource/'t_Veld_(Meulebeke)
+
+'t Veld
+
+http://fr.dbpedia.org/resource/'t_Veld_(Meulebeke)
+
+Consuegra
+Schema:Place,DBpedia:Place,DBpedia:PopulatedPlace,DBpedia:Settlement
+http://fr.dbpedia.org/resource/Consuegra
+
+Gianni Vattimo
+DBpedia:Agent,Schema:Person,Http://xmlns.com/foaf/0.1/Person,DBpedia:Person,DBpedia:Philosopher
+http://fr.dbpedia.org/resource/Gianni_Vattimo
+
+Marie-Christine Vergiat
+DBpedia:Agent,Schema:Person,Http://xmlns.com/foaf/0.1/Person,DBpedia:Person,DBpedia:OfficeHolder
+http://fr.dbpedia.org/resource/Marie-Christine_Vergiat
+
+Judith Sargentini
+DBpedia:Agent,Schema:Person,Http://xmlns.com/foaf/0.1/Person,DBpedia:Person,DBpedia:OfficeHolder
+http://fr.dbpedia.org/resource/Judith_Sargentini
+
+Gianni Vattimo
+DBpedia:Agent,Schema:Person,Http://xmlns.com/foaf/0.1/Person,DBpedia:Person,DBpedia:Philosopher
+http://fr.dbpedia.org/resource/Gianni_Vattimo
+
+Marie-Christine Vergiat
+DBpedia:Agent,Schema:Person,Http://xmlns.com/foaf/0.1/Person,DBpedia:Person,DBpedia:OfficeHolder
+http://fr.dbpedia.org/resource/Marie-Christine_Vergiat
+
+Judith Sargentini
+DBpedia:Agent,Schema:Person,Http://xmlns.com/foaf/0.1/Person,DBpedia:Person,DBpedia:OfficeHolder
+http://fr.dbpedia.org/resource/Judith_Sargentini
+
+Gianni Vattimo
+DBpedia:Agent,Schema:Person,Http://xmlns.com/foaf/0.1/Person,DBpedia:Person,DBpedia:Philosopher
+http://fr.dbpedia.org/resource/Gianni_Vattimo
+
+Marie-Christine Vergiat
+DBpedia:Agent,Schema:Person,Http://xmlns.com/foaf/0.1/Person,DBpedia:Person,DBpedia:OfficeHolder
+http://fr.dbpedia.org/resource/Marie-Christine_Vergiat
+
+Judith Sargentini
+DBpedia:Agent,Schema:Person,Http://xmlns.com/foaf/0.1/Person,DBpedia:Person,DBpedia:OfficeHolder
+http://fr.dbpedia.org/resource/Judith_Sargentini
+
+ter
+
+http://fr.dbpedia.org/resource/Transport_express_régional
+
+ter
+
+http://fr.dbpedia.org/resource/Transport_express_régional
+
+Marie-Christine Vergiat
+DBpedia:Agent,Schema:Person,Http://xmlns.com/foaf/0.1/Person,DBpedia:Person,DBpedia:OfficeHolder
+http://fr.dbpedia.org/resource/Marie-Christine_Vergiat
+
+Claude Moraes
+
+http://fr.dbpedia.org/resource/Claude_Moraes
+
+Marie-Christine Vergiat
+DBpedia:Agent,Schema:Person,Http://xmlns.com/foaf/0.1/Person,DBpedia:Person,DBpedia:OfficeHolder
+http://fr.dbpedia.org/resource/Marie-Christine_Vergiat
+
+'t Veld
+
+http://fr.dbpedia.org/resource/'t_Veld_(Meulebeke)
+
+traitement de données à caractère personnel
+
+http://fr.dbpedia.org/resource/Fichage_en_France
+
+Marie-Christine Vergiat
+DBpedia:Agent,Schema:Person,Http://xmlns.com/foaf/0.1/Person,DBpedia:Person,DBpedia:OfficeHolder
+http://fr.dbpedia.org/resource/Marie-Christine_Vergiat
+
+Consuegra
+Schema:Place,DBpedia:Place,DBpedia:PopulatedPlace,DBpedia:Settlement
+http://fr.dbpedia.org/resource/Consuegra
+
+Gianni Vattimo
+DBpedia:Agent,Schema:Person,Http://xmlns.com/foaf/0.1/Person,DBpedia:Person,DBpedia:Philosopher
+http://fr.dbpedia.org/resource/Gianni_Vattimo
+
+Consuegra
+Schema:Place,DBpedia:Place,DBpedia:PopulatedPlace,DBpedia:Settlement
+http://fr.dbpedia.org/resource/Consuegra
+
+'t Veld
+
+http://fr.dbpedia.org/resource/'t_Veld_(Meulebeke)
+
+'t Veld
+
+http://fr.dbpedia.org/resource/'t_Veld_(Meulebeke)
+
+'t Veld
+
+http://fr.dbpedia.org/resource/'t_Veld_(Meulebeke)
+
+'t Veld
+
+http://fr.dbpedia.org/resource/'t_Veld_(Meulebeke)
+
+Marie-Christine Vergiat
+DBpedia:Agent,Schema:Person,Http://xmlns.com/foaf/0.1/Person,DBpedia:Person,DBpedia:OfficeHolder
+http://fr.dbpedia.org/resource/Marie-Christine_Vergiat
+
+organisations internationales
+
+http://fr.dbpedia.org/resource/Organisation_internationale
+
+organisations internationales
+
+http://fr.dbpedia.org/resource/Organisation_internationale
+
+Conseil de l'Europe
+
+http://fr.dbpedia.org/resource/Conseil_de_l'Europe
+
+'t Veld
+
+http://fr.dbpedia.org/resource/'t_Veld_(Meulebeke)
+
+'t Veld
+
+http://fr.dbpedia.org/resource/'t_Veld_(Meulebeke)
+
+Consuegra
+Schema:Place,DBpedia:Place,DBpedia:PopulatedPlace,DBpedia:Settlement
+http://fr.dbpedia.org/resource/Consuegra
+
+organisations internationales
+
+http://fr.dbpedia.org/resource/Organisation_internationale
+
+Marie-Christine Vergiat
+DBpedia:Agent,Schema:Person,Http://xmlns.com/foaf/0.1/Person,DBpedia:Person,DBpedia:OfficeHolder
+http://fr.dbpedia.org/resource/Marie-Christine_Vergiat
+
+organisations internationales
+
+http://fr.dbpedia.org/resource/Organisation_internationale
+
+Conseil de l'Europe
+
+http://fr.dbpedia.org/resource/Conseil_de_l'Europe
+
+organisations internationales
+
+http://fr.dbpedia.org/resource/Organisation_internationale
+
+Parlement européen
+
+http://fr.dbpedia.org/resource/Parlement_européen
+
+Consuegra
+Schema:Place,DBpedia:Place,DBpedia:PopulatedPlace,DBpedia:Settlement
+http://fr.dbpedia.org/resource/Consuegra
+
+Marie-Christine Vergiat
+DBpedia:Agent,Schema:Person,Http://xmlns.com/foaf/0.1/Person,DBpedia:Person,DBpedia:OfficeHolder
+http://fr.dbpedia.org/resource/Marie-Christine_Vergiat
+
+Parlement européen
+
+http://fr.dbpedia.org/resource/Parlement_européen
+
+Conseil de l'Europe
+
+http://fr.dbpedia.org/resource/Conseil_de_l'Europe
+
+Consuegra
+Schema:Place,DBpedia:Place,DBpedia:PopulatedPlace,DBpedia:Settlement
+http://fr.dbpedia.org/resource/Consuegra
+
+ter
+
+http://fr.dbpedia.org/resource/Transport_express_régional
+
+ter
+
+http://fr.dbpedia.org/resource/Transport_express_régional
+
+Consuegra
+Schema:Place,DBpedia:Place,DBpedia:PopulatedPlace,DBpedia:Settlement
+http://fr.dbpedia.org/resource/Consuegra
+
+Consuegra
+Schema:Place,DBpedia:Place,DBpedia:PopulatedPlace,DBpedia:Settlement
+http://fr.dbpedia.org/resource/Consuegra
+
+organisations internationales
+
+http://fr.dbpedia.org/resource/Organisation_internationale
+
+Alexander Alvaro
+
+http://fr.dbpedia.org/resource/Alexander_Alvaro
+
+Alexander Alvaro
+
+http://fr.dbpedia.org/resource/Alexander_Alvaro
+
+Consuegra
+Schema:Place,DBpedia:Place,DBpedia:PopulatedPlace,DBpedia:Settlement
+http://fr.dbpedia.org/resource/Consuegra
+
+Consuegra
+Schema:Place,DBpedia:Place,DBpedia:PopulatedPlace,DBpedia:Settlement
+http://fr.dbpedia.org/resource/Consuegra
+
+Consuegra
+Schema:Place,DBpedia:Place,DBpedia:PopulatedPlace,DBpedia:Settlement
+http://fr.dbpedia.org/resource/Consuegra
+
+Consuegra
+Schema:Place,DBpedia:Place,DBpedia:PopulatedPlace,DBpedia:Settlement
+http://fr.dbpedia.org/resource/Consuegra
+
+Consuegra
+Schema:Place,DBpedia:Place,DBpedia:PopulatedPlace,DBpedia:Settlement
+http://fr.dbpedia.org/resource/Consuegra
+
+centres de traitement de données
+
+http://fr.dbpedia.org/resource/Centre_de_traitement_de_données
+
+directive
+
+http://fr.dbpedia.org/resource/Directive_de_l'Union_européenne
+
+Consuegra
+Schema:Place,DBpedia:Place,DBpedia:PopulatedPlace,DBpedia:Settlement
+http://fr.dbpedia.org/resource/Consuegra
+
+Consuegra
+Schema:Place,DBpedia:Place,DBpedia:PopulatedPlace,DBpedia:Settlement
+http://fr.dbpedia.org/resource/Consuegra
+
+Jan Philipp Albrecht
+
+http://fr.dbpedia.org/resource/Jan_Philipp_Albrecht
+
+Consuegra
+Schema:Place,DBpedia:Place,DBpedia:PopulatedPlace,DBpedia:Settlement
+http://fr.dbpedia.org/resource/Consuegra
+
+Consuegra
+Schema:Place,DBpedia:Place,DBpedia:PopulatedPlace,DBpedia:Settlement
+http://fr.dbpedia.org/resource/Consuegra
+
+Consuegra
+Schema:Place,DBpedia:Place,DBpedia:PopulatedPlace,DBpedia:Settlement
+http://fr.dbpedia.org/resource/Consuegra
+
+Consuegra
+Schema:Place,DBpedia:Place,DBpedia:PopulatedPlace,DBpedia:Settlement
+http://fr.dbpedia.org/resource/Consuegra
+
+Article 49
+
+http://fr.dbpedia.org/resource/Article_49_de_la_Constitution_de_la_Cinquième_République_française
+
+Consuegra
+Schema:Place,DBpedia:Place,DBpedia:PopulatedPlace,DBpedia:Settlement
+http://fr.dbpedia.org/resource/Consuegra
+
+Article 49
+
+http://fr.dbpedia.org/resource/Article_49_de_la_Constitution_de_la_Cinquième_République_française
+
+Consuegra
+Schema:Place,DBpedia:Place,DBpedia:PopulatedPlace,DBpedia:Settlement
+http://fr.dbpedia.org/resource/Consuegra
+
+Article 49
+
+http://fr.dbpedia.org/resource/Article_49_de_la_Constitution_de_la_Cinquième_République_française
+
+Consuegra
+Schema:Place,DBpedia:Place,DBpedia:PopulatedPlace,DBpedia:Settlement
+http://fr.dbpedia.org/resource/Consuegra
+
+Article 49
+
+http://fr.dbpedia.org/resource/Article_49_de_la_Constitution_de_la_Cinquième_République_française
+
+Consuegra
+Schema:Place,DBpedia:Place,DBpedia:PopulatedPlace,DBpedia:Settlement
+http://fr.dbpedia.org/resource/Consuegra
+
+Article 49
+
+http://fr.dbpedia.org/resource/Article_49_de_la_Constitution_de_la_Cinquième_République_française
+
+Consuegra
+Schema:Place,DBpedia:Place,DBpedia:PopulatedPlace,DBpedia:Settlement
+http://fr.dbpedia.org/resource/Consuegra
+
+Article 49
+
+http://fr.dbpedia.org/resource/Article_49_de_la_Constitution_de_la_Cinquième_République_française
+
+Alexander Alvaro
+
+http://fr.dbpedia.org/resource/Alexander_Alvaro
+
+Article 49
+
+http://fr.dbpedia.org/resource/Article_49_de_la_Constitution_de_la_Cinquième_République_française
+
+Article 49
+
+http://fr.dbpedia.org/resource/Article_49_de_la_Constitution_de_la_Cinquième_République_française
+
+Article 49
+
+http://fr.dbpedia.org/resource/Article_49_de_la_Constitution_de_la_Cinquième_République_française
+
+Article 49
+
+http://fr.dbpedia.org/resource/Article_49_de_la_Constitution_de_la_Cinquième_République_française
+
+CEDH
+
+http://fr.dbpedia.org/resource/Convention_européenne_des_droits_de_l'homme
+
+CEDH
+
+http://fr.dbpedia.org/resource/Convention_européenne_des_droits_de_l'homme
+
+Seán Kelly
+DBpedia:Agent,Schema:Person,Http://xmlns.com/foaf/0.1/Person,DBpedia:Person,DBpedia:Athlete,DBpedia:Cyclist
+http://fr.dbpedia.org/resource/Seán_Kelly
+
+Article 49
+
+http://fr.dbpedia.org/resource/Article_49_de_la_Constitution_de_la_Cinquième_République_française
+
+Article 49
+
+http://fr.dbpedia.org/resource/Article_49_de_la_Constitution_de_la_Cinquième_République_française
+
+Consuegra
+Schema:Place,DBpedia:Place,DBpedia:PopulatedPlace,DBpedia:Settlement
+http://fr.dbpedia.org/resource/Consuegra
+
+Article 49
+
+http://fr.dbpedia.org/resource/Article_49_de_la_Constitution_de_la_Cinquième_République_française
+
+Article 49
+
+http://fr.dbpedia.org/resource/Article_49_de_la_Constitution_de_la_Cinquième_République_française
+
+CEDH
+
+http://fr.dbpedia.org/resource/Convention_européenne_des_droits_de_l'homme
+
+CEDH
+
+http://fr.dbpedia.org/resource/Convention_européenne_des_droits_de_l'homme
+
+Seán Kelly
+DBpedia:Agent,Schema:Person,Http://xmlns.com/foaf/0.1/Person,DBpedia:Person,DBpedia:Athlete,DBpedia:Cyclist
+http://fr.dbpedia.org/resource/Seán_Kelly
+
+Article 49
+
+http://fr.dbpedia.org/resource/Article_49_de_la_Constitution_de_la_Cinquième_République_française
+
+Article 49
+
+http://fr.dbpedia.org/resource/Article_49_de_la_Constitution_de_la_Cinquième_République_française
+
+Consuegra
+Schema:Place,DBpedia:Place,DBpedia:PopulatedPlace,DBpedia:Settlement
+http://fr.dbpedia.org/resource/Consuegra
+
+Marie-Christine Vergiat
+DBpedia:Agent,Schema:Person,Http://xmlns.com/foaf/0.1/Person,DBpedia:Person,DBpedia:OfficeHolder
+http://fr.dbpedia.org/resource/Marie-Christine_Vergiat
+
+traitement de données à caractère personnel
+
+http://fr.dbpedia.org/resource/Fichage_en_France
+
+Marie-Christine Vergiat
+DBpedia:Agent,Schema:Person,Http://xmlns.com/foaf/0.1/Person,DBpedia:Person,DBpedia:OfficeHolder
+http://fr.dbpedia.org/resource/Marie-Christine_Vergiat
+
+traitement de données à caractère personnel
+
+http://fr.dbpedia.org/resource/Fichage_en_France
+
+Consuegra
+Schema:Place,DBpedia:Place,DBpedia:PopulatedPlace,DBpedia:Settlement
+http://fr.dbpedia.org/resource/Consuegra
+
+Consuegra
+Schema:Place,DBpedia:Place,DBpedia:PopulatedPlace,DBpedia:Settlement
+http://fr.dbpedia.org/resource/Consuegra
+
+entités juridiques
+
+http://fr.dbpedia.org/resource/Personne_morale
+
+Marita Ulvskog
+DBpedia:Agent,Schema:Person,Http://xmlns.com/foaf/0.1/Person,DBpedia:Person,DBpedia:OfficeHolder
+http://fr.dbpedia.org/resource/Marita_Ulvskog
+
+Marita Ulvskog
+DBpedia:Agent,Schema:Person,Http://xmlns.com/foaf/0.1/Person,DBpedia:Person,DBpedia:OfficeHolder
+http://fr.dbpedia.org/resource/Marita_Ulvskog
+
+ter
+
+http://fr.dbpedia.org/resource/Transport_express_régional
+
+ter
+
+http://fr.dbpedia.org/resource/Transport_express_régional
+
+ter
+
+http://fr.dbpedia.org/resource/Transport_express_régional
+
+ter
+
+http://fr.dbpedia.org/resource/Transport_express_régional
+
+convention 108
+
+http://fr.dbpedia.org/resource/Convention_pour_la_protection_des_personnes_à_l'égard_du_traitement_automatisé_des_données_à_caractère_personnel
+
+Seán Kelly
+DBpedia:Agent,Schema:Person,Http://xmlns.com/foaf/0.1/Person,DBpedia:Person,DBpedia:Athlete,DBpedia:Cyclist
+http://fr.dbpedia.org/resource/Seán_Kelly
+
+traitement de données à caractère personnel
+
+http://fr.dbpedia.org/resource/Fichage_en_France
+
+Judith Sargentini
+DBpedia:Agent,Schema:Person,Http://xmlns.com/foaf/0.1/Person,DBpedia:Person,DBpedia:OfficeHolder
+http://fr.dbpedia.org/resource/Judith_Sargentini
+
+Consuegra
+Schema:Place,DBpedia:Place,DBpedia:PopulatedPlace,DBpedia:Settlement
+http://fr.dbpedia.org/resource/Consuegra
+
+Marie-Christine Vergiat
+DBpedia:Agent,Schema:Person,Http://xmlns.com/foaf/0.1/Person,DBpedia:Person,DBpedia:OfficeHolder
+http://fr.dbpedia.org/resource/Marie-Christine_Vergiat
+
+PME
+
+http://fr.dbpedia.org/resource/Petites_et_moyennes_entreprises
+
+Consuegra
+Schema:Place,DBpedia:Place,DBpedia:PopulatedPlace,DBpedia:Settlement
+http://fr.dbpedia.org/resource/Consuegra
+
+Alexander Alvaro
+
+http://fr.dbpedia.org/resource/Alexander_Alvaro
+
+Jan Philipp Albrecht
+
+http://fr.dbpedia.org/resource/Jan_Philipp_Albrecht
+
+Jan Mulder
+DBpedia:Agent,Schema:Person,Http://xmlns.com/foaf/0.1/Person,DBpedia:Person,DBpedia:Athlete,DBpedia:SoccerPlayer
+http://fr.dbpedia.org/resource/Jan_Mulder
+
+Marie-Christine Vergiat
+DBpedia:Agent,Schema:Person,Http://xmlns.com/foaf/0.1/Person,DBpedia:Person,DBpedia:OfficeHolder
+http://fr.dbpedia.org/resource/Marie-Christine_Vergiat
+
+Marie-Christine Vergiat
+DBpedia:Agent,Schema:Person,Http://xmlns.com/foaf/0.1/Person,DBpedia:Person,DBpedia:OfficeHolder
+http://fr.dbpedia.org/resource/Marie-Christine_Vergiat
+

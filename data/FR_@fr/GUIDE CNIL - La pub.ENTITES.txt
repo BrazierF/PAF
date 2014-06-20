@@ -1,0 +1,356 @@
+rue Vivienne
+Schema:Place,DBpedia:Place,DBpedia:ArchitecturalStructure,DBpedia:Infrastructure,DBpedia:RouteOfTransportation,DBpedia:Road
+http://fr.dbpedia.org/resource/Rue_Vivienne
+
+Paris
+Schema:Place,DBpedia:Place,DBpedia:PopulatedPlace,DBpedia:Settlement
+http://fr.dbpedia.org/resource/Paris
+
+SI
+
+http://fr.dbpedia.org/resource/Système_d'information
+
+courrier électronique
+
+http://fr.dbpedia.org/resource/Courrier_électronique
+
+automate d'appel
+
+http://fr.dbpedia.org/resource/Automate_d'appel
+
+CNIL
+
+http://fr.dbpedia.org/resource/Commission_nationale_de_l'informatique_et_des_libertés
+
+CNIL
+
+http://fr.dbpedia.org/resource/Commission_nationale_de_l'informatique_et_des_libertés
+
+téléphone mobile
+
+http://fr.dbpedia.org/resource/Téléphone_mobile
+
+SMS
+
+http://fr.dbpedia.org/resource/Short_Message_Service
+
+télécopieur
+
+http://fr.dbpedia.org/resource/Télécopieur
+
+publicité
+
+http://fr.dbpedia.org/resource/Publicité
+
+CNIL
+
+http://fr.dbpedia.org/resource/Commission_nationale_de_l'informatique_et_des_libertés
+
+publicité
+
+http://fr.dbpedia.org/resource/Publicité
+
+France
+Schema:Place,DBpedia:Place,DBpedia:PopulatedPlace,Schema:Country,DBpedia:Country
+http://fr.dbpedia.org/resource/France
+
+CNIL
+
+http://fr.dbpedia.org/resource/Commission_nationale_de_l'informatique_et_des_libertés
+
+CNIL
+
+http://fr.dbpedia.org/resource/Commission_nationale_de_l'informatique_et_des_libertés
+
+code de commerce
+
+http://fr.dbpedia.org/resource/Code_de_commerce_(France)
+
+code de commerce
+
+http://fr.dbpedia.org/resource/Code_de_commerce_(France)
+
+publicité
+
+http://fr.dbpedia.org/resource/Publicité
+
+Boëtie
+DBpedia:Agent,Schema:Person,Http://xmlns.com/foaf/0.1/Person,DBpedia:Person,DBpedia:Philosopher
+http://fr.dbpedia.org/resource/??tienne_de_La_Boétie
+
+Paris
+Schema:Place,DBpedia:Place,DBpedia:PopulatedPlace,DBpedia:Settlement
+http://fr.dbpedia.org/resource/Paris
+
+publicité
+
+http://fr.dbpedia.org/resource/Publicité
+
+téléphonie mobile
+
+http://fr.dbpedia.org/resource/Téléphonie_mobile
+
+La Poste
+DBpedia:Agent,Schema:Organization,DBpedia:Organisation,DBpedia:Company
+http://fr.dbpedia.org/resource/La_Poste_(entreprise_française)
+
+automate d'appel
+
+http://fr.dbpedia.org/resource/Automate_d'appel
+
+courrier électronique
+
+http://fr.dbpedia.org/resource/Courrier_électronique
+
+automate d'appel
+
+http://fr.dbpedia.org/resource/Automate_d'appel
+
+courriers électroniques
+
+http://fr.dbpedia.org/resource/Courrier_électronique
+
+SMS
+
+http://fr.dbpedia.org/resource/Short_Message_Service
+
+MMS
+
+http://fr.dbpedia.org/resource/Multimedia_Messaging_Service
+
+courrier électronique
+
+http://fr.dbpedia.org/resource/Courrier_électronique
+
+automate d'appel
+
+http://fr.dbpedia.org/resource/Automate_d'appel
+
+tribunal de grande instance
+
+http://fr.dbpedia.org/resource/Tribunal_de_grande_instance_(France)
+
+SMS
+
+http://fr.dbpedia.org/resource/Short_Message_Service
+
+SMS
+
+http://fr.dbpedia.org/resource/Short_Message_Service
+
+courrier électronique
+
+http://fr.dbpedia.org/resource/Courrier_électronique
+
+automate d'appel
+
+http://fr.dbpedia.org/resource/Automate_d'appel
+
+automate d'appel
+
+http://fr.dbpedia.org/resource/Automate_d'appel
+
+courrier électronique
+
+http://fr.dbpedia.org/resource/Courrier_électronique
+
+biens culturels
+
+http://fr.dbpedia.org/resource/??conomie_de_la_culture
+
+DVD
+
+http://fr.dbpedia.org/resource/DVD
+
+CNIL
+
+http://fr.dbpedia.org/resource/Commission_nationale_de_l'informatique_et_des_libertés
+
+CNIL
+
+http://fr.dbpedia.org/resource/Commission_nationale_de_l'informatique_et_des_libertés
+
+courriers électroniques
+
+http://fr.dbpedia.org/resource/Courrier_électronique
+
+CNIL
+
+http://fr.dbpedia.org/resource/Commission_nationale_de_l'informatique_et_des_libertés
+
+CNIL
+
+http://fr.dbpedia.org/resource/Commission_nationale_de_l'informatique_et_des_libertés
+
+CNIL
+
+http://fr.dbpedia.org/resource/Commission_nationale_de_l'informatique_et_des_libertés
+
+Signal Spam
+
+http://fr.dbpedia.org/resource/Signal_Spam
+
+cnil
+
+http://fr.dbpedia.org/resource/Commission_nationale_de_l'informatique_et_des_libertés
+
+CNIL
+
+http://fr.dbpedia.org/resource/Commission_nationale_de_l'informatique_et_des_libertés
+
+publicité
+
+http://fr.dbpedia.org/resource/Publicité
+
+CNIL
+
+http://fr.dbpedia.org/resource/Commission_nationale_de_l'informatique_et_des_libertés
+
+SMS
+
+http://fr.dbpedia.org/resource/Short_Message_Service
+
+CNIL
+
+http://fr.dbpedia.org/resource/Commission_nationale_de_l'informatique_et_des_libertés
+
+rue Vivienne
+Schema:Place,DBpedia:Place,DBpedia:ArchitecturalStructure,DBpedia:Infrastructure,DBpedia:RouteOfTransportation,DBpedia:Road
+http://fr.dbpedia.org/resource/Rue_Vivienne
+
+publicité
+
+http://fr.dbpedia.org/resource/Publicité
+
+CNIL
+
+http://fr.dbpedia.org/resource/Commission_nationale_de_l'informatique_et_des_libertés
+
+tribunal de grande instance
+
+http://fr.dbpedia.org/resource/Tribunal_de_grande_instance_(France)
+
+traitement de données à caractère personnel
+
+http://fr.dbpedia.org/resource/Fichage_en_France
+
+cnil
+
+http://fr.dbpedia.org/resource/Commission_nationale_de_l'informatique_et_des_libertés
+
+CNIL
+
+http://fr.dbpedia.org/resource/Commission_nationale_de_l'informatique_et_des_libertés
+
+publicité
+
+http://fr.dbpedia.org/resource/Publicité
+
+publicité
+
+http://fr.dbpedia.org/resource/Publicité
+
+cer
+Schema:Place,DBpedia:Place,DBpedia:NaturalPlace,Schema:Mountain,DBpedia:Mountain
+http://fr.dbpedia.org/resource/Cer_(montagne)
+
+oit
+
+http://fr.dbpedia.org/resource/Organisation_internationale_du_travail
+
+télécopieur
+
+http://fr.dbpedia.org/resource/Télécopieur
+
+automate d'appels
+
+http://fr.dbpedia.org/resource/Automate_d'appel
+
+télécopieur
+
+http://fr.dbpedia.org/resource/Télécopieur
+
+courrier électronique
+
+http://fr.dbpedia.org/resource/Courrier_électronique
+
+courriers électroniques
+
+http://fr.dbpedia.org/resource/Courrier_électronique
+
+lettres électronique
+
+http://fr.dbpedia.org/resource/Courrier_électronique
+
+courriers électroniques
+
+http://fr.dbpedia.org/resource/Courrier_électronique
+
+oniques
+
+http://fr.dbpedia.org/resource/Onique
+
+courriers électroniques
+
+http://fr.dbpedia.org/resource/Courrier_électronique
+
+courriers électroniques
+
+http://fr.dbpedia.org/resource/Courrier_électronique
+
+automate d'appels
+
+http://fr.dbpedia.org/resource/Automate_d'appel
+
+télécopieur
+
+http://fr.dbpedia.org/resource/Télécopieur
+
+courrier électronique
+
+http://fr.dbpedia.org/resource/Courrier_électronique
+
+-752
+
+http://fr.dbpedia.org/resource/Années_750_av._J.-C.
+
+courriers électroniques
+
+http://fr.dbpedia.org/resource/Courrier_électronique
+
+courriers électroniques
+
+http://fr.dbpedia.org/resource/Courrier_électronique
+
+oniques
+
+http://fr.dbpedia.org/resource/Onique
+
+CNIL
+
+http://fr.dbpedia.org/resource/Commission_nationale_de_l'informatique_et_des_libertés
+
+CNIL
+
+http://fr.dbpedia.org/resource/Commission_nationale_de_l'informatique_et_des_libertés
+
+CNIL
+
+http://fr.dbpedia.org/resource/Commission_nationale_de_l'informatique_et_des_libertés
+
+cnil
+
+http://fr.dbpedia.org/resource/Commission_nationale_de_l'informatique_et_des_libertés
+
+rue Vivienne
+Schema:Place,DBpedia:Place,DBpedia:ArchitecturalStructure,DBpedia:Infrastructure,DBpedia:RouteOfTransportation,DBpedia:Road
+http://fr.dbpedia.org/resource/Rue_Vivienne
+
+Paris
+Schema:Place,DBpedia:Place,DBpedia:PopulatedPlace,DBpedia:Settlement
+http://fr.dbpedia.org/resource/Paris
+
+SI
+
+http://fr.dbpedia.org/resource/Système_d'information
+

@@ -1,0 +1,3374 @@
+ www.cnil.fr
+Agence Aristophane
+É d i t i o n   2 0 0 9
+GUIDE
+LES COLLECTIVITÉS LOCALES
+ 8 rue Vivienne - CS 30223 
+75083 Paris cedex 02
+Tél : 01 53 73 22 22 
+Fax : 01 53 73 22 00
+COLLECTIVITÉS LOCALES ET PROTECTION DES DONNÉES PERSONNELLES
+FICHE N° 1 : les fi chiers de l’état civil
+FICHE N° 2 : la liste électorale
+FICHE N° 3 : la fi scalité locale
+ FICHE N° 4 : les fi chiers sociaux
+FICHE N° 5 : les communes et la prévention de la délinquance
+ FICHE N° 6 : fi chiers cadastraux et systèmes d’information géographique
+FICHE N° 7 : le recensement de la population
+FICHE N° 8 : la gestion des demandes d’attestation d’accueil
+FICHE N° 9 : le contrôle de légalité : le traitement « actes »
+FICHE N° 10 : fournir des renseignements sur les administrés
+FICHE N° 11 : les fi chiers de communication municipale
+FICHE N° 12 : le fi chier des logements vacants
+FICHE N° 13 : le fi chier des associations subventionnées
+FICHE N° 14 : administration électronique locale et téléservices
+FICHE N° 15 : les dispositifs de vidéosurveillance
+FICHE N°16 : les applications biométriques
+FICHE N° 17 : la géolocalisation
+MODE D’EMPLOI : COMMENT DÉCLARER ?
+TABLEAU RÉCAPITULATIF : QUELLE DÉCLARATION POUR QUEL FICHIER ?
+MODÈLES DE NOTE D’INFORMATION
+MODÈLE DE CLAUSE DE CONFIDENTIALITÉ
+MODELE DE NOTE D’INFORMATION (CADASTRE)
+MODÈLE DE NOTE D’INFORMATION (VIDÉOSURVEILLANCE)
+Ce guide est téléchargeable sur le site internet de la CNIL www.cnil.fr
+page  2
+page  9
+page  14
+page  17
+page  21
+page  27
+page  31
+page  35
+page  37
+page 39
+page  40
+page  43
+page  46
+page  49
+page  50
+page 52
+page  55
+page  58
+page 61
+page 65
+page 72
+page 73
+page 75
+page 76
+Sommaire
+1
+Nos collectivités locales sont amenées à recourir de façon croissante aux 
+moyens informatiques pour gérer les nombreux services dont elles ont la 
+compétence : état civil, listes électorales, inscriptions scolaires, action sociale, 
+gestion foncière et urbanisme, facturation de taxes et redevances, etc.
+Simultanément, les dispositifs de contrôle liés aux nouvelles technologies 
+se multiplient (vidéosurveillance, applications biométriques, géolocalisation, 
+etc.) et le recours au réseau Internet facilite le développement des téléservices 
+locaux de l’administration électronique à destination des administrés.
+Ces applications ou fi chiers recensent de nombreuses informations sur les 
+personnes, administrés de la collectivité ou autres usagers. La loi Informatique 
+et Libertés fi xe un cadre à la collecte et au traitement de ces données afi n 
+de les protéger, dans la mesure où leur divulgation ou leur mauvaise 
+utilisation est susceptible de porter atteinte aux droits et libertés des 
+personnes, ou à leur vie privée.
+Les maires et les présidents d’établissements publics de coopération 
+intercommunale sont responsables de ces traitements informatiques et de 
+la sécurité des données personnelles qu’ils contiennent. Ils peuvent ainsi 
+voir leur responsabilité, notamment pénale, engagée en cas de non-respect 
+des dispositions de la loi.
+C’est pourquoi notre commission, chargée de veiller au respect de ces 
+principes, souhaite accompagner les élus locaux dans l’accomplissement 
+de leurs obligations, en les informant sur les modalités d’application de la 
+loi et en les conseillant sur les mesures à adopter pour s’y conformer.
+C’est l’objet de ce guide, qui s’adresse à tous les acteurs des collectivités 
+locales impliqués dans la mise en œuvre d’applications informatiques ou 
+l’exploitation de données personnelles. Il a pour vocation de leur donner 
+les clés pour bien utiliser ces outils et les fi chiers mis en œuvre dans les 
+différents domaines de la vie locale.
+C’est aussi le sens du nouveau dispositif du « correspondant informatique 
+et libertés », interlocuteur privilégié de la CNIL au sein de la collectivité, et 
+dont la désignation permet à celle-ci d’intégrer pleinement la problématique 
+de la protection des données personnelles dans sa gestion quotidienne.
+Alex TÜRK
+Président de la CNIL
+GUIDE PRATIQUE COLLECTIVITÉS LOCALES 2
+Collectivités locales et protection 
+des données personnelles
+COLLECTIVITÉS
+ 
+LOCALES
+ 
+ET
+ 
+PROTECTION
+ 
+DES
+ 
+DONNÉES
+ 
+PERSONNELLES
+  Les informations que les collectivités traitent informatiquement pour remplir 
+leurs missions de service public, qu’elles agissent comme représentantes de 
+l’État ou comme entités locales, doivent être protégées parce qu’elles relè-
+vent de la vie privée et parce que leur divulgation est susceptible de porter 
+atteinte aux droits et libertés des personnes concernées.
+  La loi du 6 janvier 1978 modifi ée en 2004 a défi ni les principes à respecter 
+lors de la collecte, du traitement et de la conservation de ces données. La loi 
+prévoit également un certain nombre de droits pour les personnes dont les 
+données personnelles ont été recueillies.
+  Le respect, par les collectivités locales, des règles de protection des don-
+nées à caractère personnel est un facteur de transparence et de confi ance 
+à l’égard des usagers. C’est aussi un gage de sécurité juridique pour les 
+élus qui, responsables des fi chiers mis en œuvre, doivent veiller à ce que la 
+fi nalité de chaque traitement informatique et les éventuelles transmissions 
+d’informations soient clairement défi nies, les dispositifs de sécurité informa-
+tique précisément déterminés et les mesures d’information des administrés 
+appliquées.
+3
+I - CINQ PRINCIPES CLÉS À RESPECTER
+1) Le principe de fi nalité : une utilisation encadrée des fi chiers
+   Les données à caractère personnel ne peuvent être recueillies et traitées que 
+pour un usage déterminé et légitime, correspondant aux missions de la 
+collectivité responsable du traitement. En tant que responsable du fi chier, le 
+maire a l’obligation d’en fi xer la fi nalité.
+  Ainsi, un fi chier municipal ne peut être utilisé à des fi ns commerciales ou 
+politiques (par exemple, un fi chier cadastral ne peut être cédé à des fi ns 
+commerciales ; de même, le fi chier des inscriptions scolaires ou des deman-
+deurs d’emploi ne peut être utilisé à des fi ns de communication politique). 
+Tout détournement de fi nalité est passible de sanctions pénales.
+2) Le principe de proportionnalité
+  Seules doivent être enregistrées les informations pertinentes et nécessaires 
+pour assurer la gestion des services municipaux (par exemple, ne pas enre-
+gistrer la situation de famille lorsque sont seuls nécessaires, au regard des 
+fi nalités du traitement, le nom et l’adresse de la personne).
+3) Le principe de durée limitée de conservation des données
+  Les informations ne peuvent être conservées de façon indéfi nie dans les fi -
+chiers informatiques. Une durée de conservation doit être établie en fonction 
+de la fi nalité de chaque fi chier (par exemple, un mois pour les enregistre-
+ments de vidéosurveillance, deux ans à compter de la dernière aide pour le 
+fi chier d’aide sociale, un an après le dernier contact avec l’intéressé pour le 
+fi chier des demandeurs d’emploi, etc.).
+ Au-delà, les données doivent être archivées, sur un support distinct.
+COLLECTIVITÉS
+ 
+LOCALES
+ 
+ET
+ 
+PROTECTION
+ 
+DES
+ 
+DONNÉES
+ 
+PERSONNELLES
+GUIDE PRATIQUE COLLECTIVITÉS LOCALES 4
+4) Le principe de sécurité et de confi dentialité
+  Les données contenues dans les fi chiers ne peuvent être consultées que par 
+les services municipaux habilités à y accéder en raison de leurs fonctions 
+(par exemple, un fi chier cadastral ne peut être utilisé a priori que par les 
+services de l’urbanisme, du cadastre et de la voirie ) et ne peuvent être com-
+muniquées qu’à des destinataires et des personnes autorisés à en connaître, 
+en application de dispositions législatives particulières. Ainsi le Trésor Public 
+est-il en droit d’obtenir ponctuellement des informations détenues par les 
+communes pour le recouvrement de créances fi scales ou des amendes et 
+condamnations pécuniaires. En revanche, les organismes de recouvrement 
+de crédit ne peuvent en aucun cas avoir accès aux fi chiers d’une commune.
+  Le maire, en tant que responsable du traitement, est astreint à une 
+obligation de sécurité : il doit faire prendre les mesures nécessaires pour 
+garantir la confi dentialité des données et éviter leur divulgation. Il convient, 
+par exemple, de veiller à ce que chaque agent ait un mot de passe individuel 
+régulièrement changé et que les droits d’accès soient précisément défi nis en 
+fonction des besoins réels.
+5) Le principe du respect du droit des personnes
+ a) Informer les intéressés
+  Lors de l’informatisation de tel ou tel service, ou lorsque des données sont 
+recueillies par exemple par voie de questionnaires, les usagers concernés 
+et le personnel de l’organisme doivent être informés  de la fi nalité du traite-
+ment, du caractère obligatoire ou facultatif du recueil, des destinataires des 
+données et des modalités d’exercice des droits qui leur sont ouverts au titre 
+de la loi « Informatique et Libertés » : droit d’accès et de rectifi cation mais 
+aussi, droit de s’opposer sous certaines conditions à l’utilisation de leurs 
+données.  
+  Cette information doit être diffusée, par exemple, au moyen d’affi ches ap-
+posées dans les services recevant du public et portée sur les formulaires 
+établis par la commune, ainsi que sur les courriers adressés aux usagers 
+(voir modèles à la fi n du guide).
+COLLECTIVITÉS
+ 
+LOCALES
+ 
+ET
+ 
+PROTECTION
+ 
+DES
+ 
+DONNÉES
+ 
+PERSONNELLES
+5
+ b) Les droits d’accès et de rectifi cation
+  Toute personne (usager, agent municipal) peut demander communication de 
+toutes les informations la concernant contenues dans un fi chier municipal, 
+et a le droit de faire rectifi er ou supprimer les informations erronées.
+ c) Le droit d’opposition
+  Toute personne a le droit de s’opposer, pour des motifs légitimes, à ce que 
+des données la concernant soient enregistrées dans un fi chier informatique, 
+sauf si celui-ci présente un caractère obligatoire (par exemple, un registre 
+d’état civil). Un administré peut ainsi s’opposer à fi gurer dans un fi chier dit 
+de population et doit être informé du caractère facultatif de l’inscription dans 
+un tel fi chier.
+II – LES MISSIONS DE LA CNIL
+  La Commission nationale de l’informatique et des libertés, autorité 
+administrative indépendante chargée d’assurer le respect des dispositions 
+de la loi du 6 janvier 1978 (1) a deux missions principales :
+  -  informer les personnes concernées de leurs droits et les responsables de 
+traitements de leurs obligations ;
+  -  veiller à ce que les traitements de données à caractère personnel soient 
+mis en œuvre conformément aux dispositions de la loi du 6 janvier 1978 
+modifi ée en 2004.
+1) Le rôle de conseil et d’information
+La CNIL conseille et renseigne les personnes et les organismes qui envisagent de mettre 
+en œuvre des fi chiers informatiques, que ce soit au téléphone, par courrier ou par ses pu-
+blications. Elle reçoit également les plaintes concernant le non-respect de la loi. Elle s’est 
+dotée d’un service d’orientation et de renseignement afi n d’apporter une réponse rapide 
+aux requêtes des particuliers comme des professionnels sur l’application de la loi.
+1) Les textes cités en référence (la loi du 6 janvier 1978 modifi ée en 2004, normes simplifi ées applicables aux collectivités 
+locales, délibérations et guides) sont disponibles sur simple demande auprès de la CNIL, ainsi que sur son site web : 
+http://www.cnil.fr.
+COLLECTIVITÉS
+ 
+LOCALES
+ 
+ET
+ 
+PROTECTION
+ 
+DES
+ 
+DONNÉES
+ 
+PERSONNELLES
+GUIDE PRATIQUE COLLECTIVITÉS LOCALES 6
+2) Le contrôle de la conformité des fi chiers à la loi
+  La CNIL vérifi e, lors de l’instruction des déclarations de fi chiers qui lui sont 
+adressées, que les caractéristiques des traitements concernés sont bien 
+conformes à la loi et autorise la mise en œuvre des traitements qui, aux 
+termes de la loi, nécessitent une attention particulière du fait de leur contenu 
+ou de leur fi nalité.
+  C’est également à ce titre que la Commission peut simplifi er les formalités 
+déclaratives, voire exonérer de déclaration certains fi chiers.
+  La CNIL dispose d’un pouvoir de contrôle qui permet à ses membres et ses 
+agents d’accéder à tous les locaux professionnels. Sur place, ses membres 
+et agents peuvent demander communication de tout document nécessaire 
+et en prendre copie, recueillir tout renseignement utile et accéder aux pro-
+grammes informatiques et aux données.
+3) Le pouvoir de sanction
+  Au titre de son pouvoir de sanction, la CNIL peut :
+ -  adresser des avertissements et des mises en demeure de faire cesser un 
+manquement à la loi ;
+ -  prononcer une injonction de cesser le traitement ou un retrait de 
+l’autorisation et, en cas d’urgence, décider l’interruption du traitement ou 
+le verrouillage des données ;
+ -  prononcer des sanctions pécuniaires pouvant aller jusqu’à 300 000 € en 
+cas de réitération ;
+  - dénoncer au parquet les infractions à la loi dont elle a connaissance.
+III – L’ATOUT MAÎTRE : 
+LE CORRESPONDANT INFORMATIQUE ET LIBERTÉS
+Institué en 2004 à l’occasion de la refonte de la loi du 6 janvier 1978, le correspon-
+dant à la protection des données ou correspondant informatique et libertés est un 
+acteur et un relais incontournable de la culture « informatique et libertés ».
+COLLECTIVITÉS
+ 
+LOCALES
+ 
+ET
+ 
+PROTECTION
+ 
+DES
+ 
+DONNÉES
+ 
+PERSONNELLES
+7
+1) Pourquoi désigner un correspondant ?
+  La désignation de ce correspondant, qui reste facultative, exonère de 
+déclaration la plupart des fi chiers. En contrepartie, le correspondant doit 
+tenir et mettre à jour la liste des traitements exonérés de déclaration qui sont 
+mis en œuvre par l’organisme qui l’a désigné. Les autres fi chiers relevant de 
+la demande d’avis et de la demande d’autorisation continuent à être soumis 
+à la CNIL.
+2) Un relais interne de l’application de la loi
+  La désignation d’un correspondant « informatique et libertés » ne se résume 
+pas à une simple mesure d’allègement des formalités déclaratives. Le cor-
+respondant contribue à une meilleure application de la loi et réduit ainsi les 
+risques juridiques pesant sur le responsable de l’organisme et, s’agissant 
+des collectivités locales, sur les maires, les Présidents de conseils généraux 
+ou conseils régionaux.
+3) Un acteur de la sécurité juridique
+  Au-delà des formalités préalables, le responsable de traitement doit en effet 
+assurer également le respect des droits des personnes (droit d’opposition, 
+droit d’accès, droit de rectifi cation et de radiation...) en les informant sur les 
+traitements mis en œuvre. Il doit aussi veiller à ce que les caractéristiques 
+des fi chiers mis en œuvre soient adaptées et donc proportionnées à leur 
+fi nalité. Enfi n, il doit assurer la sécurité et la confi dentialité des données trai-
+tées afi n, notamment, qu’elles ne soient pas communiquées à des person-
+nes n’ayant aucune raison de les connaître.
+  En l’absence de correspondant, ces tâches s’ajoutent à l’obligation décla-
+rative et sont même parfois négligées, alors que le respect de ces droits 
+et de ces obligations est essentiel en matière de protection des droits des 
+personnes et que la violation de ces dispositions de fond de la loi est plus 
+sévèrement sanctionnée que la non-déclaration d’un fi chier.
+COLLECTIVITÉS
+ 
+LOCALES
+ 
+ET
+ 
+PROTECTION
+ 
+DES
+ 
+DONNÉES
+ 
+PERSONNELLES
+GUIDE PRATIQUE COLLECTIVITÉS LOCALES 8
+4) Des moyens d’action adaptés
+  L’action en interne du correspondant « informatique et libertés » peut 
+prendre des formes multiples : c’est à lui, en liaison avec le responsable du 
+traitement, de déterminer, celles qui sont les plus adaptées à la structure et 
+à la culture de l’organisme concerné. On peut ainsi citer :
+ -  le conseil : le correspondant est consulté avant la mise en œuvre de tout 
+nouveau traitement ;
+  -  la recommandation : il traduit les obligations de la loi en règles internes ou 
+en codes de conduite propres au secteur d’activité concerné ;
+  -  la pédagogie : le correspondant est le relais de la culture « informatique et 
+libertés », qu’il diffuse dans l’organisme concerné ;
+  -  la médiation : il reçoit les plaintes des personnes fi chées et les requêtes en 
+relation avec le fonctionnement des traitements concernés ;
+  -  l’alerte : le correspondant informe le responsable du traitement du non-
+respect des obligations qu’il constate ou dont il acquiert la connaissance ;
+  -  l’information : il dresse un bilan annuel de son activité (traitements 
+examinés, recommandations émises, actions entreprises, etc.).
+ 
+5) Un statut spécifi que
+  Pour s’acquitter de sa tâche, le correspondant « informatique et libertés » 
+doit disposer de la liberté d’action et des moyens qui lui permettront de 
+recommander des solutions organisationnelles ou techniques adaptées. Il 
+doit pouvoir exercer pleinement ses missions, en dehors de toute pression, 
+et jouer son rôle auprès du responsable de traitement.
+  Pour toute information complémentaire sur le correspondant, sa désignation 
+et ses missions, consulter le dossier « Correspondant » sur le site internet 
+de la CNIL ou le « Guide du Correspondant Informatique et Libertés ». Vous 
+pouvez également contacter le service de la CNIL en charge des correspon-
+dants.
+6) Un interlocuteur privilégié de la CNIL
+  Afi n de permettre au correspondant d’exercer ses fonctions dans des condi-
+tions optimales, la CNIL propose aux correspondants un accueil privilégié 
+qui bénéfi cient ainsi d’un traitement prioritaire. La CNIL a créé un service 
+entièrement dédié aux correspondants qui propose des formations généra-
+listes sur la loi ainsi que des formations thématiques adaptées aux besoins 
+de chacun.
+COLLECTIVITÉS
+ 
+LOCALES
+ 
+ET
+ 
+PROTECTION
+ 
+DES
+ 
+DONNÉES
+ 
+PERSONNELLES
+9
+  Les services d’état civil recourent à des applications informatiques pour 
+assurer en particulier la tenue des registres, l’édition des tables annuelles et 
+décennales, la transmission des informations à certaines administrations, 
+la rédaction assistée par ordinateur des actes et l’édition d’extraits et de 
+copies des actes. La tenue des registres d’état civil constitue donc une 
+obligation pour les maires, et les personnes concernées ne peuvent 
+s’opposer à l’informatisation des actes les concernant.
+I – LES BONNES PRATIQUES
+1) Les utilisations des informations collectées aux fi ns de tenue de l’état civil
+  Les données enregistrées par les services d’état civil à l’occasion de 
+l’établissement ou de l’actualisation d’un acte ne peuvent être utilisées que 
+pour l’accomplissement des missions dont sont investis les maires en leur 
+qualité d’offi cier de l’état civil et ne doivent être communiquées qu’aux 
+destinataires habilités à en connaître.
+  Des extraits du traitement relatif à la gestion de l’état civil peuvent être 
+constitués pour alimenter le fi chier de vaccination de la commune, le fi chier 
+de recensement des jeunes en vue de la journée d’appel de préparation à 
+la défense ou la commission administrative chargée de la révision des listes 
+électorales, pour ces seules fi ns et dans la limite des textes existants.
+ Attention :
+  Les informations enregistrées ne peuvent être utilisées à des fi ns 
+commerciales. Aucune cession du fi chier de l’état civil ne peut avoir lieu.
+2) La diffusion des événements familiaux
+  Les données enregistrées aux fi ns d’inscription d’un acte sur le 
+registre de l’état civil ne peuvent être utilisées par les élus municipaux pour 
+adresser des félicitations ou des condoléances. De même, ces informations ne 
+peuvent être diffusées (dans la presse ou sur tout autre support) que si 
+les personnes concernées ont, au moment de l’établissement de l’acte, 
+donné leur accord à ce message personnalisé ou à cette publication. Les 
+informations collectées pour ces seules fi ns ne peuvent être conservées ni 
+alimenter un fi chier permanent. Le législateur ayant prévu un usage limité de 
+ces informations, la CNIL vous recommande la formule ci-dessous qui vous 
+permet d’assurer la diffusion des événements familiaux tout en préservant 
+le droit des personnes.
+Fiche n° 1 : les fi chiers de l’état civil
+FICHE
+ 
+N
+° 1 : 
+LES
+ 
+FICHIERS
+ 
+DE
+ 
+L
+’
+É
+T
+AT
+ 
+CIVIL
+GUIDE PRATIQUE COLLECTIVITÉS LOCALES 10
+La formule suivante peut être adoptée pour fi gurer sur les documents distribués aux 
+personnes accomplissant des démarches relatives à l’état civil : 
+  « La mairie de ….. vous propose de faire part de la naissance de votre 
+enfant, de votre mariage dans le bulletin municipal. Afi n de respecter votre 
+vie privée, cette diffusion nécessite votre accord.
+  M., Mme ……. (Nom, Prénom) accepte qu’une information relative à 
+l’événement d’état civil déclaré ce jour soit publiée dans le bulletin municipal.
+ Le …….. (date) »
+3) L’information des personnes et le respect de leurs droits
+  Les administrés doivent être informés de l’informatisation des données 
+d’état civil les concernant et des conditions d’exercice de leur droit d’accès 
+et de rectifi cation (par exemple, par voie d’affi chage dans les locaux du 
+service de l’état civil).
+4) Comment déclarer ?
+  Les fi chiers informatiques mis en œuvre par les services d’état civil 
+peuvent faire l’objet de la part de la commune d’une déclaration simplifi ée 
+dès lors qu’ils sont conformes à la norme simplifi ée n° 43.
+FICHE
+ 
+N
+° 1 : 
+LES
+ 
+FICHIERS
+ 
+DE
+ 
+L
+’
+É
+TAT
+ 
+CIVIL
+11
+II - POUR ALLER PLUS LOIN
+1) À qui peut-on communiquer légalement les données de l’état civil ?
+  Les données à caractère personnel enregistrées dans le registre d’état 
+civil ne doivent être communiquées qu’aux destinataires suivants :
+ a)  L’INSEE, en application du décret n° 82-103 du 22 janvier 1982 relatif au 
+répertoire national d’identifi cation des personnes physiques et de l’ins-
+truction générale de l’état civil. Les données que le maire est tenu de 
+recueillir, à l’occasion de la transcription d’un acte, pour le compte de 
+l’INSEE qui est chargé de l’exploitation statistique nationale des bulletins 
+état civil, sont couvertes par le secret statistique et ne peuvent en aucun 
+cas être exploitées pour son propre compte par la mairie. En outre, elles 
+ne peuvent être conservées que six mois au plus : au-delà de ce délai, le 
+traitement doit prévoir un dispositif d’effacement.
+ b)  Les services des impôts pour les informations relatives aux décès 
+(art. L.102 A du Livre des procédures fi scales), à l’exclusion des informa-
+tions portant sur les héritiers.
+ c)  Les services de protection maternelle et infantile du Conseil général, 
+pour les extraits d’actes de naissance et les copies d’actes de décès des 
+enfants âgés de moins de 6 ans, conformément à l’article 16 du décret 
+n° 92-785 du 6 août 1992.
+ d) Les services de l’état civil des autres mairies.
+ e) Les autorités judiciaires, dans la limite de leurs attributions.
+ f)  Le service municipal des vaccinations conformément à l’article L. 1422-1 
+du code de la santé publique et au décret du 28 février 1952.
+ g)  Le service municipal en charge du recensement au titre du service 
+national, en vertu de l’article R. 111-9 du code du service national.
+ h)  La commission administrative chargée de la révision de la liste électorale, 
+au titre de l’article R. 7 du code électoral, exclusivement pour les personnes 
+décédées.
+2) Qui peut obtenir un extrait ou une copie d’un acte de l’état civil ?
+  Des copies ou extraits d’actes de naissance, de mariage ou de décès 
+peuvent être délivrés sous les conditions suivantes :
+ a)  Tout requérant peut obtenir un extrait d’acte de naissance ou de 
+mariage sans fi liation.
+FICHE
+ 
+N
+° 1 : 
+LES
+ 
+FICHIERS
+ 
+DE
+ 
+L
+’
+É
+TAT
+ 
+CIVIL
+GUIDE PRATIQUE COLLECTIVITÉS LOCALES 12
+ b)  Il n’est possible d’obtenir une copie intégrale ou un extrait d’acte de 
+naissance ou de mariage avec fi liation que sur indication précise, par 
+le demandeur, du lieu de naissance, des noms, prénoms et dates de 
+naissance de l’intéressé, ainsi que des noms et prénoms usuels des 
+parents de la personne dont l’acte est réclamé ; pour les intéressés majeurs 
+ou émancipés, il convient d’indiquer les parents, les grands-parents, les 
+enfants, le conjoint, le représentant légal ou le curateur, le mandataire 
+(notaire, avocat) avec indication de la qualité de la personne qui a donné 
+le mandat.
+ c)  Une administration, un établissement public, un organisme ou une caisse 
+contrôlée par l’État en charge de l’instruction d’un dossier administra-
+tif peut demander directement une copie intégrale ou un extrait d’acte 
+de l’état civil à l’offi cier de l’état civil, dès lors qu’un texte législatif ou 
+réglementaire fonde cet organisme à requérir cette copie intégrale 
+ou cet extrait d’acte (2). Cette demande s’effectue après information des 
+personnes concernées et dans le seul but prévu par le texte fondant cette 
+demande (3).
+  Depuis un décret du 26 décembre 2000, une simple photocopie d’un 
+document attestant de l’identité, de l’état civil, de la situation familiale 
+ou de la nationalité est suffi sante, quand une disposition législative ou 
+réglementaire exige une telle information. Ce texte prévoit explicitement que 
+la production du livret de famille ou de sa photocopie remplace la production 
+d’un extrait d’acte de naissance.
+2) Article 11.1 du décret n° 62-921 du 3 août 1962 modifi ant certaines règles relatives aux actes de l’état civil.
+3) La CNIL a ainsi, dans sa délibération n° 2005-300 du 8 décembre 2005, autorisé, à titre expérimental, des échanges 
+d’information entre la CAF des Deux-Sèvres et quelques mairies du département. La CAF disposait d’un fondement 
+légal pour contrôler la situation des allocataires et interroger les mairies sur les seules informations pertinentes. Il en va 
+différemment pour les CPAM qui ne disposent pas de cette base juridique à l’égard des communes.
+FICHE
+ 
+N
+° 1 : 
+LES
+ 
+FICHIERS
+ 
+DE
+ 
+L
+’
+É
+TAT
+ 
+CIVIL
+13
+FICHE
+ 
+N
+° 1 : 
+LES
+ 
+FICHIERS
+ 
+DE
+ 
+L
+’
+É
+TAT
+ 
+CIVIL
+  À cet égard, la CNIL recommande aux mairies mettant en œuvre un 
+téléservice permettant d’effectuer en ligne des demandes d’extraits ou de 
+copies d’actes de l’état civil de diffuser sur le site web correspondant, à 
+destination de leurs administrés, la liste des seuls organismes juridiquement 
+habilités par ce décret à demander de tels extraits ou copies (4).
+ d) La copie d’un acte de décès peut être délivrée à tout requérant.
+ e)  Une copie intégrale ou un extrait d’acte de l’état civil peut être demandé 
+ou délivré par voie électronique, dans le respect des conditions légales. 
+L’acte délivré doit être authentifi é par l’offi cier de l’état civil. Les don-
+nées transmises par internet doivent être chiffrées et les expéditeurs et 
+destinataires identifi és.
+ f)  La consultation des registres d’état civil datant de moins de cent ans 
+est réservée aux agents de l’État habilités à cet effet et aux personnes 
+munies d’une autorisation écrite du Procureur de la République.
+Les personnes effectuant des recherches généalogiques ne 
+peuvent en conséquence avoir accès à ces données que si elles 
+disposent d’une telle autorisation. Les maires qui permettraient 
+une consultation des registres sans cette autorisation verraient 
+leur responsabilité pénale engagée. En revanche, la consultation des 
+registres d’état civil datant de plus de cent ans est libre, en application 
+des dispositions du code du patrimoine. Les informations sur le demandeur 
+d’un extrait ou d’une copie intégrale d’un acte de l’état civil peuvent être 
+conservées un an aux seules fi ns de preuve dans un éventuel contentieux. 
+Ces informations se limitent au nom, au prénom, à la qualité, à l’adresse du 
+demandeur, ainsi qu’à la date de délivrance et au type de l’acte demandé.
+4) Délibération CNIL n° 2005-183 du 5 juillet 2005 portant avis sur le projet d’arrêté créant un traitement de données 
+à caractère personnel mettant en place le téléservice « demande d’acte de naissance ».
+GUIDE PRATIQUE COLLECTIVITÉS LOCALES 14
+Fiche n° 2 : la liste électorale
+ 
+FICHE
+ 
+N
+° 2 : 
+LA
+ 
+LISTE
+ 
+ÉLECTORALE
+1) La tenue et la gestion de la liste électorale par la commune
+  En application des dispositions du code électoral, le maire, en tant qu’agent 
+de l’État, est responsable de la tenue, de la gestion et de la révision annuelle 
+de la liste électorale de la commune.
+  Pour assurer la mise à jour de la liste électorale, la commune peut, le cas 
+échéant, transmettre la liste des personnes dont la carte d’électeur est 
+revenue avec l’indication « N’habite pas à l’adresse indiquée » (NPAI) aux 
+services de la Poste pour vérifi cation du changement d’adresse. Cette 
+vérifi cation ne peut porter sur l’intégralité de la liste électorale mais seulement 
+au cas par cas.
+2) L’utilisation de la liste électorale par le maire
+  À la fois dépositaire de la liste électorale en tant qu’agent de l’État, 
+électeur et (parfois) candidat à sa réélection, le maire est dans une situation 
+particulière s’agissant des diverses utilisations de la liste électorale.
+ a) À des fi ns de communication politique
+  Il n’y a évidemment aucun obstacle, que ce soit dans le code électoral 
+ou dans la loi « informatique et libertés », à ce qu’un maire utilise la liste 
+électorale en période électorale. Dans ce cas, le « maire candidat » 
+doit veiller à s’appliquer à lui-même les règles de stricte égalité entre 
+candidats (support de la copie, délai de traitement de sa demande, coût de la 
+prestation pour la commune, le cas échéant) qu’il est chargé de faire 
+respecter en tant qu’agent de l’État.
+ b) À des fi ns de communication municipale
+  De la même façon, et sous réserve des règles rappelées ci-dessous 
+(encadrement des tris, information sur l’origine des informations utilisées…), 
+un maire peut utiliser la liste électorale à des fi ns de communication 
+institutionnelle ou municipale (vie de la commune, événements, etc.).
+  Les électeurs ne peuvent s’opposer à la transmission des informations 
+les concernant issues de la liste électorale. Les demandeurs prenant co-
+pie de la liste électorale doivent donc, dès le premier contact par courrier, 
+rappeler aux personnes auxquelles elles s’adressent qu’elles peuvent se 
+faire radier du fi chier.
+15
+ 
+FICHE
+ 
+N
+° 2 : 
+LA
+ 
+LISTE
+ 
+ÉLECTORALE
+3) L’utilisation de la liste électorale par des tiers
+ a) Les conditions de communication de la liste
+  Le code électoral(5) permet à tout électeur, tout candidat et tout parti ou 
+groupement politique de prendre communication et copie de la liste 
+électorale, à condition de s’engager à ne pas en faire un usage commercial 
+(utilisation par une agence de publicité, par une entreprise commerciale 
+ou par un agent immobilier en vue de démarches de prospection, par 
+exemple).
+  Après avoir vérifi é que le demandeur entre bien dans une des catégories 
+prévue par la loi, les services municipaux peuvent donc délivrer copie de la 
+liste électorale. Si cette délivrance est faite sur support informatique, cette 
+facilité doit être offerte à tous les demandeurs et facturée de façon identique, 
+si elle implique un coût pour la commune.
+  On rappellera que la Commission d’accès aux documents administratifs 
+(CADA) est seule compétente pour examiner les questions relatives à 
+l’accès aux listes électorales.
+ b) La limitation des tris et des sélections
+  Aucune disposition légale n’interdit d’effectuer une sélection sur l’âge ou 
+l’adresse des intéressés : il est en conséquence possible de choisir de 
+s’adresser à des populations spécifi ques (jeunes, personnes âgées, 
+résidents d’un quartier…), déterminées à partir de ces critères.
+  Les tris opérés sur la consonance des noms qui sont susceptibles de faire 
+apparaître les origines raciales, ethniques ou les appartenances religieuses, 
+réelles ou supposées, des personnes concernées sont en revanche inter-
+dits compte tenu des risques de discrimination qu’ils comportent (article 
+226-19 du code pénal).
+  En outre, la Commission considère que les tris opérés sur le lieu de 
+naissance des électeurs ne sont pas justifi és au regard du principe de 
+fi nalité : en effet, cette information fi gure uniquement sur les listes électorales 
+pour s’assurer de l’identité de l’électeur et éviter les fraudes lors du scrutin.
+5) Articles L. 28, second alinéa, et R. 16, troisième alinéa.
+GUIDE PRATIQUE COLLECTIVITÉS LOCALES 16
+ c) La nécessaire information des personnes
+  En cas d’utilisation des listes électorales pour procéder à l’envoi de courriers 
+ou à la réalisation d’enquêtes, la CNIL recommande que les administrés 
+soient informés de l’origine des informations ayant permis de les contacter 
+et de leur possibilité de se faire radier, sur simple demande, des fi chiers ainsi 
+constitués.
+4) Comment déclarer ?
+ -  Les traitements informatisés de gestion de la liste électorale et de la 
+liste électorale complémentaire des ressortissants d’un État membre de 
+l’Union Européenne, doivent faire l’objet de déclarations de conformité en 
+référence, respectivement, à la norme simplifi ée n° 24 et à la norme 
+simplifi ée n° 38 (6).
+ -  Les traitements de communication politique (député-maire ou maire 
+candidat à sa réélection, par exemple) constitués à partir des seules 
+informations fi gurant sur les listes électorales sont exonérés de 
+déclaration depuis un jugement du tribunal de grande instance de Paris 
+du 17 octobre 1994.
+ -  La CNIL a récemment dispensé de déclaration les fi chiers constitués à 
+des fi ns d’information et de communication externe et, en conséquence, 
+les utilisations de la liste électorale à des fi ns de communication 
+municipale dès lors que le maire respecte les obligations, rappelées 
+précédemment, qui lui incombent.
+ Attention :
+  La CNIL rappelle aux responsables de traitements que cette 
+exonération de déclaration ne dispense pas de respecter l’ensemble 
+des dispositions de fond de la loi, dont les plus importantes sont 
+rappelées dans l’introduction de ce guide.
+ 
+6) Rubrique « Approfondir/décisions de la CNIL /normes simplifi ées » du site web de la CNIL.
+ 
+FICHE
+ 
+N
+° 2 : 
+LA
+ 
+LISTE
+ 
+ÉLECTORALE
+17
+Fiche n° 3 : la fi scalité locale
+FICHE
+ 
+N
+° 3 : 
+LA
+ 
+FISCALITÉ
+ 
+LOCALE
+I - LES RÔLES DES IMPÔTS LOCAUX : POURQUOI FAIRE ?
+  Les collectivités locales et leurs groupements reçoivent chaque année de 
+l’administration fi scale les rôles généraux des impôts directs locaux qui 
+comportent les impositions émises à leur profi t.
+  Attention :
+  La loi interdit expressément toute utilisation de ces informations à 
+des fi ns commerciales, politiques ou électorales, de même que leur 
+communication ou cession à un tiers sous forme nominative. 
+ 
+  Le maire, le président de la collectivité ou de l’établissement public de 
+coopération intercommunale (EPCI) doit prendre toute disposition pour 
+empêcher l’utilisation détournée ou frauduleuse des supports transmis 
+et mettre en œuvre toute mesure utile, notamment en termes de sécurité 
+physique, pour assurer la conservation des documents et informations. Il 
+doit également informer les personnes qui utilisent les informations ou 
+en ont connaissance des peines encourues en cas de violation du secret
+professionnel.
+  En cas de recours à un prestataire de services, une convention doit 
+défi nir précisément les traitements qui lui sont demandés. Le prestataire 
+doit prendre les mesures de sécurité nécessaires et s’engager à ce que les 
+informations communiquées ne soient pas conservées, utilisées ou 
+dupliquées à d’autres fi ns que celles indiquées par la convention. À l’issue 
+de sa mission, il doit détruire tous les fi chiers manuels ou informatisés 
+servant de supports aux informations saisies.
+1) L’analyse de la fi scalité locale
+  Les collectivités locales peuvent utiliser les rôles généraux d’impôts locaux 
+pour :
+ -  analyser, à partir de statistiques non nominatives établies au niveau de 
+la commune ou du quartier (à l’exclusion de toute analyse à la rue ou à 
+l’adresse précise), la répartition et l’évolution de l’assiette des impôts 
+locaux, ainsi que les ressources qui en résultent ;
+ 
+GUIDE PRATIQUE COLLECTIVITÉS LOCALES 18
+FICHE
+ 
+N
+° 3 : 
+LA
+ 
+FISCALITÉ
+ 
+LOCALE
+ -  effectuer, en matière de taxe professionnelle, des études similaires sur un 
+échantillon de contribuables représentatif ou correspondant à une part 
+signifi cative de l’assiette de cette imposition ; connaître la situation écono-
+mique des entreprises, par secteur ou zone d’activité ;
+ -  effectuer des études et simulations globales sur les conséquences d’une 
+modifi cation des taux d’imposition ou d’abattements.
+2) L’information adressée aux contribuables
+  La CNIL admet que chaque collectivité - ou groupement de collectivités - 
+puisse utiliser les rôles des impôts locaux pour informer ses administrés 
+sur les modalités de calcul des cotisations des impôts locaux, l’évolution 
+des conditions d’imposition qu’elle a défi nie, les raisons de cette évolution, 
+ainsi que sur la proportion que représente cet impôt parmi l’ensemble des 
+ressources de la collectivité.
+  L’information ainsi diffusée doit évidemment être objective et exclure toute 
+exploitation politique de l’utilisation d’un impôt par une collectivité ou 
+des incidences d’une décision d’une autre collectivité sur le montant 
+global de ce même impôt.
+  Seuls les noms et adresses des contribuables portés dans le fi chier doivent 
+être utilisés dans ce but afi n que le même courrier soit adressé à l’ensemble 
+des contribuables locaux et que soit exclu tout envoi de courriers ciblés 
+tenant compte, par exemple, du niveau d’imposition. Il est enfi n recommandé 
+que les courriers indiquent la provenance et l’origine des informations 
+utilisées pour leur envoi.
+3) Comment déclarer ?
+  Les fi chiers informatisés des rôles généraux d’impôts locaux doivent 
+faire l’objet d’une déclaration de conformité à la norme simplifi ée n° 45 
+ou d’une déclaration normale s’ils ne respectent pas les conditions fi xées 
+par cette norme, à l’exclusion de traitements plus sensibles, en particulier 
+pour les communes souhaitant intervenir dans le recensement des bases 
+d’imposition ou en cas d’interconnexion avec des fi chiers de nature 
+différente.
+19
+II - COMMENT RECENCER LES BASES DES IMPÔTS LOCAUX ?
+  Dans le cadre de l’article L. 135 B du Livre des procédures fi scales, les 
+communes peuvent communiquer aux services fi scaux les informations 
+nécessaires au recensement des bases des impositions directes locales.
+1) Les modalités de l’aide au recensement des bases d’imposition
+  Aucun texte ne défi nissant les modalités de ce recensement, celles-ci 
+résultent souvent, dans les faits, du seul choix de la collectivité locale ou 
+d’un accord, même informel, avec les services fi scaux locaux.
+  La CNIL rappelle que le contrôle des situations fi scales reste de la 
+compétence exclusive de l’administration fi scale et que toute 
+transmission à des tiers de données fi scales est interdite.
+  Ainsi, les communes ne peuvent empiéter sur les compétences propres de 
+l’administration fi scale, par exemple, en mettant des agents communaux 
+à disposition du centre des impôts, en créant un service de contrôle fi scal 
+ou une brigade d’enquêteurs ou d’analystes municipaux, en exploitant et 
+rapprochant les sources d’informations les plus diverses (permis de construire, 
+renseignements fi nanciers ou commerciaux…) pour ensuite transmettre à 
+l’administration fi scale des analyses visant au redressement de certains 
+contribuables locaux, en passant des marchés avec des sociétés privées 
+spécialisées dans la recherche de renseignements sur les contribuables, 
+etc.
+  De même, les renseignements communiqués aux services fi scaux ne 
+peuvent résulter de l’analyse de la situation fi scale des assujettis par la 
+commune, mais uniquement de constatations objectives.
+2) L’information des administrés
+  En pratique, ce recensement passe le plus souvent par l’envoi direct de 
+questionnaires aux personnes ou par la collecte de données sur les lieux 
+de l’habitation. Dans tous les cas, les administrés doivent être informés des 
+fi nalités de ce recueil d’informations, des conséquences à leur égard de 
+leurs réponses et de leur droit d’accès. En outre, les administrés doivent 
+pouvoir présenter des observations avant la transmission des informations 
+FICHE
+ 
+N
+° 3 : 
+LA
+ 
+FISCALITÉ
+ 
+LOCALE
+GUIDE PRATIQUE COLLECTIVITÉS LOCALES 20
+les concernant aux services fi scaux. Cette transparence permet aux élus 
+d’affi cher les objectifs de l’action engagée, ainsi que ses modalités.
+  Les communes ne peuvent collecter des renseignements susceptibles d’être 
+transmis aux services fi scaux à l’insu des intéressés (à l’occasion d’enquêtes 
+de voisinage, par exemple) ou sous couvert d’un autre objectif (réalisation 
+d’une enquête à caractère général sur les acteurs économiques locaux, par 
+exemple).
+3) Comment déclarer ?
+  L’informatisation des rôles transmis par l’administration fi scale doit faire 
+l’objet d’une déclaration normale. Si la commune choisit de procéder au 
+recensement des bases d’imposition des impôts locaux, elle devra mentionner 
+cette fi nalité ainsi que les modalités de son assistance, dans la déclaration 
+adressée à la CNIL.
+FICHE
+ 
+N
+° 3 : 
+LA
+ 
+FISCALITÉ
+ 
+LOCALE
+21
+Fiche n° 4 : les fi chiers sociaux
+FICHE
+ 
+N
+° 4 : 
+LES
+ 
+FICHIERS
+ 
+SOCIAUX
+I. - LES FICHIERS DES CENTRE COMMUNAUX D’ACTION SOCIALE
+  Le centre communal d’action sociale (CCAS) est aujourd’hui le point 
+d’entrée pour de nombreux dispositifs d’aide (aide sociale légale, CMU, 
+RMI, CASU…). Il peut ainsi être amené à gérer directement des services ou 
+des établissements spécifi ques (crèches, résidences pour personnes âgées 
+ou handicapées…) et donc à collecter (7) et traiter des informations détaillées 
+sur les diffi cultés sociales ou médico-sociales de leurs usagers.
+ Attention
+  Des garanties particulières, permettant d’écarter tout risque d’atteinte 
+à la vie privée et de stigmatisation des populations prises en charge, 
+doivent entourer l’utilisation de ces fi chiers. Le fi chier géré par 
+le CCAS ne peut être utilisé que pour remplir ses missions et ne 
+peut en aucun cas être exploité à d’autres fi ns, par exemple de 
+communication politique.
+1) Quelles données le CCAS peut-il recueillir ?
+  Le CCAS ne peut demander d’autres informations et pièces justifi -
+catives que celles prévues par le(s) texte(s) défi nissant les conditions 
+d’attribution de l’aide sollicitée.
+  Ainsi, l’octroi des aides légales est subordonné, conformément aux 
+dispositions du code de l’action sociale et des familles, à des conditions de 
+résidence stable en France et à l’absence de ressources suffi santes. Ces 
+critères conduisent légitimement le CCAS à recueillir des informations sur 
+les conditions de résidence et sur la situation familiale, professionnelle et 
+fi nancière du demandeur. Le CCAS peut également recueillir des informations 
+sur les diffi cultés d’insertion sociale ou professionnelle des allocataires du 
+RMI lorsqu’il a pour mission d’élaborer le contrat d’insertion de cet allocataire.
+  L’enregistrement de la nationalité des demandeurs d’aide sociale n’est pas 
+pertinent pour l’attribution de l’aide : en effet, le CCAS n’a besoin, pour 
+apprécier la situation du demandeur, que de savoir si celui-ci est Français, 
+ressortissant de l’Union européenne, ressortissant d’un pays ayant passé une 
+convention d’assistance avec la France ou ressortissant d’un autre pays.
+7) Aux termes du décret n° 95-562 du 6 mai 1995, le CCAS doit notamment constituer et tenir à jour un fi chier des personnes 
+bénéfi ciaires d’une prestation d’aide sociale ou d’aide médicale qui résident sur le territoire de la commune.
+GUIDE PRATIQUE COLLECTIVITÉS LOCALES 22
+  En outre, les données traitées par le CCAS sont couvertes par le 
+secret professionnel et ne peuvent donc être divulguées. Des mesures de 
+sécurité visant à limiter l’accès au fi chier doivent être prises (mots de 
+passe individuels, chiffrement des dossiers échangés par messagerie 
+électronique…). Les statistiques produites par le CCAS pour rendre compte 
+de son activité ne doivent en aucun cas porter sur des données permettant 
+d’identifi er, même indirectement, un usager.
+2) Qui peut accéder aux données ?
+ Attention
+  Les données traitées ne peuvent être communiquées qu’aux services 
+et organismes habilités à en connaître, c’est-à-dire à ceux 
+mentionnés dans le texte législatif, réglementaire ou conventionnel 
+encadrant le dispositif social concerné.
+ 
+  Toutefois, certaines entités peuvent, ponctuellement et sur demande 
+motivée, obtenir communication d’informations relatives à un usager.
+En cas de doute, il appartient au CCAS de vérifi er auprès de
+l’organisme demandeur le fondement législatif autorisant ce dernier à 
+obtenir des données couvertes par le secret professionnel.
+3) Une durée de conservation nécessairement limitée
+  Parce que les fi chiers des CCAS recensent une population socialement 
+fragile, la durée de conservation, sur support informatique doit être limitée à 
+vingt-quatre mois après la dernière aide accordée.
+  Par exception, les informations concernant les dossiers qui donnent lieu à 
+recours sur succession peuvent être conservées jusqu’à la fi n de l’opération 
+de recette liée à ce recours.
+  Ces préconisations ne font pas obstacle à l’archivage sur des supports 
+distincts des dossiers des usagers dans le respect des durées défi nies par 
+les Archives de France.
+FICHE
+ 
+N
+° 4 : 
+LES
+ 
+FICHIERS
+ 
+SOCIAUX
+23
+4) Quelle information assurer aux usagers sur leurs droits ?
+  Les demandeurs doivent être clairement informés, notamment par voie 
+d’affi chage et par des mentions explicites sur les formulaires de demande 
+d’aide, de l’informatisation des données les concernant, du caractère 
+obligatoire ou facultatif des renseignements qui leur sont demandés, des 
+conséquences d’un défaut de réponse, de l’identité des destinataires des 
+informations et de l’existence et des modalités d’exercice de leurs droits 
+d’opposition, d’accès et de rectifi cation (voir modèles de notes d’information 
+en fi n de guide).
+5) Comment déclarer ?
+ -  Les fi chiers de gestion de l’aide sociale, légale comme facultative, doivent 
+faire l’objet d’une déclaration normale.
+ -  Si le CCAS – et non la mairie – envisage la mise en œuvre de traitements de 
+données comportant des appréciations sur les diffi cultés sociales des 
+personnes, il doit adresser à la CNIL une demande d’autorisation.
+ -  Les fi chiers mis en œuvre pour la gestion des crèches, haltes-garderies 
+ou centres aérés peuvent faire l’objet d’une déclaration de conformité à la 
+norme simplifi ée n° 27 s’ils respectent ses conditions.
+ -  Les registres prévus par l’article L. 121-6-1 du code de l’action sociale 
+et des familles afi n de favoriser l’intervention des services sociaux en cas 
+de risques exceptionnels sont exonérés de déclaration(8) s’ils répondent 
+aux conditions posées par ce décret, s’agissant notamment de la 
+population concernée (personnes âgées d’au moins 65 ans et 
+handicapées). Ce dispositif concerne principalement les périodes de 
+canicule. Les traitements concernant d’autres risques exceptionnels, 
+climatiques ou autres, et recensant d’autres catégories de population 
+doivent faire l’objet d’une déclaration normale.
+8) Conformément au décret n° 2004-926 du 1er septembre 2004 pris après avis de la CNIL, qui fi xe les conditions de recueil 
+et d’utilisation des données personnelles dans le cadre de ce dispositif.
+FICHE
+ 
+N
+° 4 : 
+LES
+ 
+FICHIERS
+ 
+SOCIAUX
+GUIDE PRATIQUE COLLECTIVITÉS LOCALES 24
+II. - LE SIGNALEMENT DES IMPAYÉS EN MATIÈRE D’ÉLECTRICITÉ
+  Le décret n° 2005-971 du 10 août 2005 organise le signalement au maire, 
+par les fournisseurs d’électricité, des situations d’impayés concernant des 
+personnes résidant sur la commune. La transmission des données (nom, 
+prénom, adresse, option tarifaire et montant de la dette) doit être entourée 
+de toutes les précautions utiles afi n de garantir la sécurité et la confi dentialité 
+des données, notamment lorsqu’elle est effectuée par internet. Dans ce cas, 
+les informations doivent être transmises par l’intermédiaire d’une adresse 
+électronique spécifi que (ce qui exclut les adresses générales d’accueil des 
+mairies ou CCAS), accessible seulement, après indication d’un identifi ant et 
+d’un mot de passe, par l’agent chargé de traiter ces questions et de répondre 
+au fournisseur d’électricité.
+  La CNIL rappelle que cette communication a pour seul but la prise en 
+charge, par les agents habilités du CCAS, de la situation des personnes 
+concernées. La conservation de ces données, limitée à quatre mois à 
+compter de leur réception, doit également faire l’objet de toutes mesures 
+garantissant leur confi dentialité.
+FICHE
+ 
+N
+° 4 : 
+LES
+ 
+FICHIERS
+ 
+SOCIAUX
+25
+III. - LE FICHIER DES DEMANDEURS D’EMPLOI
+  Les collectivités territoriales jouent un rôle de plus en plus important dans 
+la lutte contre le chômage. Les communes peuvent ainsi recevoir des
+offres d’emploi, effectuer des opérations de placement en faveur de leurs
+administrés à la recherche d’un emploi dans le cadre de conventions avec 
+l’État et l’ANPE et également mettre en place des plans pour l’emploi visant 
+une population déterminée.
+1) À quelles conditions constituer un fi chier des demandeurs d’emploi ?
+  En application de l’article L. 311-11 du code du travail, les maires peuvent, 
+à leur demande, être destinataires de la liste des demandeurs d’emploi 
+domiciliés dans leur commune, et ce exclusivement pour les besoins du 
+placement ou pour la détermination d’avantages sociaux.
+  Dans ce même objectif, les maires peuvent obtenir la liste des salariés 
+domiciliés dans leur commune dont le contrat de travail va prendre fi n 
+auprès d’entreprises en liquidation ou mettant en œuvre un plan social, dès 
+lors que les personnes concernées en ont été préalablement informées et 
+n’ont pas exprimé d’opposition à cette communication.
+  Toute utilisation de ces fi chiers à d’autres fi ns, et notamment à des fi ns 
+de communication politique, est proscrite.
+2) Quelles données la commune peut-elle recueillir ?
+  Les informations communiquées par l’ANPE, par l’intermédiaire des 
+agences locales pour l’emploi, comportent généralement les noms, 
+prénoms et adresses des demandeurs d’emploi ainsi que, le cas échéant,
+l’indication du versement d’un revenu de remplacement. La CNIL admet que 
+la qualifi cation professionnelle des demandeurs d’emploi puisse être 
+également communiquée aux maires.
+  La commune peut ensuite compléter son fi chier par des informations 
+recueillies auprès des demandeurs d’emploi afi n de les aider dans 
+leur réinsertion professionnelle (formation, expérience professionnelle, 
+disponibilités, par exemple). Dans tous les cas, la CNIL recommande de 
+ne pas conserver les données au-delà d’un délai d’un an après le dernier 
+contact avec l’intéressé.
+FICHE
+ 
+N
+° 4 : 
+LES
+ 
+FICHIERS
+ 
+SOCIAUX
+GUIDE PRATIQUE COLLECTIVITÉS LOCALES 26
+3) Qui peut accéder aux données ?
+  Le maire ne peut partager ces informations qu’avec ses adjoints ayant reçu 
+délégation en matière de placement ou d’attribution d’avantages sociaux, 
+ainsi qu’avec les services municipaux compétents dans ces domaines.
+4) Quelle information donner aux demandeurs d’emploi ?
+  Les demandeurs d’emplois doivent être clairement informés de l’existence 
+de ce fi chier, des destinataires des informations et des conditions 
+d’exercice de leurs droit d’opposition, d’accès et de rectifi cation aux 
+données les concernant. 
+  La CNIL recommande en outre que les services municipaux compétents 
+précisent, dès le premier courrier adressé à un demandeur d’emploi, que 
+le code du travail autorise l’ANPE à communiquer aux maires qui en font la 
+demande la liste des demandeurs d’emploi de la commune.
+6) Comment déclarer ?
+  En cas d’informatisation du fi chier des demandeurs d’emploi, le maire 
+doit préalablement adresser une déclaration normale à la CNIL.
+FICHE
+ 
+N
+° 4 : 
+LES
+ 
+FICHIERS
+ 
+SOCIAUX
+27
+Fiche n° 5 : les communes 
+et la prévention de la délinquance
+FICHE
+ 
+N
+° 5 : 
+LES
+ 
+COMMUNES
+ 
+ET
+  
+LA
+ 
+PRÉVENTION
+ 
+DE
+ 
+LA
+ 
+DÉLINQUANCE
+  La loi du 5 mars 2007 relative à la prévention de la délinquance a placé le 
+maire au cœur de dispositifs nouveaux visant notamment à repérer et à ac-
+compagner les familles en diffi culté, et le rend destinataire de nombreuses 
+informations à caractère personnel provenant à la fois des autorités policiè-
+res et judiciaires, des institutions éducatives et des acteurs sociaux.
+  Le maire joue désormais un rôle pivot puisqu’aux termes de la loi « il anime, 
+sur le territoire de la commune, la politique de prévention de la délin-
+quance et en coordonne la mise en oeuvre. » 
+  La loi a prévu trois grands dispositifs pour permettre au maire de mener à 
+bien cette mission : 
+ -  la promotion d’une « information partagée » entre les différents acteurs, 
+notamment dans le cadre de la mise en place d’un Conseil pour les droits 
+et devoirs des familles ;
+ -  la transmission d’informations lui permettant d’assurer le suivi de l’obliga-
+tion d’assiduité scolaire des enfants de sa commune ;
+ -  l’institution d’un Conseil local de sécurité et de prévention de la
+délinquance.
+I – « L’INFORMATION PARTAGÉE » ET LE CONSEIL 
+POUR LES DROITS ET DEVOIRS DES FAMILLES
+  La loi organise la transmission de données personnelles entre les profes-
+sionnels de l’action sociale, le maire et le président du Conseil général, y 
+compris par la levée du secret professionnel pour les informations confi den-
+tielles recueillies par les travailleurs sociaux.
+  Le nouvel article L. 121-6-2 du code de l’action sociale et des familles défi nit 
+le cadre de ces transmissions d’informations : les professionnels de l’action 
+sociale doivent informer le maire et le président du Conseil général lorsqu’ils 
+constatent que l’aggravation des diffi cultés sociales, éducatives ou maté-
+rielles d’une personne ou d’une famille appelle l’intervention de plusieurs 
+professionnels. Afi n d’optimiser l’intervention de ces différents profession-
+nels, qui pourront partager des informations confi dentielles, le maire peut 
+désigner un « coordonnateur » de l’action sociale.
+GUIDE PRATIQUE COLLECTIVITÉS LOCALES 28
+FICHE
+ 
+N
+° 5 : 
+LES
+ 
+COMMUNES
+ 
+ET
+  
+LA
+ 
+PRÉVENTION
+ 
+DE
+ 
+LA
+ 
+DÉLINQUANCE
+  Dans son avis sur le projet de loi relatif à la prévention de la délinquance, la 
+CNIL a estimé que les transmissions au maire d’informations sur les diffi cultés 
+sociales de ses administrés devaient être limitées au strict nécessaire, et 
+que toute mesure devait être prise pour préserver la confi dentialité des 
+informations.
+  Elle rappelle que ces échanges d’informations sont susceptibles de constituer 
+des traitements de données à caractère personnel soumis aux dispositions 
+de la loi du 6 janvier 1978, et que conformément aux dispositions de l’article 
+25-I-7° de cette loi, les traitements automatisés de données comportant 
+des « appréciations sur les diffi cultés sociales des personnes » doivent 
+être autorisés par la CNIL.
+  La loi permet également au maire de créer au sein de sa commune un 
+Conseil pour les droits et devoirs des familles. Celui-ci est chargé de 
+dialoguer avec les familles, de les informer de leurs droits et devoirs vis-
+à-vis  des enfants et de leur adresser des recommandations. Il peut aussi,
+« lorsqu’il ressort de constatations ou d’informations portées à la
+connaissance du Conseil que l’ordre, la sécurité ou la tranquillité publics 
+sont menacés à raison du défaut de surveillance ou d’assiduité scolaire d’un 
+mineur », leur proposer des mesures d’accompagnement parental, voire 
+la signature d’un contrat de responsabilité parentale avec le président du 
+Conseil général.
+  La CNIL, qui a émis des réserves dans son avis sur ce dispositif de signa-
+lement des mineurs et des familles à problèmes, rappelle ici aussi que les 
+traitements de données à caractère personnel mis en œuvre pour assurer le 
+suivi des familles et des enfants en diffi culté devront faire l’objet des forma-
+lités préalables prévues par la loi du 6 janvier 1978 modifi ée en 2004, et être 
+le cas échéant autorisés par elle.
+II. – LES FICHIERS DE SUIVI DE L’ASSIDUITÉ SCOLAIRE
+  Le maire doit procéder chaque année au recensement des enfants résidant 
+dans sa commune et soumis à l’obligation scolaire. L’article 12 de la loi sur la 
+prévention de la délinquance prévoit qu’il peut, pour faciliter ce recensement 
+et améliorer le suivi de l’obligation d’assiduité scolaire, mettre en œuvre un 
+traitement de données à caractère personnel à partir des informations trans-
+mises par les organismes chargés du versement des prestations familiales 
+d’une part, les chefs d’établissement scolaire et l’inspecteur d’académie 
+d’autre part.
+29
+  Outre la liste complète des enfants de la commune soumis à l’obligation 
+scolaire, ce traitement permet d’enregistrer les informations relatives au 
+défaut d’assiduité scolaire des élèves, le cas échéant sanctionné par des 
+avertissements prononcés par l’inspecteur d’académie ou des sanctions 
+d’exclusion temporaire ou défi nitive de l’établissement.
+  Le décret d’application de l’article L. 131-6 du code de l’éducation, (non 
+encore publié à la date de rédaction de ce guide) doit préciser les données 
+qui pourront être enregistrées, les mesures de sécurité dans les transmis-
+sions d’informations ainsi que les modalités selon lesquelles les communes 
+devront éventuellement accomplir des formalités auprès de la CNIL .
+  En tout état de cause, les traitements mis en œuvre pour assurer la mise en 
+place et le suivi des mesures d’accompagnement social ou éducatif à desti-
+nation des familles en diffi culté devront faire l’objet de déclarations, et le cas 
+échéant de demandes d’autorisation s’ils comportent des appréciations sur 
+les diffi cultés sociales des personnes.
+  La CNIL rappelle que conformément à l’article 32 de la loi du 6 janvier 1978 
+modifi ée en 2004, les familles concernées devront être informées des trans-
+missions de données les concernant.
+III. – LE CONSEIL LOCAL DE SÉCURITÉ 
+ET DE PRÉVENTION DE LA DÉLINQUANCE
+  Parce qu’il coordonne la mise en œuvre de  la politique de prévention de 
+la délinquance sur le territoire de la commune, le maire doit être informé 
+sans délai par les responsables locaux de la police ou de la gendarmerie 
+nationales des infractions causant un trouble à l’ordre public commises sur 
+le territoire de la commune. Il est également informé, à sa demande, par le 
+procureur de la République, des classements sans suite , des mesures alter-
+natives aux poursuites ou des poursuites lorsque ces décisions concernent 
+les infractions précitées.
+  Il est en outre prévu la création dans toutes les communes de plus de 
+10 000 habitants et dans celles qui comportent une zone urbaine sensible 
+(ZUS) d’un Conseil local de sécurité et de prévention de la délinquance, 
+présidé par le maire.
+FICHE
+ 
+N
+° 5 : 
+LES
+ 
+COMMUNES
+ 
+ET
+  
+LA
+ 
+PRÉVENTION
+ 
+DE
+ 
+LA
+ 
+DÉLINQUANCE
+GUIDE PRATIQUE COLLECTIVITÉS LOCALES 30
+  Un décret du 23 juillet 2007 est venu préciser la composition et le fonc-
+tionnement de ce Conseil, qui a pour fonctions principales d’élaborer une 
+politique locale de sécurité, de suivre et d’évaluer les contrats locaux de 
+sécurité, de développer des actions de prévention et de lutte contre l’insé-
+curité. Il favorise aussi « l’échange d’informations entre les responsables des 
+institutions et organismes publics et privés concernés, et peut défi nir des 
+objectifs communs pour la préservation de la sécurité et de la tranquillité 
+publiques. »
+  Dans ces conditions, la Commission est vigilante sur ces échanges de don-
+nées en particulier en ce qui concerne la nature des données susceptibles 
+d’être échangées, la confi dentialité de celles-ci, ainsi que sur la mise en 
+place d’éventuels  traitements informatiques tels que des outils cartographi-
+ques ou des fi chiers de données individuelles
+FICHE
+ 
+N
+° 5 : 
+LES
+ 
+COMMUNES
+ 
+ET
+  
+LA
+ 
+PRÉVENTION
+ 
+DE
+ 
+LA
+ 
+DÉLINQUANCE
+31
+Fiche n° 6 : fi chiers cadastraux et 
+systèmes d’information géographique
+FICHE
+ 
+N
+° 6 : 
+FICHIERS
+ 
+CADASTRAUX
+ 
+ET
+ 
+SYSTÈMES
+ 
+D
+’
+INFORMA
+TION
+ 
+GÉOGRAPHIQUE
+  Le cadastre recense, décrit et fi xe les limites des propriétés foncières, et 
+en donne une évaluation utilisée en matière fi scale. Dans la mesure où il 
+comporte, notamment, l’identité des propriétaires fonciers, il constitue un 
+fi chier de données à caractère personnel. Les collectivités locales et leurs 
+groupements utilisent la documentation cadastrale de leur territoire pour la 
+gestion foncière, l’urbanisme et les opérations d’aménagement  du territoire, 
+ainsi que pour renseigner le public. Dans certains cas, les groupements de 
+communes ou les conseils généraux centralisent l’acquisition des fi chiers 
+auprès des services fi scaux pour les mettre à disposition des communes 
+et collectivités de leur ressort, souvent au sein de systèmes d’information 
+géographique (SIG) intercommunaux ou départementaux. Chaque commune 
+ou groupement de communes détenant ses propres fi chiers cadastraux ou 
+accédant à une base de données gérée à distance doit défi nir les utilisations 
+qu’il va faire des données cadastrales.
+1) Pour quelles fi nalités ?
+  Le fi chier du cadastre – ou le SIG – peut notamment être utilisé pour :
+ -  instruire les demandes d’autorisation d’occupation du sol (permis de 
+construire, d’aménager ou de démolir, déclaration préalable etc.) ;
+ -  gérer et exploiter les déclarations d’intention d’aliéner ; 
+ -  constituer des dossiers d’acquisitions ou de ventes foncières ;
+ -  gérer les permissions de voiries ;
+ -  envoyer aux propriétaires fonciers des courriers d’information sur des 
+opérations d’aménagement ou d’entretien les concernant ;
+ -  gérer le service public de l’assainissement non collectif (SPANC) ;
+ -  délivrer des relevés aux propriétaires et répondre aux personnes souhaitant 
+obtenir des renseignements concernant une parcelle déterminée (dans la 
+limite des informations communicables et dans les conditions rappelées 
+ci-dessous : quelles limites à la communication des informations 
+cadastrales ?).
+  Chaque commune ou groupement de communes ayant ses propres fi chiers 
+cadastraux ou accédant à une base de données du cadastre gérée à 
+distance doit défi nir précisément les utilisations qu’elle ou il souhaite faire 
+des données cadastrales ou du SIG.
+GUIDE PRATIQUE COLLECTIVITÉS LOCALES 32
+FICHE
+ 
+N
+° 6 : 
+FICHIERS
+ 
+CADASTRAUX
+ 
+ET
+ 
+SYSTÈMES
+ 
+D
+’
+INFORMA
+TION
+ 
+GÉOGRAPHIQUE
+2) Pour quels utilisateurs ?
+  Les communes ne peuvent accéder qu’aux données cadastrales de leur 
+territoire : en cas de constitution d’un SIG intercommunal ou départemental, 
+elles ne doivent pas pouvoir accéder aux données à caractère personnel des 
+autres communes.
+  Seuls doivent disposer d’un accès direct aux informations les services ayant 
+un besoin permanent de ces données au titre d’une au moins des fi nalités 
+déclarées du fi chier (par exemple, les services du foncier, de l’urbanisme, de 
+la voirie).
+  Lorsqu’elle intervient dans un projet mené par une collectivité locale, une 
+société d’économie mixte, une agence d’urbanisme ou tout autre prestataire 
+peut être destinataire des informations cadastrales strictement nécessaires 
+à la réalisation de sa mission, pendant la durée de celle-ci. La détention 
+ou l’accès permanent aux fi chiers cadastraux d’un territoire est réservé aux 
+organismes ayant une mission de service public et à condition que la fi nalité 
+de leur traitement le justifi e.
+3) Quelles limites à la communication des informations cadastrales ?
+  La documentation cadastrale comporte à la fois des informations de nature 
+foncière et des données recueillies à des fi ns purement fi scales (description 
+des locaux, situation fi scale, date et lieu de naissance des propriétaires, etc.). 
+Ces dernières ne peuvent être communiquées qu’au contribuable concerné.
+  Toute personne peut obtenir communication ponctuelle d’extraits 
+d’informations cadastrales relatives à des parcelles de terrain ou biens 
+immobiliers déterminés (à partir du numéro de parcelle ou de l’adresse du 
+bien). Ainsi, peuvent être communiquées à toute personne les références 
+cadastrales et l’adresse d’un bien, son évaluation pour la détermination de 
+la taxe foncière (valeur locative), ainsi que les nom, prénom et adresse du ou 
+des propriétaires.
+  En revanche, ne peuvent pas être communiqués à des tiers les date et lieu 
+de naissance du propriétaire, ainsi que les mentions relatives aux motifs 
+d’exonération des taxes foncières lorsqu’elles donnent une information sur 
+le mode de fi nancement de la construction ou la situation personnelle du 
+propriétaire (personne économiquement faible). Seul le propriétaire foncier 
+peut obtenir communication de l’ensemble des informations le concernant.
+33
+  Les informations cadastrales directement ou indirectement nominatives ne 
+peuvent faire l’objet d’une réutilisation que si la personne intéressée (à savoir 
+le propriétaire) y a consenti ou si une disposition législative ou réglementaire 
+le permet. La réutilisation d’informations comportant des données à caractère 
+personnel est également subordonnée au respect des dispositions de la loi 
+« informatique et libertés » du 6 janvier 1978 modifi ée en 2004.
+  Le public ne peut accéder directement au logiciel de consultation par 
+quelque moyen que ce soit. Le demandeur doit être clairement informé 
+des conditions d’utilisation des informations communiquées. A cet égard, 
+la CNIL propose aux collectivités un modèle de « note d’information » à 
+remettre préalablement à la délivrance des données (document disponible à 
+la fi n de ce guide).
+  Attention
+La CNIL rappelle que la diffusion de données cadastrales directement 
+ou indirectement nominatives sur des bornes interactives ou des sites 
+web publics comporte un risque d’utilisation de ces informations 
+à d’autres fi ns, notamment commerciales, sans que les personnes 
+concernées y aient consenti.
+4) Des mesures de sécurité particulières
+  Les niveaux d’accès à l’application informatique doivent être défi nis avec 
+précision en fonction des besoins des utilisateurs. S’agissant d’organismes 
+autres que les communes (EPCI, syndicat mixte…), les services ne doivent 
+pouvoir accéder, sauf exception motivée, qu’aux données générales (numéro 
+de la parcelle, localisation, nom et adresse du propriétaire).
+  Un SIG en intranet ou extranet doit, de préférence, faire appel à un 
+réseau de terminaux dédiés (réseau VPN, par exemple) ou à un système 
+d’authentifi cation permettant de s’assurer que le poste informatique 
+accédant aux données est bien celui d’une des collectivités partenaires.
+FICHE
+ 
+N
+° 6 : 
+FICHIERS
+ 
+CADASTRAUX
+ 
+ET
+ 
+SYSTÈMES
+ 
+D
+’
+INFORMA
+TION
+ 
+GÉOGRAPHIQUE
+GUIDE PRATIQUE COLLECTIVITÉS LOCALES 34
+  Lorsque les informations cadastrales sont transmises sur support amovible 
+(cédérom) ou par réseau, les données à caractère personnel doivent être 
+chiffrées, et la clé de déchiffrement délivrée de manière sécurisée. Le support 
+amovible doit, dans la mesure du possible, servir à l’installation des données 
+cadastrales sur un poste de travail ou un serveur dont les accès sont limités, 
+et être conservé en toute sécurité. Il ne peut être dupliqué ni transmis en 
+dehors des services municipaux habilités.
+5) Comment déclarer ?
+ -  La consultation du cadastre au moyen des cédéroms VisDGI doit faire 
+l’objet d’une déclaration de conformité à la norme simplifi ée n° 44 dès lors 
+que les conditions posées par ce texte sont respectées.
+ -  L’exploitation des fi chiers cadastraux généraux (dits « Majic2 ») en lien avec 
+les informations d’urbanisme ou de l’assainissement non collectif (SIG, 
+logiciels d’urbanisme ou de SPANC) peut faire l’objet d’une déclaration de 
+conformité à la décision d’autorisation unique n° 1.
+ -  Les systèmes d’information géographique ne correspondant pas au cadre 
+fi xé par cette décision doivent faire l’objet d’une demande d’autorisation 
+particulière.
+FICHE
+ 
+N
+° 5 : 
+FICHIERS
+ 
+CADASTRAUX
+ 
+ET
+ 
+SYSTÈMES
+ 
+D
+’
+INFORMA
+TION
+ 
+GÉOGRAPHIQUE
+35
+Fiche n° 7 : le recensement 
+de la population
+1) Le nouveau recensement
+  La loi du 27 février 2002 a instauré un « recensement rénové » de la population 
+qui consiste :
+ -  dans les communes de moins de 10 000 habitants, à effectuer un 
+recensement exhaustif de la population, mais selon un principe de rotation 
+annuelle (une commune sur cinq est recensée chaque année) ;
+ -  dans les communes de 10 000 habitants ou plus, à procéder à une enquête 
+par sondage effectuée chaque année auprès de 8% de la population totale 
+de la commune.
+  Les communes ou les établissements publics de coopération intercommunale 
+(EPCI) sont désormais chargés de la préparation et de la réalisation des 
+enquêtes de recensement. En liaison avec l’INSEE, ils recrutent et forment 
+les agents recenseurs, préparent sur le terrain la collecte des données, 
+suivent l’avancement de la collecte et participent au contrôle de son 
+exhaustivité.
+ Attention
+  La CNIL rappelle que les communes ne sont pas habilitées 
+à conserver et à traiter, pour leurs propres fi ns, les données 
+socio-démographiques recueillies à l’occasion des opérations 
+du recensement. Seul l’INSEE peut être destinataire de ces données 
+qui sont couvertes par le secret statistique.
+2) Les traitements informatiques mis en œuvre à l’occasion du recensement
+  Le décret d’application de la loi instaurant le recensement rénové autorise 
+les communes ou les EPCI à mettre en œuvre des traitements automatisés 
+aux seules fi ns de :
+ - suivre l’avancement de la collecte (article 38-III) ;
+ -  calculer les éléments de rémunération des agents recenseurs (article 38-IV) ;
+ -  assurer le contrôle d’exhaustivité de la collecte (article 39). À cet effet, les 
+communes ou les EPCI peuvent utiliser des données extraites du fi chier de 
+la taxe d’habitation (FTH) : localisation précise et catégorie du logement, 
+nombre de logements par adresse et nombre de personnes par logement.
+FICHE
+ 
+N
+° 7 : 
+LE
+ 
+RECENSEMENT
+ 
+DE
+ 
+LA
+ 
+POPULA
+TION
+ 
+GUIDE PRATIQUE COLLECTIVITÉS LOCALES 36
+  En concertation avec la Direction générale des impôts, les directions 
+régionales de l’INSEE mettent ainsi à la disposition des communes ou des 
+EPCI demandeurs un fi chier comportant les informations nécessaires aux 
+opérations de contrôle de l’exhaustivité de la collecte. Cet extrait du fi chier 
+de la taxe d’habitation ne peut être conservé que 10 jours après la fi n de la 
+collecte des données du recensement.
+3) Les modalités actuelles de diffusion des données du recensement
+  Les collectivités locales peuvent être destinataires, sous certaines conditions, 
+de statistiques sur la population qu’elles administrent (délibérations de la 
+CNIL du 24 mars 1998 et du 11 décembre 2001).
+  Moyennant la signature d’une licence d’usage avec la direction régionale 
+de l’INSEE concernée, les collectivités territoriales et leurs regroupements
+peuvent obtenir, à l’îlot, d’une part, des fi chiers détail concernant les 
+logements, d’autre part, des comptages, listes et tableaux (prédéfi nis et sur 
+mesure) ne comportant pas de données sensibles (ex. nationalité, nationalité 
+antérieure des Français par acquisition, pays de naissance, date d’arrivée 
+en métropole).
+  Des résultats sur les variables sensibles peuvent être diffusés, sous forme de 
+tableaux, pour les communes de plus de 5 000 habitants et pour des zones 
+infracommunales fi xes regroupant environ 6 000 personnes.
+  Ces modalités de diffusion vont être prochainement modifi ées afi n de tenir 
+compte des nouvelles conditions de réalisation du recensement.
+4) Comment déclarer ?
+ -  Les traitements informatiques mis en œuvre par les communes pour 
+suivre l’avancement de la collecte des données du recensement et 
+pour le calcul de la paie des agents recenseurs n’ont pas à être déclarés 
+auprès de la CNIL.
+ -  Il en est de même en cas d’utilisation du fi chier de la taxe d’habitation 
+aux fi ns exclusives de contrôle d’exhaustivité de la collecte.
+FICHE
+ 
+N
+° 7 : 
+LE
+ 
+RECENSEMENT
+ 
+DE
+ 
+LA
+ 
+POPULA
+TION
+ 
+37
+Fiche n° 8 : la gestion des demandes 
+d’attestation d’accueil
+FICHE
+ 
+N
+° 8 : 
+LA
+ 
+GESTION
+ 
+DES
+ 
+DEMANDES
+ 
+D
+’
+A
+TTEST
+A
+TION
+ 
+D
+’
+ACCUEIL
+  Tout étranger non-ressortissant de l’Union Européenne qui souhaite séjourner 
+en France dans le cadre d’une visite familiale ou privée n’excédant pas trois 
+mois doit présenter un justifi catif d’hébergement.
+  Ce justifi catif prend la forme d’une attestation d’accueil signée par la personne 
+qui se propose d’héberger l’étranger. Elle est accompagnée de différentes 
+pièces justifi catives, et notamment de l’engagement de l’hébergeant de 
+prendre en charge, pour la durée de validité du visa de l’étranger accueilli ou 
+une durée de trois mois à compter de son entrée dans l’espace Schengen, 
+les frais de séjour de la personne hébergée dans l’hypothèse où celle-ci ne 
+pourrait plus les assumer.
+1) Le rôle du maire
+  L’attestation d’accueil est obligatoirement soumise pour validation au maire 
+de la commune du lieu d’hébergement, agissant en qualité d’agent de l’État. 
+Le maire peut refuser de valider l’attestation d’accueil dans certains cas 
+énumérés par la loi (défaut de présentation des pièces justifi catives, absence 
+de conditions normales de logement, inexactitude des mentions portées sur 
+l’attestation, non respect de la législation par l’hébergeant dans le cadre 
+d’hébergements antérieurs). À la demande du maire, des agents spécialement 
+habilités des services de la commune en charge des affaires sociales ou du 
+logement ou de l’Agence nationale de l’accueil des étrangers et des migrations 
+(ANAEM) peuvent procéder à des vérifi cations sur place.
+2) La gestion informatisée 
+des demandes de validation des attestations d’accueil
+  Afi n de lutter contre les détournements de procédure, les demandes de
+validation des attestations d’accueil peuvent être traitées et conservées 
+dans un fi chier informatique (10).
+  Les conditions de mise en œuvre de ce fi chier ont été précisées par un 
+décret du 2 août 2005. Ce texte énumère limitativement les catégories
+d’informations susceptibles d’être enregistrées (qu’elles concernent
+l’hébergeant ou l’étranger accueilli), la durée de conservation de ces 
+informations sur support informatisé, les personnes susceptibles d’être
+rendues destinataires de ces informations et les conditions d’exercice, par 
+les intéressés, de leurs droits d’accès et, le cas échant, de rectifi cation.
+10) Article L. 211-7 du code de l’entrée et du séjour des étrangers et du droit d’asile.
+GUIDE PRATIQUE COLLECTIVITÉS LOCALES 38
+  Ce décret rappelle également les conditions de mise à jour des informations 
+traitées, ainsi que l’interdiction faite au responsable du traitement d’établir 
+une interconnexion, une mise en relation ou un rapprochement de ce fi chier 
+avec un autre.
+3) Comment déclarer ?
+  Afi n de faciliter les formalités déclaratives applicables aux fi chiers de 
+gestion des demandes de validation des attestations d’accueil, la CNIL 
+met à la disposition des communes, à partir de son site internet (11), une 
+procédure de déclaration de conformité au décret du 2 août 2005.
+11) Rubrique « Déclarer/téléprocédures/déclaration de conformité à un acte réglementaire unique ».
+ 
+FICHE
+ 
+N
+° 8 : 
+LA
+ 
+GESTION
+ 
+DES
+ 
+DEMANDES
+ 
+D
+’
+A
+TTEST
+A
+TION
+ 
+D
+’
+ACCUEIL
+39
+Fiche n° 9 : le contrôle de légalité : 
+le traitement « actes »
+FICHE
+ 
+N
+° 9 : 
+LE
+ 
+CONTRÔLE
+ 
+DE
+ 
+LÉGALITE
+ : 
+LE
+ 
+TRAITEMENT
+ « 
+ACTES
+ »
+1) La possibilité nouvelle de télétransmission des actes
+  Modifi é par la loi relative aux libertés et responsabilités locales, le code 
+général des collectivités territoriales (12) permet désormais aux collectivités 
+de transmettre par voie électronique au représentant de l’État les 
+actes soumis au contrôle de légalité et fi xe, dans sa partie réglementaire (13), 
+les modalités précises de cette télétransmission (identifi cation et 
+authentifi cation de la collectivité territoriale émettrice, intégrité des fl ux de 
+données relatives aux actes, sécurité et confi dentialité de ces données).
+  Ces traitements sont soumis à la loi « informatique et libertés » puisque 
+les actes concernés peuvent comporter des données à caractère personnel 
+(par exemple, les décisions individuelles de nomination, d’avancement ou 
+de sanction d’agents de la fonction publique territoriale, celles en matière 
+d’urbanisme, les décisions d’attribution d’aide prises par les centres 
+communaux d’action sociale, mais aussi les compte-rendus de conseil 
+municipal comprenant la liste des personnes présentes ou les délibérations 
+adoptées par la collectivité – présents, intervenants…).
+2) Comment déclarer ?
+  La CNIL, prenant en compte à la fois l’encadrement législatif et réglementaire 
+de cette procédure et le nombre de déclarants potentiels, a décidé, par sa 
+délibération du 2 mars 2006, de dispenser de déclaration les collectivités 
+qui recourent à un dispositif de télétransmission pour soumettre les actes 
+qu’elles prennent au contrôle de légalité, obligatoire ou non, du représentant 
+de l’État.
+ 
+12) Articles L. 2131-1 et L. 2131-2 (actes de la commune), L. 3131-1 et L.3131-2 (actes du département), L. 4141-1 et 
+L.4141-2 (actes de la région) et L. 5211-3 (actes des établissements publics de coopération intercommunale).
+13 ) R. 2131-1 à 2131-4.
+GUIDE PRATIQUE COLLECTIVITÉS LOCALES 40
+Fiche n° 10 : fournir des 
+renseignements sur les administrés  
+  La loi permet à des autorités publiques de se faire communiquer, dans le 
+cadre de leurs missions et sous certaines conditions, des informations 
+issues de fi chiers.
+  En dehors de ces cas, le fait, pour un responsable du traitement, de porter à 
+la connaissance d’un tiers qui n’a pas qualité pour les recevoir des données 
+à caractère personnel dont la divulgation aurait pour effet de porter atteinte 
+à la considération de l’intéressé ou à l’intimité de sa vie privée constitue une 
+infraction pénale punie de cinq ans d’emprisonnement et de 300 000 euros 
+d’amende.
+1) Dans quelles conditions une commune peut-elle communiquer à des 
+tiers des renseignements sur ses administrés ?
+  Cette communication ne peut être effectuée que sur demande ponctuelle
+écrite, visant des personnes nommément désignées, identifi ées 
+directement ou indirectement. Il est exclu qu’elle porte sur l’intégralité 
+d’un fi chier.
+  La demande doit préciser le texte législatif fondant ce droit de 
+communication, ainsi que les catégories d’informations sollicitées. La 
+collectivité saisie de la requête doit s’assurer de sa conformité aux textes 
+invoqués et peut toujours, en cas de doute, interroger la CNIL.
+2) Quels sont les tiers autorisés à obtenir ponctuellement des 
+informations sur des personnes détenues par les communes ?
+ a) L’administration fi scale
+ -  Le Trésor public (direction générale de la comptabilité publique 
+uniquement dans les conditions fi xées par les articles L.81 à L.95 du Livre des 
+Procédures fi scales pour le recouvrement de créances fi scales ou des 
+amendes et condamnations pécuniaires -article 90 de la loi de fi nances 
+pour 1987). L’article L 1617-5 du code des collectivités territoriales a, 
+en outre, étendu le droit de communication des comptables du Trésor 
+pour le recouvrement des créances des collectivités locales et de leurs 
+établissements publics. Les communes, en particulier, peuvent donc être 
+destinataires de demandes de renseignements portant sur des créances 
+hospitalières.
+FICHE
+ 
+N
+° 10 : 
+FOURNIR
+ 
+DES
+ 
+RENSEIGNEMENTS
+ 
+SUR
+ 
+LES
+ 
+ADMINISTRÉS
+41
+ -  La direction générale des impôts ou la direction générale des douanes 
+en vue de l’établissement de l’assiette, du contrôle, du recouvrement des 
+impôts (articles L. 81 à L. 95 du Livre des procédures fi scales) et pour le 
+recouvrement des créances domaniales (article L. 79 du code du domaine 
+de l’État).
+ b) Les organismes sociaux
+ -  Les organismes débiteurs de prestations familiales ou en charge du 
+versement du RMI dans les conditions prévues par l’article L.583-3 du 
+code de la sécurité sociale.
+ -  Les organismes débiteurs de prestations familiales ou les huissiers de 
+justice au titre de leur mission de recouvrement des créances alimentaires 
+impayées (article 7 de la loi 73-5 du 2 janvier 1973).
+ c) Les administrations de la justice, de la police et de la gendarmerie
+ -  Les magistrats, dans le cadre des dispositions des codes de procédure 
+pénale et de procédure civile (notamment les articles 56, 57, 92 à 97 du 
+code de procédure pénale).
+ -  Le procureur de la République, à la demande de l’huissier de justice 
+porteur d’un titre exécutoire et au vu d’un relevé certifi é sincère des 
+recherches infructueuses qu’il a tentées pour l’exécution (article 40 de la loi 
+n° 91-650 du 9 juillet 1991).
+ -  Les offi ciers de police judiciaire de la police et de la gendarmerie nationales 
+agissant en fl agrant délit, sur commission rogatoire ou dans le cadre d’une 
+enquête préliminaire (articles 57-1, 60-1 et 76-3 du code de procédure 
+pénale) y compris par voie informatique ou télématique (article 60-2 du 
+même code).
+ -  Les bureaux d’aide judiciaire afi n de demander la vérifi cation des ressources 
+en vue de l’attribution de l’aide judiciaire (loi n° 72-11 du 3 janvier 1972 
+modifi ée par la loi du 31 décembre 1982 relative à l’aide judiciaire).
+ d) Les autres administrations bénéfi ciant d’un droit de communication
+ -  Les services extérieurs du travail et de l’emploi dans le cadre du contrôle 
+de la recherche d’emploi (ordonnance n°86-1286 du 20 décembre 1986, 
+articles L. 351-1 et R. 351-32 du code du travail).
+ -  Les services en charge de la gestion des allocations supplémentaires 
+prévues aux articles L 815-2 et 3 du code de la sécurité sociale (fonds de 
+solidarité vieillesse et fonds spécial d’invalidité) pour le recouvrement sur 
+la succession des héritiers (articles L. 815-12 et L. 815-15 du code de la 
+sécurité sociale).
+FICHE
+ 
+N
+° 10 : 
+FOURNIR
+ 
+DES
+ 
+RENSEIGNEMENTS
+ 
+SUR
+ 
+LES
+ 
+ADMINISTRÉS
+GUIDE PRATIQUE COLLECTIVITÉS LOCALES 42
+ Attention :
+  Aucun fondement législatif n’autorise la communication 
+d’informations aux particuliers ou à des sociétés privées telles 
+que les agences de recouvrement de créances (14).
+3) Quelles sont les informations qui peuvent être communiquées ?
+  Les communes ne peuvent bien évidemment communiquer, aux autorités 
+publiques habilitées à les demander, que les informations dont elles 
+disposent dans leurs fi chiers, manuels ou informatisés : elles ne sauraient, 
+dans le simple but de satisfaire à une demande de renseignement, 
+rechercher les informations dont elles ne disposent pas ou constituer des 
+services d’enquête à cette fi n.
+  De même, les services municipaux ne peuvent pas utiliser les fi chiers 
+des centres communaux d’action sociale (CCAS), qui constituent des 
+établissements publics distincts de la commune, pour répondre à des 
+demandes de renseignements adressées aux communes.
+4) Quelles limites aux recherches incombant à la commune ?
+  Les communes peuvent être tentées de diligenter des enquêtes pour 
+répondre à des demandes d’organismes extérieurs, puis de conserver les 
+renseignements obtenus sur leurs administrés. La CNIL rappelle qu’aucune 
+disposition législative ne permet aux mairies de diligenter de telles 
+enquêtes, même à la demande de tiers autorisés.
+  Elle a ainsi rendu un avis défavorable à la constitution, par une commune, 
+d’un fi chier d’adresses destiné à diligenter des enquêtes concernant des 
+débiteurs du Trésor public (15).
+  La commission souligne également que les collectivités ne peuvent collecter 
+à l’occasion de démarches auprès d’elles (inscription aux activités 
+périscolaires, cantines, etc.) des informations sans lien avec la fi nalité du 
+fi chier et susceptibles uniquement de permettre de répondre aux demandes 
+éventuelles d’organismes tiers (sur l’employeur par exemple).
+14) On se reportera à la fi che n° 1 pour les demandes d’extraits ou de copies d’actes de l’état civil.
+15) La CNIL a notamment estimé dans une délibération du 7 décembre 1993 que les communes n’ont aucune 
+démarche positive à accomplir pour répondre aux demandes des services du Trésor Public qui sont fondées sur le droit de 
+communication : saisi d’une telle demande, le détenteur de l’information doit se borner à la communiquer s’il la connaît.
+FICHE
+ 
+N
+° 10 : 
+FOURNIR
+ 
+DES
+ 
+RENSEIGNEMENTS
+ 
+SUR
+ 
+LES
+ 
+ADMINISTRÉS
+43
+Fiche n° 11 : les fi chiers 
+de communication municipale
+  Que ce soit pour les informer sur des événements de la vie municipale ou 
+les services offerts, les consulter sur des projets, accueillir les nouveaux 
+arrivants ou encore réaliser des enquêtes, les communes souhaitent 
+légitimement connaître leurs administrés. À cet effet, elles peuvent être 
+conduites à recueillir et à conserver, dans des fi chiers dits « de population », 
+des renseignements individuels sur les administrés à l’occasion de 
+l’accomplissement de formalités administratives, de la gestion de certains 
+services (gaz, eau, recouvrement de taxes, etc.), ou encore par le biais de 
+questionnaires diffusés aux habitants.
+ Attention :
+  Le fi chier de communication municipale constitue un lien entre
+la collectivité et ses administrés : il ne peut être utilisé à d’autres fi ns. 
+En particulier, il ne peut être utilisé à des fi ns de communication 
+politique par les élus membres de ces collectivités, pas plus 
+qu’il ne peut être cédé à des fi ns commerciales.
+1) Une collecte des données nécessairement facultative
+  Cette collecte de données ne peut constituer une obligation pour les 
+administrés. En effet, le recensement exhaustif et permanent de l’ensemble 
+des coordonnées des administrés ne repose sur aucun fondement légal 
+(à la différence, par exemple, du registre d’état civil dont la tenue est 
+obligatoire) et il n’existe pas en France – à l’exception des départements 
+d’Alsace et de Moselle – d’obligation de déclarer son domicile ou son 
+changement de domicile.
+  Les administrés doivent, en conséquence, être clairement informés de 
+l’origine des données utilisées pour ce traitement, de sa fi nalité, du 
+caractère facultatif de cette collecte à leur égard, de la conservation 
+éventuelle de leurs données dans un fi chier et donc de leur droit de 
+s’opposer à y fi gurer sans qu’il en résulte de conséquences à leur égard, 
+des destinataires des informations et des conditions d’exercice de leur droit 
+d’accès, de rectifi cation et de suppression.
+FICHE
+ 
+N
+° 11 : 
+LES
+ 
+FICHIERS
+ 
+DE
+ 
+COMMUNICA
+TION
+ 
+MUNICIP
+ALE
+GUIDE PRATIQUE COLLECTIVITÉS LOCALES 44
+FICHE
+ 
+N
+° 11 : 
+LES
+ 
+FICHIERS
+ 
+DE
+ 
+COMMUNICA
+TION
+ 
+MUNICIP
+ALE
+2) Quels fi chiers utiliser ?
+  La commune peut utiliser la liste électorale pour constituer un fi chier de 
+communication municipale, à la condition d’en informer clairement les 
+administrés lors de leur inscription sur la liste électorale. Ainsi, s’ils le 
+souhaitent, ils peuvent s’opposer à recevoir de la communication municipale.
+  La commune peut également choisir de collecter les informations nécessaires, 
+mais toujours de façon facultative, en déposant des questionnaires dans les 
+boîtes aux lettres des habitants.
+  La commune peut acquérir auprès des services de la Poste, un fi chier des 
+« nouveaux arrivants » constitué à partir du fi chier des personnes ayant
+signalé leur changement d’adresse et ne s’étant pas opposées à ce que 
+cette information soit communiquée à des tiers. Ces données ne peuvent 
+servir qu’à communiquer avec les habitants.
+3) Quelles informations sont nécessaires ?
+  Les informations susceptibles d’être conservées doivent se limiter à 
+l’identité, à la date ou l’année de naissance et à l’adresse, ainsi que, le 
+cas échéant, le nombre de personnes, les centres d’intérêt ou la qualité de 
+président d’une association, par exemple.
+4) Comment mettre à jour le fi chier ?
+  Les données doivent bien entendu être effacées du fi chier lorsque la 
+commune a connaissance du décès de la personne ou de son départ de la 
+commune (ex : renvoi du courrier pour NPAI, radiation de la liste électorale) 
+ou encore lorsqu’elle a manifesté le souhait d’être retirée du fi chier.
+  La mise à jour des fi chiers peut se faire au moyen du fi chier des personnes 
+ayant déménagé défi nitivement, communiqué par les services de la Poste 
+(contrat « Charade »), à l’exclusion de la communication de la nouvelle 
+adresse.
+45
+5) Le cas particulier des systèmes d’alerte
+  Les communes ont de plus en plus recours à des systèmes automatisés 
+d’alerte destinés à appeler les habitants, en particulier en cas de risque 
+naturel ou industriel.
+  L’effi cacité de ces systèmes repose sur l’adhésion volontaire du plus 
+grand nombre à la démarche de la commune. Pour être effi cace, la mise 
+en œuvre d’un système d’alerte doit donc être précédée d’une campagne
+d’information qui permettra d’expliquer aux administrés l’intérêt, pour la 
+commune comme pour eux, d’un tel système.
+  L’alerte des habitants pouvant se faire par d’autres vecteurs que le
+téléphone, cette campagne d’information doit permettre, dans tous les 
+cas, de rappeler aux administrés que ce dispositif est facultatif. En outre, 
+il faut les informer du service destinataire des données et de l’absence de 
+réutilisation à d’autres fi ns que l’alerte.
+  S’agissant de la constitution des fi chiers d’appel, la CNIL recommande 
+que les coordonnées téléphoniques soient recueillies directement auprès 
+des personnes concernées : cette démarche permet à la commune de 
+disposer du bon numéro de téléphone en cas d’urgence (y compris, le cas 
+échéant, celui des personnes inscrites en liste rouge et orange, pourvu que 
+l’intérêt de la démarche ait été clairement expliqué) et d’informer aussi de la 
+mise en place du dispositif informatisé d’alerte.
+  La commune peut constituer ces fi chiers à partir de la liste des abonnés 
+téléphoniques régulièrement acquise auprès des opérateurs concernés, 
+c’est-à-dire expurgée des personnes inscrites en listes orange et rouge.
+6) Comment déclarer ?
+  Les fi chiers ayant pour seules fi nalités la constitution et l’exploitation d’un 
+fi chier d’adresses à des fi ns d’information ou de communication externe en 
+rapport avec les activités de la collectivité, à l’exclusion de toute sollicitation 
+commerciale, sont dispensés de déclaration en vertu de la délibération de la 
+CNIL du 9 mai 2006 (16).
+  Les fi chiers constitués à des fi ns d’alerte de la population doivent faire
+l’objet d’une déclaration normale.
+16) Délibération CNIL n°2006-138 du 9 mai 2006 décidant de la dispense de déclaration des traitements constitués à des 
+fi ns d’information ou de communication externe.
+FICHE
+ 
+N
+° 11 : 
+LES
+ 
+FICHIERS
+ 
+DE
+ 
+COMMUNICA
+TION
+ 
+MUNICIP
+ALE
+GUIDE PRATIQUE COLLECTIVITÉS LOCALES 46
+Fiche n° 12 : le fi chier 
+des logements vacants
+FICHE
+ 
+N
+° 12 : 
+LE
+ 
+FICHIER
+ 
+DES
+ 
+LOGEMENTS
+ 
+V
+ACANTS
+1) Pour quel usage ?
+  La loi prévoit que les informations relatives aux logements vacants,
+recensés par l’administration fi scale pour l’établissement de la taxe 
+d’habitation, peuvent être utilisées pour favoriser la politique sociale d’aide 
+au logement. Seuls les communes, les départements et les établissements 
+publics intercommunaux à fi scalité propre sont autorisés à recevoir et à 
+exploiter le fi chier des logements vacants à cette fi n.
+  Ces informations peuvent être utilisées pour envoyer aux propriétaires 
+de logements inoccupés des courriers d’information sur les aides à la 
+réhabilitation des logements et à leur remise sur le marché propo-
+sées par la collectivité ou des questionnaires - anonymes ou nominatifs 
+selon l’exploitation qui en est faite - sur les causes d’inoccupation des 
+logements, ou encore pour la réalisation de statistiques sur l’évolution du parc 
+immobilier vacant.
+  Toute exploitation de ces données à des fi ns étrangères aux objectifs fi xés 
+par le législateur est interdite. Ainsi, les courriers adressés aux propriétaires 
+pour leur présenter les différentes aides ne doivent comporter aucun 
+message à connotation commerciale (notamment sur les partenaires privés 
+de l’opération de réhabilitation) ou politique.
+2) Une utilisation transparente vis-à-vis des administrés
+  Afi n de prévenir toute plainte ou incompréhension de la part des propriétaires 
+concernés, il est essentiel que les courriers précisent :
+ - l’identité de la collectivité responsable du traitement et de l’envoi ;
+ -  la fi nalité et le fondement juridique de ce traitement (l’article L.135 B, 4e 
+alinéa, du livre des procédures fi scales) ;
+ - l’origine des données traitées ;
+ - les destinataires des informations ;
+ - le caractère facultatif des réponses demandées ;
+ -  lorsque le responsable du traitement prévoit de conserver les coordonnées 
+des personnes afi n de leur adresser plusieurs courriers : les modalités 
+d’exercice des droits d’accès, de rectifi cation et d’opposition.
+47
+3) Des conditions d’utilisation visant à empêcher 
+le détournement des données
+  Le responsable du traitement ne doit conserver que les informations 
+nécessaires au regard de l’utilisation qu’il entend en faire et de la fi nalité du 
+traitement.
+  De même, à l’issue de la phase d’envoi des courriers personnalisés, les 
+informations reçues de la DGI doivent être effacées ou rendues anonymes.
+  Le fi chier des logements vacants ne peut donc servir à l’enrichissement 
+d’autres fi chiers.
+  Si la collectivité reçoit chaque année le fi chier actualisé des logements 
+vacants, elle ne peut conserver que les données issues de la version la plus 
+récente du fi chier, à l’exception de la liste des personnes qui ont refusé de 
+recevoir tout nouveau courrier de même nature.
+4) Des accès sécurisés
+  Les informations communiquées par l’administration fi scale restent 
+soumises au secret professionnel : en conséquence, elles ne peuvent  être 
+ni transmises ni cédées, en tout ou partie, à un tiers. Leur accès doit être
+réservé aux personnels chargés par la collectivité de la gestion de l’envoi 
+des courriers, de leur retour ou de l’établissement des statistiques.
+  En cas de recours à un prestataire pour l’envoi des courriers, la convention 
+signée entre les parties doit décrire les engagements qu’il prend pour 
+garantir leur sécurité, leur confi dentialité et leur non-utilisation à d’autres 
+fi ns que celles défi nies dans la convention (voir modèles de clauses de 
+sous-traitance à la fi n du guide).
+  La CNIL recommande que les données, transmises sur support amovible 
+par l’administration fi scale, soient chiffrées, la clé de déchiffrement étant 
+délivrée de manière sécurisée. De même, le support amovible de transmission 
+du fi chier ne doit servir qu’à l’installation des données sur un poste de 
+travail dont les accès à l’application doivent être strictement limités à ses 
+utilisateurs habilités. Le support amovible ne doit être ni dupliqué, ni transmis 
+en dehors des locaux du service destinataire.
+FICHE
+ 
+N
+° 12 : 
+LE
+ 
+FICHIER
+ 
+DES
+ 
+LOGEMENTS
+ 
+V
+ACANTS
+GUIDE PRATIQUE COLLECTIVITÉS LOCALES 48
+  Les destinataires doivent accéder aux informations au moyen d’un 
+identifi ant et d’un mot de passe individuel ou par tout autre dispositif 
+sécurisé.
+5) Comment déclarer ?
+  Les collectivités utilisant le fi chier des logements vacants de leur territoire 
+peuvent procéder, sur le site de la CNIL, à une déclaration de conformité 
+à la norme simplifi ée n° 49, si le traitement est en tout point conforme aux 
+prescriptions de ce document. Dans le cas contraire, elles doivent établir 
+une déclaration normale.
+ 
+  
+FICHE
+ 
+N
+° 12 : 
+LE
+ 
+FICHIER
+ 
+DES
+ 
+LOGEMENTS
+ 
+V
+ACANTS
+49
+Fiche n° 13 : le fi chier 
+des associations subventionnées
+FICHE
+ 
+N
+° 13 : 
+LE
+ 
+FICHIER
+ 
+DES
+ 
+ASSOCIA
+TIONS
+ 
+SUBVENTIONNÉES
+  En application de l’article L. 1611-4 du Code général des collectivités
+territoriales, toute association ayant reçu une subvention durant l’année 
+est tenue de transmettre à la commune qui l’a ainsi subventionnée la copie 
+certifi ée de son budget, celle des comptes de l’exercice écoulé et de lui 
+communiquer tout document faisant apparaître les résultats de l’activité de 
+l’association.
+ Attention :
+  Cette disposition fi nancière et comptable a pour seul but de 
+permettre à la commune concernée de contrôler l’utilisation qui
+ est faite de l’argent public. Une commune ne peut donc, à ce titre, 
+exiger la liste nominative des membres d’une association 
+qu’elle a subventionnée.
+  Le Conseil État a d’ailleurs rappelé, dans un arrêt du 28 mars 1997, que la 
+communication à l’autorité communale de la liste nominative des adhérents 
+d’une association, même si cette transmission est assortie de l’interdiction 
+pour la commune de garder copie de cette liste, méconnaissait le principe 
+de la liberté d’association, lequel a valeur constitutionnelle.
+  En revanche, la commune peut, dans le cadre d’un contrat d’objectifs passé 
+avec l’association par exemple, défi nir des modalités de certifi cation du 
+nombre d’adhérents ou de leur origine géographique (commune ou hors 
+commune) sans qu’il y ait communication des noms des personnes. La 
+transmission à une commune de données statistiques anonymes sur 
+les adhérents d’une association est admise.
+  De façon générale, une association ne peut, sauf cas prévus par la loi, 
+communiquer à des tiers la liste nominative de ses adhérents que dans la 
+mesure où ces derniers en ont été préalablement informés et ne s’y 
+sont pas opposés.
+  Pour toute information complémentaire sur les conditions d’application de la 
+loi informatique et libertés aux fi chiers des associations, consulter le guide 
+« Associations » sur le site de la CNIL.
+NB : Depuis une décision de la CNIL du 9 mai 2006, les fi chiers de gestion des membres 
+ou donateurs des associations régies par la loi de 1901 sont dispensés de déclaration 
+(dispense n° 8).
+ 
+GUIDE PRATIQUE COLLECTIVITÉS LOCALES 50
+Fiche n° 14 : administration 
+électronique locale et téléservices
+  Les collectivités locales souhaitent de plus en plus faciliter les démarches 
+des administrés en particulier en permettant l’accomplissement d’un certain 
+nombre de formalités par internet ou encore en recourant pour la 
+facturation de certains services à des cartes à puce multiapplicatives. Ces 
+applications, dès lors qu’elles sont appelées à comporter des données à 
+caractère personnel, relèvent de la loi « informatique et libertés ».
+  La mise en place d’une téléprocédure ne doit conduire ni à imposer 
+l’identifi cation préalable des usagers si la démarche administrative ne le 
+nécessite pas, ni à recueillir des données supplémentaires qui ne seraient 
+pas pertinentes (par exemple, demander le numéro de carte d’identité pour la 
+délivrance d’un extrait d’acte d’état civil). Les données recueillies ne doivent 
+servir que pour les fi nalités exposées au moment de leur collecte (17).
+  Dans tous les cas, les mêmes règles juridiques doivent s’appliquer aux 
+procédures à distance et aux procédures sur place ou par courrier.
+1) Des téléservices sécurisés
+  La CNIL recommande que l’accès au téléservice permettant de consulter 
+à distance ces demandes d’actes soit contrôlé par un code d’accès et un 
+mot de passe alphanumérique d’une longueur de huit caractères minimum. 
+Les collectivités pourront également se référer au référentiel général de 
+sécurité en cours de fi nalisation par la Direction générale de la modernisation 
+de l’État (DGME). Celui-ci défi nira les modalités, plus ou moins fortes, 
+d’authentifi cation selon la nature du téléservice.
+  Les informations reçues à distance ne peuvent être stockées que le temps 
+nécessaire à la transmission vers le service concerné sans donner lieu à la 
+constitution d’une nouvelle base de données. Les échanges de données 
+doivent être sécurisés : ainsi le recueil de données à caractère personnel au 
+moyen d’un site internet doit faire l’objet de liaisons chiffrées (https).
+  En matière de vote électronique, la CNIL a adopté le 1er juillet 2003 une 
+recommandation sur la sécurité de ces systèmes (disponible sur le site 
+www.cnil.fr). On trouvera également sur le site de la CNIL (dossier « e-admi-
+nistration ») les positions de la CNIL sur cette question.
+17) Délibération CNIL n° 2005-074 du 21 avril 2005 portant avis sur le projet d’arrêté du conseil général du Val d’Oise 
+créant un traitement de données à caractère personnel mettant en place la carte de vie quotidienne « Cartevaloise ».
+FICHE
+ 
+N
+° 14 : 
+ADMINISTRA
+TION
+ 
+ÉLECTRONIQUE
+ 
+LOCALE
+ 
+ET
+ 
+TÉLÉSER
+VICES
+51
+2) La transparence, gage de confi ance pour les administrés 
+  Les internautes doivent être informés, par des mentions explicites fi gurant sur 
+les pages du site, du caractère obligatoire ou facultatif des renseignements 
+collectés, de la fi nalité de la collecte, des destinataires des informations 
+traitées ainsi que de l’existence d’un droit d’accès et de rectifi cation (voir 
+modèles de note d’information en fi n de guide).
+  En outre, si la collectivité envisage de diffuser l’annuaire nominatif des 
+services de la mairie, les personnes concernées doivent être préalablement 
+informées de cette diffusion et mises en mesure de s’y opposer.
+  S’agissant de données contenues sur des cartes à puce, toutes mesures 
+doivent être prises (exemple : bornes d’accès) pour permettre aux titulaires 
+de ces cartes de consulter le contenu de celles-ci. La CNIL estime, qu’il 
+ne doit pas y avoir de centralisation, de fait, de toutes les données des 
+administrés. Chaque service concerné par une carte multiapplicative ne doit 
+accéder qu’aux données le concernant (18).
+  Dans le cas de la mise en place d’un téléservice, celui-ci doit essentiellement 
+servir à faire transiter les informations vers les applications métiers. La durée 
+de conservation des données dans le téléservice lui-même doit rester très 
+brève.
+  Si des échanges de données entre administrations sont prévus, l’usager doit 
+en être informé et avoir donné son consentement.
+3) Comment déclarer ?
+  La mise en œuvre par une collectivité locale d’un téléservice comportant 
+un identifi ant personnel doit faire l’objet d’une demande d’avis auprès de 
+la CNIL, au moyen du formulaire de déclaration normale.
+  Les sites internet « vitrines » présentant l’organigramme des services de 
+la collectivité ou collectant des données à caractère personnel uniquement 
+pour l’envoi d’informations sont exonérés de déclaration.
+  Le développement d’une carte multiapplicative doit faire l’objet d’une 
+demande d’autorisation dès lors que les traitements concernés donnent 
+lieu à une interconnexion de fi chiers dont les fi nalités correspondent à des 
+intérêts publics différents, ou sinon d’une déclaration. Dans tous les cas, 
+utiliser le formulaire de déclaration normale.
+18) La DGME met à la disposition des porteurs de projet de cartes de vie quotidienne un référentiel juridique élaboré en 
+collaboration avec la CNIL (www.cvq.fr).
+FICHE
+ 
+N
+° 14 : 
+ADMINISTRA
+TION
+ 
+ÉLECTRONIQUE
+ 
+LOCALE
+ 
+ET
+ 
+TÉLÉSER
+VICES
+GUIDE PRATIQUE COLLECTIVITÉS LOCALES 52
+   Quelles sont les conditions à respecter avant de mettre en place des 
+dispositifs de vidéosurveillance ?  
+  Deux préalables :
+  Premier préalable : 
+bien comprendre la distinction entre un lieu public et un lieu privé 
+(non ouvert au public) pour savoir quelle formalité est nécessaire.
+  - le lieu public ou ouvert au public : tout lieu du secteur public ou du 
+secteur privé où le public peut accéder. Exemple : le guichet d’une 
+mairie ou une boulangerie.
+ - le lieu privé (lieu non ouvert au public) : tout lieu du secteur public 
+ ou du secteur privé où le public ne peut pas accéder. 
+ Exemple : la chaîne de montage d’une entreprise automobile 
+ou le parking du personnel d’une mairie.
+  Second préalable : 
+l’état actuel du droit se caractérise par la concurrence 
+de deux régimes juridiques applicables : celui de la  loi “informatique 
+et libertés“ du 6 janvier 1978 modifi ée en 2004 et celui de l’article 10 
+de la loi du 21 janvier 1995 modifi ée d’orientation et de programmation 
+pour la sécurité. Ceci explique le caractère aléatoire et complexe 
+du régime juridique applicable en la matière.
+1) Le régime juridique est clair et confi rmé dans deux cas :
+  - Premier cas :  seule une autorisation préfectorale est nécessaire
+  C’est le cas quand le dispositif de vidéosurveillance est installé dans un lieu 
+public ou ouvert au public et qu’aucune image n’est enregistrée ni conser-
+vée dans des traitements informatisés ou des fi chiers structurés qui permet-
+tent d’identifi er des personnes physiques.
+Fiche n° 15 : les dispositifs 
+de vidéosurveillance
+FICHE
+ 
+N
+° 15 : 
+LES
+ 
+DISPOSITIFS
+ 
+DE
+ 
+VIDÉOSUR
+VEILLANCE
+53
+  - Deuxième cas : seule une déclaration auprès de la CNIL est nécessaire
+  C’est le cas quand le dispositif est installé dans un lieu non public et que les 
+images sont enregistrées ou conservées dans des traitements informatisés 
+ou des fi chiers structurés qui permettent d’identifi er des personnes physi-
+ques.
+           
+  La CNIL recommande aux responsables de tels traitements, ou à ceux qui 
+envisagent de s’en doter, de se reporter à la fi che « La vidéosurveillance sur 
+les lieux de travail : quelles garanties apporter ? » extraite du « Guide prati-
+que pour les employeurs ».
+2) Le régime juridique n’est pas clair et pose problème dans deux cas :
+  - Premier cas :  la question complexe et délicate mais heureusement rare, 
+du cumul de l’autorisation préfectorale et de la déclaration auprès de la 
+CNIL 
+ -  La question se pose quand le dispositif de vidéosurveillance est installé 
+dans un lieu public ou ouvert au public et que les images sont enregistrées 
+et conservées dans des traitements informatisés ou des fi chiers structurés 
+qui permettent d’identifi er des personnes physiques (par exemple en rap-
+prochant les images avec des informations d’état civil contenues dans un 
+autre fi chier ).
+ -  La question se pose également quand le dispositif de vidéosurveillance 
+est installé dans un lieu qui est public ou ouvert au public et qui comporte 
+également des zones non ouvertes au public, par exemple un supermarché 
+(lieux mixtes) et si les images sont enregistrées et conservées dans des 
+traitements informatisés ou des fi chiers structurés qui permettent d’iden-
+tifi er des personnes physiques (par exemple en rapprochant les images 
+avec des informations d’état civil contenues dans un autre fi chier). 
+  Ces deux hypothèses posent clairement la question de l’interprétation à 
+donner aux dispositions de l’article 10 de la loi de 1995 : les compétences 
+de la CNIL et de l’autorité préfectorale sont-elles exclusives l’une de l’autre 
+ou cumulatives ?     
+FICHE
+ 
+N
+° 15 : 
+LES
+ 
+DISPOSITIFS
+ 
+DE
+ 
+VIDÉOSUR
+VEILLANCE
+GUIDE PRATIQUE COLLECTIVITÉS LOCALES 54
+  - Deuxième cas : le système s’accompagne d’un dispositif biométrique de  
+reconnaissance faciale.
+   Il doit alors faire l’objet d’une demande d’autorisation auprès de la CNIL 
+puisqu’il fait appel à une technique biométrique ( voir fi che n° 16 ).
+  Compte-tenu du fait que les images sont dans ce cas enregistrées et 
+conservées dans des traitements informatisés ou des fi chiers structurés qui 
+permettent d’identifi er des personnes physiques, doit-on considérer que 
+l’autorisation préfectorale est également nécessaire si le dispositif de vidéo-
+surveillance est installé dans un lieu public ou ouvert au public ?
+ 
+3)  Les garanties à respecter
+ -  Le nécessaire respect de la vie privée : les dispositifs de vidéosurveillan-
+ce ne doivent permettre de visualiser ni l’intérieur des immeubles d’habita-
+tion ni, de façon spécifi que, leurs entrées.
+ -  Une durée de conservation limitée : pour les lieux publics ou ouverts 
+au public et, sauf enquête ou information judiciaire, les enregistrements 
+doivent être détruits dans le délai de conservation fi xé par l’autorisation 
+préfectorale, qui ne peut excéder un mois. La durée de conservation des 
+images doit être la même pour les systèmes de vidéosurveillance installés 
+dans les lieux non ouverts au public.
+ -  L’information des personnes : l’existence du système de vidéosurveillan-
+ce et l’identité de l’organisme qui le gère doivent être portées à la connais-
+sance de toute personne fi lmée ou susceptible de l’être. Cette information 
+doit être assurée de façon claire et permanente, par exemple au moyen de 
+panonceaux apposés à l’entrée des locaux ouverts au public.  
+ -  Droit d’accès : toute personne peut demander au responsable du système 
+à avoir accès aux enregistrements qui la concernent ou à vérifi er leur effa-
+cement dans le délai prévu. Les coordonnées (nom ou qualité et numéro 
+de téléphone) du responsable doivent apparaître sur les supports d’infor-
+mation évoqués ci-dessus.
+ -  Les destinataires des images : ils doivent être précisément visés et si 
+l’autorisation préfectorale prévoit que des agents des services de la police 
+ou de la gendarmerie nationales sont destinataires des images et enregis-
+trements, ceux-ci doivent être individuellement désignés et dûment habili-
+tés par le chef du service dans lequel ils sont affectés.
+FICHE
+ 
+N
+° 15 : 
+LES
+ 
+DISPOSITIFS
+ 
+DE
+ 
+VIDÉOSUR
+VEILLANCE
+55
+Fiche n°16 : les applications 
+biométriques
+FICHE
+ 
+N
+°16 : 
+LES
+ 
+APPLICA
+TIONS
+ 
+BIOMÉTRIQUES
+  Les dispositifs biométriques, parce qu’ils permettent d’identifi er une personne 
+par ses caractéristiques physiques, biologiques voire comportementales, 
+sont particulièrement sensibles et sont donc  soumis à un contrôle particulier 
+de la CNIL.
+  Ainsi, ces dispositifs ne peuvent être mis en œuvre sans autorisation 
+préalable de la CNIL. 
+  La biométrie, qu’est-ce que c’est ?
+La biométrie regroupe l’ensemble des techniques informatiques 
+permettant de reconnaître automatiquement un individu à partir 
+de ses caractéristiques physiques, biologiques, voire 
+comportementales. Les données biométriques sont des données 
+à caractère personnel car elles permettent d’identifi er une 
+personne. Elles ont, pour la plupart, la particularité d’être uniques 
+et permanentes (ADN, empreintes digitales…). Elles se rapprochent 
+ainsi de ce qui pourrait être défi ni comme un «identifi cateur unique 
+universel», permettant de fait le traçage des individus. 
+1. Le cadre juridique 
+  Tous les dispositifs de reconnaissance biométrique sont soumis à autorisation 
+préalable de la CNIL quel que soit le procédé technique retenu (contour ou 
+forme de la main, empreinte digitale…).
+  Il appartient à chaque collectivité locale d’adresser une demande  
+d’autorisation à la CNIL. Chaque  application fait  l’objet d’un examen au cas 
+par cas, en fonction notamment de la caractéristique biométrique utilisée.
+  ATTENTION : 
+  La CNIL n’agrée pas et ne labellise pas les dispositifs biométriques. 
+Les sociétés qui commercialisent ce type de dispositifs ne peuvent 
+donc en aucune façon se prévaloir d’un quelconque agrément 
+de la CNIL sur leur produit.
+GUIDE PRATIQUE COLLECTIVITÉS LOCALES 56
+FICHE
+ 
+N
+°16 : 
+LES
+ 
+APPLICA
+TIONS
+ 
+BIOMÉTRIQUES
+2. Des formalités allégées pour certains dispositifs biométriques
+  Afi n de faciliter les formalités, la Commission a défi ni un cadre, appelé  
+autorisation unique, applicable à certains dispositifs biométriques. Le 
+principe est le suivant : lorsque, par exemple, une collectivité locale souhaite 
+mettre en œuvre un dispositif biométrique qui répond aux conditions défi nies 
+dans ce cadre, elle peut bénéfi cier d’une procédure simplifi ée. Il lui suffi t 
+alors d’adresser à la CNIL une simple déclaration de conformité.
+  Cette procédure d’autorisation unique s’applique aux dispositifs  reposant 
+sur la reconnaissance :
+ -  du contour de la main pour assurer le contrôle d’accès au restaurant 
+scolaire (autorisation n°AU-009) 
+ -  du contour de la main pour assurer le contrôle d’accès et la gestion 
+des horaires et de la restauration sur les lieux de travail (autorisation 
+n°AU-008) ;
+ -  de l’empreinte digitale exclusivement enregistrée sur un support individuel 
+détenu par la personne concernée pour contrôler l’accès aux locaux 
+professionnels (autorisation n°AU-007).
+  ATTENTION : 
+  L’utilisation de dispositifs de reconnaissance biométrique, 
+pour la  gestion des contrôles d’accès aux locaux, des horaires 
+et de la restauration ne peut être déclarée en référence à la norme 
+simplifi ée n° 42, relative aux traitements de contrôle d’accés.
+3. La nécessaire information préalable des intéressés
+  Les personnes concernées par le dispositif biométrique doivent être 
+clairement informées de ses conditions d’utilisation, de son caractère 
+obligatoire ou facultatif, des destinataires des informations et des modalités 
+d’exercice de leurs droits d’opposition, d’accès et de rectifi cation.
+  En outre, et conformément à la législation applicable à la fonction publique 
+territoriale, les instances représentatives du personnel (CAP) doivent, 
+le cas échéant, être consultées et informées avant la mise en œuvre des 
+dispositifs.
+57
+4. Comment déclarer ?
+  Si le dispositif biométrique est conforme à l’une de ces trois autorisations 
+uniques, il suffi t d’adresser à la CNIL  une simple déclaration de conformité 
+qui peut s’effectuer en ligne sur www.cnil.fr.
+  Les traitements ne relevant pas de l’une de ces autorisations uniques doivent 
+faire l’objet d’une demande d’autorisation. Cette demande est constituée du 
+formulaire de déclaration, complété et signé par le responsable du traitement 
+ou son représentant, accompagné des annexes « sécurité » (également 
+disponibles sur le site web de la CNIL), ainsi que de tout élément justifi ant la 
+mise en place du dispositif de reconnaissance biométrique envisagé.
+FICHE
+ 
+N
+°16 : 
+LES
+ 
+APPLICA
+TIONS
+ 
+BIOMÉTRIQUES
+GUIDE PRATIQUE COLLECTIVITÉS LOCALES 58
+ Fiche n° 17 : la géolocalisation
+ 
+FICHE
+ 
+N
+° 17 : 
+LA
+ 
+GÉOLOCALISA
+TION
+  Les collectivités locales qui gèrent une fl otte importante de véhicules 
+professionnels (pour l’entretien des espaces publics, la collecte des ordures 
+ménagères, les interventions sur la voirie, etc.) peuvent vouloir les équiper 
+d’un dispositif de géolocalisation en temps réel. La géolocalisation d’un 
+véhicule permet, de fait, de savoir où se trouvent son conducteur et ses 
+passagers, et de tracer ainsi les déplacements des personnes. Compte tenu 
+des risques d’atteinte aux droits et libertés des personnes que comporte 
+l’utilisation de ces dispositifs, la CNIL a estimé nécessaire de préciser, dans 
+une recommandation du 16 mars 2006, les conditions dans lesquelles ils 
+pouvaient être utilisés.
+1) Pour quelles utilisations ?
+  Un dispositif de géolocalisation ne peut être mis en œuvre que pour les
+fi nalités suivantes :
+ -  contribution à la sécurité des personnes ou des marchandises 
+transportées (travailleurs isolés, transports de fonds et de valeurs, etc.) ;
+ -  meilleure gestion des moyens en personnel et véhicules (prestations à 
+accomplir en des lieux dispersés) ;
+ -  suivi et facturation d’une prestation (par exemple : ramassage scolaire, 
+nettoyage des accotements, déneigement routier, patrouilles de service 
+sur le réseau routier, etc.) ;
+ -  suivi du temps de travail, lorsque ce suivi ne peut être réalisé par d’autres 
+moyens.
+  En revanche, le recours à la géolocalisation n’est pas justifi é lorsqu’un 
+employé dispose d’une liberté dans l’organisation de ses déplacements 
+(visiteurs médicaux, VRP, etc.).
+  Quelle que soit la fi nalité envisagée, l’utilisation d’un dispositif de 
+géolocalisation ne doit pas conduire à un contrôle permanent de l’employé 
+concerné.
+  En outre, le responsable du traitement ne doit pas géolocaliser ses 
+employés en dehors de leurs horaires de travail : lorsque les véhicules 
+peuvent être utilisés à des fi ns privées, les employés doivent donc pouvoir 
+désactiver le dispositif de géolocalisation à l’issue de leur temps de travail.
+59
+2) À quelles conditions ?
+ La mise en œuvre d’un traitement de géolocalisation : 
+ -  ne doit pas permettre la collecte d’informations concernant les éventuels 
+dépassements des limitations de vitesse ;
+ -  doit nécessairement s’accompagner de la mise en place de mesures de 
+sécurité afi n de limiter l’accès aux données de géolocalisation aux seules 
+personnes qui, dans le cadre de leur fonction, peuvent légitimement en 
+avoir connaissance ;
+ -  implique de fi xer une durée de conservation adéquate de ces données 
+(généralement, deux mois).
+  Les employés investis d’un mandat électif ou syndical ne peuvent pas être 
+géolocalisés lorsqu’ils agissent dans le cadre de l’exercice de leur mandat.
+3) L’information des agents concernés
+  La collectivité doit procéder à la consultation des instances représentatives 
+du personnel et à l’information individuelle des agents concernés avant 
+la mise en œuvre d’un dispositif de géolocalisation.
+  Cette information doit porter sur la fi nalité précise du traitement de 
+géolocalisation, les données de localisation traitées, leur durée de 
+conservation, les destinataires de ces données. La collectivité doit 
+également rappeler aux intéressés comment exercer leurs droit d’accès, de 
+rectifi cation et d’opposition.
+  Chaque agent doit pouvoir accéder aux données de géolocalisation le 
+concernant.
+4) Comment déclarer ?
+  Si le dispositif de géolocalisation des agents par l’intermédiaire de leur 
+véhicule est en tout point conforme aux prescriptions de la norme simplifi ée 
+n° 51, le responsable du traitement peut procéder en ligne à une déclaration 
+de conformité à cette norme. Dans les autres cas, il lui appartiendra 
+d’adresser une déclaration normale à la CNIL.
+ 
+ 
+FICHE
+ 
+N
+° 17 : 
+LA
+ 
+GÉOLOCALISA
+TION
+GUIDE PRATIQUE COLLECTIVITÉS LOCALES 60
+61
+ Mode d’emploi : comment déclarer ?
+MODE
+ 
+D
+’
+EMPLOI
+ : 
+COMMENT
+ 
+DÉCLARER
+ ?
+  La déclaration est une obligation légale dont le non-respect est 
+pénalement sanctionné (20). Tout fi chier ou traitement informatisé 
+comportant des données personnelles doit donc être déclaré à la CNIL 
+préalablement à sa mise en œuvre, sauf s’il est expressément exonéré de 
+déclaration. Cette procédure de déclaration peut prendre plusieurs formes 
+selon le fi chier concerné (21).
+  En cas de doute sur le régime déclaratif dont relève le traitement, il suffi t 
+de remplir un formulaire de déclaration normale : la CNIL se chargera de 
+qualifi er le dossier et de contacter le déclarant.
+  Dans tous les cas, la désignation d’un correspondant « informatique et libertés » 
+dispense l’organisme concerné de devoir accomplir les formalités relatives 
+aux fi chiers relevant de la déclaration simplifi ée et de la déclaration normale.
+1) Les dispenses de déclaration
+  Un certain nombre de traitements, décrits dans le tableau récapitulatif 
+fi gurant ci-après, sont dispensés de déclaration par une décision de la CNIL 
+(paie des personnels, dématérialisation du contrôle de légalité des marchés 
+publics…).
+ ATTENTION : 
+  Le fait d’être exonéré ne signifi e pas pour autant que vous 
+n’avez aucune obligation. Vous devez notamment garantir le droit 
+d’information des personnes ainsi que la sécurité des données.
+2) La déclaration normale
+  Le régime de droit commun est la déclaration normale, lorsque le fi chier 
+ne relève pas d’une procédure particulière (art. 22 de la loi du 6 janvier 1978 
+modifi ée en 2004). Le traitement peut être mis en œuvre dès réception du 
+récépissé délivré par la CNIL.
+  Le récépissé atteste de l’accomplissement des formalités de déclaration, 
+mais n’exonère pas le responsable du traitement des autres obligations
+prévues par la loi (respect de la fi nalité du fi chier, sécurité et confi dentialité, 
+respect des droits des personnes…).
+20) Article 226-16 du code pénal : « Le fait, y compris par négligence, de procéder ou de faire procéder à des traitements 
+de données à caractère personnel sans qu’aient été respectées les formalités préalables à leur mise en œuvre prévues par 
+la loi est puni de cinq ans d’emprisonnement et de 300 000  d’amende ».
+21) Le régime déclaratif des principaux fi chiers mis en œuvre par les collectivités locales est indiqué dans le tableau
+récapitulatif fi gurant ci-après.
+ 
+GUIDE PRATIQUE COLLECTIVITÉS LOCALES 62
+3) La déclaration simplifi ée
+  La plupart des fi chiers des collectivités locales peuvent faire l’objet de 
+déclarations simplifi ées, qui peuvent être effectuées par l’intermédiaire du 
+site web de la CNIL (www.cnil.fr, rubrique « Comment déclarer »).
+4) Les formalités particulières
+  Certains traitements des collectivités locales peuvent relever d’un régime 
+d’autorisation ou de demande d’avis. Il s’agit de régimes plus protecteurs, 
+qui s’appliquent aux fi chiers considérés comme « sensibles » ou comportant 
+des risques pour la vie privée ou les libertés.
+ * La procédure d’autorisation concerne (art. 25) :
+ -  les traitements qui comportent des données dites sensibles énumérées à 
+l’article 8 de la loi ;
+ -  les traitements qui comportent des données relatives aux infractions ou 
+condamnations ; 
+ -  les traitements qui procèdent à l’interconnexion de fi chiers dont les fi nalités 
+correspondent à des intérêts publics différents ;
+ -  les traitements de données comportant des appréciations sur les diffi cultés 
+sociales des personnes ;
+ - les traitements qui utilisent des données biométriques.
+  Le traitement devra respecter en tout point le cadre fi xé par l’autorisation 
+délivrée par la CNIL.
+ *  La procédure de demande d’avis (art. 27) concerne principalement les 
+traitements comportant le numéro de sécurité sociale (NIR) ou nécessitant 
+une interrogation du répertoire national d’identifi cation des personnes
+physiques (RNIPP), et les téléservices de l’administration électronique 
+comportant un identifi ant des personnes physiques.
+  La demande d’avis doit être accompagnée d’un projet d’arrêté ou de décision 
+de l’organe délibérant, destiné à autoriser le traitement une fois l’avis de la 
+CNIL rendu.
+MODE
+ 
+D
+’
+EMPLOI
+ : 
+COMMENT
+ 
+DÉCLARER
+ ?
+63
+5) Une fois le dossier complété :
+ -  dans le cas d’une télédéclaration, la CNIL adresse immédiatement après 
+envoi un accusé de réception électronique ;
+ -  dans le cas d’un déclaration au moyen du formulaire papier, cette 
+dernière doit être adressée par envoi recommandé avec demande d’avis de 
+réception postal à la CNIL (8 rue Vivienne, CS 30223 75083, Paris Cedex 
+02)  ou déposé auprès de la CNIL, contre reçu.
+  La CNIL délivre ensuite par voie postale ou électronique un récépissé 
+de déclaration indiquant le numéro sous lequel le traitement déclaré est 
+enregistré.
+  Pour les procédures particulières d’autorisation ou d’avis, la CNIL adresse 
+au déclarant une notifi cation de l’autorisation ou de l’avis qu’elle a rendu.
+MODE
+ 
+D
+’
+EMPLOI
+ : 
+COMMENT
+ 
+DÉCLARER
+ ?
+GUIDE PRATIQUE COLLECTIVITÉS LOCALES 64
+65
+Tableau récapitulatif :
+quelle déclaration pour quel fi chier ?
+T
+ABLEAU
+ 
+RÉCAPITULA
+TIF
+ : 
+QUELLE
+ 
+DÉCLARA
+TION
+ 
+POUR
+ 
+QUEL
+ 
+FICHIER
+ ?L’EXONÉRATION ou LA DISPENSE de déclaration : 
+ 
+Aucune formalité déclarative requise
+Finalité du fi chier Texte de référence
+Information et communication externes Dispense n° 7
+S’applique notamment aux sites internet qui 
+ne collectent des informations à caractère 
+personnel qu’à des fi ns d’information et de 
+communication, à l’exclusion des téléservices.
+S’applique à l’utilisation de la liste électorale 
+à des fi ns de communication municipale.
+Exclut toute sollicitation commerciale.
+Gestion des rémunérations
+(paie, déclarations fi scales et sociales, 
+tenue des registres obligatoires)
+Dispense n° 1
+Comptabilité générale Délibération n° 80-34 du 21 octobre 1980
+Gestion des fi chiers de fournisseurs Dispense n° 4
+Gestion dématérialisée des marchés publics Dispense n° 3
+Télétransmission des actes soumis au contrôle 
+de légalité
+Dispense n° 5
+Conservation d’archives Article 36 de la loi du 6 janvier 1978
+Registres des personnes âgées ou 
+handicapées mis en œuvre dans le cadre 
+du plan d’alerte et d’urgence départemental 
+en cas de risques exceptionnels (« fi chiers 
+canicule », grands froids…)
+Décret n° 2004-926 du 1er septembre 2004 pris 
+en application de l’article L. 121-6-1 
+du code de l’action sociale et des familles.
+Exclut les systèmes automatisés d’alerte de 
+la population (en cas de risque naturel ou 
+industriel), qui doivent faire l’objet d’une 
+déclaration normale.
+Gestion des activités sociales et culturelles 
+par les comités des œuvres sociales ou les 
+délégués du personnel
+Dispense n° 10
+Attention
+ Le fait d’être exonéré de déclaration ne signifi e pas pour autant que vous 
+n’avez aucune obligation. Vous devez notamment garantir la loyauté 
+de la collecte, le droit à l’information des personnes, la durée de conservation 
+ainsi que la sécurité des données.
+En pratique   
+-  Prendre connaissance du texte correspondant à l’exonération ou dispense ; 
+le traitement doit respecter en tout point le cadre fi xé par la décision.
+GUIDE PRATIQUE COLLECTIVITÉS LOCALES 66
+T
+ABLEAU
+ 
+RÉCAPITULA
+TIF
+ : 
+QUELLE
+ 
+DÉCLARA
+TION
+ 
+POUR
+ 
+QUEL
+ 
+FICHIER
+ ?
+La DÉCLARATION de CONFORMITÉ
+(à une norme simplifi ée,  une autorisation unique, ou un acte 
+réglementaire unique)
+LA DÉCLARATION DE CONFORMITÉ À UNE NORME SIMPLIFIÉE
+Si désignation d’un correspondant : aucune formalité déclarative requise.
+Finalité du fi chier Texte de référence
+VisDGI cadastre Norme simplifi ée n° 44
+S’applique uniquement à l’utilisation des 
+cédéroms de type «VisDGI» par les communes.
+Rôles des impôts locaux Norme simplifi ée n° 45
+S’applique aux cédéroms de type «VISDGI» 
+et aux fi chiers complets.
+Exclut la fi nalité d’aide au recensement 
+des bases d’imposition.
+Gestion de l’état civil Norme simplifi ée n° 43
+Gestion des listes électorales Normes simplifi ées n° 24 et 38
+Communication politique Norme simplifi ée n° 34
+Le déclarant est le parti politique, l’élu 
+ou le candidat à des fonctions électives.
+Gestion des communes de – de 2000 habitants
+gestion de l’état civil, du fi chier électoral, 
+facturation des consommations d’énergie 
+et d’eau et des redevances d’assainissement, 
+mise en recouvrement de taxes et redevances, 
+facturation des services offerts aux parents, 
+gestion des prêts de livres et disques)
+Norme simplifi ée n° 32
+S’applique uniquement aux communes 
+de – de 2000 habitants.
+Exclut la facturation de la redevance 
+d’enlèvement des ordures ménagères.
+Gestion des élèves des écoles maternelles et 
+élémentaires
+Norme simplifi ée n° 33
+S’applique uniquement aux fi chiers des 
+mairies.
+Exclut l’enregistrement du n° INSEE ou
+n° de sécurité sociale.
+67
+T
+ABLEAU
+ 
+RÉCAPITULA
+TIF
+ : 
+QUELLE
+ 
+DÉCLARA
+TION
+ 
+POUR
+ 
+QUEL
+ 
+FICHIER
+ ?Facturation des services offerts aux parents
+(gestion des transports et restaurants 
+scolaires, centres aérés et garderies, 
+écoles de musique, crèches municipales)
+Norme simplifi ée n° 27
+Ne s’applique pas aux téléservices.
+Recouvrement de certaines taxes et redevan-
+ces (droits de voirie, droits immobiliers, taxes 
+sur le chauffage et éclairage par électricité, 
+taxes et redevances de cimetières, facturation 
+des ordures ménagères…)
+Norme simplifi ée n° 10
+Les données doivent avoir été collectées 
+directement auprès des personnes 
+concernées.
+Consommations de gaz, d’électricité, d’eau, 
+et redevances d’assainissement facturables
+Norme simplifi ée n° 8
+Les déclarants sont les services publics 
+concédés, affermés, en régie directe ou 
+intéressée.
+Lutte contre la vacance des logements Norme simplifi ée n° 49
+S’applique uniquement à l’envoi de courriers 
+personnalisés liés à la politique d’aide au 
+logement.
+Logement social Norme simplifi ée n° 20
+Enquêtes à des fi ns statistiques Norme simplifi ée n° 19
+Prêts de livres, disques, documents d’archives 
+publiques
+Norme simplifi ée n° 9
+S’applique aux bibliothèques, médiathèques…
+Gestion courante des ressources humaines
+(gestion administrative, mise à disposition 
+d’outils informatiques, organisation du travail, 
+gestion des carrières et de la formation)
+Norme simplifi ée n° 46
+Ne s’applique pas aux dispositifs de contrôle 
+des employés (vidéosurveillance, badgeuses, 
+cybersurveillance).
+Contrôles d’accès aux locaux, des horaires et 
+de la restauration administrative
+Norme simplifi ée n° 42
+Ne s’applique pas aux dispositifs 
+d’identifi cation biométrique.
+Utilisation des services téléphoniques sur les 
+lieux de travail
+Norme simplifi ée n° 47
+S’applique aux services de téléphonie fi xe 
+ou mobile.
+Ne s’applique pas aux dispositifs d’écoute 
+ou d’enregistrement des conversations 
+téléphoniques, ou à la localisation d’un 
+employé à partir de son téléphone portable.
+Géolocalisation des véhicules utilisés 
+par les employés
+Norme simplifi ée n° 51
+GUIDE PRATIQUE COLLECTIVITÉS LOCALES 68
+T
+ABLEAU
+ 
+RÉCAPITULA
+TIF
+ : 
+QUELLE
+ 
+DÉCLARA
+TION
+ 
+POUR
+ 
+QUEL
+ 
+FICHIER
+ ?LA DÉCLARATION DE CONFORMITÉ À UNE AUTORISATION UNIQUE
+OU UN ACTE RÉGLEMENTAIRE UNIQUE
+Finalité du fi chier Texte de référence
+Systèmes d’information géographique (SIG) 
+ou autres traitements associant données 
+cadastrales, d’urbanisme et/ou des SPANC 
+(services publics de l’assainissement non 
+collectif)
+Autorisation unique n° 1
+S’applique à toutes les collectivités locales 
+et leurs groupements (EPCI, syndicats de 
+communes..).
+Dispositifs biométriques pour le contrôle 
+d’accès, la gestion des horaires et de 
+la restauration sur les lieux de travail 
+(contour de la main)
+Autorisation unique n° 7
+Ne s’applique qu’aux systèmes reposant 
+sur la reconnaissance du contour de la main.
+Dispositifs biométriques de contrôle de l’accès 
+aux locaux sur les lieux de travail (empreintes 
+digitales)
+Autorisation unique n° 8
+Ne s’applique qu’aux systèmes reposant 
+sur la reconnaissance de l’empreinte digitale 
+enregistrée sur un support individuel détenu 
+par la personne concernée.
+Validation des attestations d’accueil Décret n° 2005-937 du 2 août 2005 
+(acte réglementaire unique n° 1).
+Téléservice « Demande d’acte de naissance » Arrêté du 6 février 2006 
+(acte réglementaire unique n° 2)
+Ne s’applique qu’aux communes adhérentes 
+au portail « acte de naissance » de la DGME.
+En pratique   
+-  Prendre connaissance du texte correspondant à la procédure indiquée (norme 
+simplifi ée, autorisation unique ou acte réglementaire unique) ; le traitement doit 
+respecter en tout point le cadre fi xé par la décision.
+-  Déclarer en ligne sur le site de la CNIL (www.cnil.fr), ou utiliser le formulaire de 
+déclaration simplifi ée téléchargeable.
+-  Un récépissé de la déclaration est adressé au responsable du traitement dans 
+les meilleurs délais.
+69
+T
+ABLEAU
+ 
+RÉCAPITULA
+TIF
+ : 
+QUELLE
+ 
+DÉCLARA
+TION
+ 
+POUR
+ 
+QUEL
+ 
+FICHIER
+ ?
+FINALITÉ DU FICHIER OBSERVATIONS
+Tout traitement automatisé comportant des 
+données à caractère personnel, dès lors qu’il 
+n’est conforme à aucune des normes précitées 
+(dispense, norme simplifi ée, autorisation 
+unique, acte réglementaire unique), et qu’il ne 
+relève pas d’une procédure d’autorisation ou 
+d’avis préalable (voir ci-après).
+Exemples :
+-  Gestion foncière, aménagement du 
+territoire… sans interconnexion ou mise en 
+relation de fi chiers différents
+-  Etudes et actions d’amélioration de l’habitat
+- Gestion des ordures ménagères
+- Gestion des cimetières
+-  Observatoire fi scal et aide au recensement 
+des bases d’imposition
+-  Alertes de la population en cas de risque 
+naturel ou industriel, plans communaux de 
+sauvegarde
+-  Gestion des demandes de pièces d’identité 
+et autres documents administratifs
+-  Gestion des aires d’accueil des gens du 
+voyage
+- Gestion de l’aide sociale légale et facultative
+- Fichier des demandeurs d’emploi
+-  Système de vidéosurveillance installé dans 
+un lieu public ou ouvert au public lorsque 
+les enregistrements sont contenus dans des 
+fi chiers
+-  Système de vidéosurveillance implanté dans 
+les locaux d’une collectivité non accessibles 
+au public…
+Hors systèmes d’information géographiques, 
+logiciels d’urbanisme ou de SPANC, qui relè-
+vent d’une autorisation (voir 
+autorisation unique n° 1), et cédéroms
+VisDGI-cadastre, qui font l’objet d’une 
+déclaration simplifi ée (voir norme 
+simplifi ée n° 44).
+Hors « fi chiers canicule » dispensés 
+de déclaration.
+La DÉCLARATION NORMALE
+ Si désignation d’un correspondant : aucune formalité 
+déclarative requise
+En pratique   
+-  Déclarer en ligne sur le site de la CNIL (www.cnil.fr), ou utiliser le formulaire de 
+déclaration normale téléchargeable.
+-  Un récépissé de la déclaration sera adressé postérieurement au responsable du 
+traitement.
+- Le traitement devra respecter en tout point les termes de la déclaration.
+ 
+GUIDE PRATIQUE COLLECTIVITÉS LOCALES 70
+T
+ABLEAU
+ 
+RÉCAPITULA
+TIF
+ : 
+QUELLE
+ 
+DÉCLARA
+TION
+ 
+POUR
+ 
+QUEL
+ 
+FICHIER
+ ?
+FINALITÉ DU FICHIER OBSERVATIONS
+Traitements ayant pour objet l’interconnexion 
+de fi chiers dont les fi nalités correspondent 
+à des intérêts publics différents (systèmes 
+d’information géographiques, cartes 
+multiapplicatives…).
+SIG n’entrant pas dans le champ de 
+l’autorisation unique n° 1.
+Traitement de données comportant 
+des appréciations sur les diffi cultés 
+sociales des personnes (fi chiers des centres 
+communaux d’action sociale…).
+Ne concerne que les fi chiers qui recourent à 
+des typologies pour caractériser les diffi cultés 
+sociales des personnes.
+Les fi chiers de gestion de l’aide sociale légale 
+relèvent de la déclaration normale.
+Utilisation de données biométriques 
+nécessaires au contrôle de l’identité 
+des personnes (contrôles d’accès par 
+enregistrement de l’empreinte digitale dans un 
+fi chier, systèmes de vidéosurveillance utilisant 
+une technologie de reconnaissance faciale…).
+Dispositifs biométriques n’entrant pas 
+dans le champ des autorisations uniques 
+n° 7 et 8.
+L’AUTORISATION
+En pratique   
+-  Utiliser le formulaire de déclaration normale téléchargeable sur le site de la CNIL 
+(www.cnil.fr). Joindre un descriptif du fi chier établi à l’aide des modèles d’annexes 
+proposés, notamment sur les sécurités mises en place et les échanges de données 
+éventuels. 
+-  Le traitement devra respecter en tout point le cadre fi xé par l’autorisation délivrée 
+ou par l’acte réglementaire accompagné de l’avis de la CNIL.
+ 
+71
+T
+ABLEAU
+ 
+RÉCAPITULA
+TIF
+ : 
+QUELLE
+ 
+DÉCLARA
+TION
+ 
+POUR
+ 
+QUEL
+ 
+FICHIER
+ ?
+FINALITÉ DU FICHIER OBSERVATIONS
+Utilisation du NIR ou consultation du répertoire 
+national d’identifi cation des personnes 
+physiques (RNIPP).
+Si l’utilisation du NIR a déjà été autorisée par 
+décret, le traitement est soumis à déclaration 
+normale.
+Recensement de la population (métropole et 
+collectivités d’outre-mer).
+Les fi chiers mis en place par les communes 
+pour suivre l’avancement du processus de 
+collecte ou calculer la paie des agents 
+recenseurs n’ont pas à être déclarés à la CNIL. 
+Leur durée de conservation doit cependant 
+être limitée au strict nécessaire.
+Les données relatives au recensement à 
+proprement parler ne doivent pas être 
+conservées par les communes.
+Téléservices de l’administration électronique 
+utilisant un identifi ant des personnes 
+physiques (demandes d’actes, inscription 
+à des services…)
+LA DEMANDE D’AVIS
+En pratique   
+-  Utiliser le formulaire de déclaration normale téléchargeable sur le site de la CNIL 
+(www.cnil.fr). Joindre un descriptif du fi chier établi à l’aide des modèles d’annexes 
+proposés, notamment sur les sécurités mises en place et les échanges de données 
+éventuels. Pour la demande d’avis, joindre en plus un projet d’acte réglementaire (arrêté 
+ou décision de l’organe délibérant de l’établissement).
+-  Le traitement devra respecter en tout point le cadre fi xé par l’autorisation délivrée 
+ou par l’acte réglementaire accompagné de l’avis de la CNIL.
+ 
+GUIDE PRATIQUE COLLECTIVITÉS LOCALES 72
+MODÈLES
+ 
+DE
+ 
+NOTE
+ 
+D
+’
+INFORMA
+TION
+Modèles de notes d’information
+MODÈLE DE NOTE D’INFORMATION
+A PORTER SUR LES FORMULAIRES DE COLLECTE
+……………………………………… (indication de l’identité du responsable du traitement)
+« Les informations recueillies font l’objet d’un traitement informatique destiné à … 
+(préciser la fi nalité . Les destinataires des données sont : ………………………(pré-
+cisez). Conformément à la loi « informatique et libertés » du 6 janvier 1978 mo-
+difi ée en 2004, vous bénéfi ciez d’un droit d’accès et de rectifi cation aux infor-
+mations qui vous concernent. que vous pouvez exercer en vous adressant à 
+……………………………………………………………(préciser le service et l’adresse). [ 
+vous pouvez également, pour des motifs légitimes, vous opposer au traitement des 
+données vous concernant]22».
+MODÈLE DE NOTE D’INFORMATION 
+SUSCEPTIBLE D’ÊTRE AFFICHÉE
+«Le(s) service(s)……………………………………………(citer le nom du ou des servi-
+ces concernés) dispose(nt) de moyens informatiques destinés à gérer plus facilement 
+……………………………(indiquer la fi nalité du traitement).
+Les informations enregistrées sont réservées à l’usage du (ou des) service(s) concerné(s) 
+et ne peuvent être communiquées qu’aux destinataires suivants : …(préciser les 
+destinataires). 
+Conformément aux articles 39 et suivants de la loi n° 78-17 du 6 janvier 1978 modifi ée 
+en 2004 relative à l’informatique, aux fi chiers et aux libertés, toute personne peut obtenir 
+communication et, le cas échéant, rectifi cation ou suppression des informations la 
+concernant, en s’adressant au service…………………………………………(citer le nom 
+du service ou des services concernés).
+22) A ne pas faire fi gurer si le traitement présente un caractère obligatoire.
+73
+MODÈLE
+ 
+DE
+ 
+CLAUSE
+ 
+DE
+ 
+CONFIDENTIALITÉ
+MODÈLE DE CLAUSE DE CONFIDENTIALITÉ DANS
+LE CADRE D’UN CONTRAT DE SOUS-TRAITANCE
+Les supports informatiques fournis par la .................. et tous documents de quelque 
+nature qu’ils soient résultant de leur traitement par la société .................... restent la 
+propriété de la ...........................................................................................
+Les données contenues dans ces supports et documents sont strictement couvertes par 
+le secret professionnel (article 226.13 du code pénal). Conformément à l’article 34 de la 
+loi du 6 janvier 1978 modifi ée en 2004, la société ........................... s’engage à prendre 
+toutes précautions utiles afi n de préserver la sécurité des informations et notamment 
+d’empêcher qu’elles ne soient déformées, endommagées ou communiquées à des per-
+sonnes non autorisées.
+La société .................. s’engage donc à respecter, de façon absolue, les obligations 
+suivantes et à les faire respecter par son personnel, c’est-à-dire notamment à :
+-  ne prendre aucune copie des documents et supports d’informations confi és par la 
+société ............... et utilisés par la société ............ à l’exception de celles nécessaires 
+pour les besoins de l’exécution de sa prestation, objet du présent contrat ;
+-  ne pas utiliser les documents et informations traités à des fi ns autres que celles 
+spécifi ées au présent contrat ;
+-  ne pas divulguer ces documents ou informations à d’autres personnes, qu’il s’agisse 
+de personnes privées ou publiques, physiques ou morales ;
+-  prendre toutes mesures permettant d’éviter toute utilisation détournée ou frauduleuse 
+des fi chiers informatiques en cours d’exécution du contrat ;
+-  prendre toutes mesures, notamment de sécurité matérielle, pour assurer la 
+conservation des documents et informations traités tout au long de la durée du présent 
+contrat ;
+Modèle de clause de confi dentialité
+GUIDE PRATIQUE COLLECTIVITÉS LOCALES 74
+MODÈLE
+ 
+DE
+ 
+CLAUSE
+ 
+DE
+ 
+CONFIDENTIALITÉ
+et en fi n de contrat s’engage à :
+-  procéder à la destruction de tous fi chiers manuels ou informatisés stockant les 
+informations saisies ;
+ou à :
+-  restituer intégralement les supports d’informations selon les modalités prévues au 
+présent contrat.
+A ce titre, également, la société ................... ne pourra sous-traiter l’exécution des pres-
+tations à une autre société, ni procéder à une cession de marché. Les supports d’infor-
+mations qui lui seront remis devront être traités sur le territoire français métropolitain.
+La ...................... se réserve le droit de procéder à toute vérifi cation qui lui paraîtrait utile 
+pour constater le respect des obligations précitées par la société ....................
+Il est rappelé que, en cas de non-respect des dispositions précitées, la responsabilité du 
+titulaire peut également être engagée sur la base des dispositions des articles 226-17 et 
+226-5 du code pénal.
+La ........................ pourra prononcer la résiliation immédiate du contrat, sans indemnité 
+en faveur du titulaire, en cas de violation du secret professionnel ou de non-respect des 
+dispositions précitées.
+75
+M
+ODELE
+ 
+DE
+ 
+NOTE
+ 
+D
+’
+INFORMA
+TION
+ (
+CADASTRE
+)
+INFORMATION PRÉALABLE À LA CONSULTATION OU À LA 
+DÉLIVRANCE D’EXTRAITS D’INFORMATIONS CADASTRALES
+Vous avez souhaité obtenir des informations cadastrales relatives à une propriété 
+déterminée, à partir de sa localisation (adresse) ou de son identifi cation cadastrale 
+(n° de parcelle). Les informations vous seront remises, sous forme papier, par 
+l’intermédiaire de l’agent municipal habilité à cette fi n.
+Conditions de communication des informations cadastrales :
+•  Si vous êtes propriétaire de la parcelle et que vous avez justifi é de cette qualité, ou 
+que vous avez désigné un mandataire qui pourra attester de cette qualité, l’ensemble 
+des données vous concernant peuvent vous être délivrées.
+•  En tant que tiers demandeur, vous pouvez avoir communication des références 
+cadastrales et de l’adresse d’un bien, de son évaluation pour la détermination de 
+la taxe foncière (valeur locative), ainsi que des nom, prénom et adresse du ou des 
+propriétaires. Vous ne pouvez pas avoir accès aux date et lieu de naissance du 
+propriétaire, ni aux mentions relatives aux motifs d’exonération fi scale.
+Conditions de réutilisation des informations cadastrales :
+• La réutilisation des informations cadastrales est soumise, en l’état actuel de 
+la législation, au consentement de la personne concernée (le propriétaire), ou à 
+l’anonymisation préalable des informations par l’autorité détentrice de ces données, 
+conformément à l’article 13 de la loi du 17 juillet 1978 modifi ée relative à l’accès aux 
+documents administratifs et à la réutilisation des informations publiques.
+• En outre, tout traitement ultérieur ou constitution d’un fi chier comportant des 
+données à caractère personnel est soumis aux dispositions de la loi du 6 janvier 1978 
+modifi ée relative à l’informatique, aux fi chiers et aux libertés.
+Modèle de note d’information (cadastre)
+GUIDE PRATIQUE COLLECTIVITÉS LOCALES 76
+M
+ODÈLE
+ 
+DE
+ 
+NOTE
+ 
+D
+’
+INFORMA
+TION
+ (
+VIDÉOSUR
+VEILLANCE
+)
+Modèle de note d’information
+(vidéosurveillance)
+ÉTABLISSEMENT SOUS VIDÉOSURVEILLANCE
+Nous vous informons que cet établissement est placé sous vidéosurveillance pour des 
+raisons de ................... [indiquer les fi nalités poursuivies].
+ 
+Pour tout renseignement, s’adresser au service ................... ou à ................... [identifi er 
+la personne ou le service compétent], auprès duquel vous pouvez également exercer 
+votre droit d’accès, conformément à la loi « Informatique et Libertés ».
+COLLECTIVITÉS LOCALES ET PROTECTION DES DONNÉES PERSONNELLES
+FICHE N° 1 : les fi chiers de l’état civil
+FICHE N° 2 : la liste électorale
+FICHE N° 3 : la fi scalité locale
+ FICHE N° 4 : les fi chiers sociaux
+FICHE N° 5 : les communes et la prévention de la délinquance
+ FICHE N° 6 : fi chiers cadastraux et systèmes d’information géographique
+FICHE N° 7 : le recensement de la population
+FICHE N° 8 : la gestion des demandes d’attestation d’accueil
+FICHE N° 9 : le contrôle de légalité : le traitement « actes »
+FICHE N° 10 : fournir des renseignements sur les administrés
+FICHE N° 11 : les fi chiers de communication municipale
+FICHE N° 12 : le fi chier des logements vacants
+FICHE N° 13 : le fi chier des associations subventionnées
+FICHE N° 14 : administration électronique locale et téléservices
+FICHE N° 15 : les dispositifs de vidéosurveillance
+FICHE N°16 : les applications biométriques
+FICHE N° 17 : la géolocalisation
+MODE D’EMPLOI : COMMENT DÉCLARER ?
+TABLEAU RÉCAPITULATIF : QUELLE DÉCLARATION POUR QUEL FICHIER ?
+MODÈLES DE NOTE D’INFORMATION
+MODÈLE DE CLAUSE DE CONFIDENTIALITÉ
+MODELE DE NOTE D’INFORMATION (CADASTRE)
+MODÈLE DE NOTE D’INFORMATION (VIDÉOSURVEILLANCE)
+Ce guide est téléchargeable sur le site internet de la CNIL www.cnil.fr
+page  2
+page  9
+page  14
+page  17
+page  21
+page  27
+page  31
+page  35
+page  37
+page 39
+page  40
+page  43
+page  46
+page  49
+page  50
+page 52
+page  55
+page  58
+page 61
+page 65
+page 72
+page 73
+page 75
+page 76
+Sommaire
+ www.cnil.fr
+Agence Aristophane
+É d i t i o n   2 0 0 9
+GUIDE
+LES COLLECTIVITÉS LOCALES
+ 8 rue Vivienne - CS 30223 
+75083 Paris cedex 02
+Tél : 01 53 73 22 22 
+Fax : 01 53 73 22 00

@@ -1,0 +1,252 @@
+Ares
+
+http://dbpedia.org/resource/Ares
+
+EC.
+Schema:Language,DBpedia:Language
+http://dbpedia.org/resource/Koine_Greek
+
+EC.
+Schema:Language,DBpedia:Language
+http://dbpedia.org/resource/Koine_Greek
+
+European Commission
+
+http://dbpedia.org/resource/European_Commission
+
+Brussels
+Schema:Place,DBpedia:Place,DBpedia:PopulatedPlace,DBpedia:Settlement
+http://dbpedia.org/resource/Brussels
+
+Belgium
+Schema:Place,DBpedia:Place,DBpedia:PopulatedPlace,Schema:Country,DBpedia:Country
+http://dbpedia.org/resource/Belgium
+
+MO
+
+http://dbpedia.org/resource/Modus_operandi
+
+02
+DBpedia:Agent,Schema:Organization,DBpedia:Organisation,DBpedia:Company
+http://dbpedia.org/resource/O2_(United_Kingdom)
+
+Brussels
+Schema:Place,DBpedia:Place,DBpedia:PopulatedPlace,DBpedia:Settlement
+http://dbpedia.org/resource/Brussels
+
+Viviane Reding
+DBpedia:Agent,Schema:Person,Http://xmlns.com/foaf/0.1/Person,DBpedia:Person,DBpedia:OfficeHolder
+http://dbpedia.org/resource/Viviane_Reding
+
+European Commission
+
+http://dbpedia.org/resource/European_Commission
+
+BRUSSELS
+Schema:Place,DBpedia:Place,DBpedia:PopulatedPlace,DBpedia:Settlement
+http://dbpedia.org/resource/Brussels
+
+Belgium
+Schema:Place,DBpedia:Place,DBpedia:PopulatedPlace,Schema:Country,DBpedia:Country
+http://dbpedia.org/resource/Belgium
+
+American intelligence community
+
+http://dbpedia.org/resource/United_States_Intelligence_Community
+
+Article 29 Working Party
+
+http://dbpedia.org/resource/Article_29_Working_Party
+
+XKeyscore
+
+http://dbpedia.org/resource/XKeyscore
+
+United States
+
+http://dbpedia.org/resource/Federal_government_of_the_United_States
+
+Eric Holder
+DBpedia:Agent,Schema:Person,Http://xmlns.com/foaf/0.1/Person,DBpedia:Person,DBpedia:OfficeHolder
+http://dbpedia.org/resource/Eric_Holder
+
+ODNI
+DBpedia:Agent,Schema:Organization,DBpedia:Organisation,Schema:GovernmentOrganization,DBpedia:GovernmentAgency
+http://dbpedia.org/resource/Director_of_National_Intelligence
+
+Brookings Institution
+DBpedia:Agent,Schema:Organization,DBpedia:Organisation
+http://dbpedia.org/resource/Brookings_Institution
+
+USA PATRIOT Act
+
+http://dbpedia.org/resource/Patriot_Act
+
+FISA
+
+http://dbpedia.org/resource/Foreign_Intelligence_Surveillance_Act
+
+Executive Order 12333
+
+http://dbpedia.org/resource/Executive_Order_12333
+
+NSA
+DBpedia:Agent,Schema:Organization,DBpedia:Organisation,Schema:GovernmentOrganization,DBpedia:GovernmentAgency
+http://dbpedia.org/resource/National_Security_Agency
+
+FBI
+
+http://dbpedia.org/resource/Federal_Bureau_of_Investigation
+
+CIA
+DBpedia:Agent,Schema:Organization,DBpedia:Organisation,Schema:GovernmentOrganization,DBpedia:GovernmentAgency
+http://dbpedia.org/resource/National_Security_Agency
+
+United States
+
+http://dbpedia.org/resource/Federal_government_of_the_United_States
+
+transit
+
+http://dbpedia.org/resource/Public_transport
+
+transit
+
+http://dbpedia.org/resource/Public_transport
+
+European Union
+
+http://dbpedia.org/resource/European_Union
+
+EC.
+Schema:Language,DBpedia:Language
+http://dbpedia.org/resource/Koine_Greek
+
+transit
+
+http://dbpedia.org/resource/Public_transport
+
+intelligence services
+
+http://dbpedia.org/resource/Intelligence_agency
+
+FISA
+
+http://dbpedia.org/resource/Foreign_Intelligence_Surveillance_Act
+
+United States
+
+http://dbpedia.org/resource/Federal_government_of_the_United_States
+
+European Union
+
+http://dbpedia.org/resource/European_Union
+
+data retention directive
+
+http://dbpedia.org/resource/Data_Retention_Directive
+
+NSA
+DBpedia:Agent,Schema:Organization,DBpedia:Organisation,Schema:GovernmentOrganization,DBpedia:GovernmentAgency
+http://dbpedia.org/resource/National_Security_Agency
+
+FISA
+
+http://dbpedia.org/resource/Foreign_Intelligence_Surveillance_Act
+
+FISA
+
+http://dbpedia.org/resource/Foreign_Intelligence_Surveillance_Act
+
+FISA
+
+http://dbpedia.org/resource/Foreign_Intelligence_Surveillance_Act
+
+security interest
+
+http://dbpedia.org/resource/Security_interest
+
+USA PATRIOT Act
+
+http://dbpedia.org/resource/Patriot_Act
+
+FISA
+
+http://dbpedia.org/resource/Foreign_Intelligence_Surveillance_Act
+
+Executive Order 12333
+
+http://dbpedia.org/resource/Executive_Order_12333
+
+international law
+
+http://dbpedia.org/resource/International_law
+
+Cybercrime Convention
+
+http://dbpedia.org/resource/Convention_on_Cybercrime
+
+Cybercrime Convention
+
+http://dbpedia.org/resource/Convention_on_Cybercrime
+
+trans
+
+http://dbpedia.org/resource/Gender_identity
+
+draft
+
+http://dbpedia.org/resource/Conscription
+
+Budapest Convention
+
+http://dbpedia.org/resource/Convention_on_Cybercrime
+
+cybercrime
+
+http://dbpedia.org/resource/Computer_crime
+
+intelligence services
+
+http://dbpedia.org/resource/Intelligence_agency
+
+intelligence services
+
+http://dbpedia.org/resource/Intelligence_agency
+
+United States
+
+http://dbpedia.org/resource/Federal_government_of_the_United_States
+
+European Commission
+
+http://dbpedia.org/resource/European_Commission
+
+Article 29 Working Party
+
+http://dbpedia.org/resource/Article_29_Working_Party
+
+Cecilia Malmström
+
+http://dbpedia.org/resource/Cecilia_Malmström
+
+Martin Schulz
+DBpedia:Agent,Schema:Person,Http://xmlns.com/foaf/0.1/Person,DBpedia:Person,DBpedia:OfficeHolder
+http://dbpedia.org/resource/Martin_Schulz
+
+European Parliament
+DBpedia:Agent,Schema:Organization,DBpedia:Organisation,DBpedia:Legislature
+http://dbpedia.org/resource/European_Parliament
+
+Juan Fernando López Aguilar
+
+http://dbpedia.org/resource/Juan_Fernando_López_Aguilar
+
+LIBE Committee
+
+http://dbpedia.org/resource/European_Parliament_Committee_on_Civil_Liberties,_Justice_and_Home_Affairs
+
+European Parliament
+DBpedia:Agent,Schema:Organization,DBpedia:Organisation,DBpedia:Legislature
+http://dbpedia.org/resource/European_Parliament
+

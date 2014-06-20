@@ -1,0 +1,276 @@
+European Parliament
+DBpedia:Agent,Schema:Organization,DBpedia:Organisation,DBpedia:Legislature
+http://dbpedia.org/resource/European_Parliament
+
+/11
+DBpedia:TimePeriod,DBpedia:Year
+http://dbpedia.org/resource/11
+
+EUROPEAN PARLIAMENT
+DBpedia:Agent,Schema:Organization,DBpedia:Organisation,DBpedia:Legislature
+http://dbpedia.org/resource/European_Parliament
+
+EUROPEAN PARLIAMENT
+DBpedia:Agent,Schema:Organization,DBpedia:Organisation,DBpedia:Legislature
+http://dbpedia.org/resource/European_Parliament
+
+COUNCIL OF THE EUROPEAN UNION
+DBpedia:Agent,Schema:Organization,DBpedia:Organisation,DBpedia:Legislature
+http://dbpedia.org/resource/Council_of_the_European_Union
+
+European Community
+Schema:Place,DBpedia:Place,DBpedia:PopulatedPlace,Schema:Country,DBpedia:Country
+http://dbpedia.org/resource/European_Economic_Community
+
+European Union
+
+http://dbpedia.org/resource/European_Union
+
+telecommunications
+
+http://dbpedia.org/resource/Telecommunication
+
+telecommunications
+
+http://dbpedia.org/resource/Telecommunication
+
+European Union
+
+http://dbpedia.org/resource/European_Union
+
+European Community
+
+http://dbpedia.org/resource/European_Union
+
+public security
+
+http://dbpedia.org/resource/Safety
+
+legal personality
+
+http://dbpedia.org/resource/Legal_personality
+
+legal personality
+
+http://dbpedia.org/resource/Legal_personality
+
+legal personality
+
+http://dbpedia.org/resource/Legal_personality
+
+legal personality
+
+http://dbpedia.org/resource/Legal_personality
+
+legal personality
+
+http://dbpedia.org/resource/Legal_personality
+
+trade secrets
+
+http://dbpedia.org/resource/Trade_secret
+
+public security
+
+http://dbpedia.org/resource/Safety
+
+telecommunications
+
+http://dbpedia.org/resource/Telecommunication
+
+electronic mail
+
+http://dbpedia.org/resource/Email
+
+telecommunications
+
+http://dbpedia.org/resource/Telecommunication
+
+electronic mail
+
+http://dbpedia.org/resource/Email
+
+force majeure
+
+http://dbpedia.org/resource/Force_majeure
+
+customs administrations
+
+http://dbpedia.org/resource/Customs_territory
+
+European Union
+
+http://dbpedia.org/resource/European_Union
+
+EEC
+Schema:Place,DBpedia:Place,DBpedia:PopulatedPlace,Schema:Country,DBpedia:Country
+http://dbpedia.org/resource/European_Economic_Community
+
+vivendi
+DBpedia:Agent,Schema:Organization,DBpedia:Organisation,DBpedia:Company
+http://dbpedia.org/resource/Vivendi
+
+European Parliament
+DBpedia:Agent,Schema:Organization,DBpedia:Organisation,DBpedia:Legislature
+http://dbpedia.org/resource/European_Parliament
+
+EC Treaty
+
+http://dbpedia.org/resource/Treaty_of_Rome
+
+European Union
+
+http://dbpedia.org/resource/European_Union
+
+EEC
+Schema:Place,DBpedia:Place,DBpedia:PopulatedPlace,Schema:Country,DBpedia:Country
+http://dbpedia.org/resource/European_Economic_Community
+
+vivendi
+DBpedia:Agent,Schema:Organization,DBpedia:Organisation,DBpedia:Company
+http://dbpedia.org/resource/Vivendi
+
+European Parliament
+DBpedia:Agent,Schema:Organization,DBpedia:Organisation,DBpedia:Legislature
+http://dbpedia.org/resource/European_Parliament
+
+EC Treaty
+
+http://dbpedia.org/resource/Treaty_of_Rome
+
+European Union
+
+http://dbpedia.org/resource/European_Union
+
+public security
+
+http://dbpedia.org/resource/Safety
+
+transit
+
+http://dbpedia.org/resource/Transport
+
+transit
+
+http://dbpedia.org/resource/Transport
+
+preventive medicine
+
+http://dbpedia.org/resource/Preventive_healthcare
+
+national identification number
+
+http://dbpedia.org/resource/National_identification_number
+
+national identification number
+
+http://dbpedia.org/resource/National_identification_number
+
+public security
+
+http://dbpedia.org/resource/Safety
+
+European Union
+
+http://dbpedia.org/resource/European_Union
+
+direct marketing
+
+http://dbpedia.org/resource/Direct_marketing
+
+direct marketing
+
+http://dbpedia.org/resource/Direct_marketing
+
+direct marketing
+
+http://dbpedia.org/resource/Direct_marketing
+
+direct marketing
+
+http://dbpedia.org/resource/Direct_marketing
+
+direct marketing
+
+http://dbpedia.org/resource/Direct_marketing
+
+direct marketing
+
+http://dbpedia.org/resource/Direct_marketing
+
+direct marketing
+
+http://dbpedia.org/resource/Direct_marketing
+
+direct marketing
+
+http://dbpedia.org/resource/Direct_marketing
+
+direct marketing
+
+http://dbpedia.org/resource/Direct_marketing
+
+direct marketing
+
+http://dbpedia.org/resource/Direct_marketing
+
+final destination
+Schema:CreativeWork,DBpedia:Work,Schema:Movie,DBpedia:Film
+http://dbpedia.org/resource/Final_Destination_3
+
+final destination
+Schema:CreativeWork,DBpedia:Work,Schema:Movie,DBpedia:Film
+http://dbpedia.org/resource/Final_Destination_3
+
+draft
+
+http://dbpedia.org/resource/Conscription
+
+draft
+
+http://dbpedia.org/resource/Conscription
+
+Article 29 Working Party
+
+http://dbpedia.org/resource/Article_29_Working_Party
+
+European Parliament
+DBpedia:Agent,Schema:Organization,DBpedia:Organisation,DBpedia:Legislature
+http://dbpedia.org/resource/European_Parliament
+
+European Parliament
+DBpedia:Agent,Schema:Organization,DBpedia:Organisation,DBpedia:Legislature
+http://dbpedia.org/resource/European_Parliament
+
+draft
+
+http://dbpedia.org/resource/Conscription
+
+draft
+
+http://dbpedia.org/resource/Conscription
+
+qualified majority
+
+http://dbpedia.org/resource/Supermajority
+
+European Parliament
+DBpedia:Agent,Schema:Organization,DBpedia:Organisation,DBpedia:Legislature
+http://dbpedia.org/resource/European_Parliament
+
+Luxembourg
+Schema:Place,DBpedia:Place,DBpedia:PopulatedPlace,Schema:Country,DBpedia:Country
+http://dbpedia.org/resource/Luxembourg
+
+European Parliament
+DBpedia:Agent,Schema:Organization,DBpedia:Organisation,DBpedia:Legislature
+http://dbpedia.org/resource/European_Parliament
+
+European Parliament
+DBpedia:Agent,Schema:Organization,DBpedia:Organisation,DBpedia:Legislature
+http://dbpedia.org/resource/European_Parliament
+
+European Parliament
+DBpedia:Agent,Schema:Organization,DBpedia:Organisation,DBpedia:Legislature
+http://dbpedia.org/resource/European_Parliament
+

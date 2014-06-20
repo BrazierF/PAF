@@ -1,0 +1,1600 @@
+Jan Philipp Albrecht
+
+http://fr.dbpedia.org/resource/Jan_Philipp_Albrecht
+
+Parlement européen
+
+http://fr.dbpedia.org/resource/Parlement_européen
+
+commission ITRE
+
+http://fr.dbpedia.org/resource/Commission_de_l'industrie,_de_la_recherche_et_de_l'énergie
+
+Alexander Alvaro
+
+http://fr.dbpedia.org/resource/Alexander_Alvaro
+
+commission ITRE
+
+http://fr.dbpedia.org/resource/Commission_de_l'industrie,_de_la_recherche_et_de_l'énergie
+
+Consuegra
+Schema:Place,DBpedia:Place,DBpedia:PopulatedPlace,DBpedia:Settlement
+http://fr.dbpedia.org/resource/Consuegra
+
+Alexander Alvaro
+
+http://fr.dbpedia.org/resource/Alexander_Alvaro
+
+'t Veld
+
+http://fr.dbpedia.org/resource/'t_Veld_(Meulebeke)
+
+Jan Philipp Albrecht
+
+http://fr.dbpedia.org/resource/Jan_Philipp_Albrecht
+
+ester
+
+http://fr.dbpedia.org/resource/Ester
+
+ester
+
+http://fr.dbpedia.org/resource/Ester
+
+ester
+
+http://fr.dbpedia.org/resource/Ester
+
+ester
+
+http://fr.dbpedia.org/resource/Ester
+
+ester
+
+http://fr.dbpedia.org/resource/Ester
+
+ester
+
+http://fr.dbpedia.org/resource/Ester
+
+Consuegra
+Schema:Place,DBpedia:Place,DBpedia:PopulatedPlace,DBpedia:Settlement
+http://fr.dbpedia.org/resource/Consuegra
+
+traitement de données à caractère personnel
+
+http://fr.dbpedia.org/resource/Fichage_en_France
+
+étape
+
+http://fr.dbpedia.org/resource/Critérium_du_Dauphiné_libéré_2007
+
+étape
+
+http://fr.dbpedia.org/resource/Critérium_du_Dauphiné_libéré_2007
+
+Parlement
+
+http://fr.dbpedia.org/resource/Parlement_européen
+
+Parlement
+
+http://fr.dbpedia.org/resource/Parlement_européen
+
+Alexander Alvaro
+
+http://fr.dbpedia.org/resource/Alexander_Alvaro
+
+Alexander Alvaro
+
+http://fr.dbpedia.org/resource/Alexander_Alvaro
+
+Alexander Alvaro
+
+http://fr.dbpedia.org/resource/Alexander_Alvaro
+
+Alexander Alvaro
+
+http://fr.dbpedia.org/resource/Alexander_Alvaro
+
+Consuegra
+Schema:Place,DBpedia:Place,DBpedia:PopulatedPlace,DBpedia:Settlement
+http://fr.dbpedia.org/resource/Consuegra
+
+Eu
+Schema:Place,DBpedia:Place,DBpedia:PopulatedPlace,DBpedia:Settlement
+http://fr.dbpedia.org/resource/Eu_(Seine-Maritime)
+
+système d'information
+
+http://fr.dbpedia.org/resource/Système_d'information
+
+Consuegra
+Schema:Place,DBpedia:Place,DBpedia:PopulatedPlace,DBpedia:Settlement
+http://fr.dbpedia.org/resource/Consuegra
+
+Alexander Alvaro
+
+http://fr.dbpedia.org/resource/Alexander_Alvaro
+
+Parlement européen
+
+http://fr.dbpedia.org/resource/Parlement_européen
+
+Alexander Alvaro
+
+http://fr.dbpedia.org/resource/Alexander_Alvaro
+
+Parlement européen
+
+http://fr.dbpedia.org/resource/Parlement_européen
+
+Union européenne
+
+http://fr.dbpedia.org/resource/Union_européenne
+
+commission ITRE
+
+http://fr.dbpedia.org/resource/Commission_de_l'industrie,_de_la_recherche_et_de_l'énergie
+
+Consuegra
+Schema:Place,DBpedia:Place,DBpedia:PopulatedPlace,DBpedia:Settlement
+http://fr.dbpedia.org/resource/Consuegra
+
+Union européenne
+
+http://fr.dbpedia.org/resource/Union_européenne
+
+commission ITRE
+
+http://fr.dbpedia.org/resource/Commission_de_l'industrie,_de_la_recherche_et_de_l'énergie
+
+Consuegra
+Schema:Place,DBpedia:Place,DBpedia:PopulatedPlace,DBpedia:Settlement
+http://fr.dbpedia.org/resource/Consuegra
+
+traitements de données à caractère personnel
+
+http://fr.dbpedia.org/resource/Fichage_en_France
+
+commission ITRE
+
+http://fr.dbpedia.org/resource/Commission_de_l'industrie,_de_la_recherche_et_de_l'énergie
+
+ter
+
+http://fr.dbpedia.org/resource/Transport_express_régional
+
+commission ITRE
+
+http://fr.dbpedia.org/resource/Commission_de_l'industrie,_de_la_recherche_et_de_l'énergie
+
+commission ITRE
+
+http://fr.dbpedia.org/resource/Commission_de_l'industrie,_de_la_recherche_et_de_l'énergie
+
+commission ITRE
+
+http://fr.dbpedia.org/resource/Commission_de_l'industrie,_de_la_recherche_et_de_l'énergie
+
+commission ITRE
+
+http://fr.dbpedia.org/resource/Commission_de_l'industrie,_de_la_recherche_et_de_l'énergie
+
+commission ITRE
+
+http://fr.dbpedia.org/resource/Commission_de_l'industrie,_de_la_recherche_et_de_l'énergie
+
+Consuegra
+Schema:Place,DBpedia:Place,DBpedia:PopulatedPlace,DBpedia:Settlement
+http://fr.dbpedia.org/resource/Consuegra
+
+commission ITRE
+
+http://fr.dbpedia.org/resource/Commission_de_l'industrie,_de_la_recherche_et_de_l'énergie
+
+commission ITRE
+
+http://fr.dbpedia.org/resource/Commission_de_l'industrie,_de_la_recherche_et_de_l'énergie
+
+Consuegra
+Schema:Place,DBpedia:Place,DBpedia:PopulatedPlace,DBpedia:Settlement
+http://fr.dbpedia.org/resource/Consuegra
+
+commission ITRE
+
+http://fr.dbpedia.org/resource/Commission_de_l'industrie,_de_la_recherche_et_de_l'énergie
+
+commission ITRE
+
+http://fr.dbpedia.org/resource/Commission_de_l'industrie,_de_la_recherche_et_de_l'énergie
+
+Consuegra
+Schema:Place,DBpedia:Place,DBpedia:PopulatedPlace,DBpedia:Settlement
+http://fr.dbpedia.org/resource/Consuegra
+
+commission ITRE
+
+http://fr.dbpedia.org/resource/Commission_de_l'industrie,_de_la_recherche_et_de_l'énergie
+
+commission ITRE
+
+http://fr.dbpedia.org/resource/Commission_de_l'industrie,_de_la_recherche_et_de_l'énergie
+
+Consuegra
+Schema:Place,DBpedia:Place,DBpedia:PopulatedPlace,DBpedia:Settlement
+http://fr.dbpedia.org/resource/Consuegra
+
+commission ITRE
+
+http://fr.dbpedia.org/resource/Commission_de_l'industrie,_de_la_recherche_et_de_l'énergie
+
+commission ITRE
+
+http://fr.dbpedia.org/resource/Commission_de_l'industrie,_de_la_recherche_et_de_l'énergie
+
+Consuegra
+Schema:Place,DBpedia:Place,DBpedia:PopulatedPlace,DBpedia:Settlement
+http://fr.dbpedia.org/resource/Consuegra
+
+commission ITRE
+
+http://fr.dbpedia.org/resource/Commission_de_l'industrie,_de_la_recherche_et_de_l'énergie
+
+commission ITRE
+
+http://fr.dbpedia.org/resource/Commission_de_l'industrie,_de_la_recherche_et_de_l'énergie
+
+Consuegra
+Schema:Place,DBpedia:Place,DBpedia:PopulatedPlace,DBpedia:Settlement
+http://fr.dbpedia.org/resource/Consuegra
+
+ter
+
+http://fr.dbpedia.org/resource/Transport_express_régional
+
+ter
+
+http://fr.dbpedia.org/resource/Transport_express_régional
+
+Marie-Christine Vergiat
+DBpedia:Agent,Schema:Person,Http://xmlns.com/foaf/0.1/Person,DBpedia:Person,DBpedia:OfficeHolder
+http://fr.dbpedia.org/resource/Marie-Christine_Vergiat
+
+Consuegra
+Schema:Place,DBpedia:Place,DBpedia:PopulatedPlace,DBpedia:Settlement
+http://fr.dbpedia.org/resource/Consuegra
+
+Consuegra
+Schema:Place,DBpedia:Place,DBpedia:PopulatedPlace,DBpedia:Settlement
+http://fr.dbpedia.org/resource/Consuegra
+
+Consuegra
+Schema:Place,DBpedia:Place,DBpedia:PopulatedPlace,DBpedia:Settlement
+http://fr.dbpedia.org/resource/Consuegra
+
+Consuegra
+Schema:Place,DBpedia:Place,DBpedia:PopulatedPlace,DBpedia:Settlement
+http://fr.dbpedia.org/resource/Consuegra
+
+Alexander Alvaro
+
+http://fr.dbpedia.org/resource/Alexander_Alvaro
+
+Alexander Alvaro
+
+http://fr.dbpedia.org/resource/Alexander_Alvaro
+
+Alexander Alvaro
+
+http://fr.dbpedia.org/resource/Alexander_Alvaro
+
+Marie-Christine Vergiat
+DBpedia:Agent,Schema:Person,Http://xmlns.com/foaf/0.1/Person,DBpedia:Person,DBpedia:OfficeHolder
+http://fr.dbpedia.org/resource/Marie-Christine_Vergiat
+
+Commission européenne
+
+http://fr.dbpedia.org/resource/Commission_européenne
+
+Consuegra
+Schema:Place,DBpedia:Place,DBpedia:PopulatedPlace,DBpedia:Settlement
+http://fr.dbpedia.org/resource/Consuegra
+
+Commission européenne
+
+http://fr.dbpedia.org/resource/Commission_européenne
+
+Consuegra
+Schema:Place,DBpedia:Place,DBpedia:PopulatedPlace,DBpedia:Settlement
+http://fr.dbpedia.org/resource/Consuegra
+
+Commission européenne
+
+http://fr.dbpedia.org/resource/Commission_européenne
+
+Consuegra
+Schema:Place,DBpedia:Place,DBpedia:PopulatedPlace,DBpedia:Settlement
+http://fr.dbpedia.org/resource/Consuegra
+
+Alexander Alvaro
+
+http://fr.dbpedia.org/resource/Alexander_Alvaro
+
+Alexander Alvaro
+
+http://fr.dbpedia.org/resource/Alexander_Alvaro
+
+Alexander Alvaro
+
+http://fr.dbpedia.org/resource/Alexander_Alvaro
+
+commission ITRE
+
+http://fr.dbpedia.org/resource/Commission_de_l'industrie,_de_la_recherche_et_de_l'énergie
+
+commission ITRE
+
+http://fr.dbpedia.org/resource/Commission_de_l'industrie,_de_la_recherche_et_de_l'énergie
+
+Alexander Alvaro
+
+http://fr.dbpedia.org/resource/Alexander_Alvaro
+
+Parlement européen
+
+http://fr.dbpedia.org/resource/Parlement_européen
+
+Alexander Alvaro
+
+http://fr.dbpedia.org/resource/Alexander_Alvaro
+
+Parlement européen
+
+http://fr.dbpedia.org/resource/Parlement_européen
+
+commission ITRE
+
+http://fr.dbpedia.org/resource/Commission_de_l'industrie,_de_la_recherche_et_de_l'énergie
+
+Consuegra
+Schema:Place,DBpedia:Place,DBpedia:PopulatedPlace,DBpedia:Settlement
+http://fr.dbpedia.org/resource/Consuegra
+
+Consuegra
+Schema:Place,DBpedia:Place,DBpedia:PopulatedPlace,DBpedia:Settlement
+http://fr.dbpedia.org/resource/Consuegra
+
+Alexander Alvaro
+
+http://fr.dbpedia.org/resource/Alexander_Alvaro
+
+Parlement européen
+
+http://fr.dbpedia.org/resource/Parlement_européen
+
+Alexander Alvaro
+
+http://fr.dbpedia.org/resource/Alexander_Alvaro
+
+Consuegra
+Schema:Place,DBpedia:Place,DBpedia:PopulatedPlace,DBpedia:Settlement
+http://fr.dbpedia.org/resource/Consuegra
+
+Alexander Alvaro
+
+http://fr.dbpedia.org/resource/Alexander_Alvaro
+
+Parlement européen
+
+http://fr.dbpedia.org/resource/Parlement_européen
+
+Parlement européen
+
+http://fr.dbpedia.org/resource/Parlement_européen
+
+commission ITRE
+
+http://fr.dbpedia.org/resource/Commission_de_l'industrie,_de_la_recherche_et_de_l'énergie
+
+Parlement européen
+
+http://fr.dbpedia.org/resource/Parlement_européen
+
+commission ITRE
+
+http://fr.dbpedia.org/resource/Commission_de_l'industrie,_de_la_recherche_et_de_l'énergie
+
+Alexander Alvaro
+
+http://fr.dbpedia.org/resource/Alexander_Alvaro
+
+'t Veld
+
+http://fr.dbpedia.org/resource/'t_Veld_(Meulebeke)
+
+Consuegra
+Schema:Place,DBpedia:Place,DBpedia:PopulatedPlace,DBpedia:Settlement
+http://fr.dbpedia.org/resource/Consuegra
+
+ter
+
+http://fr.dbpedia.org/resource/Transport_express_régional
+
+ter
+
+http://fr.dbpedia.org/resource/Transport_express_régional
+
+'t Veld
+
+http://fr.dbpedia.org/resource/'t_Veld_(Meulebeke)
+
+ter
+
+http://fr.dbpedia.org/resource/Transport_express_régional
+
+ter
+
+http://fr.dbpedia.org/resource/Transport_express_régional
+
+Judith Sargentini
+DBpedia:Agent,Schema:Person,Http://xmlns.com/foaf/0.1/Person,DBpedia:Person,DBpedia:OfficeHolder
+http://fr.dbpedia.org/resource/Judith_Sargentini
+
+lois de pays
+
+http://fr.dbpedia.org/resource/Loi_du_pays
+
+lois de pays
+
+http://fr.dbpedia.org/resource/Loi_du_pays
+
+Parlement européen
+
+http://fr.dbpedia.org/resource/Parlement_européen
+
+Alexander Alvaro
+
+http://fr.dbpedia.org/resource/Alexander_Alvaro
+
+commission ITRE
+
+http://fr.dbpedia.org/resource/Commission_de_l'industrie,_de_la_recherche_et_de_l'énergie
+
+Conseil de l'Union européenne
+
+http://fr.dbpedia.org/resource/Conseil_de_l'Union_européenne
+
+Consuegra
+Schema:Place,DBpedia:Place,DBpedia:PopulatedPlace,DBpedia:Settlement
+http://fr.dbpedia.org/resource/Consuegra
+
+Parlement européen
+
+http://fr.dbpedia.org/resource/Parlement_européen
+
+commission ITRE
+
+http://fr.dbpedia.org/resource/Commission_de_l'industrie,_de_la_recherche_et_de_l'énergie
+
+Parlement européen
+
+http://fr.dbpedia.org/resource/Parlement_européen
+
+Consuegra
+Schema:Place,DBpedia:Place,DBpedia:PopulatedPlace,DBpedia:Settlement
+http://fr.dbpedia.org/resource/Consuegra
+
+Parlement européen
+
+http://fr.dbpedia.org/resource/Parlement_européen
+
+commission ITRE
+
+http://fr.dbpedia.org/resource/Commission_de_l'industrie,_de_la_recherche_et_de_l'énergie
+
+Parlement européen
+
+http://fr.dbpedia.org/resource/Parlement_européen
+
+Consuegra
+Schema:Place,DBpedia:Place,DBpedia:PopulatedPlace,DBpedia:Settlement
+http://fr.dbpedia.org/resource/Consuegra
+
+'t Veld
+
+http://fr.dbpedia.org/resource/'t_Veld_(Meulebeke)
+
+Consuegra
+Schema:Place,DBpedia:Place,DBpedia:PopulatedPlace,DBpedia:Settlement
+http://fr.dbpedia.org/resource/Consuegra
+
+traitement de données à caractère personnel
+
+http://fr.dbpedia.org/resource/Fichage_en_France
+
+traitement de données à caractère personnel
+
+http://fr.dbpedia.org/resource/Fichage_en_France
+
+traitement de données à caractère personnel
+
+http://fr.dbpedia.org/resource/Fichage_en_France
+
+traitement de données à caractère personnel
+
+http://fr.dbpedia.org/resource/Fichage_en_France
+
+traitement de données à caractère personnel
+
+http://fr.dbpedia.org/resource/Fichage_en_France
+
+traitement de données à caractère personnel
+
+http://fr.dbpedia.org/resource/Fichage_en_France
+
+Seán Kelly
+DBpedia:Agent,Schema:Person,Http://xmlns.com/foaf/0.1/Person,DBpedia:Person,DBpedia:Athlete,DBpedia:Cyclist
+http://fr.dbpedia.org/resource/Seán_Kelly
+
+Salvatore Iacolino
+
+http://fr.dbpedia.org/resource/Salvatore_Iacolino
+
+recours collectif
+
+http://fr.dbpedia.org/resource/Recours_collectif
+
+Consuegra
+Schema:Place,DBpedia:Place,DBpedia:PopulatedPlace,DBpedia:Settlement
+http://fr.dbpedia.org/resource/Consuegra
+
+traitement de données à caractère personnel
+
+http://fr.dbpedia.org/resource/Fichage_en_France
+
+traitement de données à caractère personnel
+
+http://fr.dbpedia.org/resource/Fichage_en_France
+
+traitement de données à caractère personnel
+
+http://fr.dbpedia.org/resource/Fichage_en_France
+
+Birgit Sippel
+
+http://fr.dbpedia.org/resource/Birgit_Sippel
+
+traitement de données à caractère personnel
+
+http://fr.dbpedia.org/resource/Fichage_en_France
+
+traitement de données à caractère personnel
+
+http://fr.dbpedia.org/resource/Fichage_en_France
+
+traitement de données à caractère personnel
+
+http://fr.dbpedia.org/resource/Fichage_en_France
+
+Marita Ulvskog
+DBpedia:Agent,Schema:Person,Http://xmlns.com/foaf/0.1/Person,DBpedia:Person,DBpedia:OfficeHolder
+http://fr.dbpedia.org/resource/Marita_Ulvskog
+
+traitement de données à caractère personnel
+
+http://fr.dbpedia.org/resource/Fichage_en_France
+
+traitement de données à caractère personnel
+
+http://fr.dbpedia.org/resource/Fichage_en_France
+
+Marie-Christine Vergiat
+DBpedia:Agent,Schema:Person,Http://xmlns.com/foaf/0.1/Person,DBpedia:Person,DBpedia:OfficeHolder
+http://fr.dbpedia.org/resource/Marie-Christine_Vergiat
+
+traitement de données à caractère personnel
+
+http://fr.dbpedia.org/resource/Fichage_en_France
+
+traitement de données à caractère personnel
+
+http://fr.dbpedia.org/resource/Fichage_en_France
+
+Consuegra
+Schema:Place,DBpedia:Place,DBpedia:PopulatedPlace,DBpedia:Settlement
+http://fr.dbpedia.org/resource/Consuegra
+
+Seán Kelly
+DBpedia:Agent,Schema:Person,Http://xmlns.com/foaf/0.1/Person,DBpedia:Person,DBpedia:Athlete,DBpedia:Cyclist
+http://fr.dbpedia.org/resource/Seán_Kelly
+
+Salvatore Iacolino
+
+http://fr.dbpedia.org/resource/Salvatore_Iacolino
+
+recours collectif
+
+http://fr.dbpedia.org/resource/Recours_collectif
+
+l'Article 23
+
+http://fr.dbpedia.org/resource/Article_23_de_la_Charte_canadienne_des_droits_et_libertés
+
+Alexander Alvaro
+
+http://fr.dbpedia.org/resource/Alexander_Alvaro
+
+Consuegra
+Schema:Place,DBpedia:Place,DBpedia:PopulatedPlace,DBpedia:Settlement
+http://fr.dbpedia.org/resource/Consuegra
+
+Consuegra
+Schema:Place,DBpedia:Place,DBpedia:PopulatedPlace,DBpedia:Settlement
+http://fr.dbpedia.org/resource/Consuegra
+
+Consuegra
+Schema:Place,DBpedia:Place,DBpedia:PopulatedPlace,DBpedia:Settlement
+http://fr.dbpedia.org/resource/Consuegra
+
+Consuegra
+Schema:Place,DBpedia:Place,DBpedia:PopulatedPlace,DBpedia:Settlement
+http://fr.dbpedia.org/resource/Consuegra
+
+PME
+
+http://fr.dbpedia.org/resource/Petites_et_moyennes_entreprises
+
+Consuegra
+Schema:Place,DBpedia:Place,DBpedia:PopulatedPlace,DBpedia:Settlement
+http://fr.dbpedia.org/resource/Consuegra
+
+traitement de données à caractère personnel
+
+http://fr.dbpedia.org/resource/Fichage_en_France
+
+Claude Moraes
+
+http://fr.dbpedia.org/resource/Claude_Moraes
+
+Consuegra
+Schema:Place,DBpedia:Place,DBpedia:PopulatedPlace,DBpedia:Settlement
+http://fr.dbpedia.org/resource/Consuegra
+
+Alexander Alvaro
+
+http://fr.dbpedia.org/resource/Alexander_Alvaro
+
+Seán Kelly
+DBpedia:Agent,Schema:Person,Http://xmlns.com/foaf/0.1/Person,DBpedia:Person,DBpedia:Athlete,DBpedia:Cyclist
+http://fr.dbpedia.org/resource/Seán_Kelly
+
+Consuegra
+Schema:Place,DBpedia:Place,DBpedia:PopulatedPlace,DBpedia:Settlement
+http://fr.dbpedia.org/resource/Consuegra
+
+Consuegra
+Schema:Place,DBpedia:Place,DBpedia:PopulatedPlace,DBpedia:Settlement
+http://fr.dbpedia.org/resource/Consuegra
+
+Consuegra
+Schema:Place,DBpedia:Place,DBpedia:PopulatedPlace,DBpedia:Settlement
+http://fr.dbpedia.org/resource/Consuegra
+
+Nathalie Griesbeck
+
+http://fr.dbpedia.org/resource/Nathalie_Griesbeck
+
+Alexander Alvaro
+
+http://fr.dbpedia.org/resource/Alexander_Alvaro
+
+Stanimir
+
+http://fr.dbpedia.org/resource/Stanimir
+
+Consuegra
+Schema:Place,DBpedia:Place,DBpedia:PopulatedPlace,DBpedia:Settlement
+http://fr.dbpedia.org/resource/Consuegra
+
+Nathalie Griesbeck
+
+http://fr.dbpedia.org/resource/Nathalie_Griesbeck
+
+Alexander Alvaro
+
+http://fr.dbpedia.org/resource/Alexander_Alvaro
+
+Stanimir
+
+http://fr.dbpedia.org/resource/Stanimir
+
+Claude Moraes
+
+http://fr.dbpedia.org/resource/Claude_Moraes
+
+Seán Kelly
+DBpedia:Agent,Schema:Person,Http://xmlns.com/foaf/0.1/Person,DBpedia:Person,DBpedia:Athlete,DBpedia:Cyclist
+http://fr.dbpedia.org/resource/Seán_Kelly
+
+Alexander Alvaro
+
+http://fr.dbpedia.org/resource/Alexander_Alvaro
+
+Jan Philipp Albrecht
+
+http://fr.dbpedia.org/resource/Jan_Philipp_Albrecht
+
+Seán Kelly
+DBpedia:Agent,Schema:Person,Http://xmlns.com/foaf/0.1/Person,DBpedia:Person,DBpedia:Athlete,DBpedia:Cyclist
+http://fr.dbpedia.org/resource/Seán_Kelly
+
+Marie-Christine Vergiat
+DBpedia:Agent,Schema:Person,Http://xmlns.com/foaf/0.1/Person,DBpedia:Person,DBpedia:OfficeHolder
+http://fr.dbpedia.org/resource/Marie-Christine_Vergiat
+
+Stanimir
+
+http://fr.dbpedia.org/resource/Stanimir
+
+Alexander Alvaro
+
+http://fr.dbpedia.org/resource/Alexander_Alvaro
+
+Seán Kelly
+DBpedia:Agent,Schema:Person,Http://xmlns.com/foaf/0.1/Person,DBpedia:Person,DBpedia:Athlete,DBpedia:Cyclist
+http://fr.dbpedia.org/resource/Seán_Kelly
+
+Consuegra
+Schema:Place,DBpedia:Place,DBpedia:PopulatedPlace,DBpedia:Settlement
+http://fr.dbpedia.org/resource/Consuegra
+
+Françoise Castex
+
+http://fr.dbpedia.org/resource/Françoise_Castex
+
+ne bis in idem
+
+http://fr.dbpedia.org/resource/Liste_de_locutions_latines_commençant_par_N
+
+Françoise Castex
+
+http://fr.dbpedia.org/resource/Françoise_Castex
+
+ter
+
+http://fr.dbpedia.org/resource/Transport_express_régional
+
+ter
+
+http://fr.dbpedia.org/resource/Transport_express_régional
+
+'t Veld
+
+http://fr.dbpedia.org/resource/'t_Veld_(Meulebeke)
+
+Consuegra
+Schema:Place,DBpedia:Place,DBpedia:PopulatedPlace,DBpedia:Settlement
+http://fr.dbpedia.org/resource/Consuegra
+
+Alexander Alvaro
+
+http://fr.dbpedia.org/resource/Alexander_Alvaro
+
+Torvalds
+DBpedia:Agent,Schema:Person,Http://xmlns.com/foaf/0.1/Person,DBpedia:Person
+http://fr.dbpedia.org/resource/Linus_Torvalds
+
+Torvalds
+DBpedia:Agent,Schema:Person,Http://xmlns.com/foaf/0.1/Person,DBpedia:Person
+http://fr.dbpedia.org/resource/Linus_Torvalds
+
+Alexander Alvaro
+
+http://fr.dbpedia.org/resource/Alexander_Alvaro
+
+EUR
+
+http://fr.dbpedia.org/resource/Euro
+
+Alexander Alvaro
+
+http://fr.dbpedia.org/resource/Alexander_Alvaro
+
+ter
+
+http://fr.dbpedia.org/resource/Transport_express_régional
+
+ter
+
+http://fr.dbpedia.org/resource/Transport_express_régional
+
+ter
+
+http://fr.dbpedia.org/resource/Transport_express_régional
+
+sécurité juridique
+
+http://fr.dbpedia.org/resource/Sécurité_juridique
+
+Alexander Alvaro
+
+http://fr.dbpedia.org/resource/Alexander_Alvaro
+
+l'Article 23
+
+http://fr.dbpedia.org/resource/Article_23_de_la_Charte_canadienne_des_droits_et_libertés
+
+ter
+
+http://fr.dbpedia.org/resource/Transport_express_régional
+
+Torvalds
+DBpedia:Agent,Schema:Person,Http://xmlns.com/foaf/0.1/Person,DBpedia:Person
+http://fr.dbpedia.org/resource/Linus_Torvalds
+
+l'Article 23
+
+http://fr.dbpedia.org/resource/Article_23_de_la_Charte_canadienne_des_droits_et_libertés
+
+l'Article 23
+
+http://fr.dbpedia.org/resource/Article_23_de_la_Charte_canadienne_des_droits_et_libertés
+
+l'Article 23
+
+http://fr.dbpedia.org/resource/Article_23_de_la_Charte_canadienne_des_droits_et_libertés
+
+l'Article 23
+
+http://fr.dbpedia.org/resource/Article_23_de_la_Charte_canadienne_des_droits_et_libertés
+
+latitude
+
+http://fr.dbpedia.org/resource/Latitude
+
+Consuegra
+Schema:Place,DBpedia:Place,DBpedia:PopulatedPlace,DBpedia:Settlement
+http://fr.dbpedia.org/resource/Consuegra
+
+l'Article 23
+
+http://fr.dbpedia.org/resource/Article_23_de_la_Charte_canadienne_des_droits_et_libertés
+
+l'Article 23
+
+http://fr.dbpedia.org/resource/Article_23_de_la_Charte_canadienne_des_droits_et_libertés
+
+l'Article 23
+
+http://fr.dbpedia.org/resource/Article_23_de_la_Charte_canadienne_des_droits_et_libertés
+
+ter
+
+http://fr.dbpedia.org/resource/Transport_express_régional
+
+l'Article 23
+
+http://fr.dbpedia.org/resource/Article_23_de_la_Charte_canadienne_des_droits_et_libertés
+
+commission ITRE
+
+http://fr.dbpedia.org/resource/Commission_de_l'industrie,_de_la_recherche_et_de_l'énergie
+
+ter
+
+http://fr.dbpedia.org/resource/Transport_express_régional
+
+l'Article 23
+
+http://fr.dbpedia.org/resource/Article_23_de_la_Charte_canadienne_des_droits_et_libertés
+
+l'Article 23
+
+http://fr.dbpedia.org/resource/Article_23_de_la_Charte_canadienne_des_droits_et_libertés
+
+l'Article 23
+
+http://fr.dbpedia.org/resource/Article_23_de_la_Charte_canadienne_des_droits_et_libertés
+
+l'Article 23
+
+http://fr.dbpedia.org/resource/Article_23_de_la_Charte_canadienne_des_droits_et_libertés
+
+l'Article 23
+
+http://fr.dbpedia.org/resource/Article_23_de_la_Charte_canadienne_des_droits_et_libertés
+
+latitude
+
+http://fr.dbpedia.org/resource/Latitude
+
+l'Article 23
+
+http://fr.dbpedia.org/resource/Article_23_de_la_Charte_canadienne_des_droits_et_libertés
+
+l'Article 23
+
+http://fr.dbpedia.org/resource/Article_23_de_la_Charte_canadienne_des_droits_et_libertés
+
+latitude
+
+http://fr.dbpedia.org/resource/Latitude
+
+l'Article 23
+
+http://fr.dbpedia.org/resource/Article_23_de_la_Charte_canadienne_des_droits_et_libertés
+
+l'Article 23
+
+http://fr.dbpedia.org/resource/Article_23_de_la_Charte_canadienne_des_droits_et_libertés
+
+l'Article 23
+
+http://fr.dbpedia.org/resource/Article_23_de_la_Charte_canadienne_des_droits_et_libertés
+
+Alexander Alvaro
+
+http://fr.dbpedia.org/resource/Alexander_Alvaro
+
+ter
+
+http://fr.dbpedia.org/resource/Transport_express_régional
+
+l'Article 23
+
+http://fr.dbpedia.org/resource/Article_23_de_la_Charte_canadienne_des_droits_et_libertés
+
+l'Article 23
+
+http://fr.dbpedia.org/resource/Article_23_de_la_Charte_canadienne_des_droits_et_libertés
+
+Alexander Alvaro
+
+http://fr.dbpedia.org/resource/Alexander_Alvaro
+
+Alexander Alvaro
+
+http://fr.dbpedia.org/resource/Alexander_Alvaro
+
+Salvador
+Schema:Place,DBpedia:Place,DBpedia:PopulatedPlace,Schema:Country,DBpedia:Country
+http://fr.dbpedia.org/resource/Salvador
+
+EUR
+
+http://fr.dbpedia.org/resource/Euro
+
+EUR
+
+http://fr.dbpedia.org/resource/Euro
+
+Union européenne
+
+http://fr.dbpedia.org/resource/Union_européenne
+
+Consuegra
+Schema:Place,DBpedia:Place,DBpedia:PopulatedPlace,DBpedia:Settlement
+http://fr.dbpedia.org/resource/Consuegra
+
+espèce
+
+http://fr.dbpedia.org/resource/Espèce
+
+Torvalds
+DBpedia:Agent,Schema:Person,Http://xmlns.com/foaf/0.1/Person,DBpedia:Person
+http://fr.dbpedia.org/resource/Linus_Torvalds
+
+Riikka Manner
+
+http://fr.dbpedia.org/resource/Riikka_Manner
+
+Jan Mulder
+DBpedia:Agent,Schema:Person,Http://xmlns.com/foaf/0.1/Person,DBpedia:Person,DBpedia:Athlete,DBpedia:SoccerPlayer
+http://fr.dbpedia.org/resource/Jan_Mulder
+
+Sari Essayah
+
+http://fr.dbpedia.org/resource/Sari_Essayah
+
+Consuegra
+Schema:Place,DBpedia:Place,DBpedia:PopulatedPlace,DBpedia:Settlement
+http://fr.dbpedia.org/resource/Consuegra
+
+Sari Essayah
+
+http://fr.dbpedia.org/resource/Sari_Essayah
+
+Consuegra
+Schema:Place,DBpedia:Place,DBpedia:PopulatedPlace,DBpedia:Settlement
+http://fr.dbpedia.org/resource/Consuegra
+
+Alexander Alvaro
+
+http://fr.dbpedia.org/resource/Alexander_Alvaro
+
+EUR
+
+http://fr.dbpedia.org/resource/Euro
+
+EUR
+
+http://fr.dbpedia.org/resource/Euro
+
+EUR
+
+http://fr.dbpedia.org/resource/Euro
+
+EUR
+
+http://fr.dbpedia.org/resource/Euro
+
+EUR
+
+http://fr.dbpedia.org/resource/Euro
+
+Birgit Sippel
+
+http://fr.dbpedia.org/resource/Birgit_Sippel
+
+EUR
+
+http://fr.dbpedia.org/resource/Euro
+
+EUR
+
+http://fr.dbpedia.org/resource/Euro
+
+EUR
+
+http://fr.dbpedia.org/resource/Euro
+
+EUR
+
+http://fr.dbpedia.org/resource/Euro
+
+Torvalds
+DBpedia:Agent,Schema:Person,Http://xmlns.com/foaf/0.1/Person,DBpedia:Person
+http://fr.dbpedia.org/resource/Linus_Torvalds
+
+Riikka Manner
+
+http://fr.dbpedia.org/resource/Riikka_Manner
+
+EUR
+
+http://fr.dbpedia.org/resource/Euro
+
+Marie-Christine Vergiat
+DBpedia:Agent,Schema:Person,Http://xmlns.com/foaf/0.1/Person,DBpedia:Person,DBpedia:OfficeHolder
+http://fr.dbpedia.org/resource/Marie-Christine_Vergiat
+
+EUR
+
+http://fr.dbpedia.org/resource/Euro
+
+EUR
+
+http://fr.dbpedia.org/resource/Euro
+
+EUR
+
+http://fr.dbpedia.org/resource/Euro
+
+EUR
+
+http://fr.dbpedia.org/resource/Euro
+
+EUR
+
+http://fr.dbpedia.org/resource/Euro
+
+EUR
+
+http://fr.dbpedia.org/resource/Euro
+
+EUR
+
+http://fr.dbpedia.org/resource/Euro
+
+EUR
+
+http://fr.dbpedia.org/resource/Euro
+
+latitude
+
+http://fr.dbpedia.org/resource/Latitude
+
+Alexander Alvaro
+
+http://fr.dbpedia.org/resource/Alexander_Alvaro
+
+EUR
+
+http://fr.dbpedia.org/resource/Euro
+
+traitement de données à caractère personnel
+
+http://fr.dbpedia.org/resource/Fichage_en_France
+
+EUR
+
+http://fr.dbpedia.org/resource/Euro
+
+traitement de données à caractère personnel
+
+http://fr.dbpedia.org/resource/Fichage_en_France
+
+EUR
+
+http://fr.dbpedia.org/resource/Euro
+
+traitement de données à caractère personnel
+
+http://fr.dbpedia.org/resource/Fichage_en_France
+
+Consuegra
+Schema:Place,DBpedia:Place,DBpedia:PopulatedPlace,DBpedia:Settlement
+http://fr.dbpedia.org/resource/Consuegra
+
+EUR
+
+http://fr.dbpedia.org/resource/Euro
+
+EUR
+
+http://fr.dbpedia.org/resource/Euro
+
+EUR
+
+http://fr.dbpedia.org/resource/Euro
+
+EUR
+
+http://fr.dbpedia.org/resource/Euro
+
+traitement de données à caractère personnel
+
+http://fr.dbpedia.org/resource/Fichage_en_France
+
+Consuegra
+Schema:Place,DBpedia:Place,DBpedia:PopulatedPlace,DBpedia:Settlement
+http://fr.dbpedia.org/resource/Consuegra
+
+EUR
+
+http://fr.dbpedia.org/resource/Euro
+
+EUR
+
+http://fr.dbpedia.org/resource/Euro
+
+EUR
+
+http://fr.dbpedia.org/resource/Euro
+
+EUR
+
+http://fr.dbpedia.org/resource/Euro
+
+traitement de données à caractère personnel
+
+http://fr.dbpedia.org/resource/Fichage_en_France
+
+traitement de données à caractère personnel
+
+http://fr.dbpedia.org/resource/Fichage_en_France
+
+accountability
+
+http://fr.dbpedia.org/resource/Accountability
+
+as
+
+http://fr.dbpedia.org/resource/As_(monnaie)
+
+EUR
+
+http://fr.dbpedia.org/resource/Euro
+
+EUR
+
+http://fr.dbpedia.org/resource/Euro
+
+traitement de données à caractère personnel
+
+http://fr.dbpedia.org/resource/Fichage_en_France
+
+Birgit Sippel
+
+http://fr.dbpedia.org/resource/Birgit_Sippel
+
+EUR
+
+http://fr.dbpedia.org/resource/Euro
+
+EUR
+
+http://fr.dbpedia.org/resource/Euro
+
+traitement de données à caractère personnel
+
+http://fr.dbpedia.org/resource/Fichage_en_France
+
+EUR
+
+http://fr.dbpedia.org/resource/Euro
+
+EUR
+
+http://fr.dbpedia.org/resource/Euro
+
+Torvalds
+DBpedia:Agent,Schema:Person,Http://xmlns.com/foaf/0.1/Person,DBpedia:Person
+http://fr.dbpedia.org/resource/Linus_Torvalds
+
+Riikka Manner
+
+http://fr.dbpedia.org/resource/Riikka_Manner
+
+EUR
+
+http://fr.dbpedia.org/resource/Euro
+
+Marie-Christine Vergiat
+DBpedia:Agent,Schema:Person,Http://xmlns.com/foaf/0.1/Person,DBpedia:Person,DBpedia:OfficeHolder
+http://fr.dbpedia.org/resource/Marie-Christine_Vergiat
+
+EUR
+
+http://fr.dbpedia.org/resource/Euro
+
+EUR
+
+http://fr.dbpedia.org/resource/Euro
+
+EUR
+
+http://fr.dbpedia.org/resource/Euro
+
+EUR
+
+http://fr.dbpedia.org/resource/Euro
+
+EUR
+
+http://fr.dbpedia.org/resource/Euro
+
+EUR
+
+http://fr.dbpedia.org/resource/Euro
+
+latitude
+
+http://fr.dbpedia.org/resource/Latitude
+
+Consuegra
+Schema:Place,DBpedia:Place,DBpedia:PopulatedPlace,DBpedia:Settlement
+http://fr.dbpedia.org/resource/Consuegra
+
+Consuegra
+Schema:Place,DBpedia:Place,DBpedia:PopulatedPlace,DBpedia:Settlement
+http://fr.dbpedia.org/resource/Consuegra
+
+Consuegra
+Schema:Place,DBpedia:Place,DBpedia:PopulatedPlace,DBpedia:Settlement
+http://fr.dbpedia.org/resource/Consuegra
+
+Stanimir
+
+http://fr.dbpedia.org/resource/Stanimir
+
+Consuegra
+Schema:Place,DBpedia:Place,DBpedia:PopulatedPlace,DBpedia:Settlement
+http://fr.dbpedia.org/resource/Consuegra
+
+Alexander Alvaro
+
+http://fr.dbpedia.org/resource/Alexander_Alvaro
+
+EUR
+
+http://fr.dbpedia.org/resource/Euro
+
+label de protection
+
+http://fr.dbpedia.org/resource/Label_de_qualité
+
+EUR
+
+http://fr.dbpedia.org/resource/Euro
+
+label de protection
+
+http://fr.dbpedia.org/resource/Label_de_qualité
+
+EUR
+
+http://fr.dbpedia.org/resource/Euro
+
+label de protection
+
+http://fr.dbpedia.org/resource/Label_de_qualité
+
+EUR
+
+http://fr.dbpedia.org/resource/Euro
+
+EUR
+
+http://fr.dbpedia.org/resource/Euro
+
+label de protection
+
+http://fr.dbpedia.org/resource/Label_de_qualité
+
+EUR
+
+http://fr.dbpedia.org/resource/Euro
+
+EUR
+
+http://fr.dbpedia.org/resource/Euro
+
+label de protection
+
+http://fr.dbpedia.org/resource/Label_de_qualité
+
+label de protection
+
+http://fr.dbpedia.org/resource/Label_de_qualité
+
+accountability
+
+http://fr.dbpedia.org/resource/Accountability
+
+as
+
+http://fr.dbpedia.org/resource/As_(monnaie)
+
+Consuegra
+Schema:Place,DBpedia:Place,DBpedia:PopulatedPlace,DBpedia:Settlement
+http://fr.dbpedia.org/resource/Consuegra
+
+EUR
+
+http://fr.dbpedia.org/resource/Euro
+
+EUR
+
+http://fr.dbpedia.org/resource/Euro
+
+EUR
+
+http://fr.dbpedia.org/resource/Euro
+
+EUR
+
+http://fr.dbpedia.org/resource/Euro
+
+label de protection
+
+http://fr.dbpedia.org/resource/Label_de_qualité
+
+Birgit Sippel
+
+http://fr.dbpedia.org/resource/Birgit_Sippel
+
+EUR
+
+http://fr.dbpedia.org/resource/Euro
+
+EUR
+
+http://fr.dbpedia.org/resource/Euro
+
+label de protection
+
+http://fr.dbpedia.org/resource/Label_de_qualité
+
+Birgit Sippel
+
+http://fr.dbpedia.org/resource/Birgit_Sippel
+
+EUR
+
+http://fr.dbpedia.org/resource/Euro
+
+EUR
+
+http://fr.dbpedia.org/resource/Euro
+
+label de protection
+
+http://fr.dbpedia.org/resource/Label_de_qualité
+
+EUR
+
+http://fr.dbpedia.org/resource/Euro
+
+EUR
+
+http://fr.dbpedia.org/resource/Euro
+
+Torvalds
+DBpedia:Agent,Schema:Person,Http://xmlns.com/foaf/0.1/Person,DBpedia:Person
+http://fr.dbpedia.org/resource/Linus_Torvalds
+
+Riikka Manner
+
+http://fr.dbpedia.org/resource/Riikka_Manner
+
+EUR
+
+http://fr.dbpedia.org/resource/Euro
+
+Marie-Christine Vergiat
+DBpedia:Agent,Schema:Person,Http://xmlns.com/foaf/0.1/Person,DBpedia:Person,DBpedia:OfficeHolder
+http://fr.dbpedia.org/resource/Marie-Christine_Vergiat
+
+EUR
+
+http://fr.dbpedia.org/resource/Euro
+
+EUR
+
+http://fr.dbpedia.org/resource/Euro
+
+EUR
+
+http://fr.dbpedia.org/resource/Euro
+
+EUR
+
+http://fr.dbpedia.org/resource/Euro
+
+EUR
+
+http://fr.dbpedia.org/resource/Euro
+
+EUR
+
+http://fr.dbpedia.org/resource/Euro
+
+EUR
+
+http://fr.dbpedia.org/resource/Euro
+
+EUR
+
+http://fr.dbpedia.org/resource/Euro
+
+latitude
+
+http://fr.dbpedia.org/resource/Latitude
+
+Consuegra
+Schema:Place,DBpedia:Place,DBpedia:PopulatedPlace,DBpedia:Settlement
+http://fr.dbpedia.org/resource/Consuegra
+
+Consuegra
+Schema:Place,DBpedia:Place,DBpedia:PopulatedPlace,DBpedia:Settlement
+http://fr.dbpedia.org/resource/Consuegra
+
+Consuegra
+Schema:Place,DBpedia:Place,DBpedia:PopulatedPlace,DBpedia:Settlement
+http://fr.dbpedia.org/resource/Consuegra
+
+Consuegra
+Schema:Place,DBpedia:Place,DBpedia:PopulatedPlace,DBpedia:Settlement
+http://fr.dbpedia.org/resource/Consuegra
+
+Consuegra
+Schema:Place,DBpedia:Place,DBpedia:PopulatedPlace,DBpedia:Settlement
+http://fr.dbpedia.org/resource/Consuegra
+
+Consuegra
+Schema:Place,DBpedia:Place,DBpedia:PopulatedPlace,DBpedia:Settlement
+http://fr.dbpedia.org/resource/Consuegra
+
+Consuegra
+Schema:Place,DBpedia:Place,DBpedia:PopulatedPlace,DBpedia:Settlement
+http://fr.dbpedia.org/resource/Consuegra
+
+point k
+
+http://fr.dbpedia.org/resource/Point_K
+
+label de protection
+
+http://fr.dbpedia.org/resource/Label_de_qualité
+
+Consuegra
+Schema:Place,DBpedia:Place,DBpedia:PopulatedPlace,DBpedia:Settlement
+http://fr.dbpedia.org/resource/Consuegra
+
+Consuegra
+Schema:Place,DBpedia:Place,DBpedia:PopulatedPlace,DBpedia:Settlement
+http://fr.dbpedia.org/resource/Consuegra
+
+Consuegra
+Schema:Place,DBpedia:Place,DBpedia:PopulatedPlace,DBpedia:Settlement
+http://fr.dbpedia.org/resource/Consuegra
+
+point k
+
+http://fr.dbpedia.org/resource/Point_K
+
+label de protection
+
+http://fr.dbpedia.org/resource/Label_de_qualité
+
+Consuegra
+Schema:Place,DBpedia:Place,DBpedia:PopulatedPlace,DBpedia:Settlement
+http://fr.dbpedia.org/resource/Consuegra
+
+accountability
+
+http://fr.dbpedia.org/resource/Accountability
+
+as
+
+http://fr.dbpedia.org/resource/As_(monnaie)
+
+Consuegra
+Schema:Place,DBpedia:Place,DBpedia:PopulatedPlace,DBpedia:Settlement
+http://fr.dbpedia.org/resource/Consuegra
+
+ter
+
+http://fr.dbpedia.org/resource/Transport_express_régional
+
+ter
+
+http://fr.dbpedia.org/resource/Transport_express_régional
+
+accountability
+
+http://fr.dbpedia.org/resource/Accountability
+
+as
+
+http://fr.dbpedia.org/resource/As_(monnaie)
+
+Consuegra
+Schema:Place,DBpedia:Place,DBpedia:PopulatedPlace,DBpedia:Settlement
+http://fr.dbpedia.org/resource/Consuegra
+
+ter
+
+http://fr.dbpedia.org/resource/Transport_express_régional
+
+ter
+
+http://fr.dbpedia.org/resource/Transport_express_régional
+
+Sari Essayah
+
+http://fr.dbpedia.org/resource/Sari_Essayah
+
+'t Veld
+
+http://fr.dbpedia.org/resource/'t_Veld_(Meulebeke)
+
+'t Veld
+
+http://fr.dbpedia.org/resource/'t_Veld_(Meulebeke)
+
+ter
+
+http://fr.dbpedia.org/resource/Transport_express_régional
+
+ter
+
+http://fr.dbpedia.org/resource/Transport_express_régional
+
+'t Veld
+
+http://fr.dbpedia.org/resource/'t_Veld_(Meulebeke)
+

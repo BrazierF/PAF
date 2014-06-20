@@ -1,0 +1,1344 @@
+Données à caractère personnel
+
+http://fr.dbpedia.org/resource/Données_personnelles
+
+Laboratoire de biologie médicale
+
+http://fr.dbpedia.org/resource/Laboratoire_de_biologie_médicale
+
+Prestataire de services
+
+http://fr.dbpedia.org/resource/Prestataire_de_services
+
+système d'information
+
+http://fr.dbpedia.org/resource/Système_d'information
+
+systèmes d'exploitation
+
+http://fr.dbpedia.org/resource/Système_d'exploitation
+
+pare-feu
+
+http://fr.dbpedia.org/resource/Pare-feu_(informatique)
+
+base 6
+
+http://fr.dbpedia.org/resource/Base_6
+
+Destruction
+Schema:MusicGroup,DBpedia:Agent,Schema:Organization,DBpedia:Organisation,DBpedia:Band
+http://fr.dbpedia.org/resource/Destruction_(groupe)
+
+laboratoire de biologie médicale
+
+http://fr.dbpedia.org/resource/Laboratoire_de_biologie_médicale
+
+système d'information
+
+http://fr.dbpedia.org/resource/Système_d'information
+
+Hippocrate
+DBpedia:Agent,Schema:Person,Http://xmlns.com/foaf/0.1/Person,DBpedia:Person
+http://fr.dbpedia.org/resource/Hippocrate
+
+iVe siècle
+
+http://fr.dbpedia.org/resource/IVe_siècle
+
+taira
+
+http://fr.dbpedia.org/resource/Clan_Taira
+
+sécurité sociale
+
+http://fr.dbpedia.org/resource/Sécurité_sociale
+
+laboratoire de biologie médicale
+
+http://fr.dbpedia.org/resource/Laboratoire_de_biologie_médicale
+
+système d'information
+
+http://fr.dbpedia.org/resource/Système_d'information
+
+ssii
+
+http://fr.dbpedia.org/resource/Société_de_services_en_ingénierie_informatique
+
+essen
+Schema:Place,DBpedia:Place,DBpedia:PopulatedPlace,DBpedia:Settlement
+http://fr.dbpedia.org/resource/Essen
+
+système d'information
+
+http://fr.dbpedia.org/resource/Système_d'information
+
+Convention
+
+http://fr.dbpedia.org/resource/Convention_européenne_des_droits_de_l'homme
+
+Conseil de l'Europe
+
+http://fr.dbpedia.org/resource/Conseil_de_l'Europe
+
+France
+Schema:Place,DBpedia:Place,DBpedia:PopulatedPlace,Schema:Country,DBpedia:Country
+http://fr.dbpedia.org/resource/France
+
+cniL
+
+http://fr.dbpedia.org/resource/Commission_nationale_de_l'informatique_et_des_libertés
+
+conseil national de l'information statistique
+
+http://fr.dbpedia.org/resource/Conseil_national_de_l'information_statistique
+
+cnis
+
+http://fr.dbpedia.org/resource/Conseil_national_de_l'information_statistique
+
+commission d'accès aux documents administratifs
+
+http://fr.dbpedia.org/resource/Commission_d'accès_aux_documents_administratifs
+
+Directive 95/46/CE
+
+http://fr.dbpedia.org/resource/Directive_95/46/CE_sur_la_protection_des_données_personnelles
+
+Parlement européen
+
+http://fr.dbpedia.org/resource/Parlement_européen
+
+sécurité sociale
+
+http://fr.dbpedia.org/resource/Sécurité_sociale
+
+adresses électroniques
+
+http://fr.dbpedia.org/resource/Adresse_électronique
+
+gines
+Schema:Place,DBpedia:Place,DBpedia:PopulatedPlace,DBpedia:Settlement
+http://fr.dbpedia.org/resource/Gines
+
+cer
+Schema:Place,DBpedia:Place,DBpedia:NaturalPlace,Schema:Mountain,DBpedia:Mountain
+http://fr.dbpedia.org/resource/Cer_(montagne)
+
+médicaments
+
+http://fr.dbpedia.org/resource/Médicament
+
+Données à caractère personnel
+
+http://fr.dbpedia.org/resource/Données_personnelles
+
+nées
+
+http://fr.dbpedia.org/resource/Mort
+
+sion
+Schema:Place,DBpedia:Place,DBpedia:PopulatedPlace,DBpedia:Settlement
+http://fr.dbpedia.org/resource/Sion_(Valais)
+
+CNIL
+
+http://fr.dbpedia.org/resource/Commission_nationale_de_l'informatique_et_des_libertés
+
+système d'information
+
+http://fr.dbpedia.org/resource/Système_d'information
+
+traitement de données à caractère personnel
+
+http://fr.dbpedia.org/resource/Fichage_en_France
+
+CNIL
+
+http://fr.dbpedia.org/resource/Commission_nationale_de_l'informatique_et_des_libertés
+
+cNIL
+
+http://fr.dbpedia.org/resource/Commission_nationale_de_l'informatique_et_des_libertés
+
+CNIL
+
+http://fr.dbpedia.org/resource/Commission_nationale_de_l'informatique_et_des_libertés
+
+as
+
+http://fr.dbpedia.org/resource/As_(monnaie)
+
+médicaments
+
+http://fr.dbpedia.org/resource/Médicament
+
+nées
+
+http://fr.dbpedia.org/resource/Mort
+
+CNIL
+
+http://fr.dbpedia.org/resource/Commission_nationale_de_l'informatique_et_des_libertés
+
+tiques
+
+http://fr.dbpedia.org/resource/Tique
+
+CNIL
+
+http://fr.dbpedia.org/resource/Commission_nationale_de_l'informatique_et_des_libertés
+
+Laboratoire de biologie médicale
+
+http://fr.dbpedia.org/resource/Laboratoire_de_biologie_médicale
+
+médicaments
+
+http://fr.dbpedia.org/resource/Médicament
+
+biologie médicale
+
+http://fr.dbpedia.org/resource/Biologie_médicale
+
+CNIL
+
+http://fr.dbpedia.org/resource/Commission_nationale_de_l'informatique_et_des_libertés
+
+laboratoire d'analyses de biologie médicale
+
+http://fr.dbpedia.org/resource/laboratoire_de_biologie_médicale
+
+médicaments
+
+http://fr.dbpedia.org/resource/Médicament
+
+biologiste médical
+
+http://fr.dbpedia.org/resource/Biologiste_médical
+
+système d'information
+
+http://fr.dbpedia.org/resource/Système_d'information
+
+biologie médicale
+
+http://fr.dbpedia.org/resource/Biologie_médicale
+
+CNIL
+
+http://fr.dbpedia.org/resource/Commission_nationale_de_l'informatique_et_des_libertés
+
+orga
+
+http://fr.dbpedia.org/resource/Organisation_républicaine_galicienne_autonome
+
+CNIL
+
+http://fr.dbpedia.org/resource/Commission_nationale_de_l'informatique_et_des_libertés
+
+ISO
+
+http://fr.dbpedia.org/resource/Organisation_internationale_de_normalisation
+
+système d'information
+
+http://fr.dbpedia.org/resource/Système_d'information
+
+laboratoires de biologie médicale
+
+http://fr.dbpedia.org/resource/Laboratoire_de_biologie_médicale
+
+COFRAC
+
+http://fr.dbpedia.org/resource/Comité_français_d'accréditation
+
+système d'information
+
+http://fr.dbpedia.org/resource/Système_d'information
+
+grer
+
+http://fr.dbpedia.org/resource/Dvalin
+
+système d'information
+
+http://fr.dbpedia.org/resource/Système_d'information
+
+sécurité informatique
+
+http://fr.dbpedia.org/resource/Sécurité_des_systèmes_d'information
+
+ISO
+
+http://fr.dbpedia.org/resource/Organisation_internationale_de_normalisation
+
+CNIL
+
+http://fr.dbpedia.org/resource/Commission_nationale_de_l'informatique_et_des_libertés
+
+Commission médicale d'établissement
+
+http://fr.dbpedia.org/resource/Commission_médicale_d'établissement
+
+système d'information
+
+http://fr.dbpedia.org/resource/Système_d'information
+
+respon
+
+http://fr.dbpedia.org/resource/Respon
+
+système d'information
+
+http://fr.dbpedia.org/resource/Système_d'information
+
+traitements de données à caractère personnel
+
+http://fr.dbpedia.org/resource/Fichage_en_France
+
+sonnes
+DBpedia:Agent,Schema:Person,Http://xmlns.com/foaf/0.1/Person,DBpedia:Person,DBpedia:Athlete,DBpedia:RugbyPlayer
+http://fr.dbpedia.org/resource/Régis_Sonnes
+
+CNIL
+
+http://fr.dbpedia.org/resource/Commission_nationale_de_l'informatique_et_des_libertés
+
+Département d'information médicale
+
+http://fr.dbpedia.org/resource/Département_d'information_médicale
+
+Caisse Régionale d'Assurance Maladie
+
+http://fr.dbpedia.org/resource/Caisse_régionale_d'assurance_maladie
+
+CRAM
+
+http://fr.dbpedia.org/resource/Caisse_régionale_d'assurance_maladie
+
+ANSM
+
+http://fr.dbpedia.org/resource/Agence_nationale_de_sécurité_du_médicament_et_des_produits_de_santé
+
+Communauté européenne
+
+http://fr.dbpedia.org/resource/Union_européenne
+
+CNIL
+
+http://fr.dbpedia.org/resource/Commission_nationale_de_l'informatique_et_des_libertés
+
+CNIL
+
+http://fr.dbpedia.org/resource/Commission_nationale_de_l'informatique_et_des_libertés
+
+nées
+
+http://fr.dbpedia.org/resource/Mort
+
+CNIL
+
+http://fr.dbpedia.org/resource/Commission_nationale_de_l'informatique_et_des_libertés
+
+CNIL
+
+http://fr.dbpedia.org/resource/Commission_nationale_de_l'informatique_et_des_libertés
+
+CNIL
+
+http://fr.dbpedia.org/resource/Commission_nationale_de_l'informatique_et_des_libertés
+
+CNIL
+
+http://fr.dbpedia.org/resource/Commission_nationale_de_l'informatique_et_des_libertés
+
+CNIL
+
+http://fr.dbpedia.org/resource/Commission_nationale_de_l'informatique_et_des_libertés
+
+CNIL
+
+http://fr.dbpedia.org/resource/Commission_nationale_de_l'informatique_et_des_libertés
+
+CNIL
+
+http://fr.dbpedia.org/resource/Commission_nationale_de_l'informatique_et_des_libertés
+
+traitement de données à caractère personnel
+
+http://fr.dbpedia.org/resource/Fichage_en_France
+
+traitement de données à caractère personnel
+
+http://fr.dbpedia.org/resource/Fichage_en_France
+
+CNIL
+
+http://fr.dbpedia.org/resource/Commission_nationale_de_l'informatique_et_des_libertés
+
+CNIL
+
+http://fr.dbpedia.org/resource/Commission_nationale_de_l'informatique_et_des_libertés
+
+CNIL
+
+http://fr.dbpedia.org/resource/Commission_nationale_de_l'informatique_et_des_libertés
+
+cniL
+
+http://fr.dbpedia.org/resource/Commission_nationale_de_l'informatique_et_des_libertés
+
+Parlement européen
+
+http://fr.dbpedia.org/resource/Parlement_européen
+
+Code civil
+
+http://fr.dbpedia.org/resource/Code_civil_(France)
+
+Convention
+
+http://fr.dbpedia.org/resource/Convention_européenne_des_droits_de_l'homme
+
+CEDH
+
+http://fr.dbpedia.org/resource/Convention_européenne_des_droits_de_l'homme
+
+pres
+
+http://fr.dbpedia.org/resource/Pôle_de_recherche_et_d'enseignement_supérieur
+
+cipe
+
+http://fr.dbpedia.org/resource/Comitato_Interministeriale_per_la_Programmazione_Economica
+
+Eu
+Schema:Place,DBpedia:Place,DBpedia:PopulatedPlace,DBpedia:Settlement
+http://fr.dbpedia.org/resource/Eu_(Seine-Maritime)
+
+Convention
+
+http://fr.dbpedia.org/resource/Convention_européenne_des_droits_de_l'homme
+
+CEDH
+
+http://fr.dbpedia.org/resource/Convention_européenne_des_droits_de_l'homme
+
+France
+Schema:Place,DBpedia:Place,DBpedia:PopulatedPlace,Schema:Country,DBpedia:Country
+http://fr.dbpedia.org/resource/France
+
+Union européenne
+
+http://fr.dbpedia.org/resource/Union_européenne
+
+vée
+Schema:Place,DBpedia:Place,DBpedia:NaturalPlace,Schema:BodyOfWater,DBpedia:BodyOfWater,DBpedia:Stream,Schema:RiverBodyOfWater,DBpedia:River
+http://fr.dbpedia.org/resource/Vée
+
+Cour de cassation
+
+http://fr.dbpedia.org/resource/Cour_de_cassation_(France)
+
+fichier de données à caractère personnel
+
+http://fr.dbpedia.org/resource/Fichier_de_données_à_caractère_personnel
+
+concer
+
+http://fr.dbpedia.org/resource/Concer
+
+nées
+
+http://fr.dbpedia.org/resource/Mort
+
+sécurité sociale
+
+http://fr.dbpedia.org/resource/Sécurité_sociale
+
+tice
+
+http://fr.dbpedia.org/resource/Technologies_de_l'information_et_de_la_communication_pour_l'enseignement
+
+respon
+
+http://fr.dbpedia.org/resource/Respon
+
+La Vie
+Schema:CreativeWork,DBpedia:Work,DBpedia:WrittenWork,DBpedia:PeriodicalLiterature,DBpedia:Newspaper
+http://fr.dbpedia.org/resource/La_Vie
+
+La Vie
+Schema:CreativeWork,DBpedia:Work,DBpedia:WrittenWork,DBpedia:PeriodicalLiterature,DBpedia:Newspaper
+http://fr.dbpedia.org/resource/La_Vie
+
+sécurité sociale
+
+http://fr.dbpedia.org/resource/Sécurité_sociale
+
+tice
+
+http://fr.dbpedia.org/resource/Technologies_de_l'information_et_de_la_communication_pour_l'enseignement
+
+respon
+
+http://fr.dbpedia.org/resource/Respon
+
+La Vie
+Schema:CreativeWork,DBpedia:Work,DBpedia:WrittenWork,DBpedia:PeriodicalLiterature,DBpedia:Newspaper
+http://fr.dbpedia.org/resource/La_Vie
+
+La Vie
+Schema:CreativeWork,DBpedia:Work,DBpedia:WrittenWork,DBpedia:PeriodicalLiterature,DBpedia:Newspaper
+http://fr.dbpedia.org/resource/La_Vie
+
+droit constitutionnel
+
+http://fr.dbpedia.org/resource/Droit_constitutionnel
+
+Code pénal
+
+http://fr.dbpedia.org/resource/Code_pénal_(France)
+
+traitement de données à caractère personnel
+
+http://fr.dbpedia.org/resource/Fichage_en_France
+
+concer
+
+http://fr.dbpedia.org/resource/Concer
+
+Parlement européen
+
+http://fr.dbpedia.org/resource/Parlement_européen
+
+dossier pharmaceutique
+
+http://fr.dbpedia.org/resource/Dossier_pharmaceutique
+
+CNIL
+
+http://fr.dbpedia.org/resource/Commission_nationale_de_l'informatique_et_des_libertés
+
+CNIL
+
+http://fr.dbpedia.org/resource/Commission_nationale_de_l'informatique_et_des_libertés
+
+système d'information
+
+http://fr.dbpedia.org/resource/Système_d'information
+
+nées
+
+http://fr.dbpedia.org/resource/Mort
+
+garan
+
+http://fr.dbpedia.org/resource/Shichid??_garan
+
+interopérabilité
+
+http://fr.dbpedia.org/resource/Interopérabilité
+
+Directive 95/46/CE
+
+http://fr.dbpedia.org/resource/Directive_95/46/CE_sur_la_protection_des_données_personnelles
+
+Parlement européen
+
+http://fr.dbpedia.org/resource/Parlement_européen
+
+Parlement européen
+
+http://fr.dbpedia.org/resource/Parlement_européen
+
+Union européenne
+
+http://fr.dbpedia.org/resource/Union_européenne
+
+INI
+
+http://fr.dbpedia.org/resource/Institut_national_de_l'industrie
+
+La Vie
+Schema:CreativeWork,DBpedia:Work,DBpedia:WrittenWork,DBpedia:PeriodicalLiterature,DBpedia:Newspaper
+http://fr.dbpedia.org/resource/La_Vie
+
+système d'information
+
+http://fr.dbpedia.org/resource/Système_d'information
+
+système d'information
+
+http://fr.dbpedia.org/resource/Système_d'information
+
+système d'information
+
+http://fr.dbpedia.org/resource/Système_d'information
+
+système d'information
+
+http://fr.dbpedia.org/resource/Système_d'information
+
+système d'information
+
+http://fr.dbpedia.org/resource/Système_d'information
+
+système d'information
+
+http://fr.dbpedia.org/resource/Système_d'information
+
+système d'information
+
+http://fr.dbpedia.org/resource/Système_d'information
+
+système d'information
+
+http://fr.dbpedia.org/resource/Système_d'information
+
+système d'information
+
+http://fr.dbpedia.org/resource/Système_d'information
+
+système d'information
+
+http://fr.dbpedia.org/resource/Système_d'information
+
+système d'information
+
+http://fr.dbpedia.org/resource/Système_d'information
+
+système d'information
+
+http://fr.dbpedia.org/resource/Système_d'information
+
+système d'information
+
+http://fr.dbpedia.org/resource/Système_d'information
+
+système d'information
+
+http://fr.dbpedia.org/resource/Système_d'information
+
+système d'information
+
+http://fr.dbpedia.org/resource/Système_d'information
+
+système d'information
+
+http://fr.dbpedia.org/resource/Système_d'information
+
+système d'information
+
+http://fr.dbpedia.org/resource/Système_d'information
+
+système d'information
+
+http://fr.dbpedia.org/resource/Système_d'information
+
+CNIL
+
+http://fr.dbpedia.org/resource/Commission_nationale_de_l'informatique_et_des_libertés
+
+stoc
+DBpedia:Agent,Schema:Organization,DBpedia:Organisation,DBpedia:Company
+http://fr.dbpedia.org/resource/Stoc
+
+kant
+DBpedia:Agent,Schema:Person,Http://xmlns.com/foaf/0.1/Person,DBpedia:Person,DBpedia:Philosopher
+http://fr.dbpedia.org/resource/Emmanuel_Kant
+
+proté
+
+http://fr.dbpedia.org/resource/Proté
+
+SSII
+
+http://fr.dbpedia.org/resource/Société_de_services_en_ingénierie_informatique
+
+système d'exploitation
+
+http://fr.dbpedia.org/resource/Système_d'exploitation
+
+durées de conservation
+
+http://fr.dbpedia.org/resource/Calendrier_de_conservation
+
+CNIL
+
+http://fr.dbpedia.org/resource/Commission_nationale_de_l'informatique_et_des_libertés
+
+laboratoires de biologie médicale
+
+http://fr.dbpedia.org/resource/Laboratoire_de_biologie_médicale
+
+SSII
+
+http://fr.dbpedia.org/resource/Société_de_services_en_ingénierie_informatique
+
+système d'exploitation
+
+http://fr.dbpedia.org/resource/Système_d'exploitation
+
+durées de conservation
+
+http://fr.dbpedia.org/resource/Calendrier_de_conservation
+
+CNIL
+
+http://fr.dbpedia.org/resource/Commission_nationale_de_l'informatique_et_des_libertés
+
+laboratoires de biologie médicale
+
+http://fr.dbpedia.org/resource/Laboratoire_de_biologie_médicale
+
+SSII
+
+http://fr.dbpedia.org/resource/Société_de_services_en_ingénierie_informatique
+
+système d'exploitation
+
+http://fr.dbpedia.org/resource/Système_d'exploitation
+
+durées de conservation
+
+http://fr.dbpedia.org/resource/Calendrier_de_conservation
+
+CNIL
+
+http://fr.dbpedia.org/resource/Commission_nationale_de_l'informatique_et_des_libertés
+
+laboratoires de biologie médicale
+
+http://fr.dbpedia.org/resource/Laboratoire_de_biologie_médicale
+
+SSII
+
+http://fr.dbpedia.org/resource/Société_de_services_en_ingénierie_informatique
+
+système d'exploitation
+
+http://fr.dbpedia.org/resource/Système_d'exploitation
+
+durées de conservation
+
+http://fr.dbpedia.org/resource/Calendrier_de_conservation
+
+CNIL
+
+http://fr.dbpedia.org/resource/Commission_nationale_de_l'informatique_et_des_libertés
+
+laboratoires de biologie médicale
+
+http://fr.dbpedia.org/resource/Laboratoire_de_biologie_médicale
+
+Dossier pharmaceutique
+
+http://fr.dbpedia.org/resource/Dossier_pharmaceutique
+
+ges
+
+http://fr.dbpedia.org/resource/Gaz_à_effet_de_serre
+
+ouvrées
+
+http://fr.dbpedia.org/resource/Ouvrée
+
+système d'information
+
+http://fr.dbpedia.org/resource/Système_d'information
+
+VPN
+
+http://fr.dbpedia.org/resource/Réseau_privé_virtuel
+
+VPN
+
+http://fr.dbpedia.org/resource/Réseau_privé_virtuel
+
+VPN
+
+http://fr.dbpedia.org/resource/Réseau_privé_virtuel
+
+essen
+Schema:Place,DBpedia:Place,DBpedia:PopulatedPlace,DBpedia:Settlement
+http://fr.dbpedia.org/resource/Essen
+
+nées
+
+http://fr.dbpedia.org/resource/Mort
+
+OCT
+DBpedia:Agent,Schema:Organization,DBpedia:Organisation,DBpedia:Company
+http://fr.dbpedia.org/resource/OCT_Parks_China
+
+OCT
+DBpedia:Agent,Schema:Organization,DBpedia:Organisation,DBpedia:Company
+http://fr.dbpedia.org/resource/OCT_Parks_China
+
+SSII
+
+http://fr.dbpedia.org/resource/Société_de_services_en_ingénierie_informatique
+
+OCT
+DBpedia:Agent,Schema:Organization,DBpedia:Organisation,DBpedia:Company
+http://fr.dbpedia.org/resource/OCT_Parks_China
+
+OCT
+DBpedia:Agent,Schema:Organization,DBpedia:Organisation,DBpedia:Company
+http://fr.dbpedia.org/resource/OCT_Parks_China
+
+OCT
+DBpedia:Agent,Schema:Organization,DBpedia:Organisation,DBpedia:Company
+http://fr.dbpedia.org/resource/OCT_Parks_China
+
+enquête de flagrance
+
+http://fr.dbpedia.org/resource/Enquête_de_flagrance
+
+VPN
+
+http://fr.dbpedia.org/resource/Réseau_privé_virtuel
+
+VPN
+
+http://fr.dbpedia.org/resource/Réseau_privé_virtuel
+
+essen
+Schema:Place,DBpedia:Place,DBpedia:PopulatedPlace,DBpedia:Settlement
+http://fr.dbpedia.org/resource/Essen
+
+nées
+
+http://fr.dbpedia.org/resource/Mort
+
+OCT
+DBpedia:Agent,Schema:Organization,DBpedia:Organisation,DBpedia:Company
+http://fr.dbpedia.org/resource/OCT_Parks_China
+
+OCT
+DBpedia:Agent,Schema:Organization,DBpedia:Organisation,DBpedia:Company
+http://fr.dbpedia.org/resource/OCT_Parks_China
+
+SSII
+
+http://fr.dbpedia.org/resource/Société_de_services_en_ingénierie_informatique
+
+OCT
+DBpedia:Agent,Schema:Organization,DBpedia:Organisation,DBpedia:Company
+http://fr.dbpedia.org/resource/OCT_Parks_China
+
+OCT
+DBpedia:Agent,Schema:Organization,DBpedia:Organisation,DBpedia:Company
+http://fr.dbpedia.org/resource/OCT_Parks_China
+
+OCT
+DBpedia:Agent,Schema:Organization,DBpedia:Organisation,DBpedia:Company
+http://fr.dbpedia.org/resource/OCT_Parks_China
+
+enquête de flagrance
+
+http://fr.dbpedia.org/resource/Enquête_de_flagrance
+
+VPN
+
+http://fr.dbpedia.org/resource/Réseau_privé_virtuel
+
+VPN
+
+http://fr.dbpedia.org/resource/Réseau_privé_virtuel
+
+essen
+Schema:Place,DBpedia:Place,DBpedia:PopulatedPlace,DBpedia:Settlement
+http://fr.dbpedia.org/resource/Essen
+
+nées
+
+http://fr.dbpedia.org/resource/Mort
+
+OCT
+DBpedia:Agent,Schema:Organization,DBpedia:Organisation,DBpedia:Company
+http://fr.dbpedia.org/resource/OCT_Parks_China
+
+OCT
+DBpedia:Agent,Schema:Organization,DBpedia:Organisation,DBpedia:Company
+http://fr.dbpedia.org/resource/OCT_Parks_China
+
+SSII
+
+http://fr.dbpedia.org/resource/Société_de_services_en_ingénierie_informatique
+
+OCT
+DBpedia:Agent,Schema:Organization,DBpedia:Organisation,DBpedia:Company
+http://fr.dbpedia.org/resource/OCT_Parks_China
+
+OCT
+DBpedia:Agent,Schema:Organization,DBpedia:Organisation,DBpedia:Company
+http://fr.dbpedia.org/resource/OCT_Parks_China
+
+OCT
+DBpedia:Agent,Schema:Organization,DBpedia:Organisation,DBpedia:Company
+http://fr.dbpedia.org/resource/OCT_Parks_China
+
+enquête de flagrance
+
+http://fr.dbpedia.org/resource/Enquête_de_flagrance
+
+VPN
+
+http://fr.dbpedia.org/resource/Réseau_privé_virtuel
+
+VPN
+
+http://fr.dbpedia.org/resource/Réseau_privé_virtuel
+
+essen
+Schema:Place,DBpedia:Place,DBpedia:PopulatedPlace,DBpedia:Settlement
+http://fr.dbpedia.org/resource/Essen
+
+nées
+
+http://fr.dbpedia.org/resource/Mort
+
+OCT
+DBpedia:Agent,Schema:Organization,DBpedia:Organisation,DBpedia:Company
+http://fr.dbpedia.org/resource/OCT_Parks_China
+
+OCT
+DBpedia:Agent,Schema:Organization,DBpedia:Organisation,DBpedia:Company
+http://fr.dbpedia.org/resource/OCT_Parks_China
+
+SSII
+
+http://fr.dbpedia.org/resource/Société_de_services_en_ingénierie_informatique
+
+OCT
+DBpedia:Agent,Schema:Organization,DBpedia:Organisation,DBpedia:Company
+http://fr.dbpedia.org/resource/OCT_Parks_China
+
+OCT
+DBpedia:Agent,Schema:Organization,DBpedia:Organisation,DBpedia:Company
+http://fr.dbpedia.org/resource/OCT_Parks_China
+
+OCT
+DBpedia:Agent,Schema:Organization,DBpedia:Organisation,DBpedia:Company
+http://fr.dbpedia.org/resource/OCT_Parks_China
+
+enquête de flagrance
+
+http://fr.dbpedia.org/resource/Enquête_de_flagrance
+
+pare-feu
+
+http://fr.dbpedia.org/resource/Pare-feu_(informatique)
+
+WPA
+
+http://fr.dbpedia.org/resource/Wi-Fi_Protected_Access
+
+Destruction
+Schema:MusicGroup,DBpedia:Agent,Schema:Organization,DBpedia:Organisation,DBpedia:Band
+http://fr.dbpedia.org/resource/Destruction_(groupe)
+
+durées de conservation
+
+http://fr.dbpedia.org/resource/Calendrier_de_conservation
+
+SSII
+
+http://fr.dbpedia.org/resource/Société_de_services_en_ingénierie_informatique
+
+système d'information
+
+http://fr.dbpedia.org/resource/Système_d'information
+
+Conseil national
+
+http://fr.dbpedia.org/resource/Conseil_national_(Suisse)
+
+Conseil national
+
+http://fr.dbpedia.org/resource/Conseil_national_(Suisse)
+
+Picardie
+Schema:Place,DBpedia:Place,DBpedia:PopulatedPlace,DBpedia:Region,DBpedia:NaturalRegion
+http://fr.dbpedia.org/resource/Picardie
+
+Futuna
+Schema:Place,DBpedia:Place,DBpedia:PopulatedPlace,DBpedia:Island
+http://fr.dbpedia.org/resource/Futuna
+
+Badr
+Schema:Event,DBpedia:Event,DBpedia:MilitaryConflict
+http://fr.dbpedia.org/resource/Bataille_de_Badr
+
+Miquelon
+Schema:Place,DBpedia:Place,DBpedia:PopulatedPlace,DBpedia:Island
+http://fr.dbpedia.org/resource/Miquelon
+
+DTS
+DBpedia:Agent,Schema:Organization,DBpedia:Organisation,DBpedia:Company
+http://fr.dbpedia.org/resource/Digital_Theater_System
+
+DOSI
+
+http://fr.dbpedia.org/resource/Dosi
+
+Académie Nationale de Pharmacie
+
+http://fr.dbpedia.org/resource/Académie_nationale_de_pharmacie
+
+Agfa HealthCare
+DBpedia:Agent,Schema:Organization,DBpedia:Organisation,DBpedia:Company
+http://fr.dbpedia.org/resource/Agfa-Gevaert
+
+Alliance Healthcare
+DBpedia:Agent,Schema:Organization,DBpedia:Organisation,DBpedia:Company
+http://fr.dbpedia.org/resource/Alliance_Boots
+
+France
+Schema:Place,DBpedia:Place,DBpedia:PopulatedPlace,Schema:Country,DBpedia:Country
+http://fr.dbpedia.org/resource/France
+
+France
+Schema:Place,DBpedia:Place,DBpedia:PopulatedPlace,Schema:Country,DBpedia:Country
+http://fr.dbpedia.org/resource/France
+
+Cabinet
+
+http://fr.dbpedia.org/resource/Cabinet_du_Japon
+
+Uzès
+Schema:Place,DBpedia:Place,DBpedia:PopulatedPlace,DBpedia:Settlement
+http://fr.dbpedia.org/resource/Uzès
+
+Clermont
+Schema:Place,DBpedia:Place,DBpedia:PopulatedPlace,DBpedia:Settlement
+http://fr.dbpedia.org/resource/Clermont-Ferrand
+
+CHU
+
+http://fr.dbpedia.org/resource/Centre_hospitalier_universitaire
+
+Inter
+
+http://fr.dbpedia.org/resource/France_Inter
+
+CNAMTS
+
+http://fr.dbpedia.org/resource/Caisse_nationale_de_l'assurance_maladie_des_travailleurs_salariés
+
+CNIL
+
+http://fr.dbpedia.org/resource/Commission_nationale_de_l'informatique_et_des_libertés
+
+DSI
+
+http://fr.dbpedia.org/resource/Directeur_des_systèmes_d'information
+
+Hôpitaux Universitaires de Strasbourg
+
+http://fr.dbpedia.org/resource/Hôpitaux_universitaires_de_Strasbourg
+
+Direction Générale de l'Offre de Soins
+
+http://fr.dbpedia.org/resource/Direction_générale_de_l'Offre_de_soins
+
+DGOS
+
+http://fr.dbpedia.org/resource/Direction_générale_de_l'Offre_de_soins
+
+DL
+DBpedia:Agent,Schema:Organization,DBpedia:Organisation,DBpedia:PoliticalParty
+http://fr.dbpedia.org/resource/Démocratie_libérale_(parti_politique)
+
+Fédération de l'Hospitalisation Privée
+
+http://fr.dbpedia.org/resource/Fédération_de_l'hospitalisation_privée
+
+France
+Schema:Place,DBpedia:Place,DBpedia:PopulatedPlace,Schema:Country,DBpedia:Country
+http://fr.dbpedia.org/resource/France
+
+Haute Autorité de Santé (HAS)
+
+http://fr.dbpedia.org/resource/Haute_Autorité_de_santé
+
+Bretagne
+
+http://fr.dbpedia.org/resource/Bretagne
+
+Syndicat National
+
+http://fr.dbpedia.org/resource/Syndicat_National
+
+Syndicat National
+
+http://fr.dbpedia.org/resource/Syndicat_National
+
+Syndicat National
+
+http://fr.dbpedia.org/resource/Syndicat_National
+
+Syndicat National
+
+http://fr.dbpedia.org/resource/Syndicat_National
+
+France
+Schema:Place,DBpedia:Place,DBpedia:PopulatedPlace,Schema:Country,DBpedia:Country
+http://fr.dbpedia.org/resource/France
+
+CNAMTS
+
+http://fr.dbpedia.org/resource/Assurance_maladie
+
+système d'information
+
+http://fr.dbpedia.org/resource/Système_d'information
+
+CHU de Tours
+
+http://fr.dbpedia.org/resource/Centre_hospitalier_régional_universitaire_de_Tours
+
+Département d'information médicale
+
+http://fr.dbpedia.org/resource/Département_d'information_médicale
+
+Uzès
+Schema:Place,DBpedia:Place,DBpedia:PopulatedPlace,DBpedia:Settlement
+http://fr.dbpedia.org/resource/Uzès
+
+Jean-Pierre FOUCHER
+DBpedia:Agent,Schema:Person,Http://xmlns.com/foaf/0.1/Person,DBpedia:Person,DBpedia:OfficeHolder
+http://fr.dbpedia.org/resource/Jean-Pierre_Foucher
+
+Académie nationale de Pharmacie
+
+http://fr.dbpedia.org/resource/Académie_nationale_de_pharmacie
+
+UFR
+
+http://fr.dbpedia.org/resource/Unité_de_formation_et_de_recherche
+
+Paris
+DBpedia:Agent,Schema:Organization,DBpedia:Organisation,Schema:EducationalOrganization,DBpedia:EducationalInstitution,Schema:CollegeOrUniversity,DBpedia:University
+http://fr.dbpedia.org/resource/Université_Paris-Sud
+
+Conseil national
+Schema:Place,DBpedia:Place,DBpedia:PopulatedPlace,DBpedia:Territory,DBpedia:OldTerritory
+http://fr.dbpedia.org/resource/Régime_de_Vichy
+
+DGOS
+
+http://fr.dbpedia.org/resource/Direction_générale_de_l'Offre_de_soins
+
+Qualité de l'information
+
+http://fr.dbpedia.org/resource/Qualité_des_données
+
+PAULUS
+DBpedia:Agent,Schema:Person,Http://xmlns.com/foaf/0.1/Person,DBpedia:Person,DBpedia:MilitaryPerson
+http://fr.dbpedia.org/resource/Friedrich_Paulus
+
+Université de Lorraine
+DBpedia:Agent,Schema:Organization,DBpedia:Organisation,Schema:EducationalOrganization,DBpedia:EducationalInstitution,Schema:CollegeOrUniversity,DBpedia:University
+http://fr.dbpedia.org/resource/Université_de_Lorraine
+
+ROUSSEAU
+DBpedia:Agent,Schema:Person,Http://xmlns.com/foaf/0.1/Person,DBpedia:Person,DBpedia:Philosopher
+http://fr.dbpedia.org/resource/Jean-Jacques_Rousseau
+
+Didier SICARD
+DBpedia:Agent,Schema:Person,Http://xmlns.com/foaf/0.1/Person,DBpedia:Person,DBpedia:Scientist
+http://fr.dbpedia.org/resource/Didier_Sicard
+
+Pharmacien hospitalier
+
+http://fr.dbpedia.org/resource/Pharmacien_hospitalier
+
+-259
+
+http://fr.dbpedia.org/resource/259_av._J.-C.
+
+CNIL
+
+http://fr.dbpedia.org/resource/Commission_nationale_de_l'informatique_et_des_libertés
+
+CNIL
+
+http://fr.dbpedia.org/resource/Commission_nationale_de_l'informatique_et_des_libertés
+
+télémédecine
+
+http://fr.dbpedia.org/resource/Télémédecine
+
+ANSSI
+
+http://fr.dbpedia.org/resource/Agence_nationale_de_la_sécurité_des_systèmes_d'information
+
+Référentiel général de Sécurité
+
+http://fr.dbpedia.org/resource/Référentiel_général_de_sécurité
+
+CNIL
+
+http://fr.dbpedia.org/resource/Commission_nationale_de_l'informatique_et_des_libertés
+
+CNIL
+
+http://fr.dbpedia.org/resource/Commission_nationale_de_l'informatique_et_des_libertés
+
+Paris
+Schema:Place,DBpedia:Place,DBpedia:PopulatedPlace,DBpedia:Settlement
+http://fr.dbpedia.org/resource/Paris
+
+Clermont
+Schema:Place,DBpedia:Place,DBpedia:PopulatedPlace,DBpedia:Settlement
+http://fr.dbpedia.org/resource/Clermont-Ferrand
+
+Hôpitaux de Paris (AP-HP)
+
+http://fr.dbpedia.org/resource/Assistance_publique_-_Hôpitaux_de_Paris
+
+Paris
+Schema:Place,DBpedia:Place,DBpedia:PopulatedPlace,DBpedia:Settlement
+http://fr.dbpedia.org/resource/Paris
+
+LER
+
+http://fr.dbpedia.org/resource/Ligne_du_Havre-Graville_à_Tourville-les-Ifs
+
+Méditerranée
+
+http://fr.dbpedia.org/resource/Mer_Méditerranée
+
+Marseille
+Schema:Place,DBpedia:Place,DBpedia:PopulatedPlace,DBpedia:Settlement
+http://fr.dbpedia.org/resource/Marseille
+
+SESAM-VITALE
+
+http://fr.dbpedia.org/resource/SESAM-Vitale
+
+GIE SESAM-VITALE
+
+http://fr.dbpedia.org/resource/SESAM-Vitale
+
+Haute Autorité de Santé (HAS)
+
+http://fr.dbpedia.org/resource/Haute_Autorité_de_santé
+
+France
+Schema:Place,DBpedia:Place,DBpedia:PopulatedPlace,Schema:Country,DBpedia:Country
+http://fr.dbpedia.org/resource/France
+
+Paris
+Schema:Place,DBpedia:Place,DBpedia:PopulatedPlace,DBpedia:Settlement
+http://fr.dbpedia.org/resource/Paris
+
+CNIL
+
+http://fr.dbpedia.org/resource/Commission_nationale_de_l'informatique_et_des_libertés
+
+Marseille
+Schema:Place,DBpedia:Place,DBpedia:PopulatedPlace,DBpedia:Settlement
+http://fr.dbpedia.org/resource/Marseille
+
+Conseil national
+
+http://fr.dbpedia.org/resource/Conseil_national_(Suisse)
+
+VOSS
+Schema:Place,DBpedia:Place,DBpedia:PopulatedPlace,DBpedia:Settlement
+http://fr.dbpedia.org/resource/Voss
+
+Parlement européen
+
+http://fr.dbpedia.org/resource/Parlement_européen
+
+Union européenne
+
+http://fr.dbpedia.org/resource/Union_européenne
+
+INI
+
+http://fr.dbpedia.org/resource/Institut_national_de_l'industrie
+
+rela
+
+http://fr.dbpedia.org/resource/Rela
+
+JO
+Schema:CreativeWork,DBpedia:Work,DBpedia:WrittenWork,DBpedia:PeriodicalLiterature,DBpedia:Newspaper
+http://fr.dbpedia.org/resource/Journal_officiel_de_la_République_française
+
+CNIL
+
+http://fr.dbpedia.org/resource/Commission_nationale_de_l'informatique_et_des_libertés
+
+Paris
+Schema:Place,DBpedia:Place,DBpedia:PopulatedPlace,DBpedia:Settlement
+http://fr.dbpedia.org/resource/Paris
+
+Parlement européen
+
+http://fr.dbpedia.org/resource/Parlement_européen
+
+mique
+
+http://fr.dbpedia.org/resource/Mique
+
+Union européenne
+
+http://fr.dbpedia.org/resource/Union_européenne
+
+Bruxelles
+Schema:Place,DBpedia:Place,DBpedia:PopulatedPlace,DBpedia:Settlement,Schema:City,DBpedia:City
+http://fr.dbpedia.org/resource/Bruxelles
+
+télémédecine
+
+http://fr.dbpedia.org/resource/Télémédecine
+
+Directive 95/46/CE
+
+http://fr.dbpedia.org/resource/Directive_95/46/CE_sur_la_protection_des_données_personnelles
+
+Parlement européen
+
+http://fr.dbpedia.org/resource/Parlement_européen
+
+JO
+Schema:CreativeWork,DBpedia:Work,DBpedia:WrittenWork,DBpedia:PeriodicalLiterature,DBpedia:Newspaper
+http://fr.dbpedia.org/resource/Journal_officiel_de_la_République_française
+
+traitements de données à caractère personnel
+
+http://fr.dbpedia.org/resource/Fichage_en_France
+
+traitements de données à caractère personnel
+
+http://fr.dbpedia.org/resource/Fichage_en_France
+
+ANSSI
+
+http://fr.dbpedia.org/resource/Agence_nationale_de_la_sécurité_des_systèmes_d'information
+
+CNIL
+
+http://fr.dbpedia.org/resource/Commission_nationale_de_l'informatique_et_des_libertés
+
+GIE SESAM-VITALE
+
+http://fr.dbpedia.org/resource/SESAM-Vitale
+
+avenue Ruysdaël
+Schema:Place,DBpedia:Place,DBpedia:ArchitecturalStructure,DBpedia:Infrastructure,DBpedia:RouteOfTransportation,DBpedia:Road
+http://fr.dbpedia.org/resource/Avenue_Ruysdaël
+
+Paris
+Schema:Place,DBpedia:Place,DBpedia:PopulatedPlace,DBpedia:Settlement
+http://fr.dbpedia.org/resource/Paris
+

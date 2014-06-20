@@ -1,0 +1,1820 @@
+EUROPEAN COMMISSION
+
+http://dbpedia.org/resource/European_Commission
+
+Brussels
+Schema:Place,DBpedia:Place,DBpedia:PopulatedPlace,DBpedia:Settlement
+http://dbpedia.org/resource/Brussels
+
+EUROPEAN PARLIAMENT
+DBpedia:Agent,Schema:Organization,DBpedia:Organisation,DBpedia:Legislature
+http://dbpedia.org/resource/European_Parliament
+
+General Data Protection Regulation
+
+http://dbpedia.org/resource/General_Data_Protection_Regulation
+
+EEA
+
+http://dbpedia.org/resource/European_Economic_Area
+
+SEC
+DBpedia:Agent,Schema:Organization,DBpedia:Organisation,Schema:GovernmentOrganization,DBpedia:GovernmentAgency
+http://dbpedia.org/resource/U.S._Securities_and_Exchange_Commission
+
+SEC
+DBpedia:Agent,Schema:Organization,DBpedia:Organisation,Schema:GovernmentOrganization,DBpedia:GovernmentAgency
+http://dbpedia.org/resource/U.S._Securities_and_Exchange_Commission
+
+European Parliament
+DBpedia:Agent,Schema:Organization,DBpedia:Organisation,DBpedia:Legislature
+http://dbpedia.org/resource/European_Parliament
+
+General Data Protection Regulation
+
+http://dbpedia.org/resource/General_Data_Protection_Regulation
+
+European Parliament
+DBpedia:Agent,Schema:Organization,DBpedia:Organisation,DBpedia:Legislature
+http://dbpedia.org/resource/European_Parliament
+
+General Data Protection Regulation
+
+http://dbpedia.org/resource/General_Data_Protection_Regulation
+
+general instrument
+
+http://dbpedia.org/resource/General_Instrument
+
+European Parliament
+DBpedia:Agent,Schema:Organization,DBpedia:Organisation,DBpedia:Legislature
+http://dbpedia.org/resource/European_Parliament
+
+Europe 2020
+
+http://dbpedia.org/resource/Europe_2020
+
+European Union
+
+http://dbpedia.org/resource/European_Union
+
+TFEU
+
+http://dbpedia.org/resource/Treaties_of_the_European_Union
+
+Lisbon Treaty
+
+http://dbpedia.org/resource/Treaty_of_Lisbon
+
+TFEU
+
+http://dbpedia.org/resource/Treaties_of_the_European_Union
+
+Lisbon Treaty
+
+http://dbpedia.org/resource/Treaty_of_Lisbon
+
+European Council
+DBpedia:Agent,Schema:Organization,DBpedia:Organisation,DBpedia:Legislature
+http://dbpedia.org/resource/Council_of_the_European_Union
+
+Stockholm Programme
+
+http://dbpedia.org/resource/Stockholm_Programme
+
+Stockholm
+Schema:Place,DBpedia:Place,DBpedia:PopulatedPlace,DBpedia:Settlement
+http://dbpedia.org/resource/Stockholm
+
+European Union
+
+http://dbpedia.org/resource/European_Union
+
+digital economy
+
+http://dbpedia.org/resource/Digital_economy
+
+Stockholm Programme
+
+http://dbpedia.org/resource/Stockholm_Programme
+
+European Parliament
+DBpedia:Agent,Schema:Organization,DBpedia:Organisation,DBpedia:Legislature
+http://dbpedia.org/resource/European_Parliament
+
+European Parliament
+DBpedia:Agent,Schema:Organization,DBpedia:Organisation,DBpedia:Legislature
+http://dbpedia.org/resource/European_Parliament
+
+Stockholm programme
+
+http://dbpedia.org/resource/Stockholm_Programme
+
+TA
+
+http://dbpedia.org/resource/Ampere
+
+Eurobarometer
+
+http://dbpedia.org/resource/Eurobarometer
+
+/archives
+
+http://dbpedia.org/resource/Archive
+
+European Union
+
+http://dbpedia.org/resource/European_Union
+
+European Commission
+
+http://dbpedia.org/resource/European_Commission
+
+European Commission
+
+http://dbpedia.org/resource/European_Commission
+
+Hungarian
+Schema:Place,DBpedia:Place,DBpedia:PopulatedPlace,Schema:Country,DBpedia:Country
+http://dbpedia.org/resource/Hungary
+
+Polish
+Schema:Place,DBpedia:Place,DBpedia:PopulatedPlace,Schema:Country,DBpedia:Country
+http://dbpedia.org/resource/Poland
+
+Fundamental Rights Agency
+DBpedia:Agent,Schema:Organization,DBpedia:Organisation
+http://dbpedia.org/resource/Fundamental_Rights_Agency
+
+Eurobarometer
+
+http://dbpedia.org/resource/Eurobarometer
+
+Article 29 Working Party
+
+http://dbpedia.org/resource/Article_29_Working_Party
+
+Eurobarometer
+
+http://dbpedia.org/resource/Eurobarometer
+
+/archives
+
+http://dbpedia.org/resource/Archive
+
+European Data Protection Supervisor
+
+http://dbpedia.org/resource/European_Data_Protection_Supervisor
+
+European Parliament
+DBpedia:Agent,Schema:Organization,DBpedia:Organisation,DBpedia:Legislature
+http://dbpedia.org/resource/European_Parliament
+
+European Union
+
+http://dbpedia.org/resource/European_Union
+
+EU agency
+
+http://dbpedia.org/resource/Agencies_of_the_European_Union
+
+EP
+DBpedia:Agent,Schema:Organization,DBpedia:Organisation,DBpedia:Legislature
+http://dbpedia.org/resource/European_Parliament
+
+European Union
+
+http://dbpedia.org/resource/European_Union
+
+TA
+
+http://dbpedia.org/resource/Ampere
+
+TA
+
+http://dbpedia.org/resource/Ampere
+
+rapporteur
+
+http://dbpedia.org/resource/Rapporteur
+
+MEP
+DBpedia:Agent,Schema:Organization,DBpedia:Organisation,DBpedia:Legislature
+http://dbpedia.org/resource/European_Parliament
+
+EPP
+
+http://dbpedia.org/resource/European_People's_Party_(European_Parliament_group)
+
+DE
+Schema:Place,DBpedia:Place,DBpedia:PopulatedPlace,Schema:Country,DBpedia:Country
+http://dbpedia.org/resource/Germany
+
+SEC
+DBpedia:Agent,Schema:Organization,DBpedia:Organisation,Schema:GovernmentOrganization,DBpedia:GovernmentAgency
+http://dbpedia.org/resource/U.S._Securities_and_Exchange_Commission
+
+Stockholm
+Schema:Place,DBpedia:Place,DBpedia:PopulatedPlace,DBpedia:Settlement
+http://dbpedia.org/resource/Stockholm
+
+Europe 2020 strategy
+
+http://dbpedia.org/resource/Europe_2020
+
+draft
+
+http://dbpedia.org/resource/Conscription
+
+IAB
+DBpedia:Agent,Schema:Organization,DBpedia:Organisation
+http://dbpedia.org/resource/Interactive_Advertising_Bureau
+
+TFEU
+
+http://dbpedia.org/resource/Treaties_of_the_European_Union
+
+Lisbon Treaty
+
+http://dbpedia.org/resource/Treaty_of_Lisbon
+
+TFEU
+
+http://dbpedia.org/resource/Treaties_of_the_European_Union
+
+TFEU
+
+http://dbpedia.org/resource/Treaties_of_the_European_Union
+
+subsidiarity
+
+http://dbpedia.org/resource/Subsidiarity
+
+TEU
+
+http://dbpedia.org/resource/Treaties_of_the_European_Union
+
+subsidiarity
+
+http://dbpedia.org/resource/Subsidiarity
+
+TFEU
+
+http://dbpedia.org/resource/Treaties_of_the_European_Union
+
+ECHR
+
+http://dbpedia.org/resource/European_Convention_on_Human_Rights
+
+EU27
+
+http://dbpedia.org/resource/2007_enlargement_of_the_European_Union
+
+C-
+
+http://dbpedia.org/resource/Grading_(education)
+
+C-93
+Schema:Product,DBpedia:Device,DBpedia:Weapon
+http://dbpedia.org/resource/Borchardt_C-93
+
+I-
+DBpedia:ChemicalSubstance,DBpedia:ChemicalCompound
+http://dbpedia.org/resource/Iodide
+
+sexual orientation
+
+http://dbpedia.org/resource/Sexual_orientation
+
+biometric
+
+http://dbpedia.org/resource/Biometrics
+
+European Union
+
+http://dbpedia.org/resource/European_Union
+
+European Parliament
+DBpedia:Agent,Schema:Organization,DBpedia:Organisation,DBpedia:Legislature
+http://dbpedia.org/resource/European_Parliament
+
+European Parliament
+DBpedia:Agent,Schema:Organization,DBpedia:Organisation,DBpedia:Legislature
+http://dbpedia.org/resource/European_Parliament
+
+Directive 2002/22/EC
+
+http://dbpedia.org/resource/Universal_Service_Directive
+
+universal service
+
+http://dbpedia.org/resource/Universal_service
+
+EEA
+
+http://dbpedia.org/resource/European_Economic_Area
+
+United Nations General Assembly
+
+http://dbpedia.org/resource/United_Nations_General_Assembly
+
+/25
+DBpedia:TimePeriod,DBpedia:Year
+http://dbpedia.org/resource/25
+
+EN 8
+
+http://dbpedia.org/resource/EN_8
+
+EC.
+Schema:Language,DBpedia:Language
+http://dbpedia.org/resource/Koine_Greek
+
+EC.
+Schema:Language,DBpedia:Language
+http://dbpedia.org/resource/Koine_Greek
+
+Madrid
+Schema:Place,DBpedia:Place,DBpedia:PopulatedPlace,DBpedia:Settlement
+http://dbpedia.org/resource/Madrid
+
+customs administrations
+
+http://dbpedia.org/resource/Customs_territory
+
+EC.
+Schema:Language,DBpedia:Language
+http://dbpedia.org/resource/Koine_Greek
+
+direct marketing
+
+http://dbpedia.org/resource/Direct_marketing
+
+CM
+
+http://dbpedia.org/resource/Order_of_Canada
+
+EC.
+Schema:Language,DBpedia:Language
+http://dbpedia.org/resource/Koine_Greek
+
+EC.
+Schema:Language,DBpedia:Language
+http://dbpedia.org/resource/Koine_Greek
+
+EC.
+Schema:Language,DBpedia:Language
+http://dbpedia.org/resource/Koine_Greek
+
+EC.
+Schema:Language,DBpedia:Language
+http://dbpedia.org/resource/Koine_Greek
+
+EC.
+Schema:Language,DBpedia:Language
+http://dbpedia.org/resource/Koine_Greek
+
+EC.
+Schema:Language,DBpedia:Language
+http://dbpedia.org/resource/Koine_Greek
+
+EC.
+Schema:Language,DBpedia:Language
+http://dbpedia.org/resource/Koine_Greek
+
+customs administrations
+
+http://dbpedia.org/resource/Customs_territory
+
+OECD
+Schema:Place,DBpedia:Place,DBpedia:PopulatedPlace,Schema:Country,DBpedia:Country
+http://dbpedia.org/resource/Organisation_for_Economic_Co-operation_and_Development
+
+Germany
+Schema:Place,DBpedia:Place,DBpedia:PopulatedPlace,Schema:Country,DBpedia:Country
+http://dbpedia.org/resource/Germany
+
+I-
+DBpedia:ChemicalSubstance,DBpedia:ChemicalCompound
+http://dbpedia.org/resource/Iodide
+
+European Parliament
+DBpedia:Agent,Schema:Organization,DBpedia:Organisation,DBpedia:Legislature
+http://dbpedia.org/resource/European_Parliament
+
+EC.
+Schema:Language,DBpedia:Language
+http://dbpedia.org/resource/Koine_Greek
+
+EC.
+Schema:Language,DBpedia:Language
+http://dbpedia.org/resource/Koine_Greek
+
+draft
+
+http://dbpedia.org/resource/Conscription
+
+draft
+
+http://dbpedia.org/resource/Conscription
+
+terrorism
+
+http://dbpedia.org/resource/Terrorism
+
+European Data Protection Supervisor
+
+http://dbpedia.org/resource/European_Data_Protection_Supervisor
+
+EC.
+Schema:Language,DBpedia:Language
+http://dbpedia.org/resource/Koine_Greek
+
+EC.
+Schema:Language,DBpedia:Language
+http://dbpedia.org/resource/Koine_Greek
+
+European Data Protection Supervisor
+
+http://dbpedia.org/resource/European_Data_Protection_Supervisor
+
+EC.
+Schema:Language,DBpedia:Language
+http://dbpedia.org/resource/Koine_Greek
+
+EC.
+Schema:Language,DBpedia:Language
+http://dbpedia.org/resource/Koine_Greek
+
+EC.
+Schema:Language,DBpedia:Language
+http://dbpedia.org/resource/Koine_Greek
+
+European Data Protection Supervisor
+
+http://dbpedia.org/resource/European_Data_Protection_Supervisor
+
+EC.
+Schema:Language,DBpedia:Language
+http://dbpedia.org/resource/Koine_Greek
+
+EC.
+Schema:Language,DBpedia:Language
+http://dbpedia.org/resource/Koine_Greek
+
+/12
+DBpedia:TimePeriod,DBpedia:Year
+http://dbpedia.org/resource/12
+
+/2009
+DBpedia:TimePeriod,DBpedia:Year
+http://dbpedia.org/resource/2009
+
+European Parliament
+DBpedia:Agent,Schema:Organization,DBpedia:Organisation,DBpedia:Legislature
+http://dbpedia.org/resource/European_Parliament
+
+electronic commerce
+
+http://dbpedia.org/resource/E-commerce
+
+electronic commerce
+
+http://dbpedia.org/resource/E-commerce
+
+C-
+
+http://dbpedia.org/resource/Grading_(education)
+
+I-
+DBpedia:ChemicalSubstance,DBpedia:ChemicalCompound
+http://dbpedia.org/resource/Iodide
+
+European Union
+
+http://dbpedia.org/resource/European_Union
+
+TFEU
+
+http://dbpedia.org/resource/Treaties_of_the_European_Union
+
+TFEU
+
+http://dbpedia.org/resource/Treaties_of_the_European_Union
+
+EC.
+Schema:Language,DBpedia:Language
+http://dbpedia.org/resource/Koine_Greek
+
+EC.
+Schema:Language,DBpedia:Language
+http://dbpedia.org/resource/Koine_Greek
+
+European Data Protection Supervisor
+
+http://dbpedia.org/resource/European_Data_Protection_Supervisor
+
+Financial Perspective
+
+http://dbpedia.org/resource/Multiannual_Financial_Framework
+
+EUROPEAN PARLIAMENT
+DBpedia:Agent,Schema:Organization,DBpedia:Organisation,DBpedia:Legislature
+http://dbpedia.org/resource/European_Parliament
+
+General Data Protection Regulation
+
+http://dbpedia.org/resource/General_Data_Protection_Regulation
+
+EEA
+
+http://dbpedia.org/resource/European_Economic_Area
+
+EUROPEAN PARLIAMENT
+DBpedia:Agent,Schema:Organization,DBpedia:Organisation,DBpedia:Legislature
+http://dbpedia.org/resource/European_Parliament
+
+COUNCIL OF THE EUROPEAN UNION
+DBpedia:Agent,Schema:Organization,DBpedia:Organisation,DBpedia:Legislature
+http://dbpedia.org/resource/Council_of_the_European_Union
+
+European Union
+
+http://dbpedia.org/resource/European_Union
+
+European Commission
+
+http://dbpedia.org/resource/European_Commission
+
+draft
+
+http://dbpedia.org/resource/Conscription
+
+ordinary legislative procedure
+
+http://dbpedia.org/resource/Legislature_of_the_European_Union
+
+European Union
+
+http://dbpedia.org/resource/European_Union
+
+European Parliament
+DBpedia:Agent,Schema:Organization,DBpedia:Organisation,DBpedia:Legislature
+http://dbpedia.org/resource/European_Parliament
+
+digital economy
+
+http://dbpedia.org/resource/Digital_economy
+
+EC.
+Schema:Language,DBpedia:Language
+http://dbpedia.org/resource/Koine_Greek
+
+European Parliament
+DBpedia:Agent,Schema:Organization,DBpedia:Organisation,DBpedia:Legislature
+http://dbpedia.org/resource/European_Parliament
+
+EC.
+Schema:Language,DBpedia:Language
+http://dbpedia.org/resource/Koine_Greek
+
+European Parliament
+DBpedia:Agent,Schema:Organization,DBpedia:Organisation,DBpedia:Legislature
+http://dbpedia.org/resource/European_Parliament
+
+EC.
+Schema:Language,DBpedia:Language
+http://dbpedia.org/resource/Koine_Greek
+
+European Parliament
+DBpedia:Agent,Schema:Organization,DBpedia:Organisation,DBpedia:Legislature
+http://dbpedia.org/resource/European_Parliament
+
+legal personality
+
+http://dbpedia.org/resource/Legal_personality
+
+public international law
+
+http://dbpedia.org/resource/Public_international_law
+
+diplomatic mission
+
+http://dbpedia.org/resource/Diplomatic_mission
+
+Internet Protocol
+
+http://dbpedia.org/resource/Internet_Protocol
+
+affirmative action
+
+http://dbpedia.org/resource/Affirmative_action
+
+Internet Protocol
+
+http://dbpedia.org/resource/Internet_Protocol
+
+affirmative action
+
+http://dbpedia.org/resource/Affirmative_action
+
+Internet Protocol
+
+http://dbpedia.org/resource/Internet_Protocol
+
+affirmative action
+
+http://dbpedia.org/resource/Affirmative_action
+
+European Union
+
+http://dbpedia.org/resource/European_Union
+
+Computer Emergency Response Teams
+
+http://dbpedia.org/resource/Computer_emergency_response_team
+
+Computer Emergency Response Teams
+
+http://dbpedia.org/resource/Computer_emergency_response_team
+
+Computer Emergency Response Teams
+
+http://dbpedia.org/resource/Computer_emergency_response_team
+
+Computer Emergency Response Teams
+
+http://dbpedia.org/resource/Computer_emergency_response_team
+
+trade secrets
+
+http://dbpedia.org/resource/Trade_secret
+
+direct marketing
+
+http://dbpedia.org/resource/Direct_marketing
+
+public security
+
+http://dbpedia.org/resource/Safety
+
+European Union
+
+http://dbpedia.org/resource/European_Union
+
+public security
+
+http://dbpedia.org/resource/Safety
+
+European Union
+
+http://dbpedia.org/resource/European_Union
+
+identity theft
+
+http://dbpedia.org/resource/Identity_theft
+
+identity theft
+
+http://dbpedia.org/resource/Identity_theft
+
+identity theft
+
+http://dbpedia.org/resource/Identity_theft
+
+identity theft
+
+http://dbpedia.org/resource/Identity_theft
+
+human rights
+
+http://dbpedia.org/resource/Human_rights
+
+human rights
+
+http://dbpedia.org/resource/Human_rights
+
+human rights
+
+http://dbpedia.org/resource/Human_rights
+
+human rights
+
+http://dbpedia.org/resource/Human_rights
+
+customs administrations
+
+http://dbpedia.org/resource/Customs_territory
+
+international law
+
+http://dbpedia.org/resource/International_law
+
+customs administrations
+
+http://dbpedia.org/resource/Customs_territory
+
+international law
+
+http://dbpedia.org/resource/International_law
+
+customs administrations
+
+http://dbpedia.org/resource/Customs_territory
+
+international law
+
+http://dbpedia.org/resource/International_law
+
+judicial review
+
+http://dbpedia.org/resource/Judicial_review
+
+draft
+
+http://dbpedia.org/resource/Conscription
+
+EC.
+Schema:Language,DBpedia:Language
+http://dbpedia.org/resource/Koine_Greek
+
+European Data Protection Supervisor
+
+http://dbpedia.org/resource/European_Data_Protection_Supervisor
+
+habitual residence
+
+http://dbpedia.org/resource/Habitual_residence
+
+judicial review
+
+http://dbpedia.org/resource/Judicial_review
+
+force majeure
+
+http://dbpedia.org/resource/Force_majeure
+
+European Union
+
+http://dbpedia.org/resource/European_Union
+
+force majeure
+
+http://dbpedia.org/resource/Force_majeure
+
+European Union
+
+http://dbpedia.org/resource/European_Union
+
+European Parliament
+DBpedia:Agent,Schema:Organization,DBpedia:Organisation,DBpedia:Legislature
+http://dbpedia.org/resource/European_Parliament
+
+mortality
+
+http://dbpedia.org/resource/Mortality_rate
+
+European Union
+
+http://dbpedia.org/resource/European_Union
+
+European Research Area
+DBpedia:Agent,Schema:Organization,DBpedia:Organisation
+http://dbpedia.org/resource/European_Research_Area
+
+European Union
+
+http://dbpedia.org/resource/European_Union
+
+European Union
+
+http://dbpedia.org/resource/European_Union
+
+European Parliament
+DBpedia:Agent,Schema:Organization,DBpedia:Organisation,DBpedia:Legislature
+http://dbpedia.org/resource/European_Parliament
+
+European Parliament
+DBpedia:Agent,Schema:Organization,DBpedia:Organisation,DBpedia:Legislature
+http://dbpedia.org/resource/European_Parliament
+
+subsidiarity
+
+http://dbpedia.org/resource/Subsidiarity
+
+European Parliament
+DBpedia:Agent,Schema:Organization,DBpedia:Organisation,DBpedia:Legislature
+http://dbpedia.org/resource/European_Parliament
+
+European Union
+
+http://dbpedia.org/resource/European_Union
+
+Iceland
+
+http://dbpedia.org/resource/Accession_of_Iceland_to_the_European_Union
+
+Norway
+Schema:Place,DBpedia:Place,DBpedia:PopulatedPlace,Schema:Country,DBpedia:Country
+http://dbpedia.org/resource/Norway
+
+Schengen
+
+http://dbpedia.org/resource/Schengen_Agreement
+
+Iceland
+
+http://dbpedia.org/resource/Accession_of_Iceland_to_the_European_Union
+
+Norway
+Schema:Place,DBpedia:Place,DBpedia:PopulatedPlace,Schema:Country,DBpedia:Country
+http://dbpedia.org/resource/Norway
+
+Schengen
+
+http://dbpedia.org/resource/Schengen_Agreement
+
+Switzerland
+Schema:Place,DBpedia:Place,DBpedia:PopulatedPlace,Schema:Country,DBpedia:Country
+http://dbpedia.org/resource/Switzerland
+
+Schengen
+
+http://dbpedia.org/resource/Schengen_Agreement
+
+European Community
+
+http://dbpedia.org/resource/European_Union
+
+Swiss Confederation
+Schema:Place,DBpedia:Place,DBpedia:PopulatedPlace,Schema:Country,DBpedia:Country
+http://dbpedia.org/resource/Switzerland
+
+Swiss Confederation
+Schema:Place,DBpedia:Place,DBpedia:PopulatedPlace,Schema:Country,DBpedia:Country
+http://dbpedia.org/resource/Switzerland
+
+Schengen
+
+http://dbpedia.org/resource/Schengen_Agreement
+
+Liechtenstein
+Schema:Place,DBpedia:Place,DBpedia:PopulatedPlace,Schema:Country,DBpedia:Country
+http://dbpedia.org/resource/Liechtenstein
+
+Schengen
+
+http://dbpedia.org/resource/Schengen_Agreement
+
+European Community
+
+http://dbpedia.org/resource/European_Union
+
+Swiss Confederation
+Schema:Place,DBpedia:Place,DBpedia:PopulatedPlace,Schema:Country,DBpedia:Country
+http://dbpedia.org/resource/Switzerland
+
+Liechtenstein
+Schema:Place,DBpedia:Place,DBpedia:PopulatedPlace,Schema:Country,DBpedia:Country
+http://dbpedia.org/resource/Liechtenstein
+
+Liechtenstein
+Schema:Place,DBpedia:Place,DBpedia:PopulatedPlace,Schema:Country,DBpedia:Country
+http://dbpedia.org/resource/Liechtenstein
+
+European Community
+
+http://dbpedia.org/resource/European_Union
+
+Swiss Confederation
+Schema:Place,DBpedia:Place,DBpedia:PopulatedPlace,Schema:Country,DBpedia:Country
+http://dbpedia.org/resource/Switzerland
+
+Swiss Confederation
+Schema:Place,DBpedia:Place,DBpedia:PopulatedPlace,Schema:Country,DBpedia:Country
+http://dbpedia.org/resource/Switzerland
+
+Schengen
+
+http://dbpedia.org/resource/Schengen_Agreement
+
+European Union
+
+http://dbpedia.org/resource/European_Union
+
+European Union
+
+http://dbpedia.org/resource/European_Union
+
+public international law
+
+http://dbpedia.org/resource/Public_international_law
+
+affirmative action
+
+http://dbpedia.org/resource/Affirmative_action
+
+biometric
+
+http://dbpedia.org/resource/Biometrics
+
+biometric
+
+http://dbpedia.org/resource/Biometrics
+
+biometric
+
+http://dbpedia.org/resource/Biometrics
+
+contract law
+
+http://dbpedia.org/resource/Contract
+
+contract law
+
+http://dbpedia.org/resource/Contract
+
+contract law
+
+http://dbpedia.org/resource/Contract
+
+contract law
+
+http://dbpedia.org/resource/Contract
+
+contract law
+
+http://dbpedia.org/resource/Contract
+
+contract law
+
+http://dbpedia.org/resource/Contract
+
+contract law
+
+http://dbpedia.org/resource/Contract
+
+contract law
+
+http://dbpedia.org/resource/Contract
+
+contract law
+
+http://dbpedia.org/resource/Contract
+
+contract law
+
+http://dbpedia.org/resource/Contract
+
+direct marketing
+
+http://dbpedia.org/resource/Direct_marketing
+
+EN 54
+
+http://dbpedia.org/resource/EN_54
+
+public security
+
+http://dbpedia.org/resource/Safety
+
+public security
+
+http://dbpedia.org/resource/Safety
+
+public security
+
+http://dbpedia.org/resource/Safety
+
+public security
+
+http://dbpedia.org/resource/Safety
+
+public security
+
+http://dbpedia.org/resource/Safety
+
+public security
+
+http://dbpedia.org/resource/Safety
+
+public security
+
+http://dbpedia.org/resource/Safety
+
+public security
+
+http://dbpedia.org/resource/Safety
+
+public security
+
+http://dbpedia.org/resource/Safety
+
+biometric
+
+http://dbpedia.org/resource/Biometrics
+
+biometric
+
+http://dbpedia.org/resource/Biometrics
+
+biometric
+
+http://dbpedia.org/resource/Biometrics
+
+biometric
+
+http://dbpedia.org/resource/Biometrics
+
+biometric
+
+http://dbpedia.org/resource/Biometrics
+
+biometric
+
+http://dbpedia.org/resource/Biometrics
+
+biometric
+
+http://dbpedia.org/resource/Biometrics
+
+draft
+
+http://dbpedia.org/resource/Conscription
+
+draft
+
+http://dbpedia.org/resource/Conscription
+
+draft
+
+http://dbpedia.org/resource/Conscription
+
+draft
+
+http://dbpedia.org/resource/Conscription
+
+public security
+
+http://dbpedia.org/resource/Safety
+
+European Union
+
+http://dbpedia.org/resource/European_Union
+
+European Union
+
+http://dbpedia.org/resource/European_Union
+
+European Union
+
+http://dbpedia.org/resource/European_Union
+
+European Union
+
+http://dbpedia.org/resource/European_Union
+
+European Union
+
+http://dbpedia.org/resource/European_Union
+
+final destination
+Schema:CreativeWork,DBpedia:Work,Schema:Movie,DBpedia:Film
+http://dbpedia.org/resource/Final_Destination_3
+
+final destination
+Schema:CreativeWork,DBpedia:Work,Schema:Movie,DBpedia:Film
+http://dbpedia.org/resource/Final_Destination_3
+
+final destination
+Schema:CreativeWork,DBpedia:Work,Schema:Movie,DBpedia:Film
+http://dbpedia.org/resource/Final_Destination_3
+
+final destination
+Schema:CreativeWork,DBpedia:Work,Schema:Movie,DBpedia:Film
+http://dbpedia.org/resource/Final_Destination_3
+
+final destination
+Schema:CreativeWork,DBpedia:Work,Schema:Movie,DBpedia:Film
+http://dbpedia.org/resource/Final_Destination_3
+
+draft
+
+http://dbpedia.org/resource/Conscription
+
+draft
+
+http://dbpedia.org/resource/Conscription
+
+draft
+
+http://dbpedia.org/resource/Conscription
+
+draft
+
+http://dbpedia.org/resource/Conscription
+
+draft
+
+http://dbpedia.org/resource/Conscription
+
+draft
+
+http://dbpedia.org/resource/Conscription
+
+draft
+
+http://dbpedia.org/resource/Conscription
+
+draft
+
+http://dbpedia.org/resource/Conscription
+
+draft
+
+http://dbpedia.org/resource/Conscription
+
+draft
+
+http://dbpedia.org/resource/Conscription
+
+draft
+
+http://dbpedia.org/resource/Conscription
+
+draft
+
+http://dbpedia.org/resource/Conscription
+
+draft
+
+http://dbpedia.org/resource/Conscription
+
+draft
+
+http://dbpedia.org/resource/Conscription
+
+draft
+
+http://dbpedia.org/resource/Conscription
+
+draft
+
+http://dbpedia.org/resource/Conscription
+
+draft
+
+http://dbpedia.org/resource/Conscription
+
+draft
+
+http://dbpedia.org/resource/Conscription
+
+draft
+
+http://dbpedia.org/resource/Conscription
+
+draft
+
+http://dbpedia.org/resource/Conscription
+
+European Data Protection Supervisor
+
+http://dbpedia.org/resource/European_Data_Protection_Supervisor
+
+draft
+
+http://dbpedia.org/resource/Conscription
+
+European Parliament
+DBpedia:Agent,Schema:Organization,DBpedia:Organisation,DBpedia:Legislature
+http://dbpedia.org/resource/European_Parliament
+
+European Data Protection Supervisor
+
+http://dbpedia.org/resource/European_Data_Protection_Supervisor
+
+European Data Protection Supervisor
+
+http://dbpedia.org/resource/European_Data_Protection_Supervisor
+
+habitual residence
+
+http://dbpedia.org/resource/Habitual_residence
+
+habitual residence
+
+http://dbpedia.org/resource/Habitual_residence
+
+habitual residence
+
+http://dbpedia.org/resource/Habitual_residence
+
+habitual residence
+
+http://dbpedia.org/resource/Habitual_residence
+
+habitual residence
+
+http://dbpedia.org/resource/Habitual_residence
+
+habitual residence
+
+http://dbpedia.org/resource/Habitual_residence
+
+habitual residence
+
+http://dbpedia.org/resource/Habitual_residence
+
+occupational medicine
+
+http://dbpedia.org/resource/Occupational_safety_and_health
+
+occupational medicine
+
+http://dbpedia.org/resource/Occupational_safety_and_health
+
+occupational medicine
+
+http://dbpedia.org/resource/Occupational_safety_and_health
+
+occupational medicine
+
+http://dbpedia.org/resource/Occupational_safety_and_health
+
+European Parliament
+DBpedia:Agent,Schema:Organization,DBpedia:Organisation,DBpedia:Legislature
+http://dbpedia.org/resource/European_Parliament
+
+European Union
+
+http://dbpedia.org/resource/European_Union
+
+European Parliament
+DBpedia:Agent,Schema:Organization,DBpedia:Organisation,DBpedia:Legislature
+http://dbpedia.org/resource/European_Parliament
+
+European Parliament
+DBpedia:Agent,Schema:Organization,DBpedia:Organisation,DBpedia:Legislature
+http://dbpedia.org/resource/European_Parliament
+
+European Parliament
+DBpedia:Agent,Schema:Organization,DBpedia:Organisation,DBpedia:Legislature
+http://dbpedia.org/resource/European_Parliament
+
+European Parliament
+DBpedia:Agent,Schema:Organization,DBpedia:Organisation,DBpedia:Legislature
+http://dbpedia.org/resource/European_Parliament
+
+European Parliament
+DBpedia:Agent,Schema:Organization,DBpedia:Organisation,DBpedia:Legislature
+http://dbpedia.org/resource/European_Parliament
+
+EC.
+Schema:Language,DBpedia:Language
+http://dbpedia.org/resource/Koine_Greek
+
+European Parliament
+DBpedia:Agent,Schema:Organization,DBpedia:Organisation,DBpedia:Legislature
+http://dbpedia.org/resource/European_Parliament
+
+European Union
+
+http://dbpedia.org/resource/European_Union
+
+Brussels
+Schema:Place,DBpedia:Place,DBpedia:PopulatedPlace,DBpedia:Settlement
+http://dbpedia.org/resource/Brussels
+
+European Parliament
+DBpedia:Agent,Schema:Organization,DBpedia:Organisation,DBpedia:Legislature
+http://dbpedia.org/resource/European_Parliament
+
+ABB
+DBpedia:Agent,Schema:Organization,DBpedia:Organisation,DBpedia:Company
+http://dbpedia.org/resource/ABB_Group
+
+multiannual financial framework
+
+http://dbpedia.org/resource/Multiannual_Financial_Framework
+
+3.2.1.
+Schema:CreativeWork,DBpedia:Work,DBpedia:MusicalWork,Schema:MusicAlbum,DBpedia:Album
+http://dbpedia.org/resource/3.2.1.
+
+multiannual financial framework
+
+http://dbpedia.org/resource/Multiannual_Financial_Framework
+
+general Data Protection Regulation
+
+http://dbpedia.org/resource/General_Data_Protection_Regulation
+
+European Data Protection Supervisor
+
+http://dbpedia.org/resource/European_Data_Protection_Supervisor
+
+European Parliament
+DBpedia:Agent,Schema:Organization,DBpedia:Organisation,DBpedia:Legislature
+http://dbpedia.org/resource/European_Parliament
+
+General Data Protection Regulation
+
+http://dbpedia.org/resource/General_Data_Protection_Regulation
+
+European Parliament
+DBpedia:Agent,Schema:Organization,DBpedia:Organisation,DBpedia:Legislature
+http://dbpedia.org/resource/European_Parliament
+
+ABB
+DBpedia:Agent,Schema:Organization,DBpedia:Organisation,DBpedia:Company
+http://dbpedia.org/resource/ABB_Group
+
+European Data Protection Supervisor
+
+http://dbpedia.org/resource/European_Data_Protection_Supervisor
+
+European Parliament
+DBpedia:Agent,Schema:Organization,DBpedia:Organisation,DBpedia:Legislature
+http://dbpedia.org/resource/European_Parliament
+
+General Data Protection Regulation
+
+http://dbpedia.org/resource/General_Data_Protection_Regulation
+
+European Parliament
+DBpedia:Agent,Schema:Organization,DBpedia:Organisation,DBpedia:Legislature
+http://dbpedia.org/resource/European_Parliament
+
+ABB
+DBpedia:Agent,Schema:Organization,DBpedia:Organisation,DBpedia:Company
+http://dbpedia.org/resource/ABB_Group
+
+ABB
+DBpedia:Agent,Schema:Organization,DBpedia:Organisation,DBpedia:Company
+http://dbpedia.org/resource/ABB_Group
+
+ABB
+DBpedia:Agent,Schema:Organization,DBpedia:Organisation,DBpedia:Company
+http://dbpedia.org/resource/ABB_Group
+
+ABB
+DBpedia:Agent,Schema:Organization,DBpedia:Organisation,DBpedia:Company
+http://dbpedia.org/resource/ABB_Group
+
+European Parliament
+DBpedia:Agent,Schema:Organization,DBpedia:Organisation,DBpedia:Legislature
+http://dbpedia.org/resource/European_Parliament
+
+Eurobarometer
+
+http://dbpedia.org/resource/Eurobarometer
+
+European Data Protection Supervisor
+
+http://dbpedia.org/resource/European_Data_Protection_Supervisor
+
+Article 29 Working Party
+
+http://dbpedia.org/resource/Article_29_Working_Party
+
+draft
+
+http://dbpedia.org/resource/Conscription
+
+FTE
+
+http://dbpedia.org/resource/Full-time_equivalent
+
+IT
+
+http://dbpedia.org/resource/Information_technology
+
+FTE
+
+http://dbpedia.org/resource/Full-time_equivalent
+
+multiannual financial framework
+
+http://dbpedia.org/resource/Multiannual_Financial_Framework
+
+multiannual financial framework
+
+http://dbpedia.org/resource/Multiannual_Financial_Framework
+
+multiannual financial framework
+
+http://dbpedia.org/resource/Multiannual_Financial_Framework
+
+3.2.1.
+Schema:CreativeWork,DBpedia:Work,DBpedia:MusicalWork,Schema:MusicAlbum,DBpedia:Album
+http://dbpedia.org/resource/3.2.1.
+
+multiannual financial framework
+
+http://dbpedia.org/resource/Multiannual_Financial_Framework
+
+N56
+Schema:Place,DBpedia:Place,DBpedia:ArchitecturalStructure,DBpedia:Infrastructure,DBpedia:RouteOfTransportation,DBpedia:Road
+http://dbpedia.org/resource/N56_road_(Ireland)
+
+N+
+
+http://dbpedia.org/resource/Nitrogen
+
+N+
+
+http://dbpedia.org/resource/Nitrogen
+
+N+
+
+http://dbpedia.org/resource/Nitrogen
+
+draft
+
+http://dbpedia.org/resource/Conscription
+
+FTE
+
+http://dbpedia.org/resource/Full-time_equivalent
+
+IT
+
+http://dbpedia.org/resource/Information_technology
+
+FTE
+
+http://dbpedia.org/resource/Full-time_equivalent
+
+multiannual financial framework
+
+http://dbpedia.org/resource/Multiannual_Financial_Framework
+
+multiannual financial framework
+
+http://dbpedia.org/resource/Multiannual_Financial_Framework
+
+multiannual financial framework
+
+http://dbpedia.org/resource/Multiannual_Financial_Framework
+
+3.2.1.
+Schema:CreativeWork,DBpedia:Work,DBpedia:MusicalWork,Schema:MusicAlbum,DBpedia:Album
+http://dbpedia.org/resource/3.2.1.
+
+multiannual financial framework
+
+http://dbpedia.org/resource/Multiannual_Financial_Framework
+
+N56
+Schema:Place,DBpedia:Place,DBpedia:ArchitecturalStructure,DBpedia:Infrastructure,DBpedia:RouteOfTransportation,DBpedia:Road
+http://dbpedia.org/resource/N56_road_(Ireland)
+
+N+
+
+http://dbpedia.org/resource/Nitrogen
+
+N+
+
+http://dbpedia.org/resource/Nitrogen
+
+N+
+
+http://dbpedia.org/resource/Nitrogen
+
+draft
+
+http://dbpedia.org/resource/Conscription
+
+FTE
+
+http://dbpedia.org/resource/Full-time_equivalent
+
+IT
+
+http://dbpedia.org/resource/Information_technology
+
+FTE
+
+http://dbpedia.org/resource/Full-time_equivalent
+
+multiannual financial framework
+
+http://dbpedia.org/resource/Multiannual_Financial_Framework
+
+multiannual financial framework
+
+http://dbpedia.org/resource/Multiannual_Financial_Framework
+
+multiannual financial framework
+
+http://dbpedia.org/resource/Multiannual_Financial_Framework
+
+3.2.1.
+Schema:CreativeWork,DBpedia:Work,DBpedia:MusicalWork,Schema:MusicAlbum,DBpedia:Album
+http://dbpedia.org/resource/3.2.1.
+
+multiannual financial framework
+
+http://dbpedia.org/resource/Multiannual_Financial_Framework
+
+N56
+Schema:Place,DBpedia:Place,DBpedia:ArchitecturalStructure,DBpedia:Infrastructure,DBpedia:RouteOfTransportation,DBpedia:Road
+http://dbpedia.org/resource/N56_road_(Ireland)
+
+N+
+
+http://dbpedia.org/resource/Nitrogen
+
+N+
+
+http://dbpedia.org/resource/Nitrogen
+
+N+
+
+http://dbpedia.org/resource/Nitrogen
+
+draft
+
+http://dbpedia.org/resource/Conscription
+
+FTE
+
+http://dbpedia.org/resource/Full-time_equivalent
+
+IT
+
+http://dbpedia.org/resource/Information_technology
+
+FTE
+
+http://dbpedia.org/resource/Full-time_equivalent
+
+multiannual financial framework
+
+http://dbpedia.org/resource/Multiannual_Financial_Framework
+
+multiannual financial framework
+
+http://dbpedia.org/resource/Multiannual_Financial_Framework
+
+multiannual financial framework
+
+http://dbpedia.org/resource/Multiannual_Financial_Framework
+
+3.2.1.
+Schema:CreativeWork,DBpedia:Work,DBpedia:MusicalWork,Schema:MusicAlbum,DBpedia:Album
+http://dbpedia.org/resource/3.2.1.
+
+multiannual financial framework
+
+http://dbpedia.org/resource/Multiannual_Financial_Framework
+
+N56
+Schema:Place,DBpedia:Place,DBpedia:ArchitecturalStructure,DBpedia:Infrastructure,DBpedia:RouteOfTransportation,DBpedia:Road
+http://dbpedia.org/resource/N56_road_(Ireland)
+
+N+
+
+http://dbpedia.org/resource/Nitrogen
+
+N+
+
+http://dbpedia.org/resource/Nitrogen
+
+N+
+
+http://dbpedia.org/resource/Nitrogen
+
+draft
+
+http://dbpedia.org/resource/Conscription
+
+FTE
+
+http://dbpedia.org/resource/Full-time_equivalent
+
+IT
+
+http://dbpedia.org/resource/Information_technology
+
+FTE
+
+http://dbpedia.org/resource/Full-time_equivalent
+
+multiannual financial framework
+
+http://dbpedia.org/resource/Multiannual_Financial_Framework
+
+multiannual financial framework
+
+http://dbpedia.org/resource/Multiannual_Financial_Framework
+
+multiannual financial framework
+
+http://dbpedia.org/resource/Multiannual_Financial_Framework
+
+3.2.1.
+Schema:CreativeWork,DBpedia:Work,DBpedia:MusicalWork,Schema:MusicAlbum,DBpedia:Album
+http://dbpedia.org/resource/3.2.1.
+
+multiannual financial framework
+
+http://dbpedia.org/resource/Multiannual_Financial_Framework
+
+N56
+Schema:Place,DBpedia:Place,DBpedia:ArchitecturalStructure,DBpedia:Infrastructure,DBpedia:RouteOfTransportation,DBpedia:Road
+http://dbpedia.org/resource/N56_road_(Ireland)
+
+N+
+
+http://dbpedia.org/resource/Nitrogen
+
+N+
+
+http://dbpedia.org/resource/Nitrogen
+
+N+
+
+http://dbpedia.org/resource/Nitrogen
+
+draft
+
+http://dbpedia.org/resource/Conscription
+
+FTE
+
+http://dbpedia.org/resource/Full-time_equivalent
+
+IT
+
+http://dbpedia.org/resource/Information_technology
+
+FTE
+
+http://dbpedia.org/resource/Full-time_equivalent
+
+multiannual financial framework
+
+http://dbpedia.org/resource/Multiannual_Financial_Framework
+
+multiannual financial framework
+
+http://dbpedia.org/resource/Multiannual_Financial_Framework
+
+multiannual financial framework
+
+http://dbpedia.org/resource/Multiannual_Financial_Framework
+
+3.2.1.
+Schema:CreativeWork,DBpedia:Work,DBpedia:MusicalWork,Schema:MusicAlbum,DBpedia:Album
+http://dbpedia.org/resource/3.2.1.
+
+multiannual financial framework
+
+http://dbpedia.org/resource/Multiannual_Financial_Framework
+
+N56
+Schema:Place,DBpedia:Place,DBpedia:ArchitecturalStructure,DBpedia:Infrastructure,DBpedia:RouteOfTransportation,DBpedia:Road
+http://dbpedia.org/resource/N56_road_(Ireland)
+
+N+
+
+http://dbpedia.org/resource/Nitrogen
+
+N+
+
+http://dbpedia.org/resource/Nitrogen
+
+N+
+
+http://dbpedia.org/resource/Nitrogen
+
+draft
+
+http://dbpedia.org/resource/Conscription
+
+FTE
+
+http://dbpedia.org/resource/Full-time_equivalent
+
+IT
+
+http://dbpedia.org/resource/Information_technology
+
+FTE
+
+http://dbpedia.org/resource/Full-time_equivalent
+
+multiannual financial framework
+
+http://dbpedia.org/resource/Multiannual_Financial_Framework
+
+multiannual financial framework
+
+http://dbpedia.org/resource/Multiannual_Financial_Framework
+
+multiannual financial framework
+
+http://dbpedia.org/resource/Multiannual_Financial_Framework
+
+3.2.1.
+Schema:CreativeWork,DBpedia:Work,DBpedia:MusicalWork,Schema:MusicAlbum,DBpedia:Album
+http://dbpedia.org/resource/3.2.1.
+
+multiannual financial framework
+
+http://dbpedia.org/resource/Multiannual_Financial_Framework
+
+N56
+Schema:Place,DBpedia:Place,DBpedia:ArchitecturalStructure,DBpedia:Infrastructure,DBpedia:RouteOfTransportation,DBpedia:Road
+http://dbpedia.org/resource/N56_road_(Ireland)
+
+N+
+
+http://dbpedia.org/resource/Nitrogen
+
+N+
+
+http://dbpedia.org/resource/Nitrogen
+
+N+
+
+http://dbpedia.org/resource/Nitrogen
+
+European Parliament
+DBpedia:Agent,Schema:Organization,DBpedia:Organisation,DBpedia:Legislature
+http://dbpedia.org/resource/European_Parliament
+
+European Data Protection Supervisor
+
+http://dbpedia.org/resource/European_Data_Protection_Supervisor
+
+Article 29 Working Party
+
+http://dbpedia.org/resource/Article_29_Working_Party
+
+FTE
+
+http://dbpedia.org/resource/Full-time_equivalent
+
+FTEs
+
+http://dbpedia.org/resource/Full-time_equivalent
+
+IT
+
+http://dbpedia.org/resource/Information_technology
+
+SNEs
+DBpedia:Device,DBpedia:InformationAppliance
+http://dbpedia.org/resource/Super_Nintendo_Entertainment_System
+
+IT
+
+http://dbpedia.org/resource/Information_technology
+
+project management
+
+http://dbpedia.org/resource/Project_management
+
+IT
+
+http://dbpedia.org/resource/Information_technology
+
+requirements engineering
+
+http://dbpedia.org/resource/Requirements_engineering
+
+N+
+
+http://dbpedia.org/resource/Nitrogen
+
+N+
+
+http://dbpedia.org/resource/Nitrogen
+
+IT
+
+http://dbpedia.org/resource/Information_technology
+
+project management
+
+http://dbpedia.org/resource/Project_management
+
+IT
+
+http://dbpedia.org/resource/Information_technology
+
+requirements engineering
+
+http://dbpedia.org/resource/Requirements_engineering
+
+N+
+
+http://dbpedia.org/resource/Nitrogen
+
+N+
+
+http://dbpedia.org/resource/Nitrogen
+

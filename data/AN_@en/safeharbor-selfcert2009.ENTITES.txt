@@ -1,0 +1,1708 @@
+AR
+Schema:Place,DBpedia:Place,DBpedia:PopulatedPlace,DBpedia:Region,Schema:AdministrativeArea,DBpedia:AdministrativeRegion
+http://dbpedia.org/resource/Arkansas
+
+CH
+Schema:Place,DBpedia:Place,DBpedia:PopulatedPlace,Schema:Country,DBpedia:Country
+http://dbpedia.org/resource/Switzerland
+
+Constitution Avenue
+Schema:Place,DBpedia:Place,DBpedia:ArchitecturalStructure,DBpedia:Infrastructure,DBpedia:RouteOfTransportation,DBpedia:Road
+http://dbpedia.org/resource/Constitution_Avenue_(Islamabad)
+
+European Union
+
+http://dbpedia.org/resource/European_Union
+
+ter
+
+http://dbpedia.org/resource/Transport_express_régional
+
+Safe Harbor Principles
+
+http://dbpedia.org/resource/International_Safe_Harbor_Privacy_Principles
+
+Safe Harbor program
+
+http://dbpedia.org/resource/International_Safe_Harbor_Privacy_Principles
+
+certification mark
+
+http://dbpedia.org/resource/Certification_mark
+
+certification mark
+
+http://dbpedia.org/resource/Certification_mark
+
+Safe Harbor Principles
+
+http://dbpedia.org/resource/International_Safe_Harbor_Privacy_Principles
+
+Safe Harbor Principles
+
+http://dbpedia.org/resource/International_Safe_Harbor_Privacy_Principles
+
+Safe Harbor Principles
+
+http://dbpedia.org/resource/International_Safe_Harbor_Privacy_Principles
+
+European Commission
+
+http://dbpedia.org/resource/European_Commission
+
+United States
+
+http://dbpedia.org/resource/Federal_government_of_the_United_States
+
+European Union
+
+http://dbpedia.org/resource/European_Union
+
+United States
+
+http://dbpedia.org/resource/Federal_government_of_the_United_States
+
+European Union
+
+http://dbpedia.org/resource/European_Union
+
+European Commission
+
+http://dbpedia.org/resource/European_Commission
+
+European Union
+
+http://dbpedia.org/resource/European_Union
+
+European Commission
+
+http://dbpedia.org/resource/European_Commission
+
+United States
+
+http://dbpedia.org/resource/Federal_government_of_the_United_States
+
+informa
+DBpedia:Agent,Schema:Organization,DBpedia:Organisation,DBpedia:Company
+http://dbpedia.org/resource/Informa
+
+Safe Harbor principles
+
+http://dbpedia.org/resource/International_Safe_Harbor_Privacy_Principles
+
+informa
+DBpedia:Agent,Schema:Organization,DBpedia:Organisation,DBpedia:Company
+http://dbpedia.org/resource/Informa
+
+informa
+DBpedia:Agent,Schema:Organization,DBpedia:Organisation,DBpedia:Company
+http://dbpedia.org/resource/Informa
+
+Safe Harbor principles
+
+http://dbpedia.org/resource/International_Safe_Harbor_Privacy_Principles
+
+vacy
+Schema:Place,DBpedia:Place,DBpedia:PopulatedPlace,DBpedia:Settlement
+http://dbpedia.org/resource/Vacy,_New_South_Wales
+
+Federal Trade Commission
+DBpedia:Agent,Schema:Organization,DBpedia:Organisation,Schema:GovernmentOrganization,DBpedia:GovernmentAgency
+http://dbpedia.org/resource/Federal_Trade_Commission
+
+credit unions
+
+http://dbpedia.org/resource/Credit_union
+
+Safe Harbor principles
+
+http://dbpedia.org/resource/International_Safe_Harbor_Privacy_Principles
+
+Safe Harbor principles
+
+http://dbpedia.org/resource/International_Safe_Harbor_Privacy_Principles
+
+Federal Trade Commission
+DBpedia:Agent,Schema:Organization,DBpedia:Organisation,Schema:GovernmentOrganization,DBpedia:GovernmentAgency
+http://dbpedia.org/resource/Federal_Trade_Commission
+
+Federal Trade Commission
+DBpedia:Agent,Schema:Organization,DBpedia:Organisation,Schema:GovernmentOrganization,DBpedia:GovernmentAgency
+http://dbpedia.org/resource/Federal_Trade_Commission
+
+Federal Trade Commission
+DBpedia:Agent,Schema:Organization,DBpedia:Organisation,Schema:GovernmentOrganization,DBpedia:GovernmentAgency
+http://dbpedia.org/resource/Federal_Trade_Commission
+
+European Commission
+
+http://dbpedia.org/resource/European_Commission
+
+Safe Harbor Principles
+
+http://dbpedia.org/resource/International_Safe_Harbor_Privacy_Principles
+
+Safe Harbor principles
+
+http://dbpedia.org/resource/International_Safe_Harbor_Privacy_Principles
+
+Safe Harbor principles
+
+http://dbpedia.org/resource/International_Safe_Harbor_Privacy_Principles
+
+Paul Cronin
+DBpedia:Agent,Schema:Person,Http://xmlns.com/foaf/0.1/Person,DBpedia:Person
+http://dbpedia.org/resource/Paul_Cronin
+
+New York
+Schema:Place,DBpedia:Place,DBpedia:PopulatedPlace,DBpedia:Region,Schema:AdministrativeArea,DBpedia:AdministrativeRegion
+http://dbpedia.org/resource/New_York
+
+NY
+Schema:Place,DBpedia:Place,DBpedia:PopulatedPlace,DBpedia:Region,Schema:AdministrativeArea,DBpedia:AdministrativeRegion
+http://dbpedia.org/resource/New_York
+
+Paul Cronin
+DBpedia:Agent,Schema:Person,Http://xmlns.com/foaf/0.1/Person,DBpedia:Person
+http://dbpedia.org/resource/Paul_Cronin
+
+Chief Privacy Officer
+
+http://dbpedia.org/resource/Chief_privacy_officer
+
+Safe Harbor Principles
+
+http://dbpedia.org/resource/International_Safe_Harbor_Privacy_Principles
+
+Safe Harbor Principles
+
+http://dbpedia.org/resource/International_Safe_Harbor_Privacy_Principles
+
+TRUSTe
+DBpedia:Agent,Schema:Organization,DBpedia:Organisation,DBpedia:Company
+http://dbpedia.org/resource/TRUSTe
+
+WebTrust
+
+http://dbpedia.org/resource/American_Institute_of_Certified_Public_Accountants
+
+Entertainment Software Rating Board
+DBpedia:Agent,Schema:Organization,DBpedia:Organisation,DBpedia:Company
+http://dbpedia.org/resource/Entertainment_Software_Rating_Board
+
+JAMS
+
+http://dbpedia.org/resource/JAMS_(alternative_dispute_resolution)
+
+American Arbitration Association
+
+http://dbpedia.org/resource/American_Arbitration_Association
+
+United States
+
+http://dbpedia.org/resource/Federal_government_of_the_United_States
+
+Federal Trade Commission Act
+
+http://dbpedia.org/resource/Federal_Trade_Commission_Act
+
+European Union
+
+http://dbpedia.org/resource/European_Union
+
+United States
+
+http://dbpedia.org/resource/Federal_government_of_the_United_States
+
+European Union
+
+http://dbpedia.org/resource/European_Union
+
+United States
+
+http://dbpedia.org/resource/Federal_government_of_the_United_States
+
+European Union
+
+http://dbpedia.org/resource/European_Union
+
+United States
+
+http://dbpedia.org/resource/Federal_government_of_the_United_States
+
+European Union
+
+http://dbpedia.org/resource/European_Union
+
+United States
+
+http://dbpedia.org/resource/Federal_government_of_the_United_States
+
+United States
+
+http://dbpedia.org/resource/Federal_government_of_the_United_States
+
+European Union
+
+http://dbpedia.org/resource/European_Union
+
+European Union
+
+http://dbpedia.org/resource/European_Union
+
+orga
+Schema:CreativeWork,DBpedia:Work,Schema:Movie,DBpedia:Film
+http://dbpedia.org/resource/Godzilla_2000
+
+trans
+
+http://dbpedia.org/resource/Transgender
+
+informa
+DBpedia:Agent,Schema:Organization,DBpedia:Organisation,DBpedia:Company
+http://dbpedia.org/resource/Informa
+
+trans
+
+http://dbpedia.org/resource/Gender_identity
+
+Safe Harbor Principles
+
+http://dbpedia.org/resource/International_Safe_Harbor_Privacy_Principles
+
+evant
+Schema:Place,DBpedia:Place,DBpedia:PopulatedPlace,DBpedia:Settlement,DBpedia:Town
+http://dbpedia.org/resource/Evant,_Texas
+
+Safe Harbor Principles
+
+http://dbpedia.org/resource/International_Safe_Harbor_Privacy_Principles
+
+European Union
+
+http://dbpedia.org/resource/European_Union
+
+philo
+DBpedia:Agent,Schema:Person,Http://xmlns.com/foaf/0.1/Person,DBpedia:Person,DBpedia:Philosopher
+http://dbpedia.org/resource/Philo
+
+trade union
+
+http://dbpedia.org/resource/Trade_union
+
+er
+
+http://dbpedia.org/resource/Emergency_department
+
+ob
+Schema:Place,DBpedia:Place,DBpedia:NaturalPlace,Schema:BodyOfWater,DBpedia:BodyOfWater,DBpedia:Stream,Schema:RiverBodyOfWater,DBpedia:River
+http://dbpedia.org/resource/Ob_River
+
+bor
+Schema:Place,DBpedia:Place,DBpedia:PopulatedPlace,DBpedia:Settlement,DBpedia:Town
+http://dbpedia.org/resource/Bor,_Serbia
+
+V.
+Schema:CreativeWork,DBpedia:Work,DBpedia:WrittenWork,Http://purl.org/ontology/bibo/Book,Schema:Book,DBpedia:Book
+http://dbpedia.org/resource/V.
+
+XIV
+
+http://dbpedia.org/resource/Fourteenth_Amendment_to_the_United_States_Constitution
+
+V.
+Schema:CreativeWork,DBpedia:Work,DBpedia:WrittenWork,Http://purl.org/ontology/bibo/Book,Schema:Book,DBpedia:Book
+http://dbpedia.org/resource/V.
+
+European Union
+
+http://dbpedia.org/resource/European_Union
+
+Safe Harbor Principles
+
+http://dbpedia.org/resource/International_Safe_Harbor_Privacy_Principles
+
+ests
+
+http://dbpedia.org/resource/Expressed_sequence_tag
+
+Safe Harbor Principles
+
+http://dbpedia.org/resource/International_Safe_Harbor_Privacy_Principles
+
+First Amendment
+
+http://dbpedia.org/resource/First_Amendment_to_the_United_States_Constitution
+
+Constitution
+
+http://dbpedia.org/resource/United_States_Constitution
+
+First Amendment
+
+http://dbpedia.org/resource/First_Amendment_to_the_United_States_Constitution
+
+Safe Harbor Principles
+
+http://dbpedia.org/resource/International_Safe_Harbor_Privacy_Principles
+
+Internet service providers
+
+http://dbpedia.org/resource/Internet_service_provider
+
+telecommunications
+
+http://dbpedia.org/resource/Telecommunication
+
+Safe Harbor Principles
+
+http://dbpedia.org/resource/International_Safe_Harbor_Privacy_Principles
+
+Safe Harbor Principles
+
+http://dbpedia.org/resource/International_Safe_Harbor_Privacy_Principles
+
+ence
+
+http://dbpedia.org/resource/Instituto_Nacional_de_Industria
+
+Safe Harbor Principles
+
+http://dbpedia.org/resource/International_Safe_Harbor_Privacy_Principles
+
+European Union
+
+http://dbpedia.org/resource/European_Union
+
+Safe Harbor Principles
+
+http://dbpedia.org/resource/International_Safe_Harbor_Privacy_Principles
+
+Federal Trade Commission
+DBpedia:Agent,Schema:Organization,DBpedia:Organisation,Schema:GovernmentOrganization,DBpedia:GovernmentAgency
+http://dbpedia.org/resource/Federal_Trade_Commission
+
+bor
+Schema:Place,DBpedia:Place,DBpedia:PopulatedPlace,DBpedia:Settlement,DBpedia:Town
+http://dbpedia.org/resource/Bor,_Serbia
+
+Safe Harbor Principles
+
+http://dbpedia.org/resource/International_Safe_Harbor_Privacy_Principles
+
+Safe Harbor Principles
+
+http://dbpedia.org/resource/International_Safe_Harbor_Privacy_Principles
+
+Safe Harbor Principles
+
+http://dbpedia.org/resource/International_Safe_Harbor_Privacy_Principles
+
+Safe Harbor Principles
+
+http://dbpedia.org/resource/International_Safe_Harbor_Privacy_Principles
+
+Federal Trade Commission
+DBpedia:Agent,Schema:Organization,DBpedia:Organisation,Schema:GovernmentOrganization,DBpedia:GovernmentAgency
+http://dbpedia.org/resource/Federal_Trade_Commission
+
+Safe Harbor Principles
+
+http://dbpedia.org/resource/International_Safe_Harbor_Privacy_Principles
+
+ly
+
+http://dbpedia.org/resource/Light-year
+
+Safe Harbor Principles
+
+http://dbpedia.org/resource/International_Safe_Harbor_Privacy_Principles
+
+Safe Harbor Principles
+
+http://dbpedia.org/resource/International_Safe_Harbor_Privacy_Principles
+
+Safe Harbor Principles
+
+http://dbpedia.org/resource/International_Safe_Harbor_Privacy_Principles
+
+Safe Harbor Principles
+
+http://dbpedia.org/resource/International_Safe_Harbor_Privacy_Principles
+
+cess
+
+http://dbpedia.org/resource/Cess
+
+ob
+Schema:Place,DBpedia:Place,DBpedia:NaturalPlace,Schema:BodyOfWater,DBpedia:BodyOfWater,DBpedia:Stream,Schema:RiverBodyOfWater,DBpedia:River
+http://dbpedia.org/resource/Ob_River
+
+tain
+Schema:Place,DBpedia:Place,DBpedia:PopulatedPlace,DBpedia:Settlement
+http://dbpedia.org/resource/Tain
+
+informa
+DBpedia:Agent,Schema:Organization,DBpedia:Organisation,DBpedia:Company
+http://dbpedia.org/resource/Informa
+
+Safe Harbor Principles
+
+http://dbpedia.org/resource/International_Safe_Harbor_Privacy_Principles
+
+orga
+Schema:CreativeWork,DBpedia:Work,Schema:Movie,DBpedia:Film
+http://dbpedia.org/resource/Godzilla_2000
+
+Safe Harbor Principles
+
+http://dbpedia.org/resource/International_Safe_Harbor_Privacy_Principles
+
+curacy
+
+http://dbpedia.org/resource/Curate
+
+OECD
+Schema:Place,DBpedia:Place,DBpedia:PopulatedPlace,Schema:Country,DBpedia:Country
+http://dbpedia.org/resource/Organisation_for_Economic_Co-operation_and_Development
+
+ings
+
+http://dbpedia.org/resource/Ings
+
+OECD
+Schema:Place,DBpedia:Place,DBpedia:PopulatedPlace,Schema:Country,DBpedia:Country
+http://dbpedia.org/resource/Organisation_for_Economic_Co-operation_and_Development
+
+orga
+Schema:CreativeWork,DBpedia:Work,Schema:Movie,DBpedia:Film
+http://dbpedia.org/resource/Godzilla_2000
+
+public security
+
+http://dbpedia.org/resource/Safety
+
+OECD
+Schema:Place,DBpedia:Place,DBpedia:PopulatedPlace,Schema:Country,DBpedia:Country
+http://dbpedia.org/resource/Organisation_for_Economic_Co-operation_and_Development
+
+informa
+DBpedia:Agent,Schema:Organization,DBpedia:Organisation,DBpedia:Company
+http://dbpedia.org/resource/Informa
+
+United States
+
+http://dbpedia.org/resource/Federal_government_of_the_United_States
+
+United States
+
+http://dbpedia.org/resource/Federal_government_of_the_United_States
+
+Safe Harbor Principles
+
+http://dbpedia.org/resource/International_Safe_Harbor_Privacy_Principles
+
+agen
+Schema:Place,DBpedia:Place,DBpedia:PopulatedPlace,DBpedia:Settlement
+http://dbpedia.org/resource/Agen
+
+informa
+DBpedia:Agent,Schema:Organization,DBpedia:Organisation,DBpedia:Company
+http://dbpedia.org/resource/Informa
+
+Safe Harbor Principles
+
+http://dbpedia.org/resource/International_Safe_Harbor_Privacy_Principles
+
+ping
+
+http://dbpedia.org/resource/Ping_(networking_utility)
+
+Europe Union
+
+http://dbpedia.org/resource/European_Union
+
+EU authorities
+
+http://dbpedia.org/resource/European_System_of_Financial_Supervisors
+
+European Commission
+
+http://dbpedia.org/resource/European_Commission
+
+United States
+
+http://dbpedia.org/resource/Federal_government_of_the_United_States
+
+European Union
+
+http://dbpedia.org/resource/European_Union
+
+Safe Harbor Principles
+
+http://dbpedia.org/resource/International_Safe_Harbor_Privacy_Principles
+
+trans
+
+http://dbpedia.org/resource/Gender_identity
+
+informa
+DBpedia:Agent,Schema:Organization,DBpedia:Organisation,DBpedia:Company
+http://dbpedia.org/resource/Informa
+
+European Union
+
+http://dbpedia.org/resource/European_Union
+
+European Union
+
+http://dbpedia.org/resource/European_Union
+
+United States
+
+http://dbpedia.org/resource/Federal_government_of_the_United_States
+
+Safe Harbor Principles
+
+http://dbpedia.org/resource/International_Safe_Harbor_Privacy_Principles
+
+trade union
+
+http://dbpedia.org/resource/Trade_union
+
+United States
+
+http://dbpedia.org/resource/Federal_government_of_the_United_States
+
+trans
+
+http://dbpedia.org/resource/Gender_identity
+
+Safe Harbor Principles
+
+http://dbpedia.org/resource/International_Safe_Harbor_Privacy_Principles
+
+TRUSTe
+DBpedia:Agent,Schema:Organization,DBpedia:Organisation,DBpedia:Company
+http://dbpedia.org/resource/TRUSTe
+
+Safe Harbor Principles
+
+http://dbpedia.org/resource/International_Safe_Harbor_Privacy_Principles
+
+Safe Harbor Principles
+
+http://dbpedia.org/resource/International_Safe_Harbor_Privacy_Principles
+
+European Union
+
+http://dbpedia.org/resource/European_Union
+
+Federal Trade Commission Act
+
+http://dbpedia.org/resource/Federal_Trade_Commission_Act
+
+mecha
+
+http://dbpedia.org/resource/Mecha
+
+direct marketing
+
+http://dbpedia.org/resource/Direct_marketing
+
+United States
+
+http://dbpedia.org/resource/Federal_government_of_the_United_States
+
+mecha
+
+http://dbpedia.org/resource/Mecha
+
+direct marketing
+
+http://dbpedia.org/resource/Direct_marketing
+
+direct marketing
+
+http://dbpedia.org/resource/Direct_marketing
+
+airline
+
+http://dbpedia.org/resource/Airline
+
+trans
+
+http://dbpedia.org/resource/Gender_identity
+
+unam
+
+http://dbpedia.org/resource/National_Autonomous_University_of_Mexico
+
+district
+
+http://dbpedia.org/resource/District
+
+ence
+
+http://dbpedia.org/resource/Instituto_Nacional_de_Industria
+
+Safe Harbor Principles
+
+http://dbpedia.org/resource/International_Safe_Harbor_Privacy_Principles
+
+Safe Harbor Principles
+
+http://dbpedia.org/resource/International_Safe_Harbor_Privacy_Principles
+
+United States
+
+http://dbpedia.org/resource/Federal_government_of_the_United_States
+
+gators
+
+http://dbpedia.org/resource/Florida_Gators_football
+
+sion
+Schema:Place,DBpedia:Place,DBpedia:PopulatedPlace,DBpedia:Settlement
+http://dbpedia.org/resource/Sion,_Mumbai
+
+phy
+
+http://dbpedia.org/resource/PHY_(chip)
+
+Safe Harbor Principles
+
+http://dbpedia.org/resource/International_Safe_Harbor_Privacy_Principles
+
+pacemaker
+
+http://dbpedia.org/resource/Artificial_cardiac_pacemaker
+
+cipal
+
+http://dbpedia.org/resource/CIPAL
+
+bor
+Schema:Place,DBpedia:Place,DBpedia:PopulatedPlace,DBpedia:Settlement,DBpedia:Town
+http://dbpedia.org/resource/Bor,_Serbia
+
+XIV
+
+http://dbpedia.org/resource/Fourteenth_Amendment_to_the_United_States_Constitution
+
+United States
+
+http://dbpedia.org/resource/Federal_government_of_the_United_States
+
+Safe Harbor Principles
+
+http://dbpedia.org/resource/International_Safe_Harbor_Privacy_Principles
+
+United States
+
+http://dbpedia.org/resource/Federal_government_of_the_United_States
+
+Safe Harbor Principles
+
+http://dbpedia.org/resource/International_Safe_Harbor_Privacy_Principles
+
+trans
+
+http://dbpedia.org/resource/Gender_identity
+
+United States
+
+http://dbpedia.org/resource/Federal_government_of_the_United_States
+
+Safe Harbor Principles
+
+http://dbpedia.org/resource/International_Safe_Harbor_Privacy_Principles
+
+pacemaker
+
+http://dbpedia.org/resource/Artificial_cardiac_pacemaker
+
+cipal
+
+http://dbpedia.org/resource/CIPAL
+
+bor
+Schema:Place,DBpedia:Place,DBpedia:PopulatedPlace,DBpedia:Settlement,DBpedia:Town
+http://dbpedia.org/resource/Bor,_Serbia
+
+XIV
+
+http://dbpedia.org/resource/Fourteenth_Amendment_to_the_United_States_Constitution
+
+United States
+
+http://dbpedia.org/resource/Federal_government_of_the_United_States
+
+Safe Harbor Principles
+
+http://dbpedia.org/resource/International_Safe_Harbor_Privacy_Principles
+
+United States
+
+http://dbpedia.org/resource/Federal_government_of_the_United_States
+
+Safe Harbor Principles
+
+http://dbpedia.org/resource/International_Safe_Harbor_Privacy_Principles
+
+trans
+
+http://dbpedia.org/resource/Gender_identity
+
+United States
+
+http://dbpedia.org/resource/Federal_government_of_the_United_States
+
+Paperwork Reduction Act
+
+http://dbpedia.org/resource/Paperwork_Reduction_Act
+
+International Trade Administration
+DBpedia:Agent,Schema:Organization,DBpedia:Organisation,Schema:GovernmentOrganization,DBpedia:GovernmentAgency
+http://dbpedia.org/resource/International_Trade_Administration
+
+Constitution Avenue
+
+http://dbpedia.org/resource/Constitution_Avenue
+
+Washington, D.C.
+Schema:Place,DBpedia:Place,DBpedia:PopulatedPlace,DBpedia:Settlement
+http://dbpedia.org/resource/Washington,_D.C.
+
+iden
+
+http://dbpedia.org/resource/Integrated_Digital_Enhanced_Network
+
+United States
+
+http://dbpedia.org/resource/Federal_government_of_the_United_States
+
+Safe Harbor Principles
+
+http://dbpedia.org/resource/International_Safe_Harbor_Privacy_Principles
+
+quire
+
+http://dbpedia.org/resource/Choir_(architecture)
+
+bor
+Schema:Place,DBpedia:Place,DBpedia:PopulatedPlace,DBpedia:Settlement,DBpedia:Town
+http://dbpedia.org/resource/Bor,_Serbia
+
+Choose One
+Schema:CreativeWork,DBpedia:Work,DBpedia:MusicalWork,Schema:MusicAlbum,DBpedia:Album
+http://dbpedia.org/resource/Choose_One
+
+Federal Trade Commission
+DBpedia:Agent,Schema:Organization,DBpedia:Organisation,Schema:GovernmentOrganization,DBpedia:GovernmentAgency
+http://dbpedia.org/resource/Federal_Trade_Commission
+
+vacy
+Schema:Place,DBpedia:Place,DBpedia:PopulatedPlace,DBpedia:Settlement
+http://dbpedia.org/resource/Vacy,_New_South_Wales
+
+chief privacy officer
+
+http://dbpedia.org/resource/Chief_privacy_officer
+
+European Union
+
+http://dbpedia.org/resource/European_Union
+
+European Economic Area
+
+http://dbpedia.org/resource/European_Economic_Area
+
+Safe Harbor Principles
+
+http://dbpedia.org/resource/International_Safe_Harbor_Privacy_Principles
+
+Safe Harbor Principles
+
+http://dbpedia.org/resource/International_Safe_Harbor_Privacy_Principles
+
+EEA
+
+http://dbpedia.org/resource/European_Economic_Area
+
+Cyprus
+Schema:Place,DBpedia:Place,DBpedia:PopulatedPlace,Schema:Country,DBpedia:Country
+http://dbpedia.org/resource/Cyprus
+
+Finland
+Schema:Place,DBpedia:Place,DBpedia:PopulatedPlace,Schema:Country,DBpedia:Country
+http://dbpedia.org/resource/Finland
+
+Hungary
+Schema:Place,DBpedia:Place,DBpedia:PopulatedPlace,Schema:Country,DBpedia:Country
+http://dbpedia.org/resource/Hungary
+
+Latvia
+Schema:Place,DBpedia:Place,DBpedia:PopulatedPlace,Schema:Country,DBpedia:Country
+http://dbpedia.org/resource/Latvia
+
+Portugal
+Schema:Place,DBpedia:Place,DBpedia:PopulatedPlace,Schema:Country,DBpedia:Country
+http://dbpedia.org/resource/Portugal
+
+Spain
+Schema:Place,DBpedia:Place,DBpedia:PopulatedPlace,Schema:Country,DBpedia:Country
+http://dbpedia.org/resource/Spain
+
+Switzerland
+Schema:Place,DBpedia:Place,DBpedia:PopulatedPlace,Schema:Country,DBpedia:Country
+http://dbpedia.org/resource/Switzerland
+
+Austria
+Schema:Place,DBpedia:Place,DBpedia:PopulatedPlace,Schema:Country,DBpedia:Country
+http://dbpedia.org/resource/Austria
+
+Czech Republic
+Schema:Place,DBpedia:Place,DBpedia:PopulatedPlace,Schema:Country,DBpedia:Country
+http://dbpedia.org/resource/Czech_Republic
+
+France
+Schema:Place,DBpedia:Place,DBpedia:PopulatedPlace,Schema:Country,DBpedia:Country
+http://dbpedia.org/resource/France
+
+Malta
+Schema:Place,DBpedia:Place,DBpedia:PopulatedPlace,Schema:Country,DBpedia:Country
+http://dbpedia.org/resource/Malta
+
+Iceland
+Schema:Place,DBpedia:Place,DBpedia:PopulatedPlace,Schema:Country,DBpedia:Country
+http://dbpedia.org/resource/Iceland
+
+Liechtenstein
+Schema:Place,DBpedia:Place,DBpedia:PopulatedPlace,Schema:Country,DBpedia:Country
+http://dbpedia.org/resource/Liechtenstein
+
+Netherlands
+Schema:Place,DBpedia:Place,DBpedia:PopulatedPlace,Schema:Country,DBpedia:Country
+http://dbpedia.org/resource/Netherlands
+
+Romania
+Schema:Place,DBpedia:Place,DBpedia:PopulatedPlace,Schema:Country,DBpedia:Country
+http://dbpedia.org/resource/Romania
+
+Sweden
+Schema:Place,DBpedia:Place,DBpedia:PopulatedPlace,Schema:Country,DBpedia:Country
+http://dbpedia.org/resource/Sweden
+
+Belgium
+Schema:Place,DBpedia:Place,DBpedia:PopulatedPlace,Schema:Country,DBpedia:Country
+http://dbpedia.org/resource/Belgium
+
+Denmark
+Schema:Place,DBpedia:Place,DBpedia:PopulatedPlace,Schema:Country,DBpedia:Country
+http://dbpedia.org/resource/Denmark
+
+Germany
+Schema:Place,DBpedia:Place,DBpedia:PopulatedPlace,Schema:Country,DBpedia:Country
+http://dbpedia.org/resource/Germany
+
+Ireland
+Schema:Place,DBpedia:Place,DBpedia:PopulatedPlace,Schema:Country,DBpedia:Country
+http://dbpedia.org/resource/Republic_of_Ireland
+
+Lithuania
+Schema:Place,DBpedia:Place,DBpedia:PopulatedPlace,Schema:Country,DBpedia:Country
+http://dbpedia.org/resource/Lithuania
+
+Norway
+Schema:Place,DBpedia:Place,DBpedia:PopulatedPlace,Schema:Country,DBpedia:Country
+http://dbpedia.org/resource/Norway
+
+Slovakia
+Schema:Place,DBpedia:Place,DBpedia:PopulatedPlace,Schema:Country,DBpedia:Country
+http://dbpedia.org/resource/Slovakia
+
+United Kingdom
+Schema:Place,DBpedia:Place,DBpedia:PopulatedPlace,Schema:Country,DBpedia:Country
+http://dbpedia.org/resource/United_Kingdom
+
+Bulgaria
+Schema:Place,DBpedia:Place,DBpedia:PopulatedPlace,Schema:Country,DBpedia:Country
+http://dbpedia.org/resource/Bulgaria
+
+Estonia
+Schema:Place,DBpedia:Place,DBpedia:PopulatedPlace,Schema:Country,DBpedia:Country
+http://dbpedia.org/resource/Estonia
+
+Greece
+Schema:Place,DBpedia:Place,DBpedia:PopulatedPlace,Schema:Country,DBpedia:Country
+http://dbpedia.org/resource/Greece
+
+Italy
+Schema:Place,DBpedia:Place,DBpedia:PopulatedPlace,Schema:Country,DBpedia:Country
+http://dbpedia.org/resource/Italy
+
+Luxembourg
+Schema:Place,DBpedia:Place,DBpedia:PopulatedPlace,Schema:Country,DBpedia:Country
+http://dbpedia.org/resource/Luxembourg
+
+Poland
+Schema:Place,DBpedia:Place,DBpedia:PopulatedPlace,Schema:Country,DBpedia:Country
+http://dbpedia.org/resource/Poland
+
+Slovenia
+Schema:Place,DBpedia:Place,DBpedia:PopulatedPlace,Schema:Country,DBpedia:Country
+http://dbpedia.org/resource/Slovenia
+
+SSL
+
+http://dbpedia.org/resource/Transport_Layer_Security
+
+Internet Explorer
+
+http://dbpedia.org/resource/Internet_Explorer
+
+iden
+
+http://dbpedia.org/resource/Integrated_Digital_Enhanced_Network
+
+web beacons
+
+http://dbpedia.org/resource/Web_bug
+
+Internet Explorer
+
+http://dbpedia.org/resource/Internet_Explorer
+
+operating system
+
+http://dbpedia.org/resource/Operating_system
+
+Windows 2000
+
+http://dbpedia.org/resource/Windows_2000
+
+Internet service provider
+
+http://dbpedia.org/resource/Internet_service_provider
+
+AOL
+Schema:CreativeWork,DBpedia:Work,DBpedia:Software
+http://dbpedia.org/resource/AOL_Instant_Messenger
+
+web beacons
+
+http://dbpedia.org/resource/Web_bug
+
+Internet Protocol
+
+http://dbpedia.org/resource/Internet_Protocol
+
+Internet service provider
+
+http://dbpedia.org/resource/Internet_service_provider
+
+cess
+
+http://dbpedia.org/resource/Cess
+
+sexual orientation
+
+http://dbpedia.org/resource/Sexual_orientation
+
+trade union
+
+http://dbpedia.org/resource/Trade_union
+
+informa
+DBpedia:Agent,Schema:Organization,DBpedia:Organisation,DBpedia:Company
+http://dbpedia.org/resource/Informa
+
+managed services
+
+http://dbpedia.org/resource/Managed_services
+
+United States
+
+http://dbpedia.org/resource/Federal_government_of_the_United_States
+
+European Union
+
+http://dbpedia.org/resource/European_Union
+
+United States
+
+http://dbpedia.org/resource/Federal_government_of_the_United_States
+
+Safe Harbor Principles
+
+http://dbpedia.org/resource/International_Safe_Harbor_Privacy_Principles
+
+trans
+
+http://dbpedia.org/resource/Gender_identity
+
+United States
+
+http://dbpedia.org/resource/Federal_government_of_the_United_States
+
+European Union
+
+http://dbpedia.org/resource/European_Union
+
+Informa
+DBpedia:Agent,Schema:Organization,DBpedia:Organisation,DBpedia:Company
+http://dbpedia.org/resource/Informa
+
+TRUSTe
+DBpedia:Agent,Schema:Organization,DBpedia:Organisation,DBpedia:Company
+http://dbpedia.org/resource/TRUSTe
+
+WebTrust
+
+http://dbpedia.org/resource/American_Institute_of_Certified_Public_Accountants
+
+Entertainment Software Rating Board
+DBpedia:Agent,Schema:Organization,DBpedia:Organisation,DBpedia:Company
+http://dbpedia.org/resource/Entertainment_Software_Rating_Board
+
+JAMS
+
+http://dbpedia.org/resource/JAMS_(alternative_dispute_resolution)
+
+American Arbitration Association
+
+http://dbpedia.org/resource/American_Arbitration_Association
+
+DMA
+
+http://dbpedia.org/resource/Direct_memory_access
+
+TRUSTe
+DBpedia:Agent,Schema:Organization,DBpedia:Organisation,DBpedia:Company
+http://dbpedia.org/resource/TRUSTe
+
+Direct Marketing AssociatIon
+
+http://dbpedia.org/resource/Direct_Marketing_Association_(United_States)
+
+Safe Harbor Program
+
+http://dbpedia.org/resource/International_Safe_Harbor_Privacy_Principles
+
+DMA
+
+http://dbpedia.org/resource/Direct_memory_access
+
+Safe Harbor Program
+
+http://dbpedia.org/resource/International_Safe_Harbor_Privacy_Principles
+
+DMA
+
+http://dbpedia.org/resource/Direct_memory_access
+
+DMA
+
+http://dbpedia.org/resource/Direct_memory_access
+
+DMA
+
+http://dbpedia.org/resource/Direct_memory_access
+
+DMA
+
+http://dbpedia.org/resource/Direct_memory_access
+
+vacy
+Schema:Place,DBpedia:Place,DBpedia:PopulatedPlace,DBpedia:Settlement
+http://dbpedia.org/resource/Vacy,_New_South_Wales
+
+DMA
+
+http://dbpedia.org/resource/Direct_memory_access
+
+DMA
+
+http://dbpedia.org/resource/Direct_memory_access
+
+Safe Harbor Program
+
+http://dbpedia.org/resource/International_Safe_Harbor_Privacy_Principles
+
+DMA
+
+http://dbpedia.org/resource/Direct_Marketing_Association_(United_States)
+
+Safe Harbor Program
+
+http://dbpedia.org/resource/International_Safe_Harbor_Privacy_Principles
+
+DMA
+
+http://dbpedia.org/resource/Direct_Marketing_Association_(United_States)
+
+Safe Harbor Program
+
+http://dbpedia.org/resource/International_Safe_Harbor_Privacy_Principles
+
+DMA
+
+http://dbpedia.org/resource/Direct_Marketing_Association_(United_States)
+
+DMA
+
+http://dbpedia.org/resource/Direct_Marketing_Association_(United_States)
+
+Safe harbor program
+
+http://dbpedia.org/resource/International_Safe_Harbor_Privacy_Principles
+
+DMA
+
+http://dbpedia.org/resource/Direct_Marketing_Association_(United_States)
+
+Safe Harbor Program
+
+http://dbpedia.org/resource/International_Safe_Harbor_Privacy_Principles
+
+DMA
+
+http://dbpedia.org/resource/Direct_Marketing_Association_(United_States)
+
+department
+
+http://dbpedia.org/resource/Ministry_(government_department)
+
+TRUSTe
+DBpedia:Agent,Schema:Organization,DBpedia:Organisation,DBpedia:Company
+http://dbpedia.org/resource/TRUSTe
+
+TRUSTe
+DBpedia:Agent,Schema:Organization,DBpedia:Organisation,DBpedia:Company
+http://dbpedia.org/resource/TRUSTe
+
+sion
+Schema:Place,DBpedia:Place,DBpedia:PopulatedPlace,DBpedia:Settlement
+http://dbpedia.org/resource/Sion,_Switzerland
+
+Better Business Bureau
+DBpedia:Agent,Schema:Organization,DBpedia:Organisation,DBpedia:Non-ProfitOrganisation
+http://dbpedia.org/resource/Better_Business_Bureau
+
+business-to-consumer
+
+http://dbpedia.org/resource/Retail
+
+Switzerland
+Schema:Place,DBpedia:Place,DBpedia:PopulatedPlace,Schema:Country,DBpedia:Country
+http://dbpedia.org/resource/Switzerland
+
+Switzerland
+Schema:Place,DBpedia:Place,DBpedia:PopulatedPlace,Schema:Country,DBpedia:Country
+http://dbpedia.org/resource/Switzerland
+
+Switzerland
+Schema:Place,DBpedia:Place,DBpedia:PopulatedPlace,Schema:Country,DBpedia:Country
+http://dbpedia.org/resource/Switzerland
+
+TRUSTe
+DBpedia:Agent,Schema:Organization,DBpedia:Organisation,DBpedia:Company
+http://dbpedia.org/resource/TRUSTe
+
+Harbor Seal
+
+http://dbpedia.org/resource/Harbor_seal
+
+TRUSTe
+DBpedia:Agent,Schema:Organization,DBpedia:Organisation,DBpedia:Company
+http://dbpedia.org/resource/TRUSTe
+
+Harbor Seal
+
+http://dbpedia.org/resource/Harbor_seal
+
+alternative dispute resolution
+
+http://dbpedia.org/resource/Alternative_dispute_resolution
+
+TRUSTe
+DBpedia:Agent,Schema:Organization,DBpedia:Organisation,DBpedia:Company
+http://dbpedia.org/resource/TRUSTe
+
+Harbor seal
+
+http://dbpedia.org/resource/Harbor_seal
+
+Harbor seal
+
+http://dbpedia.org/resource/Harbor_seal
+
+TRUSTe
+DBpedia:Agent,Schema:Organization,DBpedia:Organisation,DBpedia:Company
+http://dbpedia.org/resource/TRUSTe
+
+TRUSTe
+DBpedia:Agent,Schema:Organization,DBpedia:Organisation,DBpedia:Company
+http://dbpedia.org/resource/TRUSTe
+
+Adobe Systems
+DBpedia:Agent,Schema:Organization,DBpedia:Organisation,DBpedia:Company
+http://dbpedia.org/resource/Adobe_Systems
+
+Napster
+Schema:CreativeWork,DBpedia:Work,DBpedia:Software
+http://dbpedia.org/resource/Napster
+
+aQuantive
+
+http://dbpedia.org/resource/AQuantive
+
+Avaya
+DBpedia:Agent,Schema:Organization,DBpedia:Organisation,DBpedia:Company
+http://dbpedia.org/resource/Avaya
+
+Salesforce.com
+DBpedia:Agent,Schema:Organization,DBpedia:Organisation,DBpedia:Company
+http://dbpedia.org/resource/Salesforce.com
+
+Carlson Companies
+DBpedia:Agent,Schema:Organization,DBpedia:Organisation,DBpedia:Company
+http://dbpedia.org/resource/Carlson_Companies
+
+IBM
+DBpedia:Agent,Schema:Organization,DBpedia:Organisation,DBpedia:Company
+http://dbpedia.org/resource/IBM
+
+Sybase
+DBpedia:Agent,Schema:Organization,DBpedia:Organisation,DBpedia:Company
+http://dbpedia.org/resource/Sybase
+
+Logitech
+DBpedia:Agent,Schema:Organization,DBpedia:Organisation,DBpedia:Company
+http://dbpedia.org/resource/Logitech
+
+Varian Medical Systems
+DBpedia:Agent,Schema:Organization,DBpedia:Organisation,DBpedia:Company
+http://dbpedia.org/resource/Varian_Medical_Systems
+
+Microsoft
+DBpedia:Agent,Schema:Organization,DBpedia:Organisation,DBpedia:Company
+http://dbpedia.org/resource/Microsoft
+
+United States
+
+http://dbpedia.org/resource/Federal_government_of_the_United_States
+
+United States
+
+http://dbpedia.org/resource/Federal_government_of_the_United_States
+
+certification mark
+
+http://dbpedia.org/resource/Certification_mark
+
+Federal Trade Commission
+DBpedia:Agent,Schema:Organization,DBpedia:Organisation,Schema:GovernmentOrganization,DBpedia:GovernmentAgency
+http://dbpedia.org/resource/Federal_Trade_Commission
+
+Federal Trade Commission Act
+
+http://dbpedia.org/resource/Federal_Trade_Commission_Act
+
+International Trade Administration
+DBpedia:Agent,Schema:Organization,DBpedia:Organisation,Schema:GovernmentOrganization,DBpedia:GovernmentAgency
+http://dbpedia.org/resource/International_Trade_Administration
+
+certification mark
+
+http://dbpedia.org/resource/Certification_mark
+
+European Union
+
+http://dbpedia.org/resource/European_Union
+
+United States
+
+http://dbpedia.org/resource/Federal_government_of_the_United_States
+
+certification mark
+
+http://dbpedia.org/resource/Certification_mark
+
+certification mark
+
+http://dbpedia.org/resource/Certification_mark
+
+Safe Harbor Program
+
+http://dbpedia.org/resource/International_Safe_Harbor_Privacy_Principles
+
+European Union
+
+http://dbpedia.org/resource/European_Union
+
+certification mark
+
+http://dbpedia.org/resource/Certification_mark
+
+direct marketing
+
+http://dbpedia.org/resource/Direct_marketing
+
+telecommunications
+
+http://dbpedia.org/resource/Telecommunication
+
+European Economic Area (EEA)
+
+http://dbpedia.org/resource/European_Economic_Area
+
+pean
+
+http://dbpedia.org/resource/Panhellenic_Union_of_Fighting_Youths
+
+Iceland
+Schema:Place,DBpedia:Place,DBpedia:PopulatedPlace,Schema:Country,DBpedia:Country
+http://dbpedia.org/resource/Iceland
+
+Norway
+Schema:Place,DBpedia:Place,DBpedia:PopulatedPlace,Schema:Country,DBpedia:Country
+http://dbpedia.org/resource/Norway
+
+Liechtenstein
+Schema:Place,DBpedia:Place,DBpedia:PopulatedPlace,Schema:Country,DBpedia:Country
+http://dbpedia.org/resource/Liechtenstein
+
+European Union
+
+http://dbpedia.org/resource/European_Union
+
+European Union
+
+http://dbpedia.org/resource/European_Union
+
+European Union
+
+http://dbpedia.org/resource/European_Union
+
+pean
+
+http://dbpedia.org/resource/Panhellenic_Union_of_Fighting_Youths
+
+European Union
+
+http://dbpedia.org/resource/European_Union
+
+Safe Harbor Principles
+
+http://dbpedia.org/resource/International_Safe_Harbor_Privacy_Principles
+
+European Union
+
+http://dbpedia.org/resource/European_Union
+
+United States
+
+http://dbpedia.org/resource/Federal_government_of_the_United_States
+
+Austria
+Schema:Place,DBpedia:Place,DBpedia:PopulatedPlace,Schema:Country,DBpedia:Country
+http://dbpedia.org/resource/Austria
+
+Belgium
+Schema:Place,DBpedia:Place,DBpedia:PopulatedPlace,Schema:Country,DBpedia:Country
+http://dbpedia.org/resource/Belgium
+
+Bulgaria
+Schema:Place,DBpedia:Place,DBpedia:PopulatedPlace,Schema:Country,DBpedia:Country
+http://dbpedia.org/resource/Bulgaria
+
+Cyprus
+Schema:Place,DBpedia:Place,DBpedia:PopulatedPlace,Schema:Country,DBpedia:Country
+http://dbpedia.org/resource/Cyprus
+
+Czech Republic
+Schema:Place,DBpedia:Place,DBpedia:PopulatedPlace,Schema:Country,DBpedia:Country
+http://dbpedia.org/resource/Czech_Republic
+
+Denmark
+Schema:Place,DBpedia:Place,DBpedia:PopulatedPlace,Schema:Country,DBpedia:Country
+http://dbpedia.org/resource/Denmark
+
+Finland
+Schema:Place,DBpedia:Place,DBpedia:PopulatedPlace,Schema:Country,DBpedia:Country
+http://dbpedia.org/resource/Finland
+
+France
+Schema:Place,DBpedia:Place,DBpedia:PopulatedPlace,Schema:Country,DBpedia:Country
+http://dbpedia.org/resource/France
+
+Germany
+Schema:Place,DBpedia:Place,DBpedia:PopulatedPlace,Schema:Country,DBpedia:Country
+http://dbpedia.org/resource/Germany
+
+Greece
+Schema:Place,DBpedia:Place,DBpedia:PopulatedPlace,Schema:Country,DBpedia:Country
+http://dbpedia.org/resource/Greece
+
+Hungary
+Schema:Place,DBpedia:Place,DBpedia:PopulatedPlace,Schema:Country,DBpedia:Country
+http://dbpedia.org/resource/Hungary
+
+Ireland
+Schema:Place,DBpedia:Place,DBpedia:PopulatedPlace,Schema:Country,DBpedia:Country
+http://dbpedia.org/resource/Republic_of_Ireland
+
+Italy
+Schema:Place,DBpedia:Place,DBpedia:PopulatedPlace,Schema:Country,DBpedia:Country
+http://dbpedia.org/resource/Italy
+
+Latvia
+Schema:Place,DBpedia:Place,DBpedia:PopulatedPlace,Schema:Country,DBpedia:Country
+http://dbpedia.org/resource/Latvia
+
+Luxembourg
+Schema:Place,DBpedia:Place,DBpedia:PopulatedPlace,Schema:Country,DBpedia:Country
+http://dbpedia.org/resource/Luxembourg
+
+Malta
+Schema:Place,DBpedia:Place,DBpedia:PopulatedPlace,Schema:Country,DBpedia:Country
+http://dbpedia.org/resource/Malta
+
+Netherlands
+Schema:Place,DBpedia:Place,DBpedia:PopulatedPlace,Schema:Country,DBpedia:Country
+http://dbpedia.org/resource/Netherlands
+
+Poland
+Schema:Place,DBpedia:Place,DBpedia:PopulatedPlace,Schema:Country,DBpedia:Country
+http://dbpedia.org/resource/Poland
+
+Portugal
+Schema:Place,DBpedia:Place,DBpedia:PopulatedPlace,Schema:Country,DBpedia:Country
+http://dbpedia.org/resource/Portugal
+
+Romania
+Schema:Place,DBpedia:Place,DBpedia:PopulatedPlace,Schema:Country,DBpedia:Country
+http://dbpedia.org/resource/Romania
+
+Slovakia
+Schema:Place,DBpedia:Place,DBpedia:PopulatedPlace,Schema:Country,DBpedia:Country
+http://dbpedia.org/resource/Slovakia
+
+Slovenia
+Schema:Place,DBpedia:Place,DBpedia:PopulatedPlace,Schema:Country,DBpedia:Country
+http://dbpedia.org/resource/Slovenia
+
+Spain
+Schema:Place,DBpedia:Place,DBpedia:PopulatedPlace,Schema:Country,DBpedia:Country
+http://dbpedia.org/resource/Spain
+
+Sweden
+Schema:Place,DBpedia:Place,DBpedia:PopulatedPlace,Schema:Country,DBpedia:Country
+http://dbpedia.org/resource/Sweden
+
+United Kingdom
+Schema:Place,DBpedia:Place,DBpedia:PopulatedPlace,Schema:Country,DBpedia:Country
+http://dbpedia.org/resource/United_Kingdom
+
+Federal Trade Commission
+DBpedia:Agent,Schema:Organization,DBpedia:Organisation,Schema:GovernmentOrganization,DBpedia:GovernmentAgency
+http://dbpedia.org/resource/Federal_Trade_Commission
+
+Federal Trade Commission
+DBpedia:Agent,Schema:Organization,DBpedia:Organisation,Schema:GovernmentOrganization,DBpedia:GovernmentAgency
+http://dbpedia.org/resource/Federal_Trade_Commission
+
+antitrust
+
+http://dbpedia.org/resource/Competition_law
+
+Safe Harbor Principles
+
+http://dbpedia.org/resource/International_Safe_Harbor_Privacy_Principles
+
+Data Protection Directive
+
+http://dbpedia.org/resource/Data_Protection_Directive
+
+Data Protection Directive
+
+http://dbpedia.org/resource/Data_Protection_Directive
+
+European Economic Area (EEA)
+
+http://dbpedia.org/resource/European_Economic_Area
+
+compass
+
+http://dbpedia.org/resource/Compass
+
+Data Protection Directive
+
+http://dbpedia.org/resource/Data_Protection_Directive
+
+sion
+Schema:Place,DBpedia:Place,DBpedia:PopulatedPlace,DBpedia:Settlement
+http://dbpedia.org/resource/Sion,_Switzerland
+
+European Commission
+
+http://dbpedia.org/resource/European_Commission
+
+United States
+
+http://dbpedia.org/resource/Federal_government_of_the_United_States
+
+European Union
+
+http://dbpedia.org/resource/European_Union
+
+vacy
+Schema:Place,DBpedia:Place,DBpedia:PopulatedPlace,DBpedia:Settlement
+http://dbpedia.org/resource/Vacy,_New_South_Wales
+
+United States
+
+http://dbpedia.org/resource/Federal_government_of_the_United_States
+
+European Union
+
+http://dbpedia.org/resource/European_Union
+
+European Commission
+
+http://dbpedia.org/resource/European_Commission
+
+ings
+
+http://dbpedia.org/resource/Ings
+
+Federal Trade Commission
+DBpedia:Agent,Schema:Organization,DBpedia:Organisation,Schema:GovernmentOrganization,DBpedia:GovernmentAgency
+http://dbpedia.org/resource/Federal_Trade_Commission
+
+Certified Information Privacy Professional
+
+http://dbpedia.org/resource/International_Association_of_Privacy_Professionals
+
+European Union
+
+http://dbpedia.org/resource/European_Union
+
+Austria
+Schema:Place,DBpedia:Place,DBpedia:PopulatedPlace,Schema:Country,DBpedia:Country
+http://dbpedia.org/resource/Austria
+
+Belgium
+Schema:Place,DBpedia:Place,DBpedia:PopulatedPlace,Schema:Country,DBpedia:Country
+http://dbpedia.org/resource/Belgium
+
+Bulgaria
+Schema:Place,DBpedia:Place,DBpedia:PopulatedPlace,Schema:Country,DBpedia:Country
+http://dbpedia.org/resource/Bulgaria
+
+Cyprus
+Schema:Place,DBpedia:Place,DBpedia:PopulatedPlace,Schema:Country,DBpedia:Country
+http://dbpedia.org/resource/Cyprus
+
+Czech Republic
+Schema:Place,DBpedia:Place,DBpedia:PopulatedPlace,Schema:Country,DBpedia:Country
+http://dbpedia.org/resource/Czech_Republic
+
+Denmark
+Schema:Place,DBpedia:Place,DBpedia:PopulatedPlace,Schema:Country,DBpedia:Country
+http://dbpedia.org/resource/Denmark
+
+Estonia
+Schema:Place,DBpedia:Place,DBpedia:PopulatedPlace,Schema:Country,DBpedia:Country
+http://dbpedia.org/resource/Estonia
+
+France
+Schema:Place,DBpedia:Place,DBpedia:PopulatedPlace,Schema:Country,DBpedia:Country
+http://dbpedia.org/resource/France
+
+Germany
+Schema:Place,DBpedia:Place,DBpedia:PopulatedPlace,Schema:Country,DBpedia:Country
+http://dbpedia.org/resource/Germany
+
+Greece
+Schema:Place,DBpedia:Place,DBpedia:PopulatedPlace,Schema:Country,DBpedia:Country
+http://dbpedia.org/resource/Greece
+
+Hungary
+Schema:Place,DBpedia:Place,DBpedia:PopulatedPlace,Schema:Country,DBpedia:Country
+http://dbpedia.org/resource/Hungary
+
+Ireland
+Schema:Place,DBpedia:Place,DBpedia:PopulatedPlace,Schema:Country,DBpedia:Country
+http://dbpedia.org/resource/Republic_of_Ireland
+
+Italy
+Schema:Place,DBpedia:Place,DBpedia:PopulatedPlace,Schema:Country,DBpedia:Country
+http://dbpedia.org/resource/Italy
+
+Latvia
+Schema:Place,DBpedia:Place,DBpedia:PopulatedPlace,Schema:Country,DBpedia:Country
+http://dbpedia.org/resource/Latvia
+
+Lithuania
+Schema:Place,DBpedia:Place,DBpedia:PopulatedPlace,Schema:Country,DBpedia:Country
+http://dbpedia.org/resource/Lithuania
+
+Malta
+Schema:Place,DBpedia:Place,DBpedia:PopulatedPlace,Schema:Country,DBpedia:Country
+http://dbpedia.org/resource/Malta
+
+Netherlands
+Schema:Place,DBpedia:Place,DBpedia:PopulatedPlace,Schema:Country,DBpedia:Country
+http://dbpedia.org/resource/Netherlands
+
+Poland
+Schema:Place,DBpedia:Place,DBpedia:PopulatedPlace,Schema:Country,DBpedia:Country
+http://dbpedia.org/resource/Poland
+
+Portugal
+Schema:Place,DBpedia:Place,DBpedia:PopulatedPlace,Schema:Country,DBpedia:Country
+http://dbpedia.org/resource/Portugal
+
+Romania
+Schema:Place,DBpedia:Place,DBpedia:PopulatedPlace,Schema:Country,DBpedia:Country
+http://dbpedia.org/resource/Romania
+
+Slovakia
+Schema:Place,DBpedia:Place,DBpedia:PopulatedPlace,Schema:Country,DBpedia:Country
+http://dbpedia.org/resource/Slovakia
+
+Slovenia
+Schema:Place,DBpedia:Place,DBpedia:PopulatedPlace,Schema:Country,DBpedia:Country
+http://dbpedia.org/resource/Slovenia
+
+Spain
+Schema:Place,DBpedia:Place,DBpedia:PopulatedPlace,Schema:Country,DBpedia:Country
+http://dbpedia.org/resource/Spain
+
+Sweden
+Schema:Place,DBpedia:Place,DBpedia:PopulatedPlace,Schema:Country,DBpedia:Country
+http://dbpedia.org/resource/Sweden
+
+United Kingdom
+Schema:Place,DBpedia:Place,DBpedia:PopulatedPlace,Schema:Country,DBpedia:Country
+http://dbpedia.org/resource/United_Kingdom
+
+Social Security number
+
+http://dbpedia.org/resource/Social_Security_number
+
+AR
+Schema:Place,DBpedia:Place,DBpedia:PopulatedPlace,DBpedia:Region,Schema:AdministrativeArea,DBpedia:AdministrativeRegion
+http://dbpedia.org/resource/Arkansas
+
+CH
+
+http://dbpedia.org/resource/Order_of_the_Companions_of_Honour
+
+Constitution Avenue
+Schema:Place,DBpedia:Place,DBpedia:ArchitecturalStructure,DBpedia:Infrastructure,DBpedia:RouteOfTransportation,DBpedia:Road
+http://dbpedia.org/resource/Constitution_Avenue_(Islamabad)
+

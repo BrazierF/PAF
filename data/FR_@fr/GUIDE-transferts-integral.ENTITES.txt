@@ -1,0 +1,1380 @@
+Union européenne
+
+http://fr.dbpedia.org/resource/Union_européenne
+
+rue Vivienne
+Schema:Place,DBpedia:Place,DBpedia:ArchitecturalStructure,DBpedia:Infrastructure,DBpedia:RouteOfTransportation,DBpedia:Road
+http://fr.dbpedia.org/resource/Rue_Vivienne
+
+REPUBLIQUE FRANCAISE
+Schema:Place,DBpedia:Place,DBpedia:PopulatedPlace,Schema:Country,DBpedia:Country
+http://fr.dbpedia.org/resource/France
+
+rue Vivienne
+Schema:Place,DBpedia:Place,DBpedia:ArchitecturalStructure,DBpedia:Infrastructure,DBpedia:RouteOfTransportation,DBpedia:Road
+http://fr.dbpedia.org/resource/Rue_Vivienne
+
+REPUBLIQUE FRANCAISE
+Schema:Place,DBpedia:Place,DBpedia:PopulatedPlace,Schema:Country,DBpedia:Country
+http://fr.dbpedia.org/resource/France
+
+France
+Schema:Place,DBpedia:Place,DBpedia:PopulatedPlace,Schema:Country,DBpedia:Country
+http://fr.dbpedia.org/resource/France
+
+Union européenne
+
+http://fr.dbpedia.org/resource/Union_européenne
+
+Union européenne
+
+http://fr.dbpedia.org/resource/Union_européenne
+
+Liechtenstein
+Schema:Place,DBpedia:Place,DBpedia:PopulatedPlace,Schema:Country,DBpedia:Country
+http://fr.dbpedia.org/resource/Liechtenstein
+
+Norvège
+Schema:Place,DBpedia:Place,DBpedia:PopulatedPlace,Schema:Country,DBpedia:Country
+http://fr.dbpedia.org/resource/Norvège
+
+directive
+
+http://fr.dbpedia.org/resource/Directive_de_l'Union_européenne
+
+Espace économique européen
+
+http://fr.dbpedia.org/resource/Espace_économique_européen
+
+Commission européenne
+
+http://fr.dbpedia.org/resource/Commission_européenne
+
+Andorre
+Schema:Place,DBpedia:Place,DBpedia:PopulatedPlace,Schema:Country,DBpedia:Country
+http://fr.dbpedia.org/resource/Andorre
+
+Argentine
+Schema:Place,DBpedia:Place,DBpedia:PopulatedPlace,Schema:Country,DBpedia:Country
+http://fr.dbpedia.org/resource/Argentine
+
+Canada
+Schema:Place,DBpedia:Place,DBpedia:PopulatedPlace,Schema:Country,DBpedia:Country
+http://fr.dbpedia.org/resource/Canada
+
+Iles Féroé
+Schema:Place,DBpedia:Place,DBpedia:PopulatedPlace,DBpedia:Territory
+http://fr.dbpedia.org/resource/??les_Féroé
+
+Ile de Man
+Schema:Place,DBpedia:Place,DBpedia:PopulatedPlace,DBpedia:Territory
+http://fr.dbpedia.org/resource/??le_de_Man
+
+Guernesey
+Schema:Place,DBpedia:Place,DBpedia:PopulatedPlace,DBpedia:Territory
+http://fr.dbpedia.org/resource/Guernesey
+
+Jersey
+Schema:Place,DBpedia:Place,DBpedia:PopulatedPlace,DBpedia:Territory
+http://fr.dbpedia.org/resource/Jersey
+
+Israël
+Schema:Place,DBpedia:Place,DBpedia:PopulatedPlace,Schema:Country,DBpedia:Country
+http://fr.dbpedia.org/resource/Israël
+
+Uruguay
+Schema:Place,DBpedia:Place,DBpedia:PopulatedPlace,Schema:Country,DBpedia:Country
+http://fr.dbpedia.org/resource/Uruguay
+
+Suisse
+Schema:Place,DBpedia:Place,DBpedia:PopulatedPlace,Schema:Country,DBpedia:Country
+http://fr.dbpedia.org/resource/Suisse
+
+Harbor
+
+http://fr.dbpedia.org/resource/Harbor_(Oregon)
+
+Union européenne
+
+http://fr.dbpedia.org/resource/Union_européenne
+
+rue Vivienne
+Schema:Place,DBpedia:Place,DBpedia:ArchitecturalStructure,DBpedia:Infrastructure,DBpedia:RouteOfTransportation,DBpedia:Road
+http://fr.dbpedia.org/resource/Rue_Vivienne
+
+REPUBLIQUE FRANCAISE
+Schema:Place,DBpedia:Place,DBpedia:PopulatedPlace,Schema:Country,DBpedia:Country
+http://fr.dbpedia.org/resource/France
+
+.......
+
+http://fr.dbpedia.org/resource/.......
+
+.......
+
+http://fr.dbpedia.org/resource/.......
+
+.......
+
+http://fr.dbpedia.org/resource/.......
+
+.......
+
+http://fr.dbpedia.org/resource/.......
+
+.......
+
+http://fr.dbpedia.org/resource/.......
+
+.......
+
+http://fr.dbpedia.org/resource/.......
+
+.......
+
+http://fr.dbpedia.org/resource/.......
+
+.......
+
+http://fr.dbpedia.org/resource/.......
+
+.......
+
+http://fr.dbpedia.org/resource/.......
+
+.......
+
+http://fr.dbpedia.org/resource/.......
+
+.......
+
+http://fr.dbpedia.org/resource/.......
+
+.......
+
+http://fr.dbpedia.org/resource/.......
+
+.......
+
+http://fr.dbpedia.org/resource/.......
+
+Commission européenne
+
+http://fr.dbpedia.org/resource/Commission_européenne
+
+Harbor
+
+http://fr.dbpedia.org/resource/Harbor_(Oregon)
+
+.......
+
+http://fr.dbpedia.org/resource/.......
+
+.......
+
+http://fr.dbpedia.org/resource/.......
+
+.......
+
+http://fr.dbpedia.org/resource/.......
+
+.......
+
+http://fr.dbpedia.org/resource/.......
+
+.......
+
+http://fr.dbpedia.org/resource/.......
+
+.......
+
+http://fr.dbpedia.org/resource/.......
+
+.......
+
+http://fr.dbpedia.org/resource/.......
+
+.......
+
+http://fr.dbpedia.org/resource/.......
+
+.......
+
+http://fr.dbpedia.org/resource/.......
+
+.......
+
+http://fr.dbpedia.org/resource/.......
+
+.......
+
+http://fr.dbpedia.org/resource/.......
+
+.......
+
+http://fr.dbpedia.org/resource/.......
+
+.......
+
+http://fr.dbpedia.org/resource/.......
+
+.......
+
+http://fr.dbpedia.org/resource/.......
+
+.......
+
+http://fr.dbpedia.org/resource/.......
+
+.......
+
+http://fr.dbpedia.org/resource/.......
+
+.......
+
+http://fr.dbpedia.org/resource/.......
+
+.......
+
+http://fr.dbpedia.org/resource/.......
+
+.......
+
+http://fr.dbpedia.org/resource/.......
+
+.......
+
+http://fr.dbpedia.org/resource/.......
+
+.......
+
+http://fr.dbpedia.org/resource/.......
+
+.......
+
+http://fr.dbpedia.org/resource/.......
+
+.......
+
+http://fr.dbpedia.org/resource/.......
+
+.......
+
+http://fr.dbpedia.org/resource/.......
+
+rue Vivienne
+Schema:Place,DBpedia:Place,DBpedia:ArchitecturalStructure,DBpedia:Infrastructure,DBpedia:RouteOfTransportation,DBpedia:Road
+http://fr.dbpedia.org/resource/Rue_Vivienne
+
+REPUBLIQUE FRANCAISE
+Schema:Place,DBpedia:Place,DBpedia:PopulatedPlace,Schema:Country,DBpedia:Country
+http://fr.dbpedia.org/resource/France
+
+France
+Schema:Place,DBpedia:Place,DBpedia:PopulatedPlace,Schema:Country,DBpedia:Country
+http://fr.dbpedia.org/resource/France
+
+CNIL
+
+http://fr.dbpedia.org/resource/Commission_nationale_de_l'informatique_et_des_libertés
+
+CNIL
+
+http://fr.dbpedia.org/resource/Commission_nationale_de_l'informatique_et_des_libertés
+
+traitements de données à caractère personnel
+
+http://fr.dbpedia.org/resource/Fichage_en_France
+
+CNIL
+
+http://fr.dbpedia.org/resource/Commission_nationale_de_l'informatique_et_des_libertés
+
+rue Vivienne
+Schema:Place,DBpedia:Place,DBpedia:ArchitecturalStructure,DBpedia:Infrastructure,DBpedia:RouteOfTransportation,DBpedia:Road
+http://fr.dbpedia.org/resource/Rue_Vivienne
+
+REPUBLIQUE FRANCAISE
+Schema:Place,DBpedia:Place,DBpedia:PopulatedPlace,Schema:Country,DBpedia:Country
+http://fr.dbpedia.org/resource/France
+
+directive
+
+http://fr.dbpedia.org/resource/Directive_de_l'Union_européenne
+
+Union européenne
+
+http://fr.dbpedia.org/resource/Union_européenne
+
+Espace économique européen
+
+http://fr.dbpedia.org/resource/Espace_économique_européen
+
+disque dur
+
+http://fr.dbpedia.org/resource/Disque_dur
+
+France
+Schema:Place,DBpedia:Place,DBpedia:PopulatedPlace,Schema:Country,DBpedia:Country
+http://fr.dbpedia.org/resource/France
+
+Union européenne
+
+http://fr.dbpedia.org/resource/Union_européenne
+
+Commission européenne
+
+http://fr.dbpedia.org/resource/Commission_européenne
+
+Andorre
+Schema:Place,DBpedia:Place,DBpedia:PopulatedPlace,Schema:Country,DBpedia:Country
+http://fr.dbpedia.org/resource/Andorre
+
+Argentine
+Schema:Place,DBpedia:Place,DBpedia:PopulatedPlace,Schema:Country,DBpedia:Country
+http://fr.dbpedia.org/resource/Argentine
+
+Canada
+Schema:Place,DBpedia:Place,DBpedia:PopulatedPlace,Schema:Country,DBpedia:Country
+http://fr.dbpedia.org/resource/Canada
+
+Iles Féroé
+Schema:Place,DBpedia:Place,DBpedia:PopulatedPlace,DBpedia:Territory
+http://fr.dbpedia.org/resource/??les_Féroé
+
+Ile de Man
+Schema:Place,DBpedia:Place,DBpedia:PopulatedPlace,DBpedia:Territory
+http://fr.dbpedia.org/resource/??le_de_Man
+
+Guernesey
+Schema:Place,DBpedia:Place,DBpedia:PopulatedPlace,DBpedia:Territory
+http://fr.dbpedia.org/resource/Guernesey
+
+Jersey
+Schema:Place,DBpedia:Place,DBpedia:PopulatedPlace,DBpedia:Territory
+http://fr.dbpedia.org/resource/Jersey
+
+Israël
+Schema:Place,DBpedia:Place,DBpedia:PopulatedPlace,Schema:Country,DBpedia:Country
+http://fr.dbpedia.org/resource/Israël
+
+Uruguay
+Schema:Place,DBpedia:Place,DBpedia:PopulatedPlace,Schema:Country,DBpedia:Country
+http://fr.dbpedia.org/resource/Uruguay
+
+Suisse
+Schema:Place,DBpedia:Place,DBpedia:PopulatedPlace,Schema:Country,DBpedia:Country
+http://fr.dbpedia.org/resource/Suisse
+
+CNIL
+
+http://fr.dbpedia.org/resource/Commission_nationale_de_l'informatique_et_des_libertés
+
+directive
+
+http://fr.dbpedia.org/resource/Directive_de_l'Union_européenne
+
+directive
+
+http://fr.dbpedia.org/resource/Directive_de_l'Union_européenne
+
+Union européenne
+
+http://fr.dbpedia.org/resource/Union_européenne
+
+Espace économique européen
+
+http://fr.dbpedia.org/resource/Espace_économique_européen
+
+Norvège
+Schema:Place,DBpedia:Place,DBpedia:PopulatedPlace,Schema:Country,DBpedia:Country
+http://fr.dbpedia.org/resource/Norvège
+
+Liechtenstein
+Schema:Place,DBpedia:Place,DBpedia:PopulatedPlace,Schema:Country,DBpedia:Country
+http://fr.dbpedia.org/resource/Liechtenstein
+
+directive
+
+http://fr.dbpedia.org/resource/Directive_de_l'Union_européenne
+
+directive
+
+http://fr.dbpedia.org/resource/Directive_de_l'Union_européenne
+
+Maroc
+Schema:Place,DBpedia:Place,DBpedia:PopulatedPlace,Schema:Country,DBpedia:Country
+http://fr.dbpedia.org/resource/Maroc
+
+Union européenne
+
+http://fr.dbpedia.org/resource/Union_européenne
+
+rue Vivienne
+Schema:Place,DBpedia:Place,DBpedia:ArchitecturalStructure,DBpedia:Infrastructure,DBpedia:RouteOfTransportation,DBpedia:Road
+http://fr.dbpedia.org/resource/Rue_Vivienne
+
+REPUBLIQUE FRANCAISE
+Schema:Place,DBpedia:Place,DBpedia:PopulatedPlace,Schema:Country,DBpedia:Country
+http://fr.dbpedia.org/resource/France
+
+Commission européenne
+
+http://fr.dbpedia.org/resource/Commission_européenne
+
+Union européenne
+
+http://fr.dbpedia.org/resource/Union_européenne
+
+Harbor
+
+http://fr.dbpedia.org/resource/Harbor_(Oregon)
+
+Union européenne
+
+http://fr.dbpedia.org/resource/Union_européenne
+
+traitement de données à caractère personnel
+
+http://fr.dbpedia.org/resource/Fichage_en_France
+
+CNIL
+
+http://fr.dbpedia.org/resource/Commission_nationale_de_l'informatique_et_des_libertés
+
+rue Vivienne
+Schema:Place,DBpedia:Place,DBpedia:ArchitecturalStructure,DBpedia:Infrastructure,DBpedia:RouteOfTransportation,DBpedia:Road
+http://fr.dbpedia.org/resource/Rue_Vivienne
+
+REPUBLIQUE FRANCAISE
+Schema:Place,DBpedia:Place,DBpedia:PopulatedPlace,Schema:Country,DBpedia:Country
+http://fr.dbpedia.org/resource/France
+
+SAFE HARBOR
+
+http://fr.dbpedia.org/resource/Safe_Harbor
+
+CNIL
+
+http://fr.dbpedia.org/resource/Commission_nationale_de_l'informatique_et_des_libertés
+
+FERA
+
+http://fr.dbpedia.org/resource/Federal_Emergency_Relief_Administration
+
+CNIL
+
+http://fr.dbpedia.org/resource/Commission_nationale_de_l'informatique_et_des_libertés
+
+Japon
+Schema:Place,DBpedia:Place,DBpedia:PopulatedPlace,Schema:Country,DBpedia:Country
+http://fr.dbpedia.org/resource/Japon
+
+Japon
+Schema:Place,DBpedia:Place,DBpedia:PopulatedPlace,Schema:Country,DBpedia:Country
+http://fr.dbpedia.org/resource/Japon
+
+Japon
+Schema:Place,DBpedia:Place,DBpedia:PopulatedPlace,Schema:Country,DBpedia:Country
+http://fr.dbpedia.org/resource/Japon
+
+rue Vivienne
+Schema:Place,DBpedia:Place,DBpedia:ArchitecturalStructure,DBpedia:Infrastructure,DBpedia:RouteOfTransportation,DBpedia:Road
+http://fr.dbpedia.org/resource/Rue_Vivienne
+
+REPUBLIQUE FRANCAISE
+Schema:Place,DBpedia:Place,DBpedia:PopulatedPlace,Schema:Country,DBpedia:Country
+http://fr.dbpedia.org/resource/France
+
+CNIL
+
+http://fr.dbpedia.org/resource/Commission_nationale_de_l'informatique_et_des_libertés
+
+Harbor
+
+http://fr.dbpedia.org/resource/Harbor_(Oregon)
+
+CNIL
+
+http://fr.dbpedia.org/resource/Commission_nationale_de_l'informatique_et_des_libertés
+
+Commission européenne
+
+http://fr.dbpedia.org/resource/Commission_européenne
+
+CNIL
+
+http://fr.dbpedia.org/resource/Commission_nationale_de_l'informatique_et_des_libertés
+
+CNIL
+
+http://fr.dbpedia.org/resource/Commission_nationale_de_l'informatique_et_des_libertés
+
+traitements de données à caractère personnel
+
+http://fr.dbpedia.org/resource/Fichage_en_France
+
+CNIL
+
+http://fr.dbpedia.org/resource/Commission_nationale_de_l'informatique_et_des_libertés
+
+rue Vivienne
+Schema:Place,DBpedia:Place,DBpedia:ArchitecturalStructure,DBpedia:Infrastructure,DBpedia:RouteOfTransportation,DBpedia:Road
+http://fr.dbpedia.org/resource/Rue_Vivienne
+
+REPUBLIQUE FRANCAISE
+Schema:Place,DBpedia:Place,DBpedia:PopulatedPlace,Schema:Country,DBpedia:Country
+http://fr.dbpedia.org/resource/France
+
+Union européenne
+
+http://fr.dbpedia.org/resource/Union_européenne
+
+CNIL
+
+http://fr.dbpedia.org/resource/Commission_nationale_de_l'informatique_et_des_libertés
+
+traitements de données à caractère personnel
+
+http://fr.dbpedia.org/resource/Fichage_en_France
+
+terrorisme
+
+http://fr.dbpedia.org/resource/Terrorisme
+
+rue Vivienne
+Schema:Place,DBpedia:Place,DBpedia:ArchitecturalStructure,DBpedia:Infrastructure,DBpedia:RouteOfTransportation,DBpedia:Road
+http://fr.dbpedia.org/resource/Rue_Vivienne
+
+REPUBLIQUE FRANCAISE
+Schema:Place,DBpedia:Place,DBpedia:PopulatedPlace,Schema:Country,DBpedia:Country
+http://fr.dbpedia.org/resource/France
+
+Union européenne
+
+http://fr.dbpedia.org/resource/Union_européenne
+
+CNIL
+
+http://fr.dbpedia.org/resource/Commission_nationale_de_l'informatique_et_des_libertés
+
+Code pénal
+
+http://fr.dbpedia.org/resource/Code_pénal_(France)
+
+Code pénal
+
+http://fr.dbpedia.org/resource/Code_pénal_(France)
+
+rue Vivienne
+Schema:Place,DBpedia:Place,DBpedia:ArchitecturalStructure,DBpedia:Infrastructure,DBpedia:RouteOfTransportation,DBpedia:Road
+http://fr.dbpedia.org/resource/Rue_Vivienne
+
+REPUBLIQUE FRANCAISE
+Schema:Place,DBpedia:Place,DBpedia:PopulatedPlace,Schema:Country,DBpedia:Country
+http://fr.dbpedia.org/resource/France
+
+Contractuelle
+
+http://fr.dbpedia.org/resource/Contrat
+
+nom propre
+
+http://fr.dbpedia.org/resource/Nom
+
+Tunisie
+Schema:Place,DBpedia:Place,DBpedia:PopulatedPlace,Schema:Country,DBpedia:Country
+http://fr.dbpedia.org/resource/Tunisie
+
+Tunisie
+Schema:Place,DBpedia:Place,DBpedia:PopulatedPlace,Schema:Country,DBpedia:Country
+http://fr.dbpedia.org/resource/Tunisie
+
+rue Vivienne
+Schema:Place,DBpedia:Place,DBpedia:ArchitecturalStructure,DBpedia:Infrastructure,DBpedia:RouteOfTransportation,DBpedia:Road
+http://fr.dbpedia.org/resource/Rue_Vivienne
+
+REPUBLIQUE FRANCAISE
+Schema:Place,DBpedia:Place,DBpedia:PopulatedPlace,Schema:Country,DBpedia:Country
+http://fr.dbpedia.org/resource/France
+
+rue Vivienne
+Schema:Place,DBpedia:Place,DBpedia:ArchitecturalStructure,DBpedia:Infrastructure,DBpedia:RouteOfTransportation,DBpedia:Road
+http://fr.dbpedia.org/resource/Rue_Vivienne
+
+REPUBLIQUE FRANCAISE
+Schema:Place,DBpedia:Place,DBpedia:PopulatedPlace,Schema:Country,DBpedia:Country
+http://fr.dbpedia.org/resource/France
+
+étape
+
+http://fr.dbpedia.org/resource/Critérium_du_Dauphiné_libéré_2007
+
+CNIL
+
+http://fr.dbpedia.org/resource/Commission_nationale_de_l'informatique_et_des_libertés
+
+rue Vivienne
+Schema:Place,DBpedia:Place,DBpedia:ArchitecturalStructure,DBpedia:Infrastructure,DBpedia:RouteOfTransportation,DBpedia:Road
+http://fr.dbpedia.org/resource/Rue_Vivienne
+
+REPUBLIQUE FRANCAISE
+Schema:Place,DBpedia:Place,DBpedia:PopulatedPlace,Schema:Country,DBpedia:Country
+http://fr.dbpedia.org/resource/France
+
+Union européenne
+
+http://fr.dbpedia.org/resource/Union_européenne
+
+Union européenne
+
+http://fr.dbpedia.org/resource/Union_européenne
+
+Harbor
+
+http://fr.dbpedia.org/resource/Harbor_(Oregon)
+
+Union européenne
+
+http://fr.dbpedia.org/resource/Union_européenne
+
+Union européenne
+
+http://fr.dbpedia.org/resource/Union_européenne
+
+directive
+
+http://fr.dbpedia.org/resource/Directive_de_l'Union_européenne
+
+rue Vivienne
+Schema:Place,DBpedia:Place,DBpedia:ArchitecturalStructure,DBpedia:Infrastructure,DBpedia:RouteOfTransportation,DBpedia:Road
+http://fr.dbpedia.org/resource/Rue_Vivienne
+
+REPUBLIQUE FRANCAISE
+Schema:Place,DBpedia:Place,DBpedia:PopulatedPlace,Schema:Country,DBpedia:Country
+http://fr.dbpedia.org/resource/France
+
+étape
+
+http://fr.dbpedia.org/resource/Critérium_du_Dauphiné_libéré_2007
+
+CNIL
+
+http://fr.dbpedia.org/resource/Commission_nationale_de_l'informatique_et_des_libertés
+
+CNIL
+
+http://fr.dbpedia.org/resource/Commission_nationale_de_l'informatique_et_des_libertés
+
+G29
+
+http://fr.dbpedia.org/resource/G29
+
+G29
+
+http://fr.dbpedia.org/resource/G29
+
+CNIL
+
+http://fr.dbpedia.org/resource/Commission_nationale_de_l'informatique_et_des_libertés
+
+G29
+
+http://fr.dbpedia.org/resource/G29
+
+G29
+
+http://fr.dbpedia.org/resource/G29
+
+CNIL
+
+http://fr.dbpedia.org/resource/Commission_nationale_de_l'informatique_et_des_libertés
+
+rue Vivienne
+Schema:Place,DBpedia:Place,DBpedia:ArchitecturalStructure,DBpedia:Infrastructure,DBpedia:RouteOfTransportation,DBpedia:Road
+http://fr.dbpedia.org/resource/Rue_Vivienne
+
+REPUBLIQUE FRANCAISE
+Schema:Place,DBpedia:Place,DBpedia:PopulatedPlace,Schema:Country,DBpedia:Country
+http://fr.dbpedia.org/resource/France
+
+Espace économique européen
+
+http://fr.dbpedia.org/resource/Espace_économique_européen
+
+Allemagne
+Schema:Place,DBpedia:Place,DBpedia:PopulatedPlace,Schema:Country,DBpedia:Country
+http://fr.dbpedia.org/resource/Allemagne
+
+Autriche
+Schema:Place,DBpedia:Place,DBpedia:PopulatedPlace,Schema:Country,DBpedia:Country
+http://fr.dbpedia.org/resource/Autriche
+
+Belgique
+Schema:Place,DBpedia:Place,DBpedia:PopulatedPlace,Schema:Country,DBpedia:Country
+http://fr.dbpedia.org/resource/Belgique
+
+Bulgarie
+Schema:Place,DBpedia:Place,DBpedia:PopulatedPlace,Schema:Country,DBpedia:Country
+http://fr.dbpedia.org/resource/Bulgarie
+
+Chypre
+Schema:Place,DBpedia:Place,DBpedia:PopulatedPlace,Schema:Country,DBpedia:Country
+http://fr.dbpedia.org/resource/Chypre_(pays)
+
+Espagne
+Schema:Place,DBpedia:Place,DBpedia:PopulatedPlace,Schema:Country,DBpedia:Country
+http://fr.dbpedia.org/resource/Espagne
+
+Estonie
+Schema:Place,DBpedia:Place,DBpedia:PopulatedPlace,Schema:Country,DBpedia:Country
+http://fr.dbpedia.org/resource/Estonie
+
+France
+Schema:Place,DBpedia:Place,DBpedia:PopulatedPlace,Schema:Country,DBpedia:Country
+http://fr.dbpedia.org/resource/France
+
+Irlande
+Schema:Place,DBpedia:Place,DBpedia:PopulatedPlace,Schema:Country,DBpedia:Country
+http://fr.dbpedia.org/resource/Irlande_(pays)
+
+Italie
+Schema:Place,DBpedia:Place,DBpedia:PopulatedPlace,Schema:Country,DBpedia:Country
+http://fr.dbpedia.org/resource/Italie
+
+Lettonie
+Schema:Place,DBpedia:Place,DBpedia:PopulatedPlace,Schema:Country,DBpedia:Country
+http://fr.dbpedia.org/resource/Lettonie
+
+Liechtenstein
+Schema:Place,DBpedia:Place,DBpedia:PopulatedPlace,Schema:Country,DBpedia:Country
+http://fr.dbpedia.org/resource/Liechtenstein
+
+Luxembourg
+Schema:Place,DBpedia:Place,DBpedia:PopulatedPlace,Schema:Country,DBpedia:Country
+http://fr.dbpedia.org/resource/Luxembourg_(pays)
+
+Malte
+Schema:Place,DBpedia:Place,DBpedia:PopulatedPlace,Schema:Country,DBpedia:Country
+http://fr.dbpedia.org/resource/Malte
+
+Norvège
+Schema:Place,DBpedia:Place,DBpedia:PopulatedPlace,Schema:Country,DBpedia:Country
+http://fr.dbpedia.org/resource/Norvège
+
+Royaume-Uni
+Schema:Place,DBpedia:Place,DBpedia:PopulatedPlace,Schema:Country,DBpedia:Country
+http://fr.dbpedia.org/resource/Royaume-Uni
+
+Slovénie
+Schema:Place,DBpedia:Place,DBpedia:PopulatedPlace,Schema:Country,DBpedia:Country
+http://fr.dbpedia.org/resource/Slovénie
+
+Slovaquie
+Schema:Place,DBpedia:Place,DBpedia:PopulatedPlace,Schema:Country,DBpedia:Country
+http://fr.dbpedia.org/resource/Slovaquie
+
+rue Vivienne
+Schema:Place,DBpedia:Place,DBpedia:ArchitecturalStructure,DBpedia:Infrastructure,DBpedia:RouteOfTransportation,DBpedia:Road
+http://fr.dbpedia.org/resource/Rue_Vivienne
+
+REPUBLIQUE FRANCAISE
+Schema:Place,DBpedia:Place,DBpedia:PopulatedPlace,Schema:Country,DBpedia:Country
+http://fr.dbpedia.org/resource/France
+
+Traitement de données
+
+http://fr.dbpedia.org/resource/Traitement_de_données
+
+rue Vivienne
+Schema:Place,DBpedia:Place,DBpedia:ArchitecturalStructure,DBpedia:Infrastructure,DBpedia:RouteOfTransportation,DBpedia:Road
+http://fr.dbpedia.org/resource/Rue_Vivienne
+
+REPUBLIQUE FRANCAISE
+Schema:Place,DBpedia:Place,DBpedia:PopulatedPlace,Schema:Country,DBpedia:Country
+http://fr.dbpedia.org/resource/France
+
+CNIL
+
+http://fr.dbpedia.org/resource/Commission_nationale_de_l'informatique_et_des_libertés
+
+CNIL
+
+http://fr.dbpedia.org/resource/Commission_nationale_de_l'informatique_et_des_libertés
+
+CNIL
+
+http://fr.dbpedia.org/resource/Commission_nationale_de_l'informatique_et_des_libertés
+
+Union européenne
+
+http://fr.dbpedia.org/resource/Union_européenne
+
+CNIL
+
+http://fr.dbpedia.org/resource/Commission_nationale_de_l'informatique_et_des_libertés
+
+CNIL
+
+http://fr.dbpedia.org/resource/Commission_nationale_de_l'informatique_et_des_libertés
+
+rue Vivienne
+Schema:Place,DBpedia:Place,DBpedia:ArchitecturalStructure,DBpedia:Infrastructure,DBpedia:RouteOfTransportation,DBpedia:Road
+http://fr.dbpedia.org/resource/Rue_Vivienne
+
+REPUBLIQUE FRANCAISE
+Schema:Place,DBpedia:Place,DBpedia:PopulatedPlace,Schema:Country,DBpedia:Country
+http://fr.dbpedia.org/resource/France
+
+Commission européenne
+
+http://fr.dbpedia.org/resource/Commission_européenne
+
+Commission européenne
+
+http://fr.dbpedia.org/resource/Commission_européenne
+
+Quelles nouvelles
+
+http://fr.dbpedia.org/resource/Quelles_nouvelles
+
+rue Vivienne
+Schema:Place,DBpedia:Place,DBpedia:ArchitecturalStructure,DBpedia:Infrastructure,DBpedia:RouteOfTransportation,DBpedia:Road
+http://fr.dbpedia.org/resource/Rue_Vivienne
+
+REPUBLIQUE FRANCAISE
+Schema:Place,DBpedia:Place,DBpedia:PopulatedPlace,Schema:Country,DBpedia:Country
+http://fr.dbpedia.org/resource/France
+
+rue Vivienne
+Schema:Place,DBpedia:Place,DBpedia:ArchitecturalStructure,DBpedia:Infrastructure,DBpedia:RouteOfTransportation,DBpedia:Road
+http://fr.dbpedia.org/resource/Rue_Vivienne
+
+REPUBLIQUE FRANCAISE
+Schema:Place,DBpedia:Place,DBpedia:PopulatedPlace,Schema:Country,DBpedia:Country
+http://fr.dbpedia.org/resource/France
+
+Commission européenne
+
+http://fr.dbpedia.org/resource/Commission_européenne
+
+Union européenne
+
+http://fr.dbpedia.org/resource/Union_européenne
+
+Clauses contractuelles
+
+http://fr.dbpedia.org/resource/Clause
+
+Cf
+
+http://fr.dbpedia.org/resource/Californium
+
+Cf
+
+http://fr.dbpedia.org/resource/Californium
+
+Cf
+
+http://fr.dbpedia.org/resource/Californium
+
+rue Vivienne
+Schema:Place,DBpedia:Place,DBpedia:ArchitecturalStructure,DBpedia:Infrastructure,DBpedia:RouteOfTransportation,DBpedia:Road
+http://fr.dbpedia.org/resource/Rue_Vivienne
+
+REPUBLIQUE FRANCAISE
+Schema:Place,DBpedia:Place,DBpedia:PopulatedPlace,Schema:Country,DBpedia:Country
+http://fr.dbpedia.org/resource/France
+
+Clauses contractuelles
+
+http://fr.dbpedia.org/resource/Clause
+
+Clauses contractuelles
+
+http://fr.dbpedia.org/resource/Clause
+
+Commission européenne
+
+http://fr.dbpedia.org/resource/Commission_européenne
+
+Quelles nouvelles
+
+http://fr.dbpedia.org/resource/Quelles_nouvelles
+
+CNIL
+
+http://fr.dbpedia.org/resource/Commission_nationale_de_l'informatique_et_des_libertés
+
+Commission européenne
+
+http://fr.dbpedia.org/resource/Commission_européenne
+
+rue Vivienne
+Schema:Place,DBpedia:Place,DBpedia:ArchitecturalStructure,DBpedia:Infrastructure,DBpedia:RouteOfTransportation,DBpedia:Road
+http://fr.dbpedia.org/resource/Rue_Vivienne
+
+REPUBLIQUE FRANCAISE
+Schema:Place,DBpedia:Place,DBpedia:PopulatedPlace,Schema:Country,DBpedia:Country
+http://fr.dbpedia.org/resource/France
+
+CNIL
+
+http://fr.dbpedia.org/resource/Commission_nationale_de_l'informatique_et_des_libertés
+
+directive
+
+http://fr.dbpedia.org/resource/Directive_de_l'Union_européenne
+
+CNIL
+
+http://fr.dbpedia.org/resource/Commission_nationale_de_l'informatique_et_des_libertés
+
+Commission européenne
+
+http://fr.dbpedia.org/resource/Commission_européenne
+
+sécurité juridique
+
+http://fr.dbpedia.org/resource/Sécurité_juridique
+
+rue Vivienne
+Schema:Place,DBpedia:Place,DBpedia:ArchitecturalStructure,DBpedia:Infrastructure,DBpedia:RouteOfTransportation,DBpedia:Road
+http://fr.dbpedia.org/resource/Rue_Vivienne
+
+REPUBLIQUE FRANCAISE
+Schema:Place,DBpedia:Place,DBpedia:PopulatedPlace,Schema:Country,DBpedia:Country
+http://fr.dbpedia.org/resource/France
+
+CNIL
+
+http://fr.dbpedia.org/resource/Commission_nationale_de_l'informatique_et_des_libertés
+
+CNIL
+
+http://fr.dbpedia.org/resource/Commission_nationale_de_l'informatique_et_des_libertés
+
+Union européenne
+
+http://fr.dbpedia.org/resource/Union_européenne
+
+Contractuelle
+
+http://fr.dbpedia.org/resource/Contrat
+
+Commission européenne
+
+http://fr.dbpedia.org/resource/Commission_européenne
+
+CNIL
+
+http://fr.dbpedia.org/resource/Commission_nationale_de_l'informatique_et_des_libertés
+
+CNIL
+
+http://fr.dbpedia.org/resource/Commission_nationale_de_l'informatique_et_des_libertés
+
+CNIL
+
+http://fr.dbpedia.org/resource/Commission_nationale_de_l'informatique_et_des_libertés
+
+CNIL
+
+http://fr.dbpedia.org/resource/Commission_nationale_de_l'informatique_et_des_libertés
+
+CNIL
+
+http://fr.dbpedia.org/resource/Commission_nationale_de_l'informatique_et_des_libertés
+
+rue Vivienne
+Schema:Place,DBpedia:Place,DBpedia:ArchitecturalStructure,DBpedia:Infrastructure,DBpedia:RouteOfTransportation,DBpedia:Road
+http://fr.dbpedia.org/resource/Rue_Vivienne
+
+REPUBLIQUE FRANCAISE
+Schema:Place,DBpedia:Place,DBpedia:PopulatedPlace,Schema:Country,DBpedia:Country
+http://fr.dbpedia.org/resource/France
+
+France B
+
+http://fr.dbpedia.org/resource/??quipe_de_France_de_rugby_à_XV
+
+Chili
+Schema:Place,DBpedia:Place,DBpedia:PopulatedPlace,Schema:Country,DBpedia:Country
+http://fr.dbpedia.org/resource/Chili
+
+France
+Schema:Place,DBpedia:Place,DBpedia:PopulatedPlace,Schema:Country,DBpedia:Country
+http://fr.dbpedia.org/resource/France
+
+Chili
+Schema:Place,DBpedia:Place,DBpedia:PopulatedPlace,Schema:Country,DBpedia:Country
+http://fr.dbpedia.org/resource/Chili
+
+rue Vivienne
+Schema:Place,DBpedia:Place,DBpedia:ArchitecturalStructure,DBpedia:Infrastructure,DBpedia:RouteOfTransportation,DBpedia:Road
+http://fr.dbpedia.org/resource/Rue_Vivienne
+
+REPUBLIQUE FRANCAISE
+Schema:Place,DBpedia:Place,DBpedia:PopulatedPlace,Schema:Country,DBpedia:Country
+http://fr.dbpedia.org/resource/France
+
+Union européenne
+
+http://fr.dbpedia.org/resource/Union_européenne
+
+France B
+
+http://fr.dbpedia.org/resource/??quipe_de_France_de_football_A'
+
+Chili
+Schema:Place,DBpedia:Place,DBpedia:PopulatedPlace,Schema:Country,DBpedia:Country
+http://fr.dbpedia.org/resource/Chili
+
+Indonésie
+Schema:Place,DBpedia:Place,DBpedia:PopulatedPlace,Schema:Country,DBpedia:Country
+http://fr.dbpedia.org/resource/Indonésie
+
+rue Vivienne
+Schema:Place,DBpedia:Place,DBpedia:ArchitecturalStructure,DBpedia:Infrastructure,DBpedia:RouteOfTransportation,DBpedia:Road
+http://fr.dbpedia.org/resource/Rue_Vivienne
+
+REPUBLIQUE FRANCAISE
+Schema:Place,DBpedia:Place,DBpedia:PopulatedPlace,Schema:Country,DBpedia:Country
+http://fr.dbpedia.org/resource/France
+
+France
+Schema:Place,DBpedia:Place,DBpedia:PopulatedPlace,Schema:Country,DBpedia:Country
+http://fr.dbpedia.org/resource/France
+
+Chili
+Schema:Place,DBpedia:Place,DBpedia:PopulatedPlace,Schema:Country,DBpedia:Country
+http://fr.dbpedia.org/resource/Chili
+
+Indonésie
+Schema:Place,DBpedia:Place,DBpedia:PopulatedPlace,Schema:Country,DBpedia:Country
+http://fr.dbpedia.org/resource/Indonésie
+
+rue Vivienne
+Schema:Place,DBpedia:Place,DBpedia:ArchitecturalStructure,DBpedia:Infrastructure,DBpedia:RouteOfTransportation,DBpedia:Road
+http://fr.dbpedia.org/resource/Rue_Vivienne
+
+REPUBLIQUE FRANCAISE
+Schema:Place,DBpedia:Place,DBpedia:PopulatedPlace,Schema:Country,DBpedia:Country
+http://fr.dbpedia.org/resource/France
+
+France
+Schema:Place,DBpedia:Place,DBpedia:PopulatedPlace,Schema:Country,DBpedia:Country
+http://fr.dbpedia.org/resource/France
+
+Chili
+Schema:Place,DBpedia:Place,DBpedia:PopulatedPlace,Schema:Country,DBpedia:Country
+http://fr.dbpedia.org/resource/Chili
+
+Indonésie
+Schema:Place,DBpedia:Place,DBpedia:PopulatedPlace,Schema:Country,DBpedia:Country
+http://fr.dbpedia.org/resource/Indonésie
+
+rue Vivienne
+Schema:Place,DBpedia:Place,DBpedia:ArchitecturalStructure,DBpedia:Infrastructure,DBpedia:RouteOfTransportation,DBpedia:Road
+http://fr.dbpedia.org/resource/Rue_Vivienne
+
+REPUBLIQUE FRANCAISE
+Schema:Place,DBpedia:Place,DBpedia:PopulatedPlace,Schema:Country,DBpedia:Country
+http://fr.dbpedia.org/resource/France
+
+H5
+DBpedia:Agent,Schema:Organization,DBpedia:Organisation,DBpedia:Company
+http://fr.dbpedia.org/resource/H5_(société)
+
+Union européenne
+
+http://fr.dbpedia.org/resource/Union_européenne
+
+France
+Schema:Place,DBpedia:Place,DBpedia:PopulatedPlace,Schema:Country,DBpedia:Country
+http://fr.dbpedia.org/resource/France
+
+Chili
+Schema:Place,DBpedia:Place,DBpedia:PopulatedPlace,Schema:Country,DBpedia:Country
+http://fr.dbpedia.org/resource/Chili
+
+Indonésie
+Schema:Place,DBpedia:Place,DBpedia:PopulatedPlace,Schema:Country,DBpedia:Country
+http://fr.dbpedia.org/resource/Indonésie
+
+rue Vivienne
+Schema:Place,DBpedia:Place,DBpedia:ArchitecturalStructure,DBpedia:Infrastructure,DBpedia:RouteOfTransportation,DBpedia:Road
+http://fr.dbpedia.org/resource/Rue_Vivienne
+
+REPUBLIQUE FRANCAISE
+Schema:Place,DBpedia:Place,DBpedia:PopulatedPlace,Schema:Country,DBpedia:Country
+http://fr.dbpedia.org/resource/France
+
+Union européenne
+
+http://fr.dbpedia.org/resource/Union_européenne
+
+Union européenne
+
+http://fr.dbpedia.org/resource/Union_européenne
+
+France
+Schema:Place,DBpedia:Place,DBpedia:PopulatedPlace,Schema:Country,DBpedia:Country
+http://fr.dbpedia.org/resource/France
+
+Indonésie
+Schema:Place,DBpedia:Place,DBpedia:PopulatedPlace,Schema:Country,DBpedia:Country
+http://fr.dbpedia.org/resource/Indonésie
+
+France
+Schema:Place,DBpedia:Place,DBpedia:PopulatedPlace,Schema:Country,DBpedia:Country
+http://fr.dbpedia.org/resource/France
+
+Indonésie
+Schema:Place,DBpedia:Place,DBpedia:PopulatedPlace,Schema:Country,DBpedia:Country
+http://fr.dbpedia.org/resource/Indonésie
+
+rue Vivienne
+Schema:Place,DBpedia:Place,DBpedia:ArchitecturalStructure,DBpedia:Infrastructure,DBpedia:RouteOfTransportation,DBpedia:Road
+http://fr.dbpedia.org/resource/Rue_Vivienne
+
+REPUBLIQUE FRANCAISE
+Schema:Place,DBpedia:Place,DBpedia:PopulatedPlace,Schema:Country,DBpedia:Country
+http://fr.dbpedia.org/resource/France
+
+Union européenne
+
+http://fr.dbpedia.org/resource/Union_européenne
+
+Union européenne
+
+http://fr.dbpedia.org/resource/Union_européenne
+
+Commission européenne
+
+http://fr.dbpedia.org/resource/Commission_européenne
+
+France
+Schema:Place,DBpedia:Place,DBpedia:PopulatedPlace,Schema:Country,DBpedia:Country
+http://fr.dbpedia.org/resource/France
+
+Italie
+Schema:Place,DBpedia:Place,DBpedia:PopulatedPlace,Schema:Country,DBpedia:Country
+http://fr.dbpedia.org/resource/Italie
+
+Indonésie
+Schema:Place,DBpedia:Place,DBpedia:PopulatedPlace,Schema:Country,DBpedia:Country
+http://fr.dbpedia.org/resource/Indonésie
+
+rue Vivienne
+Schema:Place,DBpedia:Place,DBpedia:ArchitecturalStructure,DBpedia:Infrastructure,DBpedia:RouteOfTransportation,DBpedia:Road
+http://fr.dbpedia.org/resource/Rue_Vivienne
+
+REPUBLIQUE FRANCAISE
+Schema:Place,DBpedia:Place,DBpedia:PopulatedPlace,Schema:Country,DBpedia:Country
+http://fr.dbpedia.org/resource/France
+
+France
+Schema:Place,DBpedia:Place,DBpedia:PopulatedPlace,Schema:Country,DBpedia:Country
+http://fr.dbpedia.org/resource/France
+
+Chili
+Schema:Place,DBpedia:Place,DBpedia:PopulatedPlace,Schema:Country,DBpedia:Country
+http://fr.dbpedia.org/resource/Chili
+
+Indonésie
+Schema:Place,DBpedia:Place,DBpedia:PopulatedPlace,Schema:Country,DBpedia:Country
+http://fr.dbpedia.org/resource/Indonésie
+
+rue Vivienne
+Schema:Place,DBpedia:Place,DBpedia:ArchitecturalStructure,DBpedia:Infrastructure,DBpedia:RouteOfTransportation,DBpedia:Road
+http://fr.dbpedia.org/resource/Rue_Vivienne
+
+REPUBLIQUE FRANCAISE
+Schema:Place,DBpedia:Place,DBpedia:PopulatedPlace,Schema:Country,DBpedia:Country
+http://fr.dbpedia.org/resource/France
+
+Harbor
+
+http://fr.dbpedia.org/resource/Harbor_(Oregon)
+
+Harbor
+
+http://fr.dbpedia.org/resource/Harbor_(Oregon)
+
+Harbor
+
+http://fr.dbpedia.org/resource/Harbor_(Oregon)
+
+Harbor
+
+http://fr.dbpedia.org/resource/Harbor_(Oregon)
+
+Harbor
+
+http://fr.dbpedia.org/resource/Harbor_(Oregon)
+
+rue Vivienne
+Schema:Place,DBpedia:Place,DBpedia:ArchitecturalStructure,DBpedia:Infrastructure,DBpedia:RouteOfTransportation,DBpedia:Road
+http://fr.dbpedia.org/resource/Rue_Vivienne
+
+REPUBLIQUE FRANCAISE
+Schema:Place,DBpedia:Place,DBpedia:PopulatedPlace,Schema:Country,DBpedia:Country
+http://fr.dbpedia.org/resource/France
+
+Harbor
+
+http://fr.dbpedia.org/resource/Harbor_(Oregon)
+
+américain
+Schema:Place,DBpedia:Place,DBpedia:PopulatedPlace,Schema:Country,DBpedia:Country
+http://fr.dbpedia.org/resource/??tats-Unis
+
+Union européenne
+
+http://fr.dbpedia.org/resource/Union_européenne
+
+Commission européenne
+
+http://fr.dbpedia.org/resource/Commission_européenne
+
+Harbor
+
+http://fr.dbpedia.org/resource/Harbor_(Oregon)
+
+Union européenne
+
+http://fr.dbpedia.org/resource/Union_européenne
+
+Harbor
+
+http://fr.dbpedia.org/resource/Harbor_(Oregon)
+
+Harbor
+
+http://fr.dbpedia.org/resource/Harbor_(Oregon)
+
+Harbor
+
+http://fr.dbpedia.org/resource/Harbor_(Oregon)
+
+Harbor
+
+http://fr.dbpedia.org/resource/Harbor_(Oregon)
+
+CNIL
+
+http://fr.dbpedia.org/resource/Commission_nationale_de_l'informatique_et_des_libertés
+
+Harbor
+
+http://fr.dbpedia.org/resource/Harbor_(Oregon)
+
+CNIL
+
+http://fr.dbpedia.org/resource/Commission_nationale_de_l'informatique_et_des_libertés
+
+rue Vivienne
+Schema:Place,DBpedia:Place,DBpedia:ArchitecturalStructure,DBpedia:Infrastructure,DBpedia:RouteOfTransportation,DBpedia:Road
+http://fr.dbpedia.org/resource/Rue_Vivienne
+
+REPUBLIQUE FRANCAISE
+Schema:Place,DBpedia:Place,DBpedia:PopulatedPlace,Schema:Country,DBpedia:Country
+http://fr.dbpedia.org/resource/France
+
+Harbor
+
+http://fr.dbpedia.org/resource/Harbor_(Oregon)
+
+Harbor
+
+http://fr.dbpedia.org/resource/Harbor_(Oregon)
+
+CNIL
+
+http://fr.dbpedia.org/resource/Commission_nationale_de_l'informatique_et_des_libertés
+
+France
+Schema:Place,DBpedia:Place,DBpedia:PopulatedPlace,Schema:Country,DBpedia:Country
+http://fr.dbpedia.org/resource/France
+
+Federal Trade Commission
+
+http://fr.dbpedia.org/resource/Federal_Trade_Commission
+
+Harbor
+
+http://fr.dbpedia.org/resource/Harbor_(Oregon)
+
+rue Vivienne
+Schema:Place,DBpedia:Place,DBpedia:ArchitecturalStructure,DBpedia:Infrastructure,DBpedia:RouteOfTransportation,DBpedia:Road
+http://fr.dbpedia.org/resource/Rue_Vivienne
+
+REPUBLIQUE FRANCAISE
+Schema:Place,DBpedia:Place,DBpedia:PopulatedPlace,Schema:Country,DBpedia:Country
+http://fr.dbpedia.org/resource/France
+
+rue Vivienne
+Schema:Place,DBpedia:Place,DBpedia:ArchitecturalStructure,DBpedia:Infrastructure,DBpedia:RouteOfTransportation,DBpedia:Road
+http://fr.dbpedia.org/resource/Rue_Vivienne
+
+REPUBLIQUE FRANCAISE
+Schema:Place,DBpedia:Place,DBpedia:PopulatedPlace,Schema:Country,DBpedia:Country
+http://fr.dbpedia.org/resource/France
+
+Harbor
+
+http://fr.dbpedia.org/resource/Harbor_(Oregon)
+
+CNIL
+
+http://fr.dbpedia.org/resource/Commission_nationale_de_l'informatique_et_des_libertés
+
+G29
+
+http://fr.dbpedia.org/resource/G29
+
+CNIL
+
+http://fr.dbpedia.org/resource/Commission_nationale_de_l'informatique_et_des_libertés
+
+Harbor
+
+http://fr.dbpedia.org/resource/Harbor_(Oregon)
+
+G29
+
+http://fr.dbpedia.org/resource/G29
+
+directive
+
+http://fr.dbpedia.org/resource/Directive_de_l'Union_européenne
+
+Inde
+Schema:Place,DBpedia:Place,DBpedia:PopulatedPlace,Schema:Country,DBpedia:Country
+http://fr.dbpedia.org/resource/Inde
+
+France
+Schema:Place,DBpedia:Place,DBpedia:PopulatedPlace,Schema:Country,DBpedia:Country
+http://fr.dbpedia.org/resource/France
+
+Inde
+Schema:Place,DBpedia:Place,DBpedia:PopulatedPlace,Schema:Country,DBpedia:Country
+http://fr.dbpedia.org/resource/Inde
+
+Union européenne
+
+http://fr.dbpedia.org/resource/Union_européenne
+
+rue Vivienne
+Schema:Place,DBpedia:Place,DBpedia:ArchitecturalStructure,DBpedia:Infrastructure,DBpedia:RouteOfTransportation,DBpedia:Road
+http://fr.dbpedia.org/resource/Rue_Vivienne
+
+REPUBLIQUE FRANCAISE
+Schema:Place,DBpedia:Place,DBpedia:PopulatedPlace,Schema:Country,DBpedia:Country
+http://fr.dbpedia.org/resource/France
+
+Mali
+Schema:Place,DBpedia:Place,DBpedia:PopulatedPlace,Schema:Country,DBpedia:Country
+http://fr.dbpedia.org/resource/Mali
+

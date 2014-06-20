@@ -1,0 +1,52 @@
+Cloud computing
+
+http://fr.dbpedia.org/resource/Cloud_computing
+
+CNIL
+
+http://fr.dbpedia.org/resource/Commission_nationale_de_l'informatique_et_des_libertés
+
+PME
+
+http://fr.dbpedia.org/resource/Petites_et_moyennes_entreprises
+
+Cloud computing
+
+http://fr.dbpedia.org/resource/Cloud_computing
+
+CNIL
+
+http://fr.dbpedia.org/resource/Commission_nationale_de_l'informatique_et_des_libertés
+
+Directive 95/46/CE
+
+http://fr.dbpedia.org/resource/Directive_95/46/CE_sur_la_protection_des_données_personnelles
+
+CNIL
+
+http://fr.dbpedia.org/resource/Commission_nationale_de_l'informatique_et_des_libertés
+
+CNIL
+
+http://fr.dbpedia.org/resource/Commission_nationale_de_l'informatique_et_des_libertés
+
+sion
+Schema:Place,DBpedia:Place,DBpedia:PopulatedPlace,DBpedia:Settlement
+http://fr.dbpedia.org/resource/Sion_(Valais)
+
+PaaS
+
+http://fr.dbpedia.org/resource/Plate-forme_en_tant_que_service
+
+SaaS
+
+http://fr.dbpedia.org/resource/Logiciel_en_tant_que_service
+
+Clauses contractuelles
+
+http://fr.dbpedia.org/resource/Clause
+
+Clauses contractuelles
+
+http://fr.dbpedia.org/resource/Clause
+

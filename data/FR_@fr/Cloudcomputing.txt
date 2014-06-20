@@ -1,0 +1,46 @@
+﻿Cloud computing : les 7 étapes clés pour garantir la confidentialité des données
+01 juillet 2013
+En juin 2012, la CNIL a publié des recommandations pratiques à destination des entreprises françaises, et notamment des PME, qui souhaitent avoir recours à des prestations de Cloud. Elle a aussi mis à leur disposition des modèles de clauses contractuelles qui peuvent être insérés dans les contrats de services de Cloud computing. Un an après, la CNIL rappelle aux entreprises les étapes clés pour garantir la confidentialité des données personnelles dans le Cloud.
+
+Des recommandations pratiques permettant de définir le partage des responsabilités
+Avant tout engagement commercial, l'organisme souhaitant recourir à une prestation d'externalisation devra mener une réflexion spécifique afin :
+D'identifier clairement les données et les traitements qui passeront dans le cloud ;
+De définir ses propres exigences de sécurité technique et juridique ;
+De conduire une analyse de risques afin d'identifier les mesures de sécurité essentielles pour l'entreprise ;
+D'identifier le type de cloud pertinent pour le traitement envisagé ;
+De choisir un prestataire présentant des garanties suffisantes ;
+De revoir la politique de sécurité interne ;
+De surveiller les évolutions dans le temps.
+Ces 7 étapes préalables permettent :
+		De déterminer la qualification juridique du prestataire : s'agit-il d'un simple sous-traitant au sens de l'article 35 de la loi Informatique et libertés ou bien d'un responsable conjoint de traitement au sens de l'article 2 de la Directive 95/46/CE ?
+		La CNIL recommande que les obligations et le périmètre des responsabilités de chacun, notamment en matière de sécurité, soient clairement établis. Cette distribution des responsabilités doit être actée en amont, par exemple dans le contrat de prestation de services, et cela de la manière la plus précise possible. 
+		La CNIL retient la responsabilité conjointe du client et du prestataire lorsque le client ne peut pas réellement donner d'instructions à son prestataire et ne peut pas contrôler l'effectivité des garanties de sécurité apportées par ce dernier. Ceci peut être dû notamment à des offres standardisées, non modifiables par les clients, et à des contrats d'adhésion qui ne laissent aucune possibilité de négociation. Cette absence d'instruction et de moyens de contrôle étant constatée pour certains services de PaaS et de SaaS publics, le prestataire pourrait donc dans ces cas être a priori considéré comme responsable conjoint de traitement.
+		D'évaluer le niveau de protection assuré par le prestataire aux données traitées : le niveau de sécurité offert par le prestataire est-il supérieur ou égal à celui qui était préalablement assuré ?
+Le cloud ne doit pas aboutir à une diminution du niveau de protection des données, particulièrement s'agissant de donnés sensibles, au sens de l'article 8 de la loi Informatique et libertés.
+Des modèles de clauses pour définir clairement les responsabilités dans un contrat
+Que la responsabilité du traitement soit conjointe ou bien à la charge unique du client, les responsabilités du client et du prestataire doivent être expressément définies et comporter :
+1. Une information transparente sur les modalités de traitement :
+Il s'agit pour le prestataire :
+		De s'engager à respecter les principes essentiels en matière de protection des données personnelles (par exemple, obligation d'informer les personnes, soit en fournissant au client toutes les informations nécessaires pour remplir cette obligation, soit en informant directement les personnes concernées lorsque le prestataire est responsable conjoint du traitement),
+		De mettre à disposition un système de remontée des plaintes et des failles de sécurité,
+		De décrire les moyens de traitement à mettre en œuvre, d'informer le client de tout recours à des sous-contractants (et d'obtenir son accord préalable lorsque le prestataire est sous-traitant),
+		De proposer des procédures simples pour respecter les droits des personnes concernées vis-à-vis de leurs données (notamment le droit d'accès aux données) ;
+2. Une information transparente sur les lieux de stockage des données et sur les transferts indiquant, de manière claire et exhaustive :
+		Les pays hébergeant les serveurs du prestataire (et de ses sous-contractants éventuels),
+		L'existence d'une protection suffisante des données lorsqu'elles sont hébergées en-dehors de l'Union européenne (notamment grâce à des Clauses contractuelles types ou à des règles contraignantes d'entreprise " BCR "),
+		La possibilité de limiter les transferts de données uniquement vers des pays assurant un niveau de protection suffisant,
+		Et portant à la connaissance du client toute requête provenant d'une autorité administrative ou judiciaire étrangère ;
+3. Les garanties mises en œuvre par le prestataire :
+		Respect de durées de conservation des données limitées et raisonnables au regard des finalités pour lesquelles elles sont collectées,
+		Destruction ou restitution de ces données,
+		Devoir de coopération avec les autorités de protection des données compétences,
+		Possibilité pour le client de diligenter des audits ;
+4. Les formalités auprès de la CNIL
+Elles peuvent être effectuées au nom du client (par lui ou un sous-traitant mandaté à cet effet), ou du prestataire s'il est responsable conjoint du traitement ;
+5. La sécurité et la confidentialité des données hébergées
+		Indication des obligations du prestataire en matière de sécurité des données (et, lorsque celui-ci est sous-traitant, précision qu'il ne peut agir que sur instruction du client),
+		Politique de sécurité et mesures de sécurité retenues,
+		Procédure de certification éventuelle (soumise à libre négociation),
+		Procédure permettant l'audit (notamment lorsque le prestataire est sous-traitant),
+		Réversibilité/portabilité des données, traçabilité, continuité de service, sauvegardes et engagements de niveau de service.
+Des modèles de clauses, portant uniquement sur la protection des données personnelles et n'ayant donc pas vocation à constituer un contrat de prestation de services complet, sont présentés à titre d'illustration. Elles peuvent faire l'objet d'aménagements formels, dès lors que les droits, les obligations et le partage des responsabilités du client et du prestataire sont clairement définis dans le contrat.

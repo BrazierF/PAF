@@ -1,0 +1,100 @@
+Big data
+
+http://fr.dbpedia.org/resource/Big_data
+
+Congrès
+
+http://fr.dbpedia.org/resource/Congrès_des_??tats-Unis
+
+Convention
+
+http://fr.dbpedia.org/resource/Convention_européenne_des_droits_de_l'homme
+
+Conseil de l'Europe
+
+http://fr.dbpedia.org/resource/Conseil_de_l'Europe
+
+Directive 95/46/CE
+
+http://fr.dbpedia.org/resource/Directive_95/46/CE_sur_la_protection_des_données_personnelles
+
+Traité de Lisbonne
+
+http://fr.dbpedia.org/resource/Traité_de_Lisbonne
+
+France
+Schema:Place,DBpedia:Place,DBpedia:PopulatedPlace,Schema:Country,DBpedia:Country
+http://fr.dbpedia.org/resource/France
+
+CNIL
+
+http://fr.dbpedia.org/resource/Commission_nationale_de_l'informatique_et_des_libertés
+
+autorité administrative indépendante
+
+http://fr.dbpedia.org/resource/Autorité_administrative_indépendante
+
+BIG DATA
+
+http://fr.dbpedia.org/resource/Big_data
+
+CNIL
+
+http://fr.dbpedia.org/resource/Commission_nationale_de_l'informatique_et_des_libertés
+
+CNIL
+
+http://fr.dbpedia.org/resource/Commission_nationale_de_l'informatique_et_des_libertés
+
+data mining
+
+http://fr.dbpedia.org/resource/Exploration_de_données
+
+CNIL
+
+http://fr.dbpedia.org/resource/Commission_nationale_de_l'informatique_et_des_libertés
+
+Big data
+
+http://fr.dbpedia.org/resource/Big_data
+
+Big data
+
+http://fr.dbpedia.org/resource/Big_data
+
+SGBD
+
+http://fr.dbpedia.org/resource/Système_de_gestion_de_base_de_données
+
+commission européenne
+
+http://fr.dbpedia.org/resource/Commission_européenne
+
+directive
+
+http://fr.dbpedia.org/resource/Directive_de_l'Union_européenne
+
+G29
+
+http://fr.dbpedia.org/resource/G29
+
+accountability
+
+http://fr.dbpedia.org/resource/Accountability
+
+CNIL
+
+http://fr.dbpedia.org/resource/Commission_nationale_de_l'informatique_et_des_libertés
+
+Big data
+
+http://fr.dbpedia.org/resource/Big_data
+
+rue Vivienne
+Schema:Place,DBpedia:Place,DBpedia:ArchitecturalStructure,DBpedia:Infrastructure,DBpedia:RouteOfTransportation,DBpedia:Road
+http://fr.dbpedia.org/resource/Rue_Vivienne
+
+Paris
+Schema:Place,DBpedia:Place,DBpedia:PopulatedPlace,DBpedia:Settlement
+http://fr.dbpedia.org/resource/Paris
+

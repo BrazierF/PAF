@@ -1,0 +1,2048 @@
+U.
+S.
+?
+EU
+SAFE
+ HARBOR
+ FR
+A
+ME
+WORK
+?
+GUIDE 
+T
+O SELF-
+CER
+TIFIC
+A
+TION 
+?
+M
+AR
+CH 2009
+U.S. Department of Commerce
+U.S.-EU Safe Harbor Framework
+1401 Constitution Avenue, N.W.
+Room 2003
+Washington, DC 20230
+Telephone: 202.482.5023  ?   Fax: 202.482.5522  ?   www.export.gov/safeharbor
+U.S.- EU Safe Harbor Framework
+A Guide to Self-Certification
+Table of Contents
+Introduction ...................................................... 1
+Overview ......................................................... 3
+Helpful Hints Guide  ............................................... 7
+Safe Harbor Privacy Principles  .................................... 10
+Frequently Asked Questions (FAQs)  ................................ 15
+Appendices
+Safe Harbor Application  ...................................... 37
+Sample Privacy Policies ....................................... 41
+Dispute Resolution Providers  ................................. 49
+U.S.-Swiss Safe Harbor Framework ............................. 53
+Certification Mark
+a. Description ............................................ 54
+b. Instructions for Use .................................... 54
+Glossary  ..................................................... 56
+  1
+Introduction
+Welcome to the U.S.-European Union (EU) Safe Harbor Framework: A Guide to 
+Certification.  From this guide, it is our hope that U.S. companies will have a bet-
+ter understanding of the process of self-certification and the resources available 
+to self-certify compliance with the EU’s Directive on Data Protection.  Additional 
+information may be found on our website: http://export.gov/safeharbor/
+In this guide, we have provided an outline of the most critical pieces of the Safe 
+Harbor Framework.  The application is made available, along with a Helpful Hints 
+Guide that explains how to fill it out.  The Safe Harbor Principles and FAQs are 
+also provided for easy reference.  There is also an explanation and listing of third 
+party dispute resolution providers (or Independent Resource Mechanisms) with 
+descriptions of the services provided by three dispute resolution providers that 
+work with Safe Harbor.  Finally, we’ve also included several sample company 
+privacy policies for reference, and a glossary that explains key terms.  We’ve bro-
+ken this Guide into nine major sections, each to address different questions you 
+might have.  What follows is a brief description of each section:
+Overview: The overview gives some background on the Safe Harbor Framework, 
+how it came about, and explains many of the certification requirements.  The 
+overview also lists the principles of the Safe Harbor program. 
+Application: The Application is provided for easy reference. Applicants should 
+apply online at http://export.gov/safeharbor (click on “Certification Form” in 
+the right sidebar).  
+Certification Mark: The Commerce Department’s International Trade Adminis-
+tration has recently developed a certification mark for the Safe Harbor Frame-
+work. The mark may be used by companies on their websites to signify that 
+they have self-certified compliance with the provisions of the Safe Harbor 
+Framework. Instructions for use of the certification mark are provided. 
+Helpful Hints Guide (to Certification): The Helpful Hints Guide is meant to 
+give quick answers to any questions a U.S. company might have about the 
+certification process. It should be used in conjunction with the rest of the 
+Guide, however it answers many of the most common questions about the 
+certification process.
+Safe Harbor Principles: We have provided the full text of the official declaration 
+of the Safe Harbor Principles as announced on July 21, 2000. This text is 
+helpful for understanding the foundation of the Safe Harbor Principles and the 
+Framework. 
+2 The U.S.–EU Safe Harbor Guide to Self-Certification  U.S. Department of Commerce 3
+Safe Harbor Overview
+Background on the Safe Harbor 
+When the European Commission’s Directive on Data Protection went into ef-
+fect in October of 1998, one consequence was to prohibit the transfer of per-
+sonal data to non-European Union nations that failed to meet the European 
+“adequacy” standard for privacy protection. While the United States and the 
+European Union share the goal of enhancing privacy protection for their citi-
+zens, the United States takes a different approach to privacy than that taken 
+by the European Union. To bridge these different privacy approaches and 
+provide a streamlined and cost-effective means for U.S. organizations to sat-
+isfy the adequacy requirement of the Directive, the U.S. Department of Com-
+merce in consultation with the European Commission (EC) developed a “Safe 
+Harbor” framework and a website to provide the information an organization 
+would need to evaluate – and then join – the Safe Harbor. 
+Approved by the EC in 2000, the Safe Harbor Framework helps protect U.S. 
+companies from experiencing interruptions in their business dealings with the 
+EU. Self-certifying to the Safe Harbor will assure that EU organizations know 
+that your company provides “adequate” privacy protection, as defined by the  
+EU Directive.
+Safe Harbor Benefits
+The Safe Harbor Framework provides a number of important benefits to U.S. 
+and EU firms. Benefits for U.S. organizations participating in the Safe Harbor 
+include:
+?   All 27 Member States of the European Union will be bound by the European 
+Commission’s finding of adequacy;
+?   Companies participating in the Safe Harbor will be deemed adequate and 
+data flows to those companies will continue;
+?   Member State requirements for prior approval of data transfers either will 
+be waived or approval will be automatically granted; and
+?  Claims brought by European citizens against U.S. companies will be heard 
+in the United States subject to limited exceptions.
+The Safe Harbor Framework offers a simpler and cheaper means of complying 
+with the adequacy requirements of the Directive, which should particularly 
+benefit small and medium-sized enterprises.
+Frequently Asked Questions: We have provided the Frequently Asked Questions 
+in full text because they answer many of the most commonly asked questions 
+about the Safe Harbor Framework. 
+Dispute Resolution Providers: Here we have provided a short description of the 
+role of dispute resolution providers (also referred to as Independent Recourse 
+Mechanisms) and descriptions of the services they offer. 
+Sample Privacy Policies: Here we have provided three sample privacy policies 
+for reference, which may serve as guidance when creating a new Privacy 
+Policy or updating an existing Privacy Policy to align it with the Safe Harbor 
+Framework. The Safe Harbor Framework requires an affirmative commitment 
+in the Privacy Policy to the principles of the Safe Harbor Framework.
+Glossary: A short glossary is also provided for many of the technical terms 
+frequently used in the Guide.
+4 The U.S.–EU Safe Harbor Guide to Self-Certification  U.S. Department of Commerce 5
+2. Choice
+Organizations must give individuals the opportunity to choose (opt out) 
+whether their personal information will be disclosed to a third party or used 
+for a purpose incompatible with the purpose for which it was originally col-
+lected or subsequently authorized by the individual. For sensitive informa-
+tion, affirmative or explicit (opt in) choice must be given if the information is 
+to be disclosed to a third party or used for a purpose other than its original 
+purpose or the purpose authorized subsequently by the individual.
+3. Onward Transfer (Transfers to Third Parties) 
+To disclose information to a third party, organizations must apply the notice 
+and choice principles. Where an organization wishes to transfer information 
+to a third party that is acting as an agent, it may do so if it makes sure that 
+the third party subscribes to the Safe Harbor principles or is subject to the 
+Directive or another adequacy finding. As an alternative, the organization can 
+enter into a written agreement with such third party requiring that the third 
+party provide at least the same level of privacy protection as is required by 
+the relevant principles.
+4. Access
+Individuals must have access to personal information about themselves that 
+an organization holds and be able to correct, amend, or delete that informa-
+tion where it is inaccurate, except where the burden or expense of providing 
+access would be disproportionate to the risks to the individual’s privacy in 
+the case in question, or where the rights of persons other than the individual 
+would be violated.
+5. Security
+Organizations must take reasonable precautions to protect personal informa-
+tion from loss, misuse and unauthorized access, disclosure, alteration and de-
+struction.
+6. Data integrity
+Personal information must be relevant for the purposes for which it is to be 
+used. An organization should take reasonable steps to ensure that data is reli-
+able for its intended use, accurate, complete, and current.
+7. Enforcement
+In order to ensure compliance with the Safe Harbor principles, there must 
+be (a) readily available and affordable independent recourse mechanisms 
+so that each individual’s complaints and disputes can be investigated and 
+An EU organization can ensure that it is sending information to a U.S. organiza-
+tion participating in the Safe Harbor by viewing the public list of Safe Harbor or-
+ganizations posted on the Safe Harbor website: http://export.gov/safeharbor/ 
+(click on “Safe Harbor List” in the right sidebar). This list contains the names of 
+all U.S. companies that have self-certified to the Safe Harbor Framework. This 
+list is updated regularly.
+How does an organization join?
+The decision by U.S. organizations to enter the Safe Harbor is entirely volun-
+tary. Organizations that decide to participate in the Safe Harbor must comply 
+with the Safe Harbor’s requirements and publicly declare that they do so. To 
+be assured of Safe Harbor benefits, an organization needs to self-certify annu-
+ally to the Department of Commerce in writing that it agrees to adhere to the 
+Safe Harbor’s requirements, which include elements such as notice, choice, 
+access, and enforcement. It must also state in its published privacy policy 
+statement that it adheres to the Safe Harbor. The Department of Commerce 
+will maintain a list of all organizations that file self-certification letters and 
+make both the list and the self-certification letters publicly available.
+To qualify for the Safe Harbor, an organization can (1) join a self-regulatory pri-
+vacy program that adheres to the Safe Harbor’s requirements; or (2) develop its 
+own self-regulatory privacy policy that conforms to the Safe Harbor. Further, 
+the organization must be subject to the jurisdiction either of the Federal Trade 
+Commission (FTC) or, with respect to air carriers and ticket agents, the Depart-
+ment of Transportation (DOT). The FTC and DOT have authority to take enforce-
+ment action against organizations that state they are in compliance with the 
+Safe Harbor framework but then fail to live up to their statements. Organiza-
+tions currently ineligible for Safe Harbor include financial institutions, including 
+banks, investment houses, credit unions, savings & loan institutions, non-profit 
+organizations, insurances companies and meat processing facilities.
+What do the Safe Harbor principles require?
+Organizations must comply with the seven Safe Harbor principles. The prin-
+ciples require the following:
+1. Notice
+Organizations must notify individuals about the purposes for which they col-
+lect and use information about them. They must provide information about 
+how individuals can contact the organization with any inquiries or complaints, 
+the types of third parties to which they disclose the information and the 
+choices and means the organization offers for limiting its use and disclosure. 
+6 The U.S.–EU Safe Harbor Guide to Self-Certification  U.S. Department of Commerce 7
+Helpful Hints Guide
+This section contains a succinct guide to assist you with the self-certification 
+process for Safe Harbor. It functions as a checklist of questions and a to-do 
+list to help determine your firm’s readiness to begin the certification process. 
+Topics include considering whether your firm falls under the jurisdiction of the 
+U.S. Federal Trade Commission or Department of Transportation; developing 
+a Safe Harbor compliant privacy policy statement; establishing your organiza-
+tion’s independent recourse mechanism, and ensuring it is in place; and des-
+ignating a contact point within your organization regarding Safe Harbor. This 
+section should be used in conjunction with the rest of the Guide, and the re-
+quirements for self-certification detailed in #6, of the FAQs; however it answers 
+many common questions surrounding the certification process.
+Helpful Hints Prior to Self-Certifying to the Safe Harbor
+1.  Confirm That Your Organization is subject to the Jurisdiction of Either the U.S. 
+Federal Trade Commission of the U.S. Department of  Transportation: 
+Any U.S. organization that is subject to the jurisdiction of the Federal Trade 
+Commission (FTC) or U.S. air carriers and ticket agents subject to the juris-
+diction of the Department of Transportation (DoT) may participate in the 
+Safe Harbor. The FTC and DoT have both stated in letters to the European 
+Commission (located under http://export.gov/safeharbor/SH_Documents.
+asp Letters G & H) that they can take enforcement action against organiza-
+tions that state that they are in compliance with the Safe Harbor, but then 
+fail to live up to their statements. If you are uncertain as to whether your 
+organization falls under the jurisdiction of either the FTC or DoT, be sure to 
+contact those agencies for more information. 
+2.  Develop a Safe Harbor Compliant Privacy Policy Statement: 
+Remember to develop a Safe Harbor compliant privacy policy statement be-
+fore submitting a self-certification form to the Department of Commerce.
+?   Make Sure That Your Privacy Policy Statement Conforms to the Safe Harbor 
+Principles: In order for a privacy policy to be compliant with the Safe 
+Harbor, the privacy policy statement must conform to the seven Privacy 
+Principles and any relevant points that are covered in the Frequently Asked 
+Questions (FAQs) - located in Appendix C or online at: http://export.gov/
+safeharbor/SH_Documents.asp. In addition, the privacy policy statement 
+should reflect your actual and anticipated information handling practices. 
+It is also important to write a policy that is clear, concise and easy to 
+understand.
+resolved and damages awarded where the applicable law or private sector 
+initiatives so provide; (b) procedures for verifying that the commitments com-
+panies make to adhere to the Safe Harbor principles have been implement-
+ed; and (c) obligations to remedy problems arising out of a failure to comply 
+with the principles. Sanctions must be sufficiently rigorous to ensure compli-
+ance by the organization. Organizations that fail to provide annual self-certifica-
+tion letters will no longer appear in the list of participants and Safe-Harbor  
+benefits will no longer be assured.
+To provide further guidance, the Department of Commerce has issued a set of 
+frequently asked questions and answers (FAQs) that clarify and supplement 
+the Safe Harbor principles which can be found in Appendix C or online at: 
+http://export.gov/safeharbor/SH_Documents.asp
+For an overview, please visit:
+http://www.export.gov/safeharbor/SH_Overview.asp
+8 The U.S.–EU Safe Harbor Guide to Self-Certification  U.S. Department of Commerce 9
+Council for International Business (c/o Mr. Paul Cronin, U.S. Council for 
+International Business (USCIB); 1212 Avenue of the Americas; New York, NY 
+10036), which has agreed to act as trusted third party for this purpose.
+? Please see FAQ 5 for more details regarding the role of the Data Protection 
+Authorities. Should you need further information on how to carry out the 
+payment, please contact Mr. Paul Cronin, USCIB, at 212-703-5088, or pcronin@
+uscib.org. If, on the other hand, you require more information on how the 
+cooperation/compliance with the EU DPAs works, you should contact the 
+Secretariat of the Data Protection Panel at ec-dppanel-secr@cec.eu.int.
+4.  Ensure That Your Organization’s Verification Mechanism is in Place: As discussed 
+in FAQ 7, organizations self-certifying to Safe Harbor are required to have 
+procedures in place for verifying compliance. To meet this requirement, 
+an organization may use a self-assessment or an outside/third-party 
+assessment program. For additional guidance on the Safe Harbor’s 
+verification requirement, please see FAQ 7.
+5.  Designate a Contact Point Within Your Organization Regarding Safe Harbor: 
+Each organization is required to provide a contact point for the handling of 
+questions, complaints, access requests, and any other issues arising under 
+the Safe Harbor. This contact point can be either the corporate officer that 
+is certifying the company’s adherence to Safe Harbor, or another official 
+within the organization, such as a Chief Privacy Officer. 
+The following is the official declaration of the Safe Harbor Principles as an-
+nounced on July 21, 2000. 
+The Safe Harbor was founded on seven principles designed to ensure ef-
+fective privacy protections in a framework that functions both in the 
+European and U.S. privacy contexts. These seven principles include notice; 
+choice; onward transfers to third parties; security; data integrity; access; 
+and enforcement.
+?   Make Specific Reference to Your Organization’s Safe Harbor Adherence in the 
+Text of Your Organization’s Privacy Policy: FAQ 6 requires all organizations 
+that self-certify to state in their relevant published privacy policy 
+statements that they adhere to the Safe Harbor Principles (Appendix B).
+?   Provide an Accurate Privacy Policy Statement Location and Make Sure that 
+Your Privacy Policy Statement is Available to the Public: 
+At the time of self-certification, all organizations must provide an accurate 
+and publicly available location for their applicable privacy statement. If your 
+organization decides to post its privacy policy statement on an Internet or In-
+tranet site, it must provide an accurate link to the statement on the organiza-
+tion’s Safe Harbor self-certification form. In addition, the organization should 
+verify that its privacy policy statement is effective prior to self-certification.
+3.  Establish Your Organization’s Independent Recourse Mechanism: Under the 
+Safe Harbor’s Enforcement Principle, organizations self-certifying to Safe 
+Harbor must establish an independent recourse mechanism available 
+to investigate unresolved  complaints. (See FAQ 11 for more information 
+regarding dispute resolution under Safe Harbor.) The organization must 
+ensure that its recourse mechanism is in place prior to self-certification. 
+? In most cases, organizations self-certifying to Safe Harbor may choose 
+to utilize private sector dispute resolution programs. While programs 
+vary, organizations like BBB OnLine, TRUSTe, AICPA WebTrust, the Direct 
+Marketing Association, the Entertainment Software Rating Board, JAMS and 
+the American Arbitration Association have developed programs that assist 
+in compliance with the Safe Harbor’s enforcement principle and FAQ 11.
+? Alternatively, organizations may choose to cooperate and comply 
+with the European Data Protection Authorities (DPAs). In doing so, the 
+organization must follow the procedures outlined in FAQ 5. If human 
+resources data is being covered in the organization’s self-certification, 
+the organization must agree to cooperate and comply with the DPAs for 
+purposes of handling unresolved complaints. Additional guidance for 
+the handling of human resources data under the Safe Harbor is provided 
+in FAQ 9.
+? Please note that organizations who choose to utilize the European Data 
+Protection Authorities for dispute resolution will be required to pay 
+an annual fee of US $50 in order to cover the operating costs of the Data 
+Protection Authorities’ panel. This fee is payable to the United States 
+10 The U.S.–EU Safe Harbor Guide to Self-Certification  U.S. Department of Commerce 11
+part on self-regulation, its failure to comply with such self-regulation must also 
+be actionable under Section 5 of the Federal Trade Commission Act prohibiting 
+unfair and deceptive acts or another law or regulation prohibiting such acts. 
+(See the annex for the list of U.S. statutory bodies recognized by the EU.) In addition, 
+organizations subject to a statutory, regulatory, administrative or other body 
+of law (or of rules) that effectively protects personal privacy may also qualify 
+for Safe Harbor benefits. In all instances, Safe Harbor benefits are assured from 
+the date on which each organization wishing to qualify for the Safe Harbor self-
+certifies to the Department of Commerce (or its designee) its adherence to the 
+Principles in accordance with the guidance set forth in the Frequently Asked 
+Question on Self-Certification. 
+Adherence to these Principles may be limited: (a) to the extent necessary to 
+meet national security, public interest, or law enforcement requirements; (b) by 
+statute, government regulation, or case law that create conflicting obligations 
+or explicit authorizations, provided that, in exercising any such authorization, 
+an organization can demonstrate that its non-compliance with the Principles 
+is limited to the extent necessary to meet the overriding legitimate interests 
+furthered by such authorization; or (c) if the effect of the Directive or Member 
+State law is to allow exceptions or derogations, provided such exceptions or 
+derogations are applied in comparable contexts. Consistent with the goal of 
+enhancing privacy protection, organizations should strive to implement these 
+Principles fully and transparently, including indicating in their privacy policies 
+where exceptions to the Principles permitted by (b) above will apply on a regu-
+lar basis. For the same reason, where the option is allowable under the Princi-
+ples and/or U.S. law, organizations are expected to opt for the higher protection  
+where possible. 
+Organizations may wish for practical or other reasons to apply the Principles to 
+all their data processing operations, but they are only obligated to apply them to 
+data transferred after they enter the Safe Harbor. To qualify for the Safe Harbor, 
+organizations are not obligated to apply these Principles to personal information 
+in manually processed filing systems. Organizations wishing to benefit from the 
+Safe Harbor for receiving information in manually processed filing systems from 
+the EU must apply the Principles to any such information transferred after they 
+enter the Safe Harbor. An organization that wishes to extend Safe Harbor benefits 
+to human resources personal information transferred from the EU for use in the 
+context of an employment relationship must indicate this when it self-certifies to 
+the Department of Commerce (or its designee) and conform to the requirements 
+Safe Harbor Privacy Principles
+Safe Harbor Privacy Principles 
+Issued by the U.S. Department of Commerce on July 21, 2000
+The European Union’s comprehensive privacy legislation, the Directive on 
+Data Protection (the Directive), became effective on October 25, 1998. It re-
+quires that transfers of personal data take place only to non-EU countries that 
+provide an “adequate” level of privacy protection. While the United States and 
+the European Union share the goal of enhancing privacy protection for their 
+citizens, the United States takes a different approach to privacy from that tak-
+en by the European Union. The United States uses a sectoral approach that 
+relies on a mix of legislation, regulation, and self-regulation. Given those dif-
+ferences, many U.S. organizations have expressed uncertainty about the im-
+pact of the EU-required “adequacy standard” on personal data transfers from 
+the European Union to the United States. 
+To diminish this uncertainty and provide a more predictable framework for 
+such data transfers, the Department of Commerce is issuing this document 
+and Frequently Asked Questions (“the Principles”) under its statutory author-
+ity to foster, promote, and develop international commerce. The Principles 
+were developed in consultation with industry and the general public to fa-
+cilitate trade and commerce between the United States and European Union. 
+They are intended for use solely by U.S. organizations receiving personal data 
+from the European Union for the purpose of qualifying for the Safe Harbor 
+and the presumption of “adequacy” it creates. Because the Principles were 
+solely designed to serve this specific purpose, their adoption for other pur-
+poses may be inappropriate. The Principles cannot be used as a substitute for 
+national provisions implementing the Directive that apply to the processing 
+of personal data in the Member States. 
+Decisions by organizations to qualify for the Safe Harbor are entirely vol-
+untary, and organizations may qualify for the Safe Harbor in different ways. 
+Organizations that decide to adhere to the Principles must comply with the 
+Principles in order to obtain and retain the benefits of the Safe Harbor and 
+publicly declare that they do so. For example, if an organization joins a self-
+regulatory privacy program that adheres to the Principles, it qualifies for the 
+Safe Harbor. Organizations may also qualify by developing their own self-
+regulatory privacy policies provided that they conform with the Principles. 
+Where in complying with the Principles, an organization relies in whole or in 
+12 The U.S.–EU Safe Harbor Guide to Self-Certification  U.S. Department of Commerce 13
+by the individual through the exercise of opt in choice. In any case, an orga-
+nization should treat as sensitive any information received from a third party 
+where the third party treats and identifies it as sensitive. 
+Onward Transfer: To disclose information to a third party,organizations must 
+apply the Notice and Choice Principles. Where an organization wishes to trans-
+fer information to a third party that is acting as an agent, as described in the 
+endnote, it may do so if it first either ascertains that the third party subscribes 
+to the Principles or is subject to the Directive or another adequacy finding or 
+enters into a written agreement with such third party requiring that the third 
+party provide at least the same level of privacy protection as is required by 
+the relevant Principles. If the organization complies with these requirements, 
+it shall not be held responsible (unless the organization agrees otherwise) 
+when a third party to which it transfers such information processes it in a way 
+contrary to any restrictions or representations, unless the organization knew 
+or should have known the third party would process it in such a contrary way 
+and the organization has not taken reasonable steps to prevent or stop such 
+processing. 
+Security: Organizations creating, maintaining, using or disseminating per-
+sonal information must take reasonable precautions to protect it from loss, 
+misuse and unauthorized access, disclosure, alteration and destruction. 
+Data Integrity: Consistent with the Principles, personal information must be 
+relevant for the purposes for which it is to be used. An organization may not 
+process personal information in a way that is incompatible with the purposes 
+for which it has been collected or subsequently authorized by the individual. 
+To the extent necessary for those purposes, an organization should take rea-
+sonable steps to ensure that data is reliable for its intended use, accurate, 
+complete, and current. 
+Access: Individuals must have access to personal information about them that 
+an organization holds and be able to correct, amend, or delete that informa-
+tion where it is inaccurate, except where the burden or expense of providing 
+access would be disproportionate to the risks to the individual’s privacy in 
+the case in question, or where the rights of persons other than the individual 
+would be violated. 
+Enforcement: Effective privacy protection must include mechanisms for assur-
+ing compliance with the Principles, recourse for individuals to whom the data 
+relate affected by non-compliance with the Principles, and consequences for 
+the organization when the Principles are not followed. At a minimum, such 
+set forth in the Frequently Asked Question on Self-Certification. Organizations 
+will also be able to provide the safeguards necessary under Article 26 of the 
+Directive if they include the Principles in written agreements with parties trans-
+ferring data from the EU for the substantive privacy provisions, once the other 
+provisions for such model contracts are authorized by the Commission and the 
+Member States. 
+U.S. law will apply to questions of interpretation and compliance with the 
+Safe Harbor Principles (including the Frequently Asked Questions) and rel-
+evant privacy policies by Safe Harbor organizations, except where organiza-
+tions have committed to cooperate with European Data Protection Authori-
+ties. Unless otherwise stated, all provisions of the Safe Harbor Principles and 
+Frequently Asked Questions apply where they are relevant. 
+“Personal data” and “personal information” are data about an identified or 
+identifiable individual that are within the scope of the Directive, received by a 
+U.S. organization from the European Union, and recorded in any form. 
+Notice: An organization must inform individuals about the purposes for which 
+it collects and uses information about them, how to contact the organization 
+with any inquiries or complaints, the types of third parties to which it discloses 
+the information, and the choices and means the organization offers individuals 
+for limiting its use and disclosure. This notice must be provided in clear and 
+conspicuous language when individuals are first asked to provide personal 
+information to the organization or as soon thereafter as is practicable, but in 
+any event before the organization uses such information for a purpose other 
+than that for which it was originally collected or processed by the transferring 
+organization or discloses it for the first time to a third party(1). 
+Choice: An organization must offer individuals the opportunity to choose (opt 
+out) whether their personal information is (a) to be disclosed to a third party(1) 
+or (b) to be used for a purpose that is incompatible with the purpose(s) for 
+which it was originally collected or subsequently authorized by the individu-
+al. Individuals must be provided with clear and conspicuous, readily available, 
+and affordable mechanisms to exercise choice. 
+For sensitive information (i.e. personal information specifying medical or 
+health conditions, racial or ethnic origin, political opinions, religious or philo-
+sophical beliefs, trade union membership or information specifying the sex 
+life of the individual), they must be given affirmative or explicit (opt in) choice 
+if the information is to be disclosed to a third party or used for a purpose oth-
+er than those for which it was originally collected or subsequently authorized 
+14 The U.S.–EU Safe Harbor Guide to Self-Certification  U.S. Department of Commerce 15
+Safe Harbor Framework
+The following section contains frequently asked questions (FAQs) regarding 
+the Safe Harbor Framework. Divided into fifteen (15) sections, these represent 
+the most commonly asked questions covering the rights of data subjects; ob-
+ligations and interactions between data subjects, handlers and third parties; 
+and topics including the certification process, liabilities and enforcement, 
+sector-specific rules and exceptions, and potential “what ifs” in the Safe Har-
+bor context.
+Safe Harbor Framework Frequently Asked Questions (FAQs)
+ I.  Sensitive Data  ...............................................16
+ II. Journalistic Exceptions  .......................................16
+ III.  Secondary Liability ...........................................16
+ IV.  Investment Banking and Audits  ..............................17
+ V.  The Role of the Data Protection Authorities  ...................17
+ VI.  Self-Certification  .............................................19
+ VII.  Verification  ..................................................21
+ VII.  Access  ......................................................22
+ IX.  Human Resources  ...........................................27
+ X.  Article 17 contracts  ..........................................29
+ XI.  Dispute Resolution and Enforcement  .........................30
+ XII.  Choice - Timing of Opt-Out  ...................................32
+ XIII.  Travel Information  ...........................................33
+XIV. Pharmaceutical and Medical Products  ........................34
+ XV.  Public Record and Publicly Available Information  .............36
+mechanisms must include (a) readily available and affordable independent 
+recourse mechanisms by which each individual’s complaints and disputes are 
+investigated and resolved by reference to the Principles and damages award-
+ed where the applicable law or private sector initiatives so provide; (b) follow 
+up procedures for verifying that the attestations and assertions businesses 
+make about their privacy practices are true and that privacy practices have 
+been implemented as presented; and (c) obligations to remedy problems aris-
+ing out of failure to comply with the Principles by organizations announcing 
+their adherence to them and consequences for such organizations. Sanctions 
+must be sufficiently rigorous to ensure compliance by organizations. 
+1.  It is not necessary to provide notice or choice when disclosure is made to 
+a third party that is acting as an agent to perform task(s) on behalf of and 
+under the instructions of the organization. The Onward Transfer Principle, 
+on the other hand, does apply to such disclosures.
+16 The U.S.–EU Safe Harbor Guide to Self-Certification  U.S. Department of Commerce 17
+IV. Investment banking and audits 
+Q:  The activities of auditors and investment bankers may involve processing per-
+sonal data without the consent or knowledge of the individual. Under what 
+circumstances is this permitted by the Notice, Choice, and Access Principles? 
+A:  Investment bankers or auditors may process information without knowledge 
+of the individual only to the extent and for the period necessary to meet statu-
+tory or public interest requirements and in other circumstances in which the 
+application of these Principles would prejudice the legitimate interests of the 
+organization. These legitimate interests include the monitoring of companies’ 
+compliance with their legal obligations and legitimate accounting activities, 
+and the need for confidentiality connected with possible acquisitions, merg-
+ers, joint ventures, or other similar transactions carried out by investment 
+bankers or auditors. 
+V.  The Role of the Data Protection Authorities 
+Q:  How will companies that commit to cooperate with European Union Data Pro-
+tection Authorities (DPAs) make those commitments and how will they be imple-
+mented? 
+A:  Under the Safe Harbor, U.S. organizations receiving personal data from the EU 
+must commit to employ effective mechanisms for assuring compliance with 
+the Safe Harbor Principles. More specifically as set out in the Enforcement Prin-
+ciple, they must provide (a) recourse for individuals to whom the data relate, 
+(b) follow up procedures for verifying that the attestations and assertions they 
+have made about their privacy practices are true, and (c) obligations to rem-
+edy problems arising out of failure to comply with the Principles and conse-
+quences for such organizations. An organization may satisfy points (a) and (c) 
+of the Enforcement Principle if it adheres to the requirements of this FAQ for 
+cooperating with the DPAs. 
+An organization may commit to cooperate with the DPAs by declaring in 
+its Safe Harbor certification to the Department of Commerce (see FAQ 6 on 
+self-certification) that the organization: 
+1.  Elects to satisfy the requirement in points (a) and (c) of the Safe Harbor 
+Enforcement Principle by committing to cooperate with the DPAs; 
+2.  Will cooperate with the DPAs in the investigation and resolution of com-
+plaints brought under the Safe Harbor; and 
+3.  Will comply with any advice given by the DPAs where the DPAs take the 
+view that the organization needs to take specific action to comply with 
+I. Sensitive Data 
+Q:  Must an organization always provide explicit (opt in) choice with respect to 
+sensitive data? 
+A:  No, such choice is not required where the processing is: (1) in the vital inter-
+ests of the data subject or another person; (2) necessary for the establish-
+ment of legal claims or defenses; (3) required to provide medical care or di-
+agnosis; (4) carried out in the course of legitimate activities by a foundation, 
+association or any other non-profit body with a political, philosophical, reli-
+gious or trade-union aim and on condition that the processing relates solely 
+to the members of the body or to the persons who have regular contact 
+with it in connection with its purposes and that the data are not disclosed 
+to a third party without the consent of the data subjects; (5) necessary to 
+carry out the organization’s obligations in the field of employment law; or 
+(6) related to data that are manifestly made public by the individual.
+II.  Journalistic Exceptions 
+Q:  Given U.S. constitutional protections for freedom of the press and the Direc-
+tive’s exemption for journalistic material, do the Safe Harbor Principles apply 
+to personal information gathered, maintained, or disseminated for journalis-
+tic purposes? 
+A:  Where the rights of a free press embodied in the First Amendment of the 
+U. S. Constitution intersect with privacy protection interests, the First 
+Amendment must govern the balancing of these interests with regard to 
+the activities of U.S. persons or organizations. Personal information that is 
+gathered for publication, broadcast, or other forms of public communica-
+tion of journalistic material, whether used or not, as well as information 
+found in previously published material disseminated from media archives, 
+is not subject to the requirements of the Safe Harbor Principles. 
+III. Secondary Liability 
+Q:  Are Internet service providers (ISPs), telecommunications carriers, or other organi-
+zations liable under the Safe Harbor Principles when on behalf of another organi-
+zation they merely transmit, route, switch or cache information that may violate 
+their terms? 
+A:  No. As is the case with the Directive itself, the Safe Harbor does not create sec-
+ondary liability. To the extent that an organization is acting as a mere conduit 
+for data transmitted by third parties and does not determine the purposes 
+and means of processing those personal data, it would not be liable. 
+18 The U.S.–EU Safe Harbor Guide to Self-Certification  U.S. Department of Commerce 19
+U.S. federal or state body with statutory powers to take enforcement action in 
+cases of deception or misrepresentation, or to conclude that the agreement 
+to cooperate has been seriously breached and must therefore be considered 
+null and void. In the latter case, the panel will inform the Department of Com-
+merce (or its designee) so that the list of Safe Harbor participants can be duly 
+amended. Any failure to fulfill the undertaking to cooperate with the DPAs, as 
+well as failures to comply with the Safe Harbor Principles, will be actionable as 
+a deceptive practice under Section 5 of the FTC Act or other similar statute. 
+Organizations choosing this option will be required to pay an annual fee 
+which will be designed to cover the operating costs of the panel, and they 
+may additionally be asked to meet any necessary translation expenses arising 
+out of the panel’s consideration of referrals or complaints against them. The 
+annual fee will not exceed $500 and will be less for smaller companies. 
+The option of co-operating with the DPAs will be available to organizations 
+joining the Safe Harbor during a three-year period. The DPAs will reconsider 
+this arrangement before the end of that period if the number of U.S. organiza-
+tions choosing this option proves to be excessive. 
+VI. Self-Certification 
+Q:   How does an organization self-certify that it adheres to the Safe Harbor Prin-
+ciples? 
+A:   Safe Harbor benefits are assured from the date on which an organization 
+self-certifies to the Department of Commerce (or its designee) its adher-
+ence to the Principles in accordance with the guidance set forth below. 
+To self-certify for the Safe Harbor, organizations can provide to the Depart-
+ment of Commerce (or its designee) a letter, signed by a corporate officer 
+on behalf of the organization that is joining the Safe Harbor, that contains 
+at least the following information: 
+1.  name of organization, mailing address, email address, telephone and fax 
+numbers; 
+2.  description of the activities of the organization with respect to personal 
+information received from the EU; and description of the organization’s 
+privacy policy for such personal information, including: 
+ a. where the privacy policy is available for viewing by the public, 
+ b. its effective date of implementation, 
+ c.  a contact office for the handling of complaints, access requests, and 
+any other issues arising under the Safe Harbor, 
+the Safe Harbor Principles, including remedial or compensatory mea-
+sures for the benefit of individuals affected by any non-compliance with 
+the Principles, and will provide the DPAs with written confirmation that 
+such action has been taken. 
+The cooperation of the DPAs will be provided in the form of information 
+and advice in the following way: 
+?    The advice of the DPAs will be delivered through an informal panel of 
+DPAs established at the European Union level, which will inter alia help 
+ensure a harmonised and coherent approach.
+?    The panel will provide advice to the U.S. organizations concerned on un-
+resolved complaints from individuals about the handling of personal in-
+formation that has been transferred from the EU under the Safe Harbor. 
+This advice will be designed to ensure that the Safe Harbor Principles are 
+being correctly applied and will include any remedies for the individual(s) 
+concerned that the DPAs consider appropriate.
+?    The panel will provide such advice in response to referrals from the or-
+ganizations concerned and/or to complaints received directly from indi-
+viduals against organizations which have committed to cooperate with 
+DPAs for Safe Harbor purposes, while encouraging and if necessary help-
+ing such individuals in the first instance to use the in-house complaint 
+handling arrangements that the organization may offer.
+?    Advice will be issued only after both sides in a dispute have had a reason-
+able opportunity to comment and to provide any evidence they wish. 
+The panel will seek to deliver advice as quickly as this requirement for 
+due process allows. As a general rule, the panel will aim to provide advice 
+within 60 days after receiving a complaint or referral and more quickly 
+where possible.
+?    The panel will make public the results of its consideration of complaints 
+submitted to it, if it sees fit.
+?    The delivery of advice through the panel will not give rise to any liability 
+for the panel or for individual DPAs.
+As noted above, organizations choosing this option for dispute resolution 
+must undertake to comply with the advice of the DPAs. If an organization 
+fails to comply within 25 days of the delivery of the advice and has offered no 
+satisfactory explanation for the delay, the panel will give notice of its inten-
+tion either to submit the matter to the Federal Trade Commission or other 
+20 The U.S.–EU Safe Harbor Guide to Self-Certification  U.S. Department of Commerce 21
+the takeover or merger or (2) elect to self-certify its adherence to the Safe Har-
+bor Principles or put in place other safeguards, such as a written agreement 
+that will ensure adherence to the Safe Harbor Principles. Where neither (1) nor 
+(2) applies, any data that has been acquired under the Safe Harbor must be 
+promptly deleted. 
+An organization does not need to subject all personal information to the Safe 
+Harbor Principles, but it must subject to the Safe Harbor Principles all per-
+sonal data received from the EU after it joins the Safe Harbor. 
+Any misrepresentation to the general public concerning an organization’s ad-
+herence to the Safe Harbor Principles may be actionable by the Federal Trade 
+Commission or other relevant government body. Misrepresentations to the 
+Department of Commerce (or its designee) may be actionable under the False 
+Statements Act (18 U.S.C. § 1001).
+*See FAQ 7 on verification 
+VII. Verification 
+Q:   How do organizations provide follow up procedures for verifying that the at-
+testations and assertions they make about their Safe Harbor privacy practices 
+are true and those privacy practices have been implemented as represented 
+and in accordance with the Safe Harbor Principles? 
+A:  To meet the verification requirements of the Enforcement Principle, an 
+organization may verify such attestations and assertions either through 
+self-assessment or outside compliance reviews. 
+Under the self-assessment approach, such verification would have to in-
+dicate that an organization’s published privacy policy regarding personal 
+information received from the EU is accurate, comprehensive, prominent-
+ly displayed, completely implemented and accessible. It would also need 
+to indicate that its privacy policy conforms to the Safe Harbor Principles; 
+that individuals are informed of any in-house arrangements for handling 
+complaints and of the independent mechanisms through which they may 
+pursue complaints; that it has in place procedures for training employees 
+in its implementation, and disciplining them for failure to follow it; and 
+that it has in place internal procedures for periodically conducting objec-
+tive reviews of compliance with the above. A statement verifying the self- 
+assessment should be signed by a corporate officer or other authorized 
+representative of the organization at least once a year and made available 
+upon request by individuals or in the context of an investigation or a com-
+plaint about non-compliance. 
+ d.  the specific statutory body that has jurisdiction to hear any claims 
+against the organization regarding possible unfair or deceptive prac-
+tices and violations of laws or regulations governing privacy (and that 
+is listed in the annex to the Principles),
+ e.  name of any privacy programs in which the organization is a member, 
+ f. method of verification (e.g. in-house, third party)*, and 
+ g.  the independent recourse mechanism that is available to investigate 
+unresolved complaints. 
+Where the organization wishes its Safe Harbor benefits to cover human re-
+sources information transferred from the EU for use in the context of the 
+employment relationship, it may do so where there is a statutory body with 
+jurisdiction to hear claims against the organization arising out of human re-
+sources information that is listed in the annex to the Principles. In addition 
+the organization must indicate this in its letter and declare its commitment to 
+cooperate with the EU authority or authorities concerned in conformity with 
+FAQ 9 and FAQ 5 as applicable and that it will comply with the advice given by  
+such authorities. 
+The Department (or its designee) will maintain a list of all organizations that 
+file such letters, thereby assuring the availability of Safe Harbor benefits, and 
+will update such list on the basis of annual letters and notifications received 
+pursuant to FAQ 11. Such self-certification letters should be provided not less 
+than annually. Otherwise the organization will be removed from the list and 
+Safe Harbor benefits will no longer be assured. Both the list and the self-certi-
+fication letters submitted by the organizations will be made publicly available. 
+All organizations that self-certify for the Safe Harbor must also state in their 
+relevant published privacy policy statements that they adhere to the Safe  
+Harbor Principles. 
+The undertaking to adhere to the Safe Harbor Principles is not time-limited in 
+respect of data received during the period in which the organization enjoys 
+the benefits of the Safe Harbor. Its undertaking means that it will continue to 
+apply the Principles to such data for as long as the organization stores, uses or 
+discloses them, even if it subsequently leaves the Safe Harbor for any reason. 
+An organization that will cease to exist as a separate legal entity as a result 
+of a merger or a takeover must notify the Department of Commerce (or its 
+designee) of this in advance. The notification should also indicate whether 
+the acquiring entity or the entity resulting from the merger will (1) continue 
+to be bound by the Safe Harbor Principles by the operation of law governing 
+22 The U.S.–EU Safe Harbor Guide to Self-Certification  U.S. Department of Commerce 23
+Rather, experience has shown that in responding to individuals’ access re-
+quests, organizations should first be guided by the concern(s) that led to 
+the requests in the first place. For example, if an access request is vague or 
+broad in scope, an organization may engage the individual in a dialogue so 
+as to better understand the motivation for the request and to locate respon-
+sive information. The organization might inquire about which part(s) of the 
+organization the individual interacted with and/or about the nature of the 
+information (or its use) that is the subject of the access request. Individuals 
+do not, however, have to justify requests for access to their own data. 
+Expense and burden are important factors and should be taken into ac-
+count but they are not controlling in determining whether providing ac-
+cess is reasonable. For example, if the information is used for decisions that 
+will significantly affect the individual (e.g., the denial or grant of important 
+benefits, such as insurance, a mortgage, or a job), then consistent with the 
+other provisions of these FAQs, the organization would have to disclose 
+that information even if it is relatively difficult or expensive to provide. 
+If the information requested is not sensitive or not used for decisions that 
+will significantly affect the individual (e.g., non-sensitive marketing data 
+that is used to determine whether or not to send the individual a catalog), 
+but is readily available and inexpensive to provide, an organization would 
+have to provide access to factual information that the organization stores 
+about the individual. The information concerned could include facts ob-
+tained from the individual, facts gathered in the course of a transaction, 
+or facts obtained from others that pertain to the individual. 
+Consistent with the fundamental nature of access, organizations should 
+always make good faith efforts to provide access. For example, where cer-
+tain information needs to be protected and can be readily separated from 
+other information subject to an access request, the organization should 
+redact the protected information and make available the other informa-
+tion. If an organization determines that access should be denied in any 
+particular instance, it should provide the individual requesting access with 
+an explanation of why it has made that determination and a contact point 
+for any further inquiries. 
+2. Q:  What is confidential commercial information and may organizations deny 
+access in order to safeguard it? 
+A:  Confidential commercial information (as that term is used in the Fed-
+eral Rules of Civil Procedure on discovery) is information which an 
+Organizations should retain their records on the implementation of their 
+Safe Harbor privacy practices and make them available upon request in 
+the context of an investigation or a complaint about non-compliance to 
+the independent body responsible for investigating complaints or to the 
+agency with unfair and deceptive practices jurisdiction. 
+Where the organization has chosen outside compliance review, such a 
+review needs to demonstrate that its privacy policy regarding personal 
+information received from the EU conforms to the Safe Harbor Principles, 
+that it is being complied with and that individuals are informed of the 
+mechanisms through which they may pursue complaints. The methods 
+of review may include without limitation auditing, random reviews, use 
+of “decoys,” or use of technology tools as appropriate. A statement verify-
+ing that an outside compliance review has been successfully completed 
+should be signed either by the reviewer or by the corporate officer or 
+other authorized representative of the organization at least once a year 
+and made available upon request by individuals or in the context of an 
+investigation or a complaint about compliance. 
+VIII. Access 
+Access Principle: 
+Individuals must have access to personal information about them that an orga-
+nization holds and be able to correct, amend or delete that information where 
+it is inaccurate, except where the burden or expense of providing access would 
+be disproportionate to the risks to the individual’s privacy in the case in ques-
+tion, or where the legitimate rights of persons other than the individual would 
+be violated. 
+1. Q: Is the right of access absolute? 
+A:  No. Under the Safe Harbor Principles, the right of access is fundamental 
+to privacy protection. In particular, it allows individuals to verify the ac-
+curacy of information held about them. Nonetheless, the obligation of 
+an organization to provide access to the personal information it holds 
+about an individual is subject to the principle of proportionality or rea-
+sonableness and has to be tempered in certain instances. Indeed, the 
+Explanatory Memorandum to the 1980 OECD Privacy Guidelines makes 
+clear that an organization’s access obligation is not absolute. It does not 
+require the exceedingly thorough search mandated, for example, by a 
+subpoena, nor does it require access to all the different forms in which 
+the information may be maintained by the organization. 
+24 The U.S.–EU Safe Harbor Guide to Self-Certification  U.S. Department of Commerce 25
+a.  interference with execution or enforcement of the law, including the pre-
+vention, investigation or detection of offenses or the right to a fair trial; 
+b.  interference with private causes of action, including the prevention, 
+investigation or detection of legal claims or the right to a fair trial; 
+c.   disclosure of personal information pertaining to other individual(s) 
+where such references cannot be redacted; 
+d.  breaching a legal or other professional privilege or obligation; 
+e.  breaching the necessary confidentiality of future or ongoing negotia-
+tions, such as those involving the acquisition of publicly quoted com-
+panies; 
+f.  prejudicing employee security investigations or grievance proceed-
+ings; 
+g.  prejudicing the confidentiality that may be necessary for limited peri-
+ods in connection with employee succession planning and corporate 
+re-organizations; or 
+h.  prejudicing the confidentiality that may be necessary in connection 
+with monitoring, inspection or regulatory functions connected with 
+sound economic or financial management; or 
+i.   other circumstances in which the burden or cost of providing access 
+would be disproportionate or the legitimate rights or interests of oth-
+ers would be violated. 
+An organization which claims an exception has the burden of demonstrat-
+ing its applicability (as is normally the case). As noted above, the reasons for 
+denying or limiting access and a contact point for further inquires should 
+be given to individuals. 
+6. Q: Can an organization charge a fee to cover the cost of providing access? 
+A:   Yes. The OECD Guidelines recognize that organizations may charge a 
+fee, provided that it is not excessive. Thus organizations may charge a 
+reasonable fee for access. Charging a fee may be useful in discouraging 
+repetitive and vexatious requests. 
+Organizations that are in the business of selling publicly available infor-
+mation may thus charge the organization’s customary fee in responding 
+to requests for access. Individuals may alternatively seek access to their 
+information from the organization that originally compiled the data. 
+organization has taken steps to protect from disclosure, where disclo-
+sure would help a competitor in the market. The particular computer 
+program an organization uses, such as a modeling program, or the de-
+tails of that program may be confidential commercial information. Where 
+confidential commercial information can be readily separated from 
+other information subject to an access request, the organization should 
+redact the confidential commercial information and make available the 
+non-confidential information. Organizations may deny or limit access to 
+the extent that granting it would reveal its own confidential commercial 
+information as defined above, such as marketing inferences or classifica-
+tions generated by the organization, or the confidential commercial in-
+formation of another where such information is subject to a contractual 
+obligation of confidentiality in circumstances where such an obligation 
+of confidentiality would normally be undertaken or imposed. 
+3. Q:  In providing access, may an organization disclose to individuals personal in-
+formation about them derived from its data bases or is access to the data 
+base itself required? 
+A:  Access can be provided in the form of disclosure by an organization to 
+the individual and does not require access by the individual to an orga-
+nization’s data base. 
+4.  Q:   Does an organization have to restructure its data bases to be able to provide 
+access? 
+A:   Access needs to be provided only to the extent that an organization 
+stores the information. The access principle does not itself create any 
+obligation to retain, maintain, reorganize, or restructure personal infor-
+mation files. 
+5. Q:  These replies make clear that access may be denied in certain circumstances. 
+In what other circumstances may an organization deny individuals access 
+to their  personal information? 
+A:  Such circumstances are limited, and any reasons for denying access must 
+be specific. An organization can refuse to provide access to information to 
+the extent that disclosure is likely to interfere with the safeguarding of im-
+portant countervailing public interests, such as national security; defense; 
+or public security. In addition, where personal information is processed 
+solely for research or statistical purposes, access may be denied. Other rea-
+sons for denying or limiting access are:
+26 The U.S.–EU Safe Harbor Guide to Self-Certification  U.S. Department of Commerce 27
+11. Q: Is there a time within which responses must be provided to access requests? 
+A:  Yes, organizations should respond without excessive delay and within 
+a reasonable time period. This requirement may be satisfied in differ-
+ent ways as the explanatory memorandum to the 1980 OECD Privacy 
+Guidelines states. For example, a data controller who provides informa-
+tion to data subjects at regular intervals may be exempted from obliga-
+tions to respond at once to individual requests. 
+IX. Human Resources 
+1. Q.  Is the transfer from the EU to the United States of personal information collect-
+ed in the context of the employment relationship covered by the Safe Harbor?
+A:  Yes, where a company in the EU transfers personal information about its 
+employees (past or present) collected in the context of the employment re-
+lationship, to a parent, affiliate, or unaffiliated service provider in the United 
+States participating in the Safe Harbor, the transfer enjoys the benefits of 
+the Safe Harbor. In such cases, the collection of the information and its pro-
+cessing prior to transfer will have been subject to the national laws of the 
+EU country where it was collected, and any conditions for or restrictions on 
+its transfer according to those laws will have to be respected. 
+The Safe Harbor Principles are relevant only when individually identified 
+records are transferred or accessed. Statistical reporting relying on ag-
+gregate employment data and/or the use of anonymized or pseudony-
+mized data does not raise privacy concerns. 
+2. Q: How do the Notice and Choice Principles apply to such information? 
+A:  A U.S. organization that has received employee information from the 
+EU under the Safe Harbor may disclose it to third parties and/or use it 
+for different purposes only in accordance with the Notice and Choice 
+Principles. For example, where an organization intends to use per-
+sonal information collected through the employment relationship for 
+non-employment-related purposes, such as marketing communica-
+tions, the U.S. organization must provide the affected individuals with 
+choice before doing so, unless they have already authorized the use of 
+the information for such purposes. Moreover, such choices must not be 
+used to restrict employment opportunities or take any punitive action 
+against such employees. 
+Access may not be refused on cost grounds if the individual offers to pay the 
+costs. 
+7. Q:  Is an organization required to provide access to personal information de-
+rived from public records? 
+A:  To clarify first, public records are those records kept by government agen-
+cies or entities at any level that are open to consultation by the public in 
+general. It is not necessary to apply the Access Principle to such informa-
+tion as long as it is not combined with other personal information, apart 
+from when small amounts of non-public record information are used for 
+indexing or organizing public record information. However, any conditions 
+for consultation established by the relevant jurisdiction are to be respect-
+ed.  Where public record information is combined with other non-public 
+record information (other than as specifically noted above), however, an 
+organization must provide access to all such information, assuming it is 
+not subject to other permitted exceptions. 
+8. Q:  Does the Access Principle have to be applied to publicly available personal 
+information? 
+A:  As with public record information (see Q7), it is not necessary to pro-
+vide access to information that is already publicly available to the pub-
+lic at large, as long as it is not combined with non-publicly available  
+information. 
+9. Q:  How can an organization protect itself against repetitious or vexatious re-
+quests for access? 
+A:  An organization does not have to respond to such requests for access. 
+For these reasons, organizations may charge a reasonable fee and may 
+set reasonable limits on the number of times within a given period that 
+access requests from a particular individual will be met. In setting such 
+limitations, an organization should consider such factors as the frequen-
+cy with which information is updated, the purpose for which the data are 
+used, and the nature of the information. 
+10. Q:  How can an organization protect itself against fraudulent requests for 
+access? 
+A:  An organization is not required to provide access unless it is supplied 
+with sufficient information to allow it to confirm the identity of the per-
+son making the request. 
+28 The U.S.–EU Safe Harbor Guide to Self-Certification  U.S. Department of Commerce 29
+the Safe Harbor Principles, rather than of national laws implementing the 
+Directive. This will be the most efficient way to address the often overlap-
+ping rights and obligations imposed by local labor law and labor agree-
+ments as well as data protection law. 
+A U.S. organization participating in the Safe Harbor that uses EU human 
+resources data transferred from the Europe Union in the context of the 
+employment relationship and that wishes such transfers to be covered 
+by the Safe Harbor must therefore commit to cooperate in investigations 
+by and to comply with the advice of competent EU authorities in such 
+cases. The DPAs that have agreed to cooperate in this way will notify 
+the European Commission and the Department of Commerce. If a U.S. 
+organization participating in the Safe Harbor wishes to transfer human 
+resources data from a Member State where the DPA has not so agreed, 
+the provisions of FAQ 5 will apply. 
+X.  Article 17 contracts 
+Q:   When data is transferred from the EU to the United States only for processing 
+purposes, will a contract be required, regardless of participation by the proces-
+sor in the Safe Harbor ? 
+A:   Yes. Data controllers in the European Union are always required to enter 
+into a contract when a transfer for mere processing is made, whether the 
+processing operation is carried out inside or outside the EU. The purpose 
+of the contract is to protect the interests of the data controller, i.e. the per-
+son or body who determines the purposes and means of processing, who 
+retains full responsibility for the data vis-à-vis the individual(s) concerned. 
+The contract thus specifies the processing to be carried out and any mea-
+sures necessary to ensure that the data are kept secure. 
+A U.S. organization participating in the Safe Harbor and receiving personal in-
+formation from the EU merely for processing thus does not have to apply the 
+Principles to this information, because the controller in the EU remains respon-
+sible for it vis-à-vis the individual in accordance with the relevant EU provisions 
+(which may be more stringent than the equivalent Safe Harbor Principles). 
+Because adequate protection is provided by Safe Harbor participants, con-
+tracts with Safe Harbor participants for mere processing do not require prior 
+authorization (or such authorization will be granted automatically by the 
+Member States) as would be required for contracts with recipients not partic-
+ipating in the Safe Harbor or otherwise not providing adequate protection. 
+It should be noted that certain generally applicable conditions for trans-
+fer from some Member States may preclude other uses of such informa-
+tion even after transfer outside the EU and such conditions will have to 
+be respected. 
+In addition, employers should make reasonable efforts to accommodate 
+employee privacy preferences. This could include, for example, restrict-
+ing access to the data, anonymizing certain data, or assigning codes or 
+pseudonyms when the actual names are not required for the manage-
+ment purpose at hand. 
+To the extent and for the period necessary to avoid prejudicing the legiti-
+mate interests of the organization in making promotions, appointments, 
+or other similar employment decisions, an organization does not need to 
+offer notice and choice. 
+3. Q: How does the Access Principle apply? 
+A:  The FAQs on access provide guidance on reasons which may justify de-
+nying or limiting access on request in the human resources context. Of 
+course, employers in the European Union must comply with local regula-
+tions and ensure that European Union employees have access to such in-
+formation as is required by law in their home countries, regardless of the 
+location of data processing and storage. The Safe Harbor requires that an 
+organization processing such data in the United States will cooperate in 
+providing such access either directly or through the EU employer. 
+4. Q:  How will enforcement be handled for employee data under the Safe Harbor 
+Principles? 
+A:  In so far as information is used only in the context of the employment 
+relationship, primary responsibility for the data vis-à-vis the employee 
+remains with the company in the EU. It follows that, where European em-
+ployees make complaints about violations of their data protection rights 
+and are not satisfied with the results of internal review, complaint, and 
+appeal procedures (or any applicable grievance procedures under a con-
+tract with a trade union), they should be directed to the state or national 
+data protection or labor authority in the jurisdiction where the employee 
+works. This also includes cases where the alleged mishandling of their 
+personal information has taken place in the United States, is the respon-
+sibility of the U.S. organization that has received the information from the 
+employer and not of the employer and thus involves an alleged breach of 
+30 The U.S.–EU Safe Harbor Guide to Self-Certification  U.S. Department of Commerce 31
+operating the recourse mechanism, but such requirements should be trans-
+parent and justified (for example to exclude complaints that fall outside the 
+scope of the program or are for consideration in another forum), and should 
+not have the effect of undermining the commitment to look into legitimate 
+complaints. In addition, recourse mechanisms should provide individuals with 
+full and readily available information about how the dispute resolution proce-
+dure works when they file a complaint. Such information should include notice 
+about the mechanism’s privacy practices, in conformity with the Safe Harbor 
+Principles.1 They should also co-operate in the development of tools such as 
+standard complaint forms to facilitate the complaint resolution process.
+Remedies and Sanctions
+The result of any remedies provided by the dispute resolution body should be 
+that the effects of noncompliance are reversed or corrected by the organiza-
+tion, in so far as feasible, and that future processing by the organization will be 
+in conformity with the Principles and, where appropriate, that processing of 
+the personal data of the individual who has brought the complaint will cease. 
+Sanctions need to be rigorous enough to ensure compliance by the organiza-
+tion with the Principles. A range of sanctions of varying degrees of severity will 
+allow dispute resolution bodies to respond appropriately to varying degrees 
+of non-compliance. Sanctions should include both publicity for findings of 
+non-compliance and the requirement to delete data in certain circumstances.2 
+Other sanctions could include suspension and removal of a seal, compensa-
+tion for individuals for losses incurred as a result of non-compliance and in-
+junctive orders. Private sector dispute resolution bodies and self-regulatory 
+bodies must notify failures of Safe Harbor organizations to comply with their 
+rulings to the governmental body with applicable jurisdiction or to the courts, 
+as appropriate, and to notify the Department of Commerce (or its designee).
+FTC Action
+The FTC has committed to reviewing on a priority basis referrals received from 
+privacy self-regulatory organizations, such as BBBOnline and TRUSTe, and EU 
+Member States alleging non-compliance with the Safe Harbor Principles to de-
+termine whether Section 5 of the FTC Act prohibiting unfair or deceptive acts 
+XI. Dispute Resolution and Enforcement 
+Q:  How should the dispute resolution requirements of the Enforcement Principle 
+be implemented, and how will an organization’s persistent failure to comply 
+with the Principles be handled?
+A:   The Enforcement Principle sets out the requirements for Safe Harbor en-
+forcement. How to meet the requirements of point (b) of the Principle is 
+set out in the FAQ on verification (FAQ 7). This FAQ 11 addresses points (a) 
+and (c), both of which require independent recourse mechanisms. These 
+mechanisms may take different forms, but they must meet the Enforce-
+ment Principle’s requirements. Organizations may satisfy the requirements 
+through the following: 
+(1)  Compliance with private sector developed privacy programs that in-
+corporate the Safe Harbor Principles into their rules and that include 
+effective enforcement mechanisms of the type described in the En-
+forcement Principle; 
+(2)  Compliance with legal or regulatory supervisory authorities that 
+provide for handling of individual complaints and dispute resolu-
+tion; or 
+(3)  Commitment to cooperate with data protection authorities located 
+in the European Union or their authorized representatives. 
+This list is intended to be illustrative and not limiting. The private sector may 
+design other mechanisms to provide enforcement, so long as they meet the 
+requirements of the Enforcement Principle and the FAQs. Please note that the 
+Enforcement Principle’s requirements are additional to the requirement set 
+forth in paragraph 3 of the introduction to the Principles that self-regulatory 
+efforts must be enforceable under Article 5 of the Federal Trade Commission 
+Act or similar statute.
+Recourse Mechanisms
+Consumers should be encouraged to raise any complaints they may have with 
+the relevant organization before proceeding to independent recourse mecha-
+nisms. Whether a recourse mechanism is independent is a factual question that 
+can be demonstrated in a number of ways, for example, by transparent compo-
+sition and financing or a proven track record. As required by the enforcement 
+principle, the recourse available to individuals must be readily available and 
+affordable. Dispute resolution bodies should look into each complaint received 
+from individuals unless they are obviously unfounded or frivolous. This does 
+not preclude the establishment of eligibility requirements by the organization 
+ 1.  Dispute resolution bodies are not required to conform with the enforcement principle. They may 
+also derogate from the Principles where they encounter conflicting obligations or explicit authorizations in the 
+performance of their specific tasks.
+ 2. Dispute resolutions bodies have discretion about the circumstances in which they use these sanc-
+tions. The sensitivity of the data concerned is one factor to be taken into consideration in deciding whether 
+deletion of data should be required, as is whether an organization has collected, used or disclosed information 
+in blatant contravention of the Principles. 
+32 The U.S.–EU Safe Harbor Guide to Self-Certification  U.S. Department of Commerce 33
+A:  Generally, the purpose of the Choice Principle is to ensure that personal 
+information is used and disclosed in ways that are consistent with the in-
+dividual’s expectations and choices. Accordingly, an individual should be 
+able to exercise “opt out” (or choice) of having personal information used 
+for direct marketing at any time subject to reasonable limits established 
+by the organization, such as giving the organization time to make the opt 
+out effective. An organization may also require sufficient information to 
+confirm the identity of the individual requesting the “opt out.” In the United 
+States, individuals may be able to exercise this option through the use of 
+a central “opt out” program such as the Direct Marketing Association’s Mail 
+Preference Service.  Organizations that participate in the Direct Marketing 
+Association’s Mail Preference Service should promote its availability to con-
+sumers who do not wish to receive commercial information. In any event, 
+an individual should be given a readily available and affordable mecha-
+nism to exercise this option. 
+Similarly, an organization may use information for certain direct marketing 
+purposes when it is impracticable to provide the individual with an oppor-
+tunity to opt out before using the information, if the organization promptly 
+gives the individual such opportunity at the same time (and upon request 
+at any time) to decline (at no cost to the individual) to receive any further 
+direct marketing communications and the organization complies with the 
+individual’s wishes. 
+XIII. Travel Information 
+Q:  When can airline passenger reservation and other travel information, such as 
+frequent flyer or hotel reservation information and special handling needs, 
+such as meals to meet religious requirements or physical assistance, be trans-
+ferred to organizations located outside the EU? 
+A:  Such information may be transferred in several different circumstances. 
+Under Article 26 of the Directive, personal data may be transferred “to a 
+third country which does not ensure an adequate level of protection within 
+the meaning of Article 25(2)” on the condition that it (1) is necessary to 
+provide the services requested by the consumer or to fulfill the terms of 
+an agreement, such as a “frequent flyer” agreement; or (2) has been unam-
+biguously consented to by the consumer. U.S. organizations subscribing 
+to the Safe Harbor provide adequate protection for personal data and may 
+therefore receive data transfers from the EU without meeting those condi-
+tions or other conditions set out in Article 26 of the Directive. Since the Safe 
+Harbor includes specific rules for sensitive information, such information 
+or practices in commerce has been violated. If the FTC concludes that it has 
+reason[s] to believe Section 5 has been violated, it may resolve the matter by 
+seeking an administrative cease and desist order prohibiting the challenged 
+practices or by filing a complaint in a federal district court, which if successful 
+could result in a federal court order to same effect. The FTC may obtain civil 
+penalties for violations of an administrative cease and desist order and may 
+pursue civil or criminal contempt for violation of a federal court order. The FTC 
+will notify the Department of Commerce of any such actions it takes. The De-
+partment of Commerce encourages other government bodies to notify it of 
+the final disposition of any such referrals or other rulings determining adher-
+ence to the Safe Harbor Principles. 
+Persistent Failure to Comply
+If an organization persistently fails to comply with the Principles, it is no lon-
+ger entitled to benefit from the Safe Harbor. Persistent failure to comply arises 
+where an organization that has self-certified to the Department of Commerce 
+(or its designee) refuses to comply with a final determination by any self-regu-
+latory or government body or where such a body determines that an organiza-
+tion frequently fails to comply with the Principles to the point where its claim 
+to comply is no longer credible. In these cases, the organization must promptly 
+notify the Department of Commerce (or its designee) of such facts. Failure to 
+do so may be actionable under the False Statements Act(18 U.S.C. § 1001). 
+The Department (or its designee) will indicate on the public list it maintains of 
+organizations self-certifying adherence to the Safe Harbor Principles any noti-
+fication it receives of persistent failure to comply, whether it is received from 
+the organization itself, from a self-regulatory body, or from a government body, 
+but only after first providing thirty (30) days’ notice and an opportunity to re-
+spond to the organization that has failed to comply. Accordingly, the public list 
+maintained by the Department of Commerce (or its designee) will make clear 
+which organizations are assured and which organizations are no longer assured  
+of Safe Harbor benefits.
+An organization applying to participate in a self-regulatory body for the pur-
+poses of re-qualifying for the Safe Harbor must provide that body with full 
+information about its prior participation in the Safe Harbor. 
+XII. Choice - Timing of Opt Out 
+Q:  Does the Choice Principle permit an individual to exercise choice only at the 
+beginning of a relationship or at any time? 
+34 The U.S.–EU Safe Harbor Guide to Self-Certification  U.S. Department of Commerce 35
+along with other data collected as part of the clinical trial, however, if 
+this was made clear to the participant in the notice at the time he or she 
+agreed to participate. 
+4. Q:  Pharmaceutical and medical device companies are allowed to provide 
+personal data from clinical trials conducted in the EU to regulators in the 
+United States for regulatory and supervision purposes. Are similar transfers 
+allowed to parties other than regulators, such as company locations and 
+other researchers? 
+A: Yes, consistent with the Principles of Notice and Choice. 
+5. Q:  To ensure objectivity in many clinical trials, participants, and often investi-
+gators, as well, cannot be given access to information about which treat-
+ment each participant may be receiving. Doing so would jeopardize the va-
+lidity of the research study and results. Will participants in such clinical trials 
+(referred to as “blinded” studies) have access to the data on their treatment 
+during the trial? 
+A:  No, such access does not have to be provided to a participant if this re-
+striction has been explained when the participant entered the trial and 
+the disclosure of such information would jeopardize the integrity of the 
+research effort. Agreement to participate in the trial under these condi-
+tions is a reasonable forgoing of the right of access. Following the conclu-
+sion of the trial and analysis of the results, participants should have access 
+to their data if they request it. They should seek it primarily from the phy-
+sician or other health care provider from whom they received treatment 
+within the clinical trial, or secondarily from the sponsoring company. 
+6. Q:  Does a pharmaceutical or medical device firm have to apply the Safe Harbor 
+Principles with respect to notice, choice, onward transfer, and access in its 
+product safety and efficacy monitoring activities, including the reporting of 
+adverse events and the tracking of patients/subjects using certain medicines 
+or medical devices (e.g. a pacemaker)? 
+A:  No, to the extent that adherence to the Principles interferes with com-
+pliance with regulatory requirements. This is true both with respect to 
+reports by, for example, health care providers, to pharmaceutical and 
+medical device companies, and with respect to reports by pharmaceuti-
+cal and medical device companies to government agencies like the Food 
+and Drug Administration. 
+7. Q:  Invariably, research data are uniquely key-coded at their origin by the prin-
+cipal investigator so as not to reveal the identity of individual data subjects. 
+(which may need to be collected, for example, in connection with custom-
+ers’ needs for physical assistance) may be included in transfers to Safe Har-
+bor participants. In all cases, however, the organization transferring the 
+information has to respect the law in the EU Member State in which it is 
+operating, which may inter alia impose special conditions for the handling 
+of sensitive data. 
+XIV. Pharmaceutical and Medical Products 
+1.  Q:  If personal data are collected in the EU and transferred to the United States 
+for pharmaceutical research and/or other purposes, do Member State laws 
+or the Safe Harbor Principles apply? 
+A:  Member State law applies to the collection of the personal data and to 
+any processing that takes place prior to the transfer to the United States. 
+The Safe Harbor Principles apply to the data once they have been trans-
+ferred to the United States. Data used for pharmaceutical research and 
+other purposes should be anonymized when appropriate. 
+2. Q:  Personal data developed in specific medical or pharmaceutical research 
+studies often play a valuable role in future scientific research. Where personal 
+data collected for one research study are transferred to a U.S. organization 
+in the Safe Harbor, may the organization use the data for a new scientific 
+research activity? 
+A: Yes, if appropriate notice and choice have been provided in the first in-
+stance. Such a notice should provide information about any future specific 
+uses of the data, such as periodic follow-up, related studies, or marketing. 
+It is understood that not all future uses of the data can be specified, since 
+a new research use could arise from new insights on the original data, 
+new medical discoveries and advances, and public health and regulatory 
+developments. Where appropriate, the notice should therefore include an 
+explanation that personal data may be used in future medical and phar-
+maceutical research activities that are unanticipated. If the use is not con-
+sistent with the general research purpose(s) for which the data were origi-
+nally collected, or to which the individual has consented subsequently, 
+new consent must be obtained. 
+3. Q:  What happens to an individual’s data if a participant decides voluntarily or 
+at the request of the sponsor to withdraw from the clinical trial? 
+A:  Participants may decide or be asked to withdraw from a clinical trial at any 
+time. Any data collected previous to withdrawal may still be processed 
+36 The U.S.–EU Safe Harbor Guide to Self Certification  U.S. Department of Commerce 37
+Appendix A: Sample Safe Harbor Application
+Certifying an organization’s adherence to the Safe Harbor
+To expedite the certification process, prepare the required information before 
+completing this form. If you have any difficulty completing this form or have 
+any other questions concerning the Safe Harbor self-certification process, 
+please e-mail safe.harbor@mail.doc.gov or contact Damon C. Greer at the In-
+ternational Trade Administration, Department of Commerce, damon.greer@
+mail.doc.gov, or 202-482-5023.
+Public reporting for this collection is estimated to range from 20-40 minutes 
+per response, including the time for reviewing instructions, and completing 
+and reviewing the collection of information. All responses to this collection of 
+information are voluntary, and will be provided confidentially to the extent al-
+lowed under the Freedom of Information Act. Notwithstanding any other pro-
+visions of law, no person is required to respond to nor shall a person be sub-
+ject to a penalty for failure to comply with a collection of information subject 
+to the requirements of the Paperwork Reduction Act unless that collection of 
+information displays a current valid OMB Control Number. Send comments 
+regarding the burden estimate or any other aspect of this collection of infor-
+mation, including suggestions for reducing this burden, to the Reports Clear-
+ance Officer, International Trade Administration, Department of Commerce,  
+Room 4001, 14th and Constitution Avenue, N.W., Washington, D.C. 20230.
+Organization Information
+Organization Name:
+Address: 
+City:  _________________________________________ State:
+Zip: _______________________ Phone: ________________________Fax:
+Website (Optional):
+Organization Contact Information 
+(For handling of complaints, access requests, and any other issues arising un-
+der the Safe Harbor)
+Contact Office:
+Contact Name (Optional): 
+Contact Title (Optional): 
+Pharmaceutical companies sponsoring such research do not receive the key. 
+The unique key code is held only by the researcher, so that he/she can iden-
+tify the research subject under special circumstances (e.g. if follow-up medi-
+cal attention is required). Does a transfer from the EU to the United States of 
+data coded in this way constitute a transfer of personal data that is subject 
+to the Safe Harbor Principles? 
+A:  No. This would not constitute a transfer of personal data that would be 
+subject to the Principles. 
+XV. Public Record and Publicly Available Information 
+Q:  Is it necessary to apply the Notice, Choice and Onward Transfer Principles to 
+public record information or publicly available information? 
+A:  It is not necessary to apply the Notice, Choice or Onward Transfer Principles 
+to public record information, as long as it is not combined with non-public 
+record information and as long as any conditions for consultation estab-
+lished by the relevant jurisdiction are respected. 
+Also, it is generally not necessary to apply the Notice, Choice or Onward 
+Transfer Principles to publicly available information unless the European 
+transferor indicates that such information is subject to restrictions that re-
+quire application of those Principles by the organization for the uses it in-
+tends. Organizations will have no liability for how such information is used 
+by those obtaining such information from published materials. 
+Where an organization is found to have intentionally made personal infor-
+mation public in contravention of the Principles so that it or others may 
+benefit from these exceptions, it will cease to qualify for the benefits of the 
+Safe Harbor.
+38 The U.S.–EU Safe Harbor Guide to Self-Certification  U.S. Department of Commerce 39
+List any privacy programs in which your organization is a member for Safe 
+Harbor purposes (See FAQ 6):
+What is your organization’s verification method (e.g., In-house, Third Party? 
+(See FAQ 7)
+What independent recourse mechanism(s) is(are) available to investigate un-
+resolved complaints (e.g., private sector developed dispute resolution mech-
+anisms that incorporate the Safe Harbor framework or EU data protection 
+authorities?) (See FAQ 11)
+What personal data processed by your organization is covered by the Safe Har-
+bor? (e.g., offline, on-line, manually processed data, human resources data)
+Do you plan to cover human resources data? Yes  No
+If yes, you need to agree to cooperate and comply with the European Data 
+Protection Authorities (See FAQs 5 & 9). Do you agree to cooperate and com-
+ply with the European Data Protection Authorities?  Yes  No
+Contact Phone:  _________________Contact Fax: _____________________
+Contact Email:  __________________________________________________
+Corporate Officer who is certifying the organization’s adherence to the Safe  
+Harbor Framework
+Corporate Officer Name: 
+Corporate Officer Title: 
+Corporate Officer Phone:
+Corporate Officer Fax: 
+Corporate Officer Email:
+Description of the activities of the organization with respect to personal infor-
+mation received from the EU
+Description of the organization’s privacy policy for personal information
+Please enter the effective date of your organization’s privacy policy:
+Please provide the location of your organization’s privacy policy:
+Please indicate the appropriate statutory body that has jurisdiction to hear 
+any claims against the organization regarding possible unfair or deceptive 
+practices and violations of laws or regulations governing privacy:
+Choose One:    Federal Trade Commission (FTC)   Department of Transportation
+40 The U.S.–EU Safe Harbor Guide to Self-Certification U.S. Department of Commerce 41
+Appendix B: Sample Privacy Policies
+We have included here three privacy policy examples for your reference; 
+these were chosen at random and are not intended to serve as an official 
+endorsement or a specific U.S. Government standard. They incorporate the 
+requisite tenets of the U.S.-EU Safe Harbor Framework while at the same time 
+uniquely represent their individual company and their industry privacy con-
+cerns. Should you have any questions about what is required in the text of a 
+privacy policy in order to be compliant with the U.S.-EU Safe Harbor Frame-
+work, please refer to Appendix A, the Helpful Hints Guide.
+Privacy Policy Example A
+Data Privacy at XYZ
+XYZ has established a comprehensive privacy program, including a global pri-
+vacy office and a chief privacy officer, designed to help us respect and protect 
+your data privacy rights. This statement includes both XYZ’s European Union - 
+U.S. Safe Harbor Privacy Statement and the Website Privacy Statement. 
+U.S. - EU Safe Harbor Privacy Statement
+For personal information of employees, consumers, healthcare professionals, 
+medical research subjects and investigators, customers, investors, and gov-
+ernment officials that XYZ receives from the European Economic Area, XYZ 
+has committed to handling such personal information in accordance with the 
+Safe Harbor Principles. XYZ’s Safe Harbor certification can be found at http://
+web.ita.doc.gov/safeharbor/shlist.nsf/webPages/safe+harbor+list. For more 
+information about the Safe Harbor Principles, please visit the U.S. Department 
+of Commerce’s Website at http://export.gov/safeharbor/.
+XYZ Website Privacy Statement
+XYZ respects the privacy of visitors to its websites, as a result, we have devel-
+oped this website privacy policy. This website privacy policy applies only to 
+the operation of websites that directly link to this policy when you click on 
+“privacy statement” in the website footer. 
+Through this website XYZ will collect information that can identify you, such 
+as your name, address, telephone number, e-mail address, and other similar 
+information (“Your Information”) when it is voluntarily submitted to us (how-
+ever, see discussion below about “IP Addresses” if you have a broadband 
+connection). We will use Your Information to respond to requests you may 
+make of us, and from time to time, we may refer to Your Information to better 
+Which EU/EEA Countries do you receive information from? 
+(Select all that apply)
+None Cyprus Finland Hungary Latvia   Portugal  
+Spain 
+Switzerland*
+Austria Czech 
+Republic
+France    Malta
+Iceland
+Liechtenstein 
+Netherlands Romania  Sweden Belgium  Denmark Germany  
+Ireland Lithuania Norway Slovakia United 
+     Kingdom
+Bulgaria
+Estonia Greece Italy Luxembourg Poland Slovenia
+Please select your appropriate Industry Sectors. (Select up to 4)
+Other TBD TBD TBD TBD   TBD  
+TBD TBD TBD TBD    TBD TBD 
+TBD TBD  TBD TBD  TBD TBD  
+TBD TBD TBD TBD TBD TBD
+TBD TBD TBD TBD TBD TBD
+Please select the appropriate level of sales:
+TBD TBD TBD TBD TBD TBD
+How many employees does your organization have?
+TBD TBD TBD TBD TBD TBD
+Please print out your completed form now to verify that the information 
+provided is correct and to retain a copy for your files.
+If you are ready to submit the self-certification for your organization simply 
+click the SUBMIT button below.
+SUBMIT
+*See Appendix D for additional information
+42 The U.S.–EU Safe Harbor Guide to Self-Certification  U.S. Department of Commerce 43
+possible that your IP Address that we collect, or even perhaps a cookie we 
+use, may contain information that could be deemed identifiable. This is be-
+cause with some broadband connections your IP Address doesn’t change 
+(it is “static”) and could be associated with your personal computer. We use  
+your IP address to report aggregate information on use and to help improve 
+the website. 
+You should be aware that this site is not intended for, or designed to attract, 
+individuals under the age of 18. We do not collect personally identifiable infor-
+mation from any person we actually know is an individual under the age of 18. 
+Areas of this website that collect Your Information use industry standard se-
+cure socket layer encryption (SSL); however, to take advantage of this your 
+browser must support encryption protection (found in Internet Explorer re-
+lease 3.0 and above). 
+We may share Your Information with agents, contractors or partners of XYZ  
+in connection with services that these individuals or entities perform for, or 
+with, XYZ. These agents, contractors or partners are restricted from using this 
+data in any way other than to provide services for XYZ, or services for the col-
+laboration in which they and XYZ are engaged (for example, some of our prod-
+ucts are developed and marketed through joint agreements with other compa-
+nies). We may, for example, provide your information to agents, contractors or 
+partners for hosting our databases, for data processing services, or so that they  
+can mail you information that you requested. 
+XYZ reserves the right to share Your Information to respond to duly autho-
+rized information requests of governmental authorities or where required by 
+law. In exceptionally rare circumstances where national, state or company se-
+curity is at issue (such as with the World Trade Center terrorist act in Septem-
+ber, 2001), XYZ reserves the right to share our entire database of visitors and 
+customers with appropriate governmental authorities. 
+We may also provide Your Information to a third party in connection with the 
+sale, assignment, or other transfer of the business of this website to which the 
+information relates, in which case we will require any such buyer to agree to 
+treat Your Information in accordance with this Privacy Policy. 
+As a convenience to our visitors, this Website currently contains links to a 
+number of sites that we believe may offer useful information. The policies 
+and procedures we described here do not apply to those sites. We suggest 
+contacting those sites directly for information on their privacy, security, data 
+collection, and distribution policies. 
+understand your needs and how we can improve our websites, products and 
+services. We may also use Your Information to contact you and/or provide 
+you with general health information (like information on certain health con-
+ditions) as well as information about our products and services. We may also  
+enhance or merge Your Information with data obtained from third parties for 
+the same purposes. 
+Any other information transferred by you in connection with your visit to this 
+site (“Other Information” - that is, information that cannot be used to iden-
+tify you) may be included in databases owned and maintained by XYZ or its 
+agents. XYZ retains all rights to these databases and the information con-
+tained in them. Other Information we collect may include your IP Address and 
+other information gathered through our weblogs and cookies (see below). 
+This site may use a technology known as web beacons - sometimes called single-
+pixel gifs - that allow this site to collect web log information. A web beacon is a 
+graphic on a web page or in an e-mail message designed to track pages viewed 
+or messages opened. Web log information is gathered when you visit one of 
+our websites by the computer that hosts our website (called a “webserver”). The 
+webserver automatically recognizes some non-personal information, such as 
+the date and time you visited our site, the pages you visited, the website you 
+came from, the type of browser you are using (e.g., Internet Explorer), the type 
+of operating system you are using (e.g., Windows 2000), and the domain name 
+and address of your Internet service provider (e.g., AOL). We may also include 
+web beacons in promotional e-mail messages in order to determine whether 
+messages have been opened.
+This website may use a technology called a “cookie”. A cookie is a piece of in-
+formation that our webserver sends to your computer (actually to your browser 
+file) when you access a website. Then when you come back our site will detect 
+whether you have one of our cookies on your computer. Our cookies help pro-
+vide additional functionality to the site and help us analyze site usage more ac-
+curately. For instance, our site may set a cookie on your browser that keeps you 
+from needing to remember and then enter a password more than once during 
+a visit to the site.
+This website uses Internet Protocol (IP) Addresses. An IP Address is a number 
+assigned to your computer by your Internet service provider so you can ac-
+cess the Internet. Generally, an IP address changes each time you connect 
+to the Internet (it is a “dynamic” address). Note, however, that if you have a 
+broadband connection, depending on your individual circumstance, it is 
+44 The U.S.–EU Safe Harbor Guide to Self-Certification  U.S. Department of Commerce 45
+“Sensitive Personal Information” means personal information that reveals 
+race, ethnic origin, sexual orientation, political opinions, religious or philosoph-
+ical beliefs, trade union membership or that concerns an individual’s health. 
+Principles
+Notice
+Company shall inform an individual of the purpose for which it collects and 
+uses the Personal Information and the types of non-agent third parties to 
+which the Company discloses or may disclose that Information. Company 
+shall provide the individual with the choice and means for limiting the use 
+and disclosure of their Personal Information. Notice will be provided in clear 
+and conspicuous language when individuals are first asked to provide Per-
+sonal Information to the Company, or as soon as practicable thereafter, and 
+in any event before the Company uses or discloses the Information for a pur-
+pose other than for which it was originally collected. 
+Choice
+The Company will offer individuals the opportunity to choose (opt out) 
+whether their Personal Information is (1) to be disclosed to a third party or 
+(2) to be used for a purpose other than the purpose for which it was origi-
+nally collected or subsequently authorized by the individual. For Sensitive 
+Personal Information, the Company will give individuals the opportunity to 
+affirmatively or explicitly (opt out) consent to the disclosure of the informa-
+tion for a purpose other than the purpose for which it was originally collected 
+or subsequently authorized by the individual. Company shall treat Sensitive 
+Personal Information received from an individual the same as the individual 
+would treat and identify it as Sensitive Personal Information. 
+Onward Transfers
+Prior to disclosing Personal Information to a third party, Company shall notify 
+the individual of such disclosure and allow the individual the choice (opt out) 
+of such disclosure. Company shall ensure that any third party for which Per-
+sonal Information may be disclosed subscribes to the Principles or are subject 
+to law providing the same level of privacy protection as is required by the Prin-
+ciples and agree in writing to provide an adequate level of privacy protection. 
+Data Security
+Company shall take reasonable steps to protect the Information from loss, 
+misuse and unauthorized access, disclosure, alteration and destruction. 
+Company has put in place appropriate physical, electronic and manage-
+rial procedures to safeguard and secure the Information from loss, misuse, 
+To be removed from our contact lists, please write to XYZ at the following  
+address: 
+XYZ
+P.O. Box #### 
+City, State Zip Code
+Please note that you may continue to receive materials while we are updating 
+our lists. 
+We may update this Web site Privacy Policy from time to time. When we do 
+update it, for your convenience, we will make the updated policy available on 
+this page. 
+Last Updated: January 1, 2008
+Privacy Policy Example B
+XYZ Safe Harbor Policy 
+Introduction
+XYZ, Inc. (the “Company”) is a leading pure-play managed services provider 
+that offers security assessment, detection and prevention services that help 
+companies, governments and organizations safeguard their computer net-
+works and systems. Protecting consumer privacy is important to the Company. 
+The Company and its affiliated United States subsidiaries (hereinafter collec-
+tively referred to as the “Company,” “we,” “us” or “our”) adhere to the Safe Harbor 
+Agreement concerning the transfer of personal data from the European Union 
+(“EU”) to the United States of America. Accordingly, we follow the Safe Harbor 
+Principles published by the U.S. Department of Commerce (the “Principles”) 
+with respect to all such data. If there is any conflict between the policies in this 
+privacy policy and the Principles, the Principles shall govern. This privacy pol-
+icy outlines our general policy and practices for implementing the Principles, 
+including the types of information we gather, how we use it and the notice 
+and choice affected individuals have regarding our use of and their ability to 
+correct that information. This privacy policy applies to all personal information 
+received by the Company whether in electronic, paper or verbal format. 
+Definitions
+“Personal Information” or “Information” means information that (1) is trans-
+ferred from the EU to the United States; (2) is recorded in any form; (3) is about, 
+or pertains to a specific individual; and (4) can be linked to that individual. 
+46 The U.S.–EU Safe Harbor Guide to Self-Certification  U.S. Department of Commerce 47
+Contact Information
+Questions, comments or complaints regarding the Company’s Safe Harbor Poli-
+cy or data collection and processing practices can be mailed or emailed to: 
+XYZ
+Attn: Legal Department
+PO Box ####
+City, State Zip
+Effective date: January 1, 2008 
+Privacy Policy Example C
+To learn more about our privacy practices, see our Privacy Policy Details. 
+XYZ believes in protecting your privacy. When we collect personal information 
+from you on our website, we follow the privacy principles of (an independent re-
+source mechanism) and comply with the U.S.-EU Safe Harbor Framework as set 
+forth by the U.S. Department of Commerce regarding the collection, use and re-
+tention of personal data from the European Union. These are our promises to you:
+1.    Notice. When we collect your personal information, we’ll give you timely and 
+appropriate notice describing what personal information we’re collecting, 
+how we’ll use it, and the types of third parties with whom we may share it. 
+2.    Choice. We’ll give you choices about the ways we use and share your 
+personal information, and we’ll respect the choices you make. 
+3.    Relevance. We’ll collect only as much personal information as we need 
+for specific, identified purposes, and we won’t use it for other purposes 
+without obtaining your consent. 
+4.    Retention. We’ll keep your personal information only as long as we need it 
+for the purposes for which we collected it, or as permitted by law. 
+5.   Accuracy. We’ll take appropriate steps to make sure the personal information 
+in our records is accurate. 
+6.   Access. We’ll provide ways for you to access your personal information, as 
+required by law, so you can correct inaccuracies. 
+7.   Security. We’ll take appropriate physical, technical, and organizational 
+measures to protect your personal information from loss, misuse, 
+unauthorized access or disclosure, alteration, and destruction. 
+unauthorized access or disclosure, alteration or destruction. Company cannot 
+guarantee the security of Information on or transmitted via the Internet. 
+Data Integrity
+Company shall only process Personal Information in a way that is compatible 
+with and relevant for the purpose for which it was collected or authorized 
+by the individual. To the extent necessary for those purposes, Company shall 
+take reasonable steps to ensure that Personal Information is accurate, com-
+plete, current and reliable for its intended use. 
+Access
+Company shall allow an individual access to their Personal Information and al-
+low the individual to correct, amend or delete inaccurate information, except 
+where the burden or expense of providing access would be disproportionate 
+to the risks to the privacy of the individual in the case in question or where 
+the rights of persons other than the individual would be violated. 
+Enforcement
+Company uses a self-assessment approach to assure compliance with this 
+privacy policy and periodically verifies that the policy is accurate, compre-
+hensive for the information intended to be covered, prominently displayed, 
+completely implemented and accessible and in conformity with the Princi-
+ples. We encourage interested persons to raise any concerns using the con-
+tact information provided and we will investigate and attempt to resolve any 
+complaints and disputes regarding use and disclosure of Personal Informa-
+tion in accordance with the Principles. 
+If a complaint or dispute cannot be resolved through our internal process, we 
+agree to dispute resolution using (an independent resource mechanism) as a 
+third party resolution provider. 
+Amendments
+This privacy policy may be amended from time to time consistent with the re-
+quirements of the Safe Harbor. We will post any revised policy on this website. 
+Information Subject to Other Policies
+The Company is committed to following the Principles for all Personal Infor-
+mation within the scope of the Safe Harbor Agreement. However, certain 
+information is subject to policies of the Company that may differ in some  
+respects from the general policies set forth in this privacy policy. 
+48 The U.S.–EU Safe Harbor Guide to Self-Certification  U.S. Department of Commerce 49
+Appendix C: Dispute Resolution Providers
+Under the Safe Harbor’s Enforcement Principle, organizations self-certifying 
+to Safe Harbor must establish an independent recourse mechanism available 
+to investigate unresolved complaints. 
+An organization wishing to certify must ensure that its recourse mechanism is 
+in place prior to self-certification.
+The following private sector organizations provide dispute resolution pro-
+grams that assist in compliance with the Safe Harbor Enforcement Principles:
+BBB OnLine: www.bbbonline.org/
+TRUSTe: http //www.truste.org/
+AICPA WebTrust: www.aicpa.org/trustservices/
+Direct Marketing Association: www.the-dma.org/
+Entertainment Software Rating Board: www.esrb.org/
+JAMS: http://www.jamsadr.com/
+American Arbitration Association: http://www.adr.org/
+This list is not exhaustive, and the Department of Commerce does not require 
+or endorse any particular program.
+European Data Protection Authorities
+Alternatively, organizations participating in the U.S.-EU Safe Harbor may 
+choose to cooperate and comply with the European Data Protection Authori-
+ties (DPAs). 
+Please note that if human resources data is being covered in the organiza-
+tion’s self-certification, the organization must agree to cooperate and comply 
+with the DPAs for the purposes of handling unresolved complaints.
+Swiss Federal Data Protection and Information Commissioner
+Alternatively, organizations participating in the U.S.-Swiss Safe Harbor may 
+choose to cooperate and comply with the Swiss Federal Data Protection and 
+Information Commissioner (FDPIC).
+Following are descriptions of three representative dispute resolution bodies 
+(BBB, DMA and TRUSTe) and the services they offer. 
+Please note that if human resources data is being covered in the organiza-
+tion’s self-certification, the organization must agree to cooperate and comply 
+with the FDPIC for the purposes of handling unresolved complaints.
+8.   Sharing. Except as described in this policy, we won’t share your personal 
+information with third parties without your consent. 
+9.   International Transfer. If we transfer your personal information to another 
+country, we’ll take appropriate measures to protect your privacy and the 
+personal information we transfer. 
+10.  Enforcement. We’ll regularly review how we’re meeting these privacy 
+promises, and we’ll provide an independent way to resolve complaints about 
+our privacy practices. 
+To access your information, ask questions about our privacy practices, or issue 
+a complaint, contact us at:
+XYZ
+PO Box ####
+City, State Zip 
+(###) ###-####
+Email Address 
+If your inquiry is not satisfactorily addressed, contact the (an independent 
+resource mechanism) Dispute Resolution Process. (an independent resource 
+mechanism) will serve as a liaison with the website to resolve your concerns.
+To learn more about our privacy practices, see our Privacy Policy details. 
+50 The U.S.–EU Safe Harbor Guide to Self-Certification  U.S. Department of Commerce 51
+Direct Marketing AssociatIon Member Safe Harbor Program
+How Can the DMA Safe Harbor Program Assist Its Participating Member 
+Companies? 
+?   The DMA serves as a third-party dispute and enforcement mechanism for 
+unresolved European data privacy complaints (The DMA has at least four 
+decades of experience in addressing and satisfactorily resolving consumer 
+disputes);
+The DMA provides technical assistance and extensive educational materials 
+available on the DMA website, www.the-dma.org/safeharbor.
+?   Each participant receives a staff review of the company’s Safe Harbor pri-
+vacy policy statement; and 
+?   The DMA provides a DMA Safe Harbor Program mark that companies can 
+display on their relevant online or offline materials.
+Who is eligible to participate in the DMA Safe Harbor Program?
+The DMA Safe Harbor Program is only available to DMA Members. DMA com-
+panies wishing to participate in our Safe harbor program must submit an ap-
+plication which includes: a signed contract, company contact sheet, copy of 
+their Safe Harbor privacy policy statement and annual Safe Harbor fee.
+Questions? www.the-dma.org/safeharbor
+For more information about the DMA Safe Harbor Program, contact Lisa 
+Shosteck at 202.955.5030 ext. 2436 or lshosteck@the-dma.org.
+For more information about membership in the DMA, contact Paulette Peach with 
+our membership department at: 212.768.7277 ext. 1793 or ppeach@the-dma.org.
+TRUSTe Safe Harbor Fact Sheet
+What is the EU-US Safe Harbor Framework?
+If you do business with European citizens, TRUSTe can help you certify your 
+compliance with the EU Directive on Data Protection. The Directive prohibits 
+the transfer of European cititzens’ personal data to non-European Union na-
+tions that do not meet the EU’s “adequacy” standard for privacy protection. 
+The U.S. Department of Commerce, in concert with the European Commis-
+sion, developed a “Safe Harbor Framework” that allows US organizations to 
+comply with the Directive by abiding by a set of Safe Harbor Privacy Princi-
+ples. Companies certify their compliance with these Principles on the U.S. De-
+partment of Commerce Web site. The Framework was approved by the EU in 
+2000 and gives companies that abide by the Principles assurance that the EU 
+will consider their practices “adequate” privacy protections for EU citizens.
+BBB EU Safe Harbor Dispute Resolution Procedure
+The Better Business Bureau (“BBB”) is an unbiased organization that fosters 
+honest and responsive relationships between businesses and consumers– in-
+stilling consumer confidence and contributing to a trustworthy marketplace. 
+BBB provides objective advice, free business Reliability Reports and charity 
+Wise Giving Reports, and educational information on topics affecting market-
+place trust. To further promote trust, BBB also offers complaint and dispute 
+resolution support for consumers and businesses when there is difference in 
+viewpoints.
+The BBB EU Safe Harbor Dispute Resolution Procedure (“Procedure”) ful-
+fills the dispute resolution mechanism requirement of the Department 
+of Commerce’s Safe Harbor Certification Program. As a recognized leader 
+in business-to-consumer dispute resolution programs, the BBB provides 
+for the review of complaints filed by EU citizens alleging that a business 
+participating in the Procedure has failed to comply with the Safe Harbor  
+Privacy Principles. 
+In the event that the BBB Procedure receives a complaint from an EU citizen, 
+the first step in the dispute resolution process is for the BBB Procedure to con-
+tact the business. The BBB Procedure will ensure that the complainant has 
+made a good faith effort to resolve his or her claim directly with the business, 
+and then will attempt an informal mediation between the EU citizen and the 
+business with the goal of rectifying the EU citizen’s concern.  If the BBB Proce-
+dure is unable to address the EU citizen’s concerns informally with the busi-
+ness, the second step is the more formal Data Privacy Review (“Review”). In the 
+Review, the complainant submits a statement of his or her complaint, which is 
+forwarded to the business. The business replies with an answer. Each party has 
+one further opportunity to respond. When all information has been submitted, 
+the BBB Procedure reviews the information and will issue a decision. If appro-
+priate, the BBB Procedure will recommend corrective action to the business to 
+ensure that all Safe Harbor Privacy Principles are met. 
+The third step in the Procedure is the Data Privacy Appeal. Both parties have the 
+right to appeal the Review decision. In the event of an appeal, the case will be 
+forwarded by the BBB to an independent expert in the privacy field. The appeal 
+will be determined by the expert, who will issue a final decision in the case.  
+To register for participation in the BBB EU Safe Harbor Dispute Resolution Pro-
+cedure, please visit us at us.bbb.org. Click on BBB For Businesses, and, under 
+Programs and Services, Safe Harbor Privacy Program. For more information, 
+please contact us at 800-334-2406 or email eusafeharbor@council.bbb.org. 
+ U.S. Department of Commerce 5352 The U.S.–EU Safe Harbor Guide to Self-Certification
+Appendix D: U.S.-Swiss Safe Harbor  
+Framework
+In 2009, the Department of Commerce and the Federal Data Protection and  
+Information Commission of Switzerland completed negotiations on establish-
+ing a data protection framework between the two countries. An exchange of 
+letters was signed by the Acting Under Secretary for International Trade, U.S. 
+Department of Commerce, and the Federal Data Protection and Information 
+Commissioner (FDPIC) on the creation of a `U.S.-Swiss Safe Harbor Framework’. 
+The framework will simplify the transfer of personal data by Swiss firms to 
+American companies that self-certify to the U.S. Department of Commerce. 
+To bridge the different privacy approaches and provide a streamlined means 
+for U.S. organizations to comply with the Swiss data protection law, the U.S. 
+Department of Commerce in consultation with the Federal Data Protection 
+and Information Commission developed a “Safe Harbor” framework.  
+The process for self-certifying to the U.S.-Swiss Safe Harbor Framework is 
+identical to that for self-certification to the U.S.-EU Safe Harbor Framework. 
+The certification form is identical and we have added Switzerland to the coun-
+try selection imbedded in the application form. 
+Please note that you do not have to join the U.S.-EU Safe Harbor in order to 
+self-certify to the U.S.-Swiss Safe Harbor Framework or vice versa. Organiza-
+tions should also note that when they select “Switzerland” as a country from 
+which they receive personal data, they are self-certifying compliance to the 
+U.S.-Swiss Safe Harbor Framework. It is critically important that the U.S.-Swiss 
+Safe Harbor privacy principles, the 15 FAQs, and the enforcement statement 
+be reviewed before executing the self-certification form. Although the respec-
+tive U.S.-Swiss Safe Harbor and U.S.-EU Safe Harbor privacy principles, 15 FAQs, 
+and enforcement statements are similar, they are not identical.
+Why TRUSTe’s EU Safe Harbor Seal?
+The TRUSTe EU Safe Harbor Seal Program verifies your compliance with the 
+Safe Harbor Framework, includes alternative dispute resolution, and helps 
+your organization get ready for self-certification with the U.S. Department of 
+Commerce. Displaying the TRUSTe EU Safe Harbor seal signals to consumers 
+around the globe that you take their privacy seriously.
+What are the benefits?
+1) Streamline legal compliance with the EU Safe Harbor Framework:
+- Verifies compliance with the Safe Harbor Privacy Principles.
+-  Provides dispute resolution of consumer complaints about data collected 
+online or offline, as required for Safe Harbor status.
+-  Prepares you for self-certification with the U.S. Department of Com-
+merce.
+2)  Builds trust and confidence:
+-  Brands your organization and Web site as EU-US Safe Harbor compliant by 
+posting the distinctive EU Safe Harbor seal.
+-  Third-party certification emphasizes your organization’s commitment to 
+privacy and consumer choice. 
+TRUSTe EU Members
+Many of the world’s leading companies and organizations protect the privacy 
+of their customers with TRUSTe, including:
+Adobe Systems Monster
+Apple Napster
+aQuantive ORACLE
+Avaya Salesforce.com
+Carlson Companies Harrisinteractive.com SkillSoft 
+IBM Sybase
+Logitech TNS
+McAfee, Inc. Varian Medical Systems
+Microsoft
+ U.S. Department of Commerce 55
+ 3.  Your organization may use the mark for one year from the initial self-
+certification date. Authorization to use the mark is renewable each year 
+subject to the organization’s reaffirmation to comply with the Safe Harbor 
+Framework.
+ 4.  The mark may not be used for marketing or advertisements, and/or to 
+imply any endorsement, authorization, or affiliation that does not exist 
+with respect to the U.S. Department of Commerce or the United States 
+Government.
+5.  The mark may not be used in a manner that embarrasses the Department 
+or the United States Government. 
+ 6.  The mark may be placed on the organization’s website on its home page or 
+on the page where the privacy policy is found.
+ 7.  In each instance in which you post the mark on your organization’s website, 
+you must:
+a.  Immediately above the top edge of the mark, display the following 
+language, in a clear and conspicuous manner not to exceed the width 
+of the mark in a minimum 8 point font, “We self-certify compliance with”. 
+With the words “We self-certify compliance with”, provide a link to: 
+http://web.ita.doc.gov/safeharbor/shlist.nsf/webPages/safe+harbor+list
+b. With the mark, provide a link to: www.export.gov/safeharbor
+ 8.  The mark must be removed from the organization’s website under the 
+appropriate circumstances including, but not limited to: a. the organization 
+withdraws from participation or is removed as a participant in the U.S.-EU 
+Safe Harbor Framework; b. the organization fails to comply with a final 
+ruling of a private sector dispute resolution body, a self-regulatory body, 
+or government body, as applicable, in connection with allegations of Safe 
+Harbor non-compliance; c. the organization fails to renew its commitment 
+to the Framework in a reasonable time and in accordance with the 
+reaffirmation requirements; d. the organization is acquired by another 
+entity that either is not in the Framework or chooses to opt-out of the 
+program; or e. the organization ceases commercial operations.
+ 9.  Failure to comply with these instructions may result in enforcement of the 
+certification mark through an action for infringement of the mark, and/or 
+a referral to the Federal Trade Commission for investigation of an unfair or 
+deceptive trade practice under section 5 of the Federal Trade Commission Act.
+54 The U.S.–EU Safe Harbor Guide to Self-Certification
+Appendix E: Safe Harbor Certification mark
+On July 31, 2008, the International Trade Administration 
+(ITA) announced that it developed a certification mark 
+for the U.S.-European Union (EU) Safe Harbor Framework. 
+The mark may be used by companies on their websites to 
+signify that they have self-certified compliance with the 
+provisions of the Safe Harbor Framework. 
+The Safe Harbor Framework facilitates secure, uninterrupted transfers of per-
+sonal information that support billions of dollars in trade from the EU to the 
+United States. By displaying this certification mark, participating companies 
+can more easily illustrate their commitment to ensuring that EU citizens’ data 
+is secure, which is critical to the U.S.-EU trade relationship. 
+In order to display the certification mark, participating U.S. companies must 
+follow specific instructions developed by ITA. Only those organizations that 
+have self-certified and are listed on ITA’s official Safe Harbor Program list will 
+be allowed to use the mark in an appropriate manner. Continued use of the 
+mark is contingent on companies maintaining their status in the program.
+Instructions for Self-Certified Organizations on the use of the Safe Harbor 
+Certification mark
+Congratulations on your self-certification to the U.S.-EU Safe Harbor Framework. 
+Your self-certification is valid for one year and is renewable annually on or be-
+fore your anniversary of enrolling in the Framework. In order to continue to take 
+advantage of the benefits that self-certification affords, you must maintain your 
+official filing and inform the Department of any changes in the scope of your or-
+ganization’s activities within the European Union. The Department provides its 
+“Safe Harbor” certification mark (referred to hereafter as “mark”) to those organi-
+zations that maintain their “current” status by self-certifying their practices in an 
+official, annual filing with the Department. This mark must be used in accordance 
+with the following instructions.
+Safe Harbor Certification Mark Instructions
+ 1.  The mark is a visual manifestation of the commitment your organization 
+makes when it self-certifies that it will comply with the U.S.-EU Safe Harbor 
+Framework. 
+ 2.  Your organization may announce its self-certification in a press release and in-
+clude the mark as evidence that it has met the self-certification requirements 
+established by the Department for the U.S.-EU Safe Harbor Framework.
+56 The U.S.–EU Safe Harbor Guide to Self-Certification  U.S. Department of Commerce 57
+EU Directive – The EU Directive was adopted in 1995 and became effective in 
+1998 and protects individuals’ privacy and personal data use. The Directive 
+recognizes the European view that privacy is a fundamental human right, and 
+establishes a general comprehensive legal framework that is aimed at protect-
+ing individuals and promoting individual choice regarding the processing of 
+personal data. The Directive imposes an onerous set of requirements on any 
+person that collects or processes data pertaining to individuals in their per-
+sonal or professional capacity. It is based on a set of data protection principles, 
+which include the legitimate basis, purpose limitation, data quality, propor-
+tionality, and transparency principles, data security and confidentiality, data 
+subjects’ rights of access, rectification, deletion, and objection, restrictions on 
+onwards transfers, additional protection where special categories of data and 
+direct marketing are involved, and a prohibition on automated individual de-
+cisions. The Directive applies to all sectors of industry, from financial institu-
+tions to consumer goods companies, and from list brokers to any employer. 
+The Directive’s key provisions impose serious restrictions on personal data 
+processing, grant individual rights to “data subjects,” and set forth specific pro-
+cedural obligations, including notification to national authority. The Directive 
+has been supplemented by additional directives including a specific provision 
+for the telecommunications sector (2002/58) as well as for e-commerce. 
+European Economic Area (EEA) – An economic region that includes the Euro-
+pean Union (EU) plus Iceland, Norway, and Liechtenstein – the latter are not 
+official members of the European Union but are closely linked by economic 
+relationship.
+European Union (EU) – The European Union (EU) is an organization of Euro-
+pean countries dedicated to increasing economic integration and strength-
+ening cooperation among its members. The European Union was involved in 
+the development of the Safe Harbor Principles that affect data flows from the 
+European Union into the United States. As of July 2008, the member states 
+include: Austria, Belgium, Bulgaria, Cyprus, Czech Republic, Denmark, Esto-
+nia, Finland, France, Germany, Greece, Hungary, Ireland, Italy, Latvia, Lithu-
+ania, Luxembourg, Malta, Netherlands, Poland, Portugal, Romania, Slovakia, 
+Slovenia, Spain, Sweden, and United Kingdom.
+Federal Trade Commission (FTC) – The U.S. Federal Trade Commission enforces 
+a variety of federal antitrust and consumer protection laws, including the Safe 
+Harbor Principles. The Commission seeks to ensure that the nation’s markets 
+function competitively, and are vigorous, efficient, and free of undue restric-
+tions. The Commission also works to enhance the smooth operation of the 
+marketplace by eliminating acts or practices that are unfair or deceptive.
+Appendix F: Glossary *
+Access – The ability to view personal information held by an organization – this 
+ability may be complemented by an ability to update or correct the information. 
+Access defines the intersection of identity and data; that is, who can do what to 
+which data.  
+Adequacy – As used in EU Data Protection Directive, adequacy refers to the 
+existence of a legal regime in another country that provides sufficient protec-
+tion for personal information. In other words, a country will be deemed “ad-
+equate” if its laws afford individuals rights that are similar to those afforded by 
+the EU Data Protection Directive. If a country offers adequate protection, then 
+data transfers from the European Economic Area (EEA) to that country may 
+occur without any further limitation – provided that the processing meets 
+the other provisions of the Directive. This concept has been expanded to en-
+compass other types of data transfer mechanisms. For example, the U.S. Safe 
+Harbor provides an adequate level of protection, so companies that are in the 
+Safe Harbor may transfer data from the EU to the US. Similarly, the EU Model 
+Contracts provide an adequate level of protection, so data may be transferred 
+from the EU to any country, if the recipient has executed a Model Contract.
+Choice – An individual’s ability to determine whether or how personal infor-
+mation collected from him or her may be used or disclosed by the entity that 
+collected the information. Also: The ability of an individual to limit certain 
+uses of his or her personal information. For example, an individual may have 
+choice about whether to permit a company to contact the individual or share 
+the individual’s data with third parties. 
+Data commissioner – Government official that runs a data protection office 
+and that is charged with enforcing a country’s data protection laws.
+Data protection authority – See data commissioner. 
+Data subject – Term used in some data protection litigation to describe an 
+individual who is the subject of a personal data record. 
+Directive – See EU Directive
+Dispute resolution – The response to a valid complaint or grievance, or the 
+action taken to correct faulty information, or to make amends for harm or 
+inconvenience caused to an individual.
+EU Data Protection Directive – Several directives deal with personal data usage, 
+but the most important is the general policy approved by the European Commis-
+sion in 1995 (95/46/EC) which protects individuals’ privacy and personal data use. 
+58 The U.S.–EU Safe Harbor Guide to Self-Certification  U.S. Department of Commerce 59
+Safe Harbor – The European Commission’s Directive on Data Protection (The 
+EU Directive) prohibits the transfer of personal data to non-European Union 
+nations that do not meet the European “adequacy” standard for privacy pro-
+tection. While the United States and the European Union share the goal of pri-
+vacy protection, the United States uses a sectoral approach that relies on a mix 
+of legislation, regulation, and self-regulation, while the European Union relies 
+on comprehensive legislation that requires creation of government data pro-
+tection agencies, registration of databases with those agencies, and, in some 
+instances, approval before data processing may begin. As a result of these dif-
+ferent privacy approaches, the directive could have significantly hampered the 
+ability of U.S. companies to engage in many trans-Atlantic transactions.
+In order to bridge these different privacy approaches and provide a stream-
+lined means for U.S. organizations to comply with the directive, the U.S. De-
+partment of Commerce and the European Commission developed a “Safe 
+Harbor” framework. The Safe Harbor – approved by the EU in 2001 – is an 
+important way for U.S. companies to avoid interruptions in business deal-
+ings with the EU or prosecution by European authorities under European  
+privacy laws.
+Certifying to the Safe Harbor assures that EU organizations know that a com-
+pany provides adequate privacy protection, as defined by the directive. From 
+a U.S. perspective, Safe Harbor is a self-regulatory regime that is only avail-
+able to companies that are subject to the enforcement authority of the U.S. 
+Federal Trade Commission or the U.S. Department of Transportation. Compa-
+nies that are outside the jurisdiction of these two agencies are not eligible to  
+join Safe Harbor.
+*Definitions for this Glossary are used by permission from the: 
+IAPP Certified Information Privacy Professional Training Course Book
+circlecopyrt 2007 by the International Association of Privacy Professionals
+https://www.privacyassociation.org/
+Member state – In EU documents, this term refers to a country that is a full 
+member of the European Union.  As of July 2008, the member states include: 
+Austria, Belgium, Bulgaria, Cyprus, Czech Republic, Denmark, Estonia, Fin-
+land, France, Germany, Greece, Hungary, Ireland, Italy, Latvia, Lithuania, Lux-
+embourg, Malta, Netherlands, Poland, Portugal, Romania, Slovakia, Slovenia, 
+Spain, Sweden, and United Kingdom.
+Notice – A written description of an entity’s practices with respect to its collec-
+tion, use and disclosure of personal information. A private notice typically in-
+cludes a description of what personal information the entity collects, how the 
+entity uses the information, with whom it shares the information, whether 
+the information is secured, and whether an individual has any choices as to 
+how the entity uses the information. 
+Opt-in - A consumer’s expression of affirmative consent based upon a specific 
+act of the consumer.
+Opt-out – A consumer’s exercise of choice through an affirmative request that 
+a particular use of disclosure of data not occur. 
+Personal Data – Any and all data that relates to an identifiable individual. See 
+EU Directive. 
+Personal information – Any information that (i) relates to an individual and 
+(ii) identifies or can be used to identify the individual. Such information may 
+include an individual’s name, postal address, e-mail address, telephone num-
+ber, Social Security number, or other unique identifier. 
+Privacy – The appropriate use of personal information under the circumstanc-
+es. What is appropriate will depend on context, law, and the individual’s ex-
+pectations; also, the right of an individual to control the collection, use, and 
+disclosure of personal information.
+Privacy policy – An organization’s standard pertaining to the user information 
+it collects and what is done with the information after it is collected. 
+Privacy seal program – Self-regulatory regimes that certify compliance with a 
+set of standards of privacy protection. Websites display the program’s seal to 
+indicate that they adhere to these standards. 
+Privacy statement – An organization’s communication regarding its privacy 
+policies, such as what personal information is collected, how it will be used, 
+with whom it will be shared, and whether one has the option to exercise con-
+trol over how one’s information is used. Privacy statements are frequently 
+posted on Websites. 
+
+U.
+S.
+?
+EU
+SAFE
+ HARBOR
+ FR
+A
+ME
+WORK
+?
+GUIDE 
+T
+O SELF-
+CER
+TIFIC
+A
+TION 
+?
+M
+AR
+CH 2009
+U.S. Department of Commerce
+U.S.-EU Safe Harbor Framework
+1401 Constitution Avenue, N.W.
+Room 2003
+Washington, DC 20230
+Telephone: 202.482.5023  ?   Fax: 202.482.5522  ?   www.export.gov/safeharbor

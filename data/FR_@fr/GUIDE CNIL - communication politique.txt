@@ -1,0 +1,2486 @@
+COMMUNICATION POLITIQUE
+ObligatiOnS lÉgaleS
+et bOnneS PRatiQUeS
+Édition Janvier 2012
+ AVANT-PROPOS 2
+ I – Le cAdRe gÉNÉRAL de LA PROTecTION deS dONNÉeS PeRSONNeLLeS 3
+ les cinq principes clefs à respecter 4
+ le Correspondant informatique et libertés (Cil) 9
+ II – QueLS fIchIeRS INTeRNeS L’ÉLu, Le cANdIdAT Ou Le PARTI POLITIQue, 
+ PeuT-IL cONSTITueR À deS fINS de cOmmuNIcATION POLITIQue ? 10
+ Fiche n° 1 : les fichiers de « membres », de « contacts réguliers » et « occasionnels » d’un parti politique 11
+ Fiche n° 2 : les fichiers de « contacts réguliers » et de « contacts occasionnels » d’un élu ou candidat 16
+ Fiche n° 3 : les fichiers constitués dans le cadre de la désignation de candidats 20
+ Fiche n° 4 : le référendum local et la pétition 23
+ III – QueLS AuTReS fIchIeRS L’ÉLu, Le cANdIdAT Ou Le PARTI POLITIQue
+ PeuT-IL uTILISeR À deS fINS de cOmmuNIcATION POLITIQue ? 27
+ Fiche n° 5 : les listes électorales 28
+ Fiche n° 6 : le répertoire national des élus 30
+ Fiche n° 7 : l’utilisation des annuaires 31
+ Fiche n° 8 : l’utilisation des fichiers du secteur privé 32
+ IV – QueL mÉdIA ? QueLLeS gARANTIeS ? 34
+ Fiche n° 9 : la communication par téléphone 35
+ Fiche n° 10 : la communication par e-mail 38
+ Fiche n° 11 : internet et la communication politique 41
+ ANNeXe : fORmALITÉS PRÉALAbLeS À AccOmPLIR AuPRÈS de LA cNIL 47
+ 
+ AVANT-PROPOS 2
+ I – Le cAdRe gÉNÉRAL de LA PROTecTION deS dONNÉeS PeRSONNeLLeS 3
+ les cinq principes clefs à respecter 4
+ le Correspondant informatique et libertés (Cil) 9
+ II – QueLS fIchIeRS INTeRNeS L’ÉLu, Le cANdIdAT Ou Le PARTI POLITIQue, 
+ PeuT-IL cONSTITueR À deS fINS de cOmmuNIcATION POLITIQue ? 10
+ Fiche n° 1 : les fichiers de « membres », de « contacts réguliers » et « occasionnels » d’un parti politique 11
+ Fiche n° 2 : les fichiers de « contacts réguliers » et de « contacts occasionnels » d’un élu ou candidat 16
+ Fiche n° 3 : les fichiers constitués dans le cadre de la désignation de candidats 20
+ Fiche n° 4 : le référendum local et la pétition 23
+ III – QueLS AuTReS fIchIeRS L’ÉLu, Le cANdIdAT Ou Le PARTI POLITIQue
+ PeuT-IL uTILISeR À deS fINS de cOmmuNIcATION POLITIQue ? 27
+ Fiche n° 5 : les listes électorales 28
+ Fiche n° 6 : le répertoire national des élus 30
+ Fiche n° 7 : l’utilisation des annuaires 31
+ Fiche n° 8 : l’utilisation des fichiers du secteur privé 32
+ IV – QueL mÉdIA ? QueLLeS gARANTIeS ? 34
+ Fiche n° 9 : la communication par téléphone 35
+ Fiche n° 10 : la communication par e-mail 38
+ Fiche n° 11 : internet et la communication politique 41
+ ANNeXe : fORmALITÉS PRÉALAbLeS À AccOmPLIR AuPRÈS de LA cNIL 47
+ 
+Ce guide est téléchargeable sur : www.cnil.fr
+Sommaire
+1
+2Guide CommuniCation politique
+aux côtés des moyens traditionnels de communication, la généralisation du 
+recours au réseau internet, aux réseaux sociaux virtuels et aux nouvelles 
+technologies modifient la physionomie de la vie politique française. il en est 
+de même de l’émergence de nouveaux modes de consultation, comme les 
+élections primaires.
+Ces pratiques renouvellent les enjeux et besoins en matière de protection des 
+données personnelles et de la vie privée.
+Ces changements et la perspective des échéances électorales de 2012 ont 
+incité la Cnil à actualiser la recommandation qu’elle a adoptée en 2006 en 
+matière de communication politique.
+la recommandation du 26 janvier 2012 (n°2012-020), prise après consultation 
+des principaux partis politiques, tire les enseignements des plaintes et des 
+demandes de conseil soumises chaque année à la Cnil.
+Ce guide pratique s’adresse aux partis politiques, élus et candidats ou encore à 
+toute association ou personne développant des opérations de communication 
+à caractère politique. il leur rappelle les règles à respecter lorsqu’ils utilisent des 
+fichiers (constitués par eux-mêmes, publics ou constitués par des tiers) ou les 
+différents outils de communication, notamment internet.
+Véritable « manuel de campagne à l’ère numérique », ce guide tend à garantir 
+l’équilibre entre la libre expression, la bonne organisation du débat public 
+ainsi que la protection de l’identité humaine, de la vie privée et des données 
+personnelles.
+Isabelle fALQue-PIeRROTIN
+Présidente de la CNIL
+Avant-propos
+a
+V
+ant
+-
+p
+R
+opo
+S
+la Commission nationale de l’informatique et des libertés (Cnil) est une 
+autorité administrative indépendante créée en 1978 qui se compose d’un 
+collège pluraliste de 17 membres. Son Président est élu par ses pairs.
+la Commission informe les personnes de leurs droits et les professionnels de 
+leurs obligations, tels que définis par la loi « informatique et libertés »21. elle joue 
+aussi un rôle d’alerte, d’anticipation et de conseil. enfin, la Cnil est dotée d’un 
+pouvoir de contrôle sur place et de sanction.
+la Cnil a pour mission de veiller à ce que le développement des nouvelles 
+technologies ne porte pas atteinte à l’identité humaine, à la vie privée et aux 
+libertés individuelles ou publiques.
+C’est à ce titre qu’elle peut intervenir en matière de communication politique, 
+dès lors que ces opérations de communication nécessitent la constitution ou 
+l’utilisation de fichiers de données à caractère personnel.
+la communication politique peut être réalisée par :
+•  une structure à caractère politique (parti, association, formation…) rassemblant 
+plusieurs catégories de personnes physiques : des adhérents ou membres, 
+des sympathisants, des militants, des correspondants, des soutiens, des 
+« contacts réguliers », des « prospects », etc.
+•  un élu ou un candidat disposant de ses propres fichiers constitués dans le 
+cadre de son activité politique : personnes reçues dans sa permanence, 
+personnes présentes aux réunions publiques, « prospects », etc.
+Ces responsables de traitements doivent donc respecter le cadre général et 
+légal de la protection des données personnelles.
+la communication politique peut s’adresser à une personne :
+•  en relation régulière avec un parti politique, un élu ou un candidat (« membre » 
+du parti et « contact régulier ») ;
+•  ou en contact ponctuel ou démarchée à l’initiative d’un parti politique, un élu 
+ou un candidat (« contact occasionnel »). 
+21  l’expression « informatique et libertés » renvoie à la loi n°78-17 du 6 janvier 1978 
+modifiée. 
+I. Le cadre général de la protection
+des données personnelles
+3
+4Guide CommuniCation politique
+Les cinq principes clefs à respecter
+la loi « informatique et libertés » définit les principes à respecter lors de la 
+collecte, du traitement et de la conservation de données personnelles. elle 
+garantit également un certain nombre de droits pour les personnes concernées.
+en pratique, qu’est-ce qu’une donnée personnelle ?
+la loi « informatique et libertés » définit une donnée à caractère personnel 
+comme toute information relative à une personne physique identifiée ou 
+qui peut être identifiée, directement ou indirectement, par référence à un 
+numéro d’identification ou à un ou plusieurs éléments qui lui sont propres. 
+Pour déterminer si une personne est identifiable, il convient de considérer 
+l’ensemble des moyens permettant son identification dont dispose ou 
+auxquels peut avoir accès le responsable de traitement ou toute autre 
+personne.
+Par exemple, un numéro de téléphone (identification du titulaire de la ligne 
+téléphonique), un nom d’utilisateur sur un réseau social, une adresse iP 2 ou 
+encore une opinion politique sont des données personnelles.
+Les opinions politiques, données personnelles sensibles
+les données personnelles relatives aux opinions politiques sont des 
+données dites « sensibles ». le traitement de ces données étant 
+susceptible par nature de porter atteinte aux libertés fondamentales ou à 
+la vie privée, l’article 8 de la loi « informatique et libertés » en interdit, par 
+principe, la collecte. il prévoit cependant des exceptions, notamment au 
+bénéfice d’une « association ou tout autre organisme à but non lucratif et à 
+caractère politique ».
+enregistrer des données personnelles dans un fichier tenu par un candidat, 
+un élu ou un parti politique est un traitement « sensible » puisqu’il est 
+susceptible de révéler l’opinion politique, réelle ou supposée, des personnes 
+concernées. À ce titre, la constitution du fichier doit non seulement respecter 
+les principes généraux de protection des données rappelés ci-dessous, mais 
+également faire l’objet de précautions renforcées (par exemple : en matière 
+d’information ou de consentement des personnes, de leur possibilité de 
+s’opposer à un tel traitement, de sécurité, etc.).
+2 « iP » est l’acronyme anglais de « internet Protocol » est l’adresse unique composée de chiffres 
+    et attribuée à chaque ordinateur sur un réseau (internet, ethernet).
+5
+en pratique, qui est responsable de traitement
+au sein d’une entité politique ?
+la loi « informatique et libertés » définit le responsable de traitement 
+comme la personne ou l’organisme qui décide de la création du fichier, en 
+détermine l’objet et définit les moyens mis en œuvre à cet effet (cf. article 3 
+de la loi).
+le responsable concerné par le guide est le parti politique, l’élu ou le 
+candidat qui met en œuvre un ou plusieurs traitements dont la finalité est la 
+communication politique. il peut s’agir, en fonction de l’organisation interne 
+de chaque parti politique, d’échelon, de fédération, de section. il peut aussi 
+s’agir d’une association de soutien à un élu ou un candidat, une association 
+de financement de l’action d’un parti ; un mouvement dédié à une tranche 
+d’âge de population affilié à une philosophie politique (mouvement de jeunes, 
+amicale des vétérans…).
+Le responsable devra accomplir les formalités préalables auprès 
+de la cNIL. c’est lui qui est susceptible d’être sanctionné en cas de 
+violation de la loi « Informatique et Libertés ».
+Cette qualité peut être délicate à définir notamment dans le cas d’un 
+groupement de structures à caractère politique, composé de plusieurs 
+entités locales et nationales, voire internationales. Plusieurs personnes 
+sont susceptibles d’être tenues pour responsable de traitement. il convient 
+notament d’analyser les liens juridiques entre chaque entité, l’autonomie de 
+gestion et la liberté d’action de chacune au sein du groupement, l’existence 
+d’un fichier unique ou de fichiers interconnectés.
+le responsable de traitement doit être distingué du destinataire des données 
+personnelles enregistrées dans le fichier : le destinataire est toute personne 
+habilitée à recevoir communication des données, autre que le responsable 
+de traitement, la personne concernée ou le sous-traitant. 
+il convient enfin de distinguer le responsable de traitement du prestataire 
+de service (le « sous-traitant »). Ce dernier intervient pour le compte du 
+responsable du traitement selon les objectifs qui lui ont été assignés et définis 
+dans le contrat de prestation. Par exemple, la société de communication à 
+laquelle un parti politique fait appel pour réaliser les opérations de propagande 
+politique est un prestataire de service. la responsabilité « informatique et 
+libertés » n’en incombe pas moins au responsable de traitement, à savoir à 
+l’élu, au candidat ou au parti politique qui recourt à ce prestataire. 
+6Guide communication politique
+   Le principe de finalité : une utilisation encadrée des fichiers
+les données à caractère personnel ne peuvent être recueillies et traitées que 
+pour un usage déterminé, explicite et légitime. Un fichier constitué à des fins de 
+communication politique ne peut pas être utilisé dans un autre but que celui qui 
+a été initialement défini.
+Par exemple, un élu ou candidat ne pourrait utiliser à des fins de communication 
+politique un fichier qu’il a constitué pour une activité professionnelle distincte. De 
+même, un ancien candidat ne peut pas utiliser pour une finalité professionnelle 
+un fichier constitué dans le cadre d’une campagne électorale particulière.
+tout détournement de finalité est passible de 5 ans d’emprisonnement, 
+de 300 000 € d’amende (article 226-21 du Code pénal) et de sanctions 
+administratives prononcées par la Cnil.
+   Le principe de proportionnalité
+Seules les informations pertinentes et nécessaires à la finalité poursuivie par 
+le fichier peuvent faire l’objet d’un enregistrement dans un traitement de 
+données à caractère personnel. Par exemple, il n’est pas utile d’enregistrer 
+des informations sur l’entourage familial d’une personne lorsque, au regard 
+des finalités d’un traitement, seuls sont nécessaires des éléments relatifs à son 
+activité politique.
+l’enregistrement de données relatives aux opinions politiques est par principe 
+interdit (cf. article 8 de la loi « informatique et libertés »). Cependant, les 
+fichiers mis en œuvre par les organismes non lucratifs à caractère politique 
+peuvent contenir de telles données, sous réserve des conditions suivantes. 
+Ces données doivent :
+-  correspondre uniquement à l’objet statutaire de l’organisme (opinions 
+politiques) ;
+-  concerner ses seuls membres ou les personnes qui entretiennent avec lui des 
+contacts réguliers ;
+- ne pas être communiquées à des tiers.
+   Le principe d’une durée de conservation limitée des données
+les informations enregistrées dans un fichier ne peuvent être conservées 
+indéfiniment. Une durée de conservation doit être fixée selon la finalité de 
+chaque fichier.
+Par exemple, un fichier de propagande constitué exclusivement pour les 
+besoins d’une campagne électorale particulière doit être détruit à l’issue de la 
+campagne. Un fichier constitué pour la campagne d’une élection « primaire » 
+au sein d’un parti politique ne peut être utilisé pour la campagne officielle, sauf 
+si les personnes concernées ont donné leur accord sur ce point (Cf. exemple 
+de mention d’information à la fiche n°3 du guide).
+7
+   Les principes de sécurité et de confidentialité
+les données contenues dans les fichiers ne peuvent être consultées que par 
+les personnes habilitées à y accéder en raison de leurs fonctions.
+l’élu, le candidat ou le parti politique, en sa qualité de responsable d’un 
+traitement, doit veiller à la sécurité des données qu’il exploite. il doit ainsi 
+prendre toutes les mesures nécessaires pour en garantir la confidentialité et 
+éviter toute divulgation d’information.
+afin d’aider le responsable de traitement à respecter cette exigence de sécurité 
+prévue par l’article 34 de la loi « informatique et libertés », la Cnil a conçu un 
+guide pratique consacré à la sécurité des données personnelles, disponible sur 
+le site internet www.cnil.fr.
+en effet, qu’il recoure ou non à un prestataire de service pour réaliser les 
+opérations de sa communication politique, l’élu, candidat ou parti politique 
+demeure le responsable de traitement. en cette qualité, il est tenu au respect 
+des obligations « informatique et libertés » dont la violation est sanctionnée par 
+le Code pénal et la loi « informatique et libertés ».
+en cas de recours à un prestataire, une clause spécifique doit être insérée 
+au contrat de prestation de service pour préciser l’obligation de sécurité du 
+traitement et de confidentialité des données qui s’impose à lui ; l’interdiction 
+d’utiliser les données fournies à d’autres fins que la mission pour laquelle elles 
+lui ont été confiées ; ou encore l’interdiction de les divulguer à des tiers. Un 
+modèle de clause contractuelle est mis à disposition sur le site www.cnil.fr.
+   Le principe du respect des droits des personnes
+les personnes physiques concernées par un traitement de données à caractère 
+personnel doivent être préalablement informées de l’identité du responsable (ou 
+de son représentant), de sa finalité, des destinataires, du caractère facultatif 
+des données collectées, des modalités d’exercice des droits d’accès et de 
+rectification ainsi que, le cas échéant, des transferts de leurs données vers un 
+État non-membre de l’Union européenne (cf. article 32 de la loi « informatique 
+et libertés »).
+Cette information doit être fournie aux personnes lorsqu’un élu, candidat ou 
+parti politique collecte directement leurs données à caractère personnel auprès 
+d’elles. en cas de collecte indirecte (par l’intermédiaire de tiers tels que des 
+soutiens, sympathisants ou prestataires externes), cette information doit 
+intervenir dès la première prise de contact avec la personne. il faut également 
+l’informer de l’origine des données (par exemple : dans le courrier adressé 
+grâce à l’utilisation d’un fichier loué ou acheté – cf. partie iii « Utilisation des 
+fichiers externes » du guide).
+toute personne a le droit de s’opposer, pour un motif légitime, à ce que des 
+données la concernant soient enregistrées dans un fichier. Pour collecter une 
+donnée sensible, par exemple révélant l’orientation politique de la personne, le 
+consentement exprès de l’intéressé devra être recueilli, par le biais d’une case 
+à cocher par exemple.
+8Guide communication politique
+Par ailleurs, toute personne physique justifiant de son identité a le droit 
+d’interroger le responsable d’un fichier pour :
+-  savoir si des données la concernant y figurent ou non ;
+-  obtenir la communication des données qui la concernent sous une forme 
+compréhensible, ainsi que toute information disponible quant à l’origine de 
+ses données ;
+-  obtenir des informations sur la finalité du traitement, les données collectées 
+et les destinataires ;
+-  mettre à jour, compléter ou rectifier des données la concernant ;
+-  obtenir la suppression des données la concernant.
+en pratique, comment vérifier l’identité de la personne
+qui exerce ses droits « Informatique et Libertés » ?
+le parallélisme des formes doit être le principe directeur pour faire droit à la 
+demande de toute personne.
+Par exemple, si s’abonner à une lettre d’actualités nécessite la seule collecte 
+de l’adresse électronique, se désabonner doit être possible par courrier 
+électronique (lien de désabonnement inséré dans chaque courriel). Pour se 
+désinscrire de la réception de SMS/MMS, le même support doit pouvoir être 
+utilisé par le destinataire du message de prospection.
+en revanche, si l’identité civile d’une personne est indispensable pour 
+nouer une relation avec un parti politique, candidat ou élu, la présentation 
+d’un justificatif officiel peut alors être demandée à l’appui de l’exercice des 
+droits « informatique et libertés ». Ce document ne doit cependant pas être 
+conservé une fois la demande satisfaite.
+ 
+9
+la maîtrise des risques liés au développement des technologies de l’information 
+et de la communication est aujourd’hui un enjeu stratégique pour tout 
+organisme. Depuis 2004, les acteurs publics et privés disposent d’un « outil » 
+privilégié pour se prémunir de ces risques : le Correspondant « informatique et 
+libertés » (Cil).
+en effet, tout organisme, quel que soit sa taille ou son secteur d’activité, 
+peut désigner un Cil afin de garantir sa conformité à la loi « informatique et 
+libertés » et créer les conditions nécessaires à un usage efficace et raisonné 
+de l’informatique.
+Cette démarche volontaire se traduit concrètement par les avantages suivants.
+   un vecteur de sécurité juridique
+le Cil permet de garantir la conformité de votre organisme à la loi « informatique 
+et libertés ». Cette maîtrise des risques juridiques est d’autant plus importante 
+que certains manquements à cette loi sont pénalement sanctionnés.
+   une source de sécurité informatique
+Parmi les missions du Cil, celui-ci doit s’assurer que toutes les précautions 
+utiles ont été prises pour préserver la sécurité des données et, notamment, 
+empêcher qu’elles soient déformées, endommagées, ou que des personnes 
+non autorisées y aient accès.
+   La preuve d’un engagement éthique
+la désignation d’un correspondant témoigne de l’engagement de l’organisme 
+en faveur du respect de la vie privée et des droits des personnes dont les 
+données sont traitées.
+   un accès personnalisé aux services de la cNIL
+les Cil disposent :
+-  d’une ligne téléphonique et d’une adresse électronique dédiées ;
+-  d’un extranet proposant des services exclusifs, notamment des forums de 
+discussion et des outils pratiques ;
+-  d’ateliers d’information organisés par la Commission.
+   un facteur de simplification des formalités administratives
+la désignation d’un Cil permet de bénéficier d’un allègement considérable 
+des formalités. l’organisme est exonéré de l’obligation de déclaration préalable 
+des traitements ordinaires et courants. Seuls les traitements identifiés comme 
+sensibles dans la loi demeurent soumis à autorisation et continuent à faire 
+l’objet de formalités.
+   un outil de valorisation du patrimoine informationnel
+en s’assurant de la fiabilité des données traitées, le Cil garantit la possibilité 
+de céder, transmettre ou louer les fichiers détenus par votre organisme dans le 
+respect de la loi « informatique et libertés ».
+comment désigner un cIL ?
+C’est simple, il suffit de renseigner le formulaire sur le site internet de la Cnil : 
+www.cnil.fr  
+Le Correspondant Informatique et Libertés (CIL)
+10Guide communication politique
+Dans le cadre d’opérations de communication politique, l’élu, le candidat ou le 
+parti politique peut tout d’abord utiliser des fichiers dits « internes », qu’il a 
+constitués lui-même.
+les principaux fichiers concernés sont les suivants :
+-  les fichiers de « membres », de « contacts réguliers » et « occasionnels » d’un 
+parti politique (fiche n° 1)
+-  les fichiers de « contacts réguliers » et de « contacts occasionnels » d’un élu 
+ou candidat (fiche n° 2)
+-  les fichiers constitués à l’occasion de la désignation de candidat à une élection 
+(élection interne, investiture par le parti, élection primaire, …) (fiche n° 3)
+-  les fichiers constitués dans le cadre de référendums et de pétitions (fiche n° 4)
+II – Quels fichiers internes l’élu, le candidat 
+ou le parti politique, peut-il constituer à des fins
+de communication politique ?
+11
+Fi
+C
+he n° 1 : 
+l
+e
+S
+ F
+iC
+hie
+RS
+ de « memb
+R
+e
+S
+ »,de « 
+C
+ont
+a
+C
+t
+S
+ R
+É
+G
+ulie
+RS
+ » et « o
+CC
+a
+S
+ionnel
+S
+ » d’un p
+a
+R
+ti politique
+  de quoi s’agit-il ?
+Une association ou un organisme à caractère politique peut constituer un 
+fichier rassemblant les données personnelles de ses « membres », un fichier 
+des « personnes qui entretiennent avec [le parti] des contacts réguliers dans le 
+cadre de son activité [politique] » et un fichier de ses « contacts occasionnels ».
+l Le « membre »
+est qualifiée de « membre ou adhérent » toute personne physique qui remplit 
+les conditions définies par les statuts de l’association, et notamment s’acquitte 
+d’une cotisation ou droit d’entrée. Un fichier de « membres » permet de gérer 
+tous les aspects de la vie du parti politique (gestion des adhésions, invitations 
+aux réunions, envoi de programme, communication interne, etc.).
+l Le « contact régulier »
+est qualifiée de « contact régulier » toute personne qui accomplit, auprès 
+d’un parti politique, une démarche positive en vue d’entretenir des échanges 
+réguliers et touchant directement à son action politique (abonnement à une 
+lettre de diffusion, soutien financier régulier, participation aux activités ou 
+réunions du parti, etc.).
+Cette notion se distingue de celle de « membre ». Par exemple, un adhérent 
+peut ne pas renouveler sa cotisation, mais maintenir son abonnement à une 
+lettre d’actualités. Sauf manifestation contraire, les coordonnées de l’ancien 
+adhérent demeurent enregistrées dans le fichier de « contacts réguliers » du 
+parti.
+l Le « contact occasionnel »
+est qualifiée de « contact occasionnel » toute personne qui sollicite 
+ponctuellement un parti politique, sans entretenir avec lui d’échanges réguliers 
+dans le cadre de son activité politique ; ainsi que toute personne sollicitée à des 
+fins de prospection politique à l’initiative du parti.
+en cas de démarche ponctuelle ou occasionnelle (par exemple, demande 
+d’information sur un projet ou à l’occasion d’une campagne électorale 
+particulière) ne débouchant pas sur l’instauration d’échanges réguliers, la 
+personne concernée ne doit pas être considérée comme un « contact régulier ».
+le parti politique peut également être à l’initiative de la prospection sans 
+démarche volontaire du destinataire (par exemple : un membre du parti qui lui 
+communique son carnet d’adresses personnel, une opération de parrainage, la 
+location d’une base de prospection, etc.).
+Fiche n° 1 : Les fichiers de « membres », 
+de « contacts réguliers » et « occasionnels » 
+d’un parti politique
+12Guide communication politique
+Fi
+C
+he n° 1 : 
+l
+e
+S
+ F
+iC
+hie
+RS
+ de « memb
+R
+e
+S
+ »,de « 
+C
+ont
+a
+C
+t
+S
+ R
+É
+G
+ulie
+RS
+ » et « o
+CC
+a
+S
+ionnel
+S
+ » d’un p
+a
+R
+ti politique
+Ces personnes doivent être considérées comme des « contacts occasionnels », 
+simples prospects du parti.
+leurs coordonnées pourront alors être utilisées une seule fois afin de leur 
+proposer d’établir un échange régulier ou de devenir membre. Dans ce cas, 
+les données personnelles doivent être supprimées dans un délai maximum de 
+2 mois après que le contact soit resté sans réponse.
+  Quelles sont les principales obligations à respecter ?
+1) Les données sensibles
+Sont des données sensibles celles qui font apparaître, directement ou 
+indirectement, les opinions politiques, philosophiques ou religieuses, 
+l’appartenance syndicale, les origines ethniques, ou les données relatives à la 
+santé ou à la vie sexuelle (article 8 de la loi « informatique et libertés »).
+les fichiers détenus par une association ou un organisme à caractère politique 
+sont susceptibles de faire apparaître les opinions politiques des personnes 
+recensées, du seul fait de leur présence dans ces fichiers.
+il est cependant interdit au parti politique responsable de ces fichiers :
+-  de les communiquer à des tiers :
+-  d’enregistrer dans ces fichiers une donnée « sensible » autre que celle 
+qui correspond à l’objet du parti. Par exemple, il est interdit d’enregistrer 
+l’appartenance syndicale d’un membre du parti.
+Seul le consentement exprès des adhérents permet de lever ces interdictions.
+L’interdiction de tri faisant apparaître une donnée sensible (origine ethnique, 
+opinion philosophique ou religieuse) : il est interdit de constituer un fichier à 
+partir d’un tri sur la consonance des noms ou lieu de naissance des « contacts 
+réguliers » et « contacts occasionnels », afin de les solliciter, par exemple, à 
+l’occasion de fêtes religieuses.
+2) Le respect des droits des personnes
+le parti ou groupement politique doit :
+ l Informer ses « membres » et « contacts réguliers » (identité du 
+responsable du fichier, finalité précise de la collecte, caractère facultatif des 
+réponses, destinataires des informations, rappel et modalités d’exercice des 
+droits, etc. - cf. partie i « Principe du respect des droits des personnes »).
+13
+exemples de mention d’information (collecte directe)
+À insérer sur le formulaire d’adhésion
+« les données vous concernant pourront être utilisées par notre parti [préciser s’il 
+s’agit de l’échelon national, régional ou local de la structure] afin de gérer votre 
+adhésion et de vous envoyer des informations sur notre action. en aucun cas, 
+elles ne seront communiquées à des tiers. Conformément à la loi « informatique 
+et libertés », vous disposez d’un droit d’accès, de rectification et de suppression 
+des données qui vous concernent. Vous pouvez exercer ces droits en vous 
+adressant à notre parti à l’adresse électronique/postale suivante [adresse]. ».
+À insérer sur le formulaire d’inscription à la lettre d’actualités
+ou sur l’écran de validation de l’inscription, 
+et en bas de chaque lettre d’actualités
+« Vous vous êtes inscrit à la lettre d’actualités du [identité du parti]. elle vous sera 
+adressée par courriel [préciser la fréquence d’envoi : quotidien, hebdomadaire, 
+mensuel, bimestriel, semestriel, annuel]. en aucun cas, vos coordonnées 
+électroniques ne seront communiquées à des tiers. Conformément à la loi « 
+informatique et libertés », vous disposez d’un droit d’accès, de rectification et 
+de suppression des données qui vous concernent. Vous pouvez exercer ces 
+droits en vous adressant à notre parti à l’adresse électronique/postale suivante 
+[adresse]. Un lien de désabonnement est également inséré dans chaque lettre. »
+la présence, sur les sites web du parti concerné, d’une rubrique « informatique 
+et libertés », « Protection des données personnelles » ou « Politique de 
+confidentialité », accessible depuis la page d’accueil contribue à favoriser 
+l’information des personnes.
+La réutilisation du fichier constitué à l’occasion d’une élection particulière 
+ne doit pas être conservé au-delà de cette échéance ou utilisé à d’autres fins.
+Cependant, si la personne est clairement et précisément informée des autres 
+finalités du fichier (par exemple : informer de l’action du candidat une fois élu 
+par une lettre d’actualités) ou si la personne concernée exprime son accord lors 
+de la constitution initiale du fichier (par exemple : case à cocher pour recevoir 
+des informations après l’élection), ce fichier de « contacts réguliers » peut être 
+utilisé après la campagne.
+l Informer ses « contacts occasionnels » : l’information de ces personnes 
+concernées doit faire l’objet d’une vigilance particulière en cas de collecte 
+indirecte des données, c’est-à-dire lorsque cette collecte de « contacts 
+occasionnels » a lieu par l’intermédiaire de tiers.
+C’est le cas, par exemple, des opérations de « parrainage » (lorsqu’un 
+« membre » du parti recommande de contacter un « filleul » - cf. fiche n° 2) 
+ou lorsqu’un « contact régulier » du parti lui fournit les coordonnées postales 
+ou électroniques de son carnet d’adresses ou de son répertoire téléphonique.
+Dans de telles circonstances, il convient de fournir à la personne physique 
+concernée, dès la première prise de contact avec elle, les informations prévues 
+par la loi « informatique et libertés » (article 32- cf. partie i « Principe du respect 
+des droits des personnes ») en vue de recueillir son consentement (« opt-in »).
+Fi
+C
+he n° 1 : 
+l
+e
+S
+ F
+iC
+hie
+RS
+ de « memb
+R
+e
+S
+ »,de « 
+C
+ont
+a
+C
+t
+S
+ R
+É
+G
+ulie
+RS
+ » et « o
+CC
+a
+S
+ionnel
+S
+ » d’un p
+a
+R
+ti politique
+14Guide CommuniCation politique
+Fi
+C
+he n° 1 : 
+l
+e
+S
+ F
+iC
+hie
+RS
+ de « memb
+R
+e
+S
+ »,de « 
+C
+ont
+a
+C
+t
+S
+ R
+É
+G
+ulie
+RS
+ » et « o
+CC
+a
+S
+ionnel
+S
+ » d’un p
+a
+R
+ti politique
+Cette information doit être fournie au début de la communication téléphonique 
+en cas d’appel. Des précisions sont fournies aux fiches n° 9, 10 et 11 du guide 
+en cas d’utilisation de moyens de communication électroniques (SMS, MMS, 
+courriel ou autres supports internet).
+Le contenu du message envoyé aux « contacts occasionnels » par un parti 
+doit, quel que soit son support, mentionner :
+-  l’origine des données utilisées pour adresser ce message ;
+-  les informations pratiques permettant aux destinataires de s’opposer à la 
+réception de nouveaux messages.
+La fréquence du message : un message de prospection politique ne doit 
+être envoyé aux « contacts occasionnels » qu’une seule fois, sans possibilité 
+de relancer les personnes concernées. Si celles-ci n’ont pas donné suite à 
+l’opération, les données collectées doivent être effacées dans un délai 
+maximum de 2 mois.
+exemple de mention d’information (collecte indirecte)
+« Votre adresse nous a été transmise par [préciser l’origine des coordonnées]. 
+elle n’a été utilisée que pour vous faire parvenir ce message et sera ensuite 
+supprimée. Si vous souhaitez recevoir d’autres messages de nature politique 
+ou si vous souhaitez entrer en contact avec nous, nous vous invitons à 
+nous adresser un courrier à [adresse postale] [ou/et] un courriel [adresse 
+électronique]. Vous pouvez également utiliser notre site internet [adresse]. »
+ l  faciliter l’exercice des droits d’opposition, d’accès et de rectification
+Pour faciliter l’exercice des droits « informatique et libertés » des « membres », 
+« contacts réguliers » et « contacts occasionnels », des mesures pratiques 
+doivent être mises en œuvre, notamment :
+-  indiquer sur les formulaires de collecte (papier ou en ligne) une adresse 
+électronique dédiée permettant de prendre en compte rapidement ces 
+demandes ;
+-  désigner une personne physique ou un service spécialement chargé de la 
+gestion et du suivi de ces demandes afin d’en accélérer le traitement (en 
+particulier lorsque le fichier est utilisé par plusieurs candidats d’un même parti 
+à une élection) ;
+-  mettre à disposition, notamment en ligne, des formulaires spécifiques de 
+demande d’exercice des droits « informatique et libertés » ;
+-  traiter rapidement ces demandes, dans un délai de 2 mois maximum.
+en cas d’utilisation de courrier électronique, la présence d’un lien de 
+désabonnement facilite l’exercice du droit d’opposition. Dans ce cas, ce lien 
+doit être opérationnel, clair, visible et aisément accessible. il en est de même de 
+la mise en place d’un dispositif « StOP PROSPeCtiOn » en cas d’utilisation de 
+SMS (cf. fiche n° 9 du guide).
+3) Assurer la confidentialité des données
+toutes les mesures doivent être prises pour empêcher que les données soient 
+déformées, endommagées ou que des personnes non autorisées y aient accès.
+15
+Fi
+C
+he n° 1 : 
+l
+e
+S
+ F
+iC
+hie
+RS
+ de « memb
+R
+e
+S
+ »,de « 
+C
+ont
+a
+C
+t
+S
+ R
+É
+G
+ulie
+RS
+ » et « o
+CC
+a
+S
+ionnel
+S
+ » d’un p
+a
+R
+ti politique
+l L’accès aux fichiers
+l’accès aux fichiers doit être réservé aux seuls responsables du parti et aux 
+personnels administratifs expressément habilités à gérer ces traitements. les 
+conditions d’accès doivent être précisées dans les statuts du parti ou du 
+groupement à caractère politique.
+la transmission de la liste des « adhérents » et des « contacts réguliers » à un 
+candidat à une élection interne au parti est possible. Cependant, le candidat 
+doit s’engager à ne pas l’utiliser à d’autres fins que sa propre communication 
+politique dans le cadre de l’élection interne.
+les données enregistrées dans ces fichiers ne peuvent pas être communiquées 
+à des tiers, sauf accord exprès des personnes concernées.
+l Les mesures de sécurité
+les accès individuels aux fichiers doivent être contrôlés, notamment par 
+l’attribution d’un identifiant et d’un mot de passe individuels régulièrement 
+renouvelés (par exemple tous les 3 mois) ou par tout autre moyen 
+d’authentification.
+Dès l’expiration de l’habilitation d’une personne gérant le fichier ou susceptible 
+d’y accéder, le parti doit supprimer, dans les délais les plus brefs, sa permission 
+d’accès informatique. Cette obligation est particulièrement impérieuse lorsque 
+cette personne peut accéder à distance à la base de données du parti.3
+  Quelle déclaration ?
+Sous réserve d’être conformes aux dispositions de l’article 8 de la loi 
+« informatique et libertés » 4, les fichiers de « membres » et les fichiers de 
+« contacts réguliers » d’un parti politique sont exonérés de déclaration (cf. 
+annexe) 5.
+le parti politique responsable du fichier n’est pas pour autant exonéré du 
+respect des autres dispositions de la loi « informatique et libertés ».
+les fichiers de « contacts occasionnels » du parti relèvent de la déclaration 
+simplifiée par référence à la norme simplifiée n° 34.
+Dans l’hypothèse où le fichier ne correspond pas au cadre décrit par la norme 
+simplifiée n° 34, le responsable de traitement doit effectuer une déclaration 
+« normale » à partir du site www.cnil.fr (cf. annexe).
+ 
+3  D’autres mesures de sécurité et de confidentialité sont décrites dans le guide pratique de la 
+Cnil consacré à la sécurité des données personnelles, disponible en ligne
+4 article 8.ii-3° de la loi « informatique et libertés » :
+« Les traitements mis en œuvre par une association oui tout autre organisme à but non lucratif et 
+à caractère religieux, philosophique, politique ou syndical : 
+-  pour les seules données mentionnées au I correspondant à l’objet de ladite association ou dudit 
+organisme ;
+-  sous réserve qu’ils ne concernent que les membres de cette association ou de cet organisme 
+et, le cas échéant, les personnes qui entretiennent avec celui-ci des contacts réguliers dans le 
+cadre de son activité ;
+-  et qu’ils ne portent que sur des données non communiquées à des tiers, à moins que les 
+personnes concernées n’y consentent expressément ; […] »
+ 5 exonération en application de l’article 22.ii-2°) de la loi « informatique et libertés ». 
+16Guide communication politique
+Fi
+C
+he n° 2 : 
+l
+e
+S
+ F
+iC
+hie
+RS
+ de « 
+C
+ont
+a
+C
+t
+S
+ R
+É
+G
+ulie
+RS
+ » et de « 
+C
+ont
+a
+C
+t
+S
+ o
+CC
+a
+S
+ionnel
+S
+ » d’un Élu ou 
+C
+andida
+t   de quoi s’agit-il ?
+Un élu ou un candidat peut disposer de fichiers recensant les personnes 
+contactées dans le cadre de son activité politique : fichiers de communication 
+institutionnelle liée à son mandat, fichiers de personnes le sollicitant au titre 
+de ce mandat, fichiers constitués dans le cadre de son activité strictement 
+politique, etc. 
+l Le « contact régulier »
+est qualifiée de « contact régulier » toute personne qui accomplit, auprès d’une 
+personnalité politique, une démarche positive en vue d’entretenir des échanges 
+réguliers et touchant directement à son action politique. il s’agit par exemple 
+de personnes participant régulièrement aux réunions organisées dans le cadre 
+des campagnes électorales, de personnes soutenant l’engagement politique 
+du candidat, d’abonnés à la lettre d’actualités de la personnalité politique, etc.
+Ces échanges avec une personnalité politique n’impliquent pas nécessairement 
+de lien avec le parti politique auquel celle-ci est affiliée.
+les fichiers de « contacts réguliers » sont susceptibles de faire apparaître les 
+opinions politiques, réelles ou supposées, des personnes concernées du seul 
+fait de leur présence dans le fichier. elles doivent donc consentir expressément 
+à la collecte et au traitement de leurs données dans ces fichiers (cf. article 8 de 
+la loi « informatique et libertés »). 
+l Le « contact occasionnel »
+est qualifiée de « contact occasionnel » toute personne qui sollicite 
+ponctuellement un élu ou un candidat politique, sans entretenir avec lui 
+d’échanges réguliers dans le cadre de son activité politique ; ainsi que toute 
+personne sollicitée à des fins de prospection politique à l’initiative de l’élu ou 
+du candidat.
+en cas de contact ponctuel ou occasionnel (par exemple : demande 
+d’information sur un projet, place en crèche, logement, intervention dans un 
+différend, etc.) ne débouchant pas sur l’instauration d’échanges réguliers, la 
+personne concernée ne doit pas être considérée comme un « contact régulier ».
+Un élu ou candidat peut également être à l’initiative de la prospection sans 
+démarche volontaire du destinataire (par exemple : une personne qui soutient 
+un élu et lui communique son carnet d’adresses personnel, une opération de 
+parrainage, la location d’une base de prospection, etc.).
+Ces personnes doivent être considérées comme des « contacts occasionnels », 
+simples prospects de l’élu ou du candidat.
+Fiche n° 2 : Les fichiers de « contacts réguliers » et 
+de « contacts occasionnels » d’un élu ou candidat
+17
+Fi
+C
+he n° 2 : 
+l
+e
+S
+ F
+iC
+hie
+RS
+ de « 
+C
+ont
+a
+C
+t
+S
+ R
+É
+G
+ulie
+RS
+ » et de « 
+C
+ont
+a
+C
+t
+S
+ o
+CC
+a
+S
+ionnel
+S
+ » d’un Élu ou 
+C
+andida
+t
+leurs coordonnées pourront alors être utilisées une seule fois afin de 
+leur proposer d’établir un « contact régulier » ou rejoindre le parti duquel la 
+personnalité politique est « membre ». Dans ce cas, les données personnelles 
+doivent être supprimées dans un délai de 2 mois après que le contact soit resté 
+sans réponse.
+l L’interdiction d’utiliser les fichiers constitués pour une autre finalité
+les fichiers constitués par l’élu ou le candidat dans le cadre de ses activités 
+professionnelles (autres que politiques) ne peuvent pas être utilisés à des fins de 
+communication politique. De même, les fichiers auxquels l’élu ou le candidat a 
+accès du fait de son mandat (État civil, fichiers fiscaux, liste du personnel d’une 
+collectivité, annuaire de messagerie professionnelle de ces mêmes agents, etc.) 
+ne peuvent pas être utilisés à des fins de communication politique.
+De tels usages constitueraient des détournements de finalité qui peuvent être 
+pénalement sanctionnés (5 ans d’emprisonnement et 300 000 € d’amende) et 
+sont susceptibles de sanctions administratives prononcées par la Cnil.
+  Quelles sont les principales obligations à respecter ?
+Outre la nécessité de recueillir le consentement des « contacts réguliers » de 
+l’élu ou du candidat, les recommandations décrites dans la fiche n° 1 sur la 
+gestion des « contacts réguliers » et des « contacts occasionnels » d’un parti 
+politique doivent être appliquées. l’élu ou le candidat constituant un fichier 
+de « contacts réguliers » ou de « contacts occasionnels » doit notamment 
+respecter les principes suivants.
+l L’interdiction de tri faisant apparaître une donnée sensible (origine 
+ethnique, opinion philosophique ou religieuse) : il est interdit de constituer un 
+fichier à partir d’un tri sur la consonance des noms ou sur le lieu de naissance 
+des « contacts réguliers » ou « contacts occasionnels », afin de les solliciter, par 
+exemple, à l’occasion de fêtes religieuses.
+l La réutilisation du fichier de campagne : le fichier constitué à l’occasion 
+d’une campagne ou d’une élection particulière ne doit pas être conservé au-
+delà de cette échéance ou utilisé à d’autres fins.
+Cependant, si la personne est clairement et précisément informée des autres 
+finalités du fichier (par exemple : informer de l’action du candidat une fois élu 
+par une lettre d’actualités) ou si la personne concernée exprime son accord lors 
+de la constitution initiale du fichier (par exemple : case à cocher pour recevoir 
+des informations après l’élection), ce fichier de « contacts réguliers » peut être 
+utilisé après la campagne.
+18Guide communication politique
+l L’information des personnes concernées doit faire l’objet d’une vigilance 
+particulière en cas de collecte indirecte des données, c’est-à-dire lorsque la 
+collecte de « contacts occasionnels » a lieu par l’intermédiaire de tiers.
+ C’est le cas, par exemple, des opérations de « parrainage » (lorsqu’un « contact 
+régulier » de l’élu recommande de contacter un « filleul ») ou lorsqu’un « contact 
+régulier » du candidat lui fournit les coordonnées postales ou électroniques de 
+son carnet d’adresses ou de son répertoire téléphonique.
+Dans de telles circonstances, il convient de fournir à la personne physique 
+concernée, dès la première prise de contact avec elle, les informations prévues 
+par la loi « informatique et libertés » (article 32- cf. partie i du guide « Principe 
+du respect des droits des personnes ») en vue de recueillir son consentement 
+(« opt-in »).
+Cette information doit être fournie au début de la communication téléphonique 
+en cas d’appel. Des précisions sont fournies aux fiches n° 9, 10 et 11 du guide 
+en cas d’utilisation de moyens de communication électroniques (SMS, MMS, 
+courriel ou autres supports internet).
+l Le contenu du message envoyé aux « contacts occasionnels » : en 
+outre, tout message adressé aux « contacts occasionnels » par un élu ou 
+candidat doit, quel que soit son support, mentionner :
+-  l’origine des données utilisées pour adresser ce message ;
+-  les informations pratiques permettant aux destinataires de s’opposer à la 
+réception de nouveaux messages.
+l L’exercice des droits « Informatique et Libertés » : en cas d’utilisation 
+d’un courrier électronique, la présence d’un lien de désabonnement facilite 
+l’exercice du droit d’opposition. Dans ce cas, ce lien doit être opérationnel, 
+clair, visible et aisément accessible. il en est de même de la mise en place d’un 
+dispositif « StOP PROSPeCtiOn » en cas d’utilisation de SMS.
+l La fréquence du message : un message de prospection politique ne doit 
+être envoyé aux « contacts occasionnels » qu’une seule fois, sans possibilité 
+de relancer les personnes concernées. Si celles-ci n’ont pas donné suite à 
+l’opération, les données collectées doivent être effacées dans un délai 
+maximum de 2 mois.
+Fi
+C
+he n° 2 : 
+l
+e
+S
+ F
+iC
+hie
+RS
+ de « 
+C
+ont
+a
+C
+t
+S
+ R
+É
+G
+ulie
+RS
+ » et de « 
+C
+ont
+a
+C
+t
+S
+ o
+CC
+a
+S
+ionnel
+S
+ » d’un Élu ou 
+C
+andida
+t
+19
+en pratique, comment organiser des opérations de parrainage ?
+Dans le cadre d’opérations de parrainage, un seul et unique message (sans 
+relance) doit être envoyé au « filleul » dont le parrain a fourni les coordonnées 
+postales, électroniques ou téléphoniques. en l’absence de réponse dans un 
+délai approprié (au maximum 2 mois après le message resté sans réponse), 
+ces données doivent être effacées du fichier de prospection (fichier de « 
+contacts occasionnels »).
+Ce message doit préciser :
+-  l’identité de la personne (le parrain) qui a transmis à l’élu ou au candidat les 
+coordonnées de la personne démarchée ;
+-  la suppression des coordonnées de la personne parrainée (le filleul) à l’issue 
+de cette opération.
+exemple de mention d’information (collecte indirecte)
+« Votre adresse m’a été transmise par M. X [préciser l’identité du parrain ou 
+de la personne ayant fourni les coordonnées]. elle n’a été utilisée que pour 
+vous faire parvenir ce message et sera ensuite supprimée. Si vous souhaitez 
+recevoir d’autres messages de nature politique ou si vous souhaitez entrer 
+en contact avec moi, je vous invite à m’adresser un courrier à [adresse 
+postale] [ou/et] un courriel [adresse électronique]. Vous pouvez également 
+utiliser mon site internet [adresse]. »
+  Quelle déclaration ?
+les fichiers de « contacts réguliers » et les fichiers de « contacts occasionnels » 
+de l’élu ou du candidat relèvent de la déclaration simplifiée par référence à la 
+norme simplifiée n° 34.
+Dans l’hypothèse où le fichier ne correspond pas au cadre décrit par la norme 
+simplifiée n° 34, le responsable de traitement doit effectuer une déclaration 
+« normale » à partir du site www.cnil.fr (cf. annexe).
+ 
+Fi
+C
+he n° 2 : 
+l
+e
+S
+ F
+iC
+hie
+RS
+ de « 
+C
+ont
+a
+C
+t
+S
+ R
+É
+G
+ulie
+RS
+ » et de « 
+C
+ont
+a
+C
+t
+S
+ o
+CC
+a
+S
+ionnel
+S
+ » d’un Élu ou 
+C
+andida
+t
+20Guide communication politique
+F
+i
+C
+he
+ 
+n
+° 3 : le
+S
+ 
+F
+i
+C
+hie
+RS
+ 
+C
+on
+S
+tituÉ
+S
+ dan
+S
+ le 
+C
+ad
+R
+e de la dÉ
+S
+i
+G
+na
+tion de 
+C
+andida
+t
+S  de quoi s’agit-il ?
+Qu’il s’agisse de désigner le bureau, les représentants locaux du parti, ou 
+d’investir un candidat à une élection, le parti peut procéder à une élection 
+interne pour désigner son ou ses candidats. On emploie aujourd’hui le terme 
+d’« investiture » comme de « primaire » pour désigner les « têtes de liste » ou un 
+candidat à une élection nationale ou locale à venir.
+les conditions posées pour participer à une élection interne sont fixées 
+souverainement par le parti organisateur et s’imposent aux personnes qui 
+souhaitent y participer. l’appréciation de ces conditions ne relève pas des 
+compétences de la Cnil.
+le terme de « primaire ouverte » est utilisé dans le cadre de ce guide lorsque 
+d’autres personnes que les seuls membres et « contacts réguliers » du parti 
+organisateur, voire l’ensemble des électeurs, peuvent y participer.
+Dans ce cas, des fichiers de données personnelles spécifiques peuvent être 
+constitués. la Commission est alors compétente pour encadrer les fichiers 
+permettant de recenser le corps électoral et d’organiser les opérations de vote, 
+le recours à un dispositif de vote électronique et la constitution éventuelle de 
+fichiers de « contacts réguliers ».
+  Quelles sont les principales obligations à respecter ?
+l’organisation d’une élection interne ou d’une investiture n’appelle pas 
+d’observation particulière. le corps électoral mobilisé est constitué des 
+seuls membres du parti, et éventuellement de ses « contacts réguliers ». 
+l’encadrement des fichiers utilisés dans ce cadre est donc précisé aux fiches 
+n° 1 et 2.
+en cas de recours à un dispositif de vote électronique, le parti organisateur 
+doit en outre respecter les préconisations de la recommandation n° 2010-371 
+du 21 octobre 2010 relative à la sécurité des systèmes de vote électronique6.
+Des garanties supplémentaires doivent être adoptées pour une élection primaire 
+dite « ouverte », du fait de l’importance du corps électoral potentiellement 
+concerné. en effet, le corps électoral peut être constitué à partir des listes 
+électorales nationales (cf. fiche n° 5 « les listes électorales »).
+Ces garanties sont les suivantes.
+6  Ce document est disponible sur le site internet de la Cnil.
+Fiche n° 3 : Les fichiers constitués dans le cadre 
+de la désignation de candidats
+21
+F
+i
+C
+he
+ 
+n
+° 3 : le
+S
+ 
+F
+i
+C
+hie
+RS
+ 
+C
+on
+S
+tituÉ
+S
+ dan
+S
+ le 
+C
+ad
+R
+e de la dÉ
+S
+i
+G
+na
+tion de 
+C
+andida
+t
+S1) corps électoral et opérations de vote
+Sans considération de la nature et de l’importance du fichier utilisé pour 
+organiser une primaire « ouverte », le parti organisateur doit :
+-  assurer la sécurité physique et la confidentialité logique des fichiers et, s’il y a 
+lieu, des listes sur support papier utilisées.
+À ce titre, le parti organisateur peut notamment utiliser des locaux et armoires 
+sécurisés, recourir au ministère d’huissier, faire contrôler les différentes phases 
+de la consultation par une délégation du parti, imposer un accès restreint et 
+sécurisé à la base centrale, etc.
+-  ne pas enregistrer, dans le fichier ayant servi à constituer le corps électoral, la 
+participation ou l’absence de participation à la consultation organisée.
+-  procéder à la destruction des fichiers dans les délais les plus brefs après 
+la proclamation officielle des résultats. Sous réserve de recueillir leur 
+consentement, le parti peut cependant enregistrer dans un fichier distinct les 
+coordonnées des personnes souhaitant être contactées après l’opération de 
+vote (cf. ci-dessous « Constituer un fichier de « contacts réguliers »).
+-  assurer le respect de l’ensemble des droits « informatique et libertés » des 
+votants (opposition, accès, rectification et suppression) : indiquer l’origine du 
+fichier utilisé, faciliter l’exercice de ces droits (formulaire ad hoc, possibilité 
+de les exercer en ligne notamment) et assurer un traitement rapide des 
+demandes.
+exemple de mention d’information
+À afficher dans les lieux de vote
+« les informations utilisées pour établir la liste des participants potentiels à 
+[élection interne concernée] sont issues de [traitements ou fichiers sources].
+Vous pouvez exercer vos droits d’accès, de rectification et de suppression à 
+l’adresse postale ou/et électronique suivantes : [coordonnées postales ou/et 
+électroniques du parti]. »
+2) constituer un fichier de « contacts réguliers »
+il est possible, à l’occasion de primaire « ouverte », de constituer un fichier 
+de « contacts réguliers » notamment afin de les informer dans le cadre de la 
+campagne du candidat investi.
+les règles de constitution et de gestion d’un tel fichier sont décrites à la fiche 
+n° 1.
+22Guide communication politique
+F
+i
+C
+he
+ 
+n
+° 3 : le
+S
+ 
+F
+i
+C
+hie
+RS
+ 
+C
+on
+S
+tituÉ
+S
+ dan
+S
+ le 
+C
+ad
+R
+e de la dÉ
+S
+i
+G
+na
+tion de 
+C
+andida
+t
+S
+exemple de mention d’information
+À insérer sur le formulaire de collecte présenté lors de la primaire
+« en nous fournissant vos coordonnées, vous autorisez le parti organisateur 
+à vous contacter pendant et, si vous le souhaitez, après l’élection interne 
+[préciser].
+Ces informations nous permettront de vous tenir informé jusqu’à la 
+proclamation officielle des résultats de [élection concernée]. Un message 
+vous sera adressé après cette date pour vous demander si vous souhaitez 
+continuer à être informé de l’action du [parti organisateur] au-delà de cette 
+échéance.
+Vous pouvez exercer vos droits d’accès, de rectification et de suppression 
+à l’adresse postale ou électronique suivante : [coordonnées postales ou/et 
+électroniques du parti]. »
+  Quelle déclaration ?
+l’organisation d’une désignation de candidat doit faire l’objet d’une déclaration 
+auprès de la Cnil dans deux cas :
+-  lorsqu’il s’agit d’une primaire « ouverte », quel que soit le mode de scrutin ;
+-  lorsqu’un dispositif de vote électronique est utilisé, quel que soit le type 
+d’élection envisagé.
+Dans l’hypothèse d’élection interne ou d’investiture mobilisant les seuls 
+« membres » ou « contacts réguliers » d’un parti, les fichiers utilisés sont 
+exonérés de déclaration (cf. fiche n° 1).
+le parti ou groupement politique responsable des fichiers n’est pas pour autant 
+exonéré du respect des autres dispositions de la loi « informatique et libertés ».
+23
+Fiche n° 4 : Le référendum local et la pétition
+F
+i
+C
+he
+ 
+n
+° 4 : le 
+R
+É
+F
+É
+R
+endum lo
+C
+al et la pÉtition
+  de quoi s’agit-il ?
+Dans le cadre de la démocratie de proximité, les habitants bénéficient d’un droit 
+à être consultés sur les décisions concernant la vie de la cité. Ce « principe 
+essentiel de la démocratie locale »7 peut s’exercer par l’intermédiaire d’un 
+« conseil de quartier » ou directement à la demande d’un élu, candidat ou 
+groupement politique.
+les référendums locaux (consultation ou votation citoyenne) et les pétitions 
+participent ainsi de la vie politique et peuvent nécessiter la constitution de 
+fichiers de données personnelles. Même si les données personnelles collectées 
+à cette occasion ne révèlent pas nécessairement l’opinion politique, la loi 
+« informatique et libertés » doit être respectée.
+Certaines de ces consultations peuvent produire des effets juridiques 
+contraignants (exemple du chapitre ii du livre 1er « Participation des électeurs 
+aux décisions locales » du Code général des collectivités territoriales).
+  Quelles sont les principales obligations à respecter ?
+1) Le référendum local
+Du fait du secret du vote, les participants à cette consultation ne peuvent pas 
+être considérés comme des « correspondants » ou « contacts » de l’élu, du 
+candidat ou du parti organisateur.
+leurs données personnelles ne doivent donc pas être enregistrées dans le fichier 
+de « membres », de « contacts réguliers » ou de « contacts occasionnels » du 
+parti, de l’élu ou du candidat. le fichier constitué pour organiser et gérer cette 
+consultation ne peut pas être utilisé pour des opérations de communication 
+politique ultérieures.
+2) La pétition
+De même, signer une pétition ne signifie pas automatiquement devenir « contact 
+régulier » ou « contact occasionnel ».
+en revanche, si cette pétition a pour objet de soutenir directement l’action 
+politique d’un élu, candidat ou parti, le signataire peut être considéré comme 
+un « contact occasionnel » de l’organisateur (cf. fiches n° 1 et 2 du guide).
+7 Cf. article l2141-1 du Code général des collectivités territoriales.
+24Guide communication politique
+3) dans tous les cas de consultation, l’organisateur doit :
+-  assurer la sécurité physique et la confidentialité logique du fichier de 
+consultation et, s’il y a lieu, des listes sur support papier, utilisés.
+-  ne pas enregistrer la participation ou l’absence de participation à la consultation 
+organisée dans le fichier ayant servi à mobiliser les personnes susceptibles 
+d’être consultées.
+-  procéder à la destruction des fichiers dans les délais les plus brefs après la 
+proclamation officielle du résultat.
+-  conserver les données personnelles collectées pendant la seule durée 
+nécessaire à la réalisation de la finalité de la consultation. Par exemple, si les 
+résultats peuvent être contestés pendant 4 mois à compter de la clôture de 
+la consultation, les données personnelles ne pourront pas être conservées 
+plus longtemps.
+-  assurer le respect de l’ensemble des droits « informatique et libertés » des 
+personnes concernées (opposition, accès, rectification et suppression) : 
+indiquer l’origine du fichier utilisé, faciliter l’exercice de ces droits (formulaire 
+ad hoc, possibilité de les exercer en ligne notamment) et assurer un traitement 
+rapide des demandes.
+-  veiller à ce que les supports de collecte précisent la finalité (objet de la 
+consultation), l’identité du responsable de traitement et des éventuels 
+destinataires des données.
+4)  La communication de la liste des personnes participant
+    à une consultation
+le contrôle des opérations de recueil des soutiens peut nécessiter la 
+communication de cette liste nominative. la transparence et le contrôle 
+démocratique sont en particulier nécessaires dans l’hypothèse où les 
+personnes consultées doivent justifier d’une qualité particulière (par exemple : 
+être inscrit sur la liste électorale). Ce type de consultation produit en effet des 
+conséquences juridiques contraignantes pour ses destinataires (exemple du 
+référendum d’initiative populaire consacré à l’article 11 de la Constitution).
+ainsi, en application d’un fondement juridique explicite, une liste nominative des 
+signataires peut être communiquée à l’organisme de contrôle des modalités 
+de la consultation, au destinataire, à tout électeur qui le demande, ou encore 
+publiable sur le site internet de la consultation.
+F
+i
+C
+he
+ 
+n
+° 4 : le 
+R
+É
+F
+É
+R
+endum lo
+C
+al et la pÉtition
+25
+en pratique, comment organiser une consultation sur Internet ?
+Du fait des risques de réutilisation de données susceptibles de révéler 
+l’opinion politique des personnes, réelle ou supposée, organiser une 
+consultation collectant les soutiens à partir d’un site internet nécessite le 
+respect de garanties supplémentaires.
+en l’absence de disposition juridique spécifique, la Cnil recommande, en 
+cas de « e-consultation », de :
+-  mentionner le nombre de signataires plutôt que de faire apparaître leur 
+identité (et/ou leur adresse postale, électronique, numéro de téléphone…) ;
+-  ou, à défaut, informer chaque signataire de la diffusion de son identité sur 
+le site internet de la consultation pour lui permettre de s’y opposer (par 
+exemple, lui laisser le choix de ne publier sur le site que ses initiales ou de 
+choisir un pseudonyme) ;
+-  ne jamais diffuser sur le site les coordonnées postales, électroniques ou 
+téléphoniques des personnes participant à une consultation.
+Une telle consultation électronique ne s’apparente pas à un dispositif de vote 
+électronique8. C’est pourquoi les principes du secret et de confidentialité du 
+scrutin ne s’appliquent pas.
+Cependant, pour apporter les garanties en matière de sécurité conformes 
+à l’article 34 de la loi « informatique et libertés », la Cnil recommande de :
+-  authentifier les participants afin d’éviter les usurpations d’identité ou les 
+votes multiples ;
+-  garantir l’intégrité du recueil des soutiens et la traçabilité des opérations ;
+-  protéger de tout enregistrement et reproduction la page listant les données 
+personnelles ;
+-  ne pas permettre l’indexation de l’identité des personnes consultées par les 
+moteurs de recherche (par exemple : insérer les nom et prénom au format 
+image plutôt qu’au format texte ; utiliser des balises empêchant l’indexation 
+des pages internet correspondantes, etc.).
+8  au sens de la délibération n° 2010-371 du 21 octobre 2010 portant adoption d’une 
+recommandation relative à la sécurité des systèmes de votes.
+F
+i
+C
+he
+ 
+n
+° 4 : le 
+R
+É
+F
+É
+R
+endum lo
+C
+al et la pÉtition
+26Guide communication politique
+exemple de mention d’information
+« Cette pétition est destinée à [préciser la finalité et les destinataires]. la liste 
+des signataires peut être communiquée à [préciser qui y a accès].
+Vous pouvez vous opposer à la mise en ligne de votre identité en cochant les 
+cases ci-dessous :
+o Je m’oppose à ce que mon nom de famille apparaisse sur la liste des 
+signataires de la pétition publiée sur internet.
+o Je souhaite être identifié(e) sur la liste des signataires de la pétition publiée 
+sur internet par mes initiales : [XY ou YX].
+o Je souhaite être identifié(e) sur la liste des signataires de la pétition publiée 
+sur internet sous le pseudonyme suivant : [XXX]. »
+Dans le cas où un fondement légal explicite exige de publier l’identité de la 
+personne consultée
+« Cette consultation est destinée à [préciser la finalité et les destinataires]. la 
+liste des personnes consultées est publiée sur le site internet [préciser le site 
+portant la liste nominative]. elle peut être communiquée à [préciser qui y a 
+accès : organisme de contrôle, électeur qui en fait la demande, …]. »
+en aucun cas, participer à une consultation ne peut être conditionné par 
+la souscription à une démarche complémentaire. Si l’organisateur veut, par 
+exemple, adresser une lettre d’actualités à un signataire, il doit recueillir son 
+consentement exprès :
+exemple de mention d’information
+À insérer après signature
+o J’accepte de recevoir par courriel la lettre d’actualités [préciser la 
+fréquence d’envoi : quotidien, hebdomadaire, mensuel, bimestriel, 
+semestriel, annuel] de [identité de l’organisateur de la consultation éditeur 
+de la lettre d’actualités]. »
+  Quelle déclaration ?
+Si la consultation n’est ouverte qu’aux « membres » et « contacts réguliers » 
+d’un parti, le fichier constitué est exonéré de déclaration.
+le parti ou groupement politique responsable du fichier n’est pas pour autant 
+exonéré du respect des autres dispositions de la loi « informatique et libertés ».
+les fichiers utilisés pour organiser une pétition ayant pour objet de soutenir 
+directement l’action politique d’un élu, candidat ou parti politique, relèvent de la 
+déclaration simplifiée par référence à la norme simplifiée n° 34.
+Dans les autres cas, les fichiers utilisés pour organiser une consultation relèvent 
+de la déclaration « normale ». 
+F
+i
+C
+he
+ 
+n
+° 4 : le 
+R
+É
+F
+É
+R
+endum lo
+C
+al et la pÉtition
+27
+les partis politiques, élus ou candidats à des fonctions électives peuvent utiliser 
+des fichiers déjà constitués par d’autres entités (fichiers « externes »), qu’il 
+s’agisse de fichiers publics ou privés.8
+Par principe, les fichiers des administrations publiques ne peuvent pas être 
+utilisés à des fins de communication politique. ainsi, les données collectées et 
+enregistrées par une administration ou une collectivité locale dans le cadre de 
+ses missions de service public ne peuvent jamais être utilisées à des fins de 
+communication politique, menée par un élu membre de la collectivité ou un 
+candidat à une élection9.
+toute utilisation de fichiers publics à des fins de communication politique est 
+susceptible de constituer un détournement de finalité, passible de sanctions 
+administrative et pénale.
+Cette interdiction de principe connaît cependant deux exceptions principales :
+-  les listes électorales (fiche n° 5) ;
+-  le fichier national des élus et des candidats (fiche n° 6).
+Par ailleurs, peuvent être utilisés aux fins de communication politique les 
+annuaires (fiche n° 7) ainsi que certains fichiers du secteur privé (fiche n° 8).
+ 
+ 
+9   le guide pratique de la Cnil consacré aux collectivités locales présente les fichiers qui peuvent 
+être utilisés à des fins de communication municipale par les élus. 
+III – Quels autres fichiers l’élu, le candidat 
+ou le parti politique peut-il utiliser à des fins 
+de communication politique ?
+28Guide communication politique
+   de quoi s’agit-il ?
+les listes électorales constituent, de la volonté même du législateur, l’un des 
+rares fichiers publics dont il est possible d’obtenir la communication et la copie.
+l les éventuelles difficultés pour obtenir communication et copie des listes 
+électorales relèvent de la compétence exclusive de la Commission d’accès aux 
+documents administratifs (CaDa), conformément à l’article 21 de la loi n°78-
+753 du 17 juillet 1978 modifiée (loi « Cada »).
+l la CaDa considère que l’accès aux listes électorales peut s’exercer par 
+consultation gratuite sur place et par remise ou envoi de copies, sur support 
+papier ou informatique.
+l la Cnil recommande que l’envoi de liste électorale par courrier électronique 
+soit chiffré10. Ce fichier rassemble les données personnelles vérifiées et 
+actualisées des électeurs, ce qui lui confère une valeur particulière devant être 
+protégée.
+l le respect de l’égalité des candidats, notamment dans les conditions 
+d’accès aux listes électorales (refus de délivrance d’une copie informatique à 
+tous les candidats, par exemple) est assuré par le Conseil d’État, dans le cadre 
+de son interprétation des dispositions du Code électoral.
+   Quelles sont les principales obligations à respecter ?
+Un parti politique ou un candidat peut utiliser les listes électorales à toute fin, 
+sans que les électeurs et les maires sollicités ne puissent le refuser.
+il est possible d’effectuer des tris à partir des informations électorales afin de 
+s’adresser à une catégorie particulière de votants (en fonction de leur âge ou de 
+leur bureau de vote par exemple).
+Cependant, ces tris ne doivent pas faire apparaître les origines ethniques ou 
+les opinions politiques des personnes, réelles ou supposées. ainsi, il est interdit 
+d’effectuer des tris sur la base de la consonance des noms ou du lieu de 
+naissance des personnes inscrites sur les listes électorales.
+en ce qui concerne le respect des droits des personnes démarchées, le parti 
+ou le candidat doit préciser l’origine des informations utilisées et les modalités 
+pratiques d’exercice de ces droits (à qui s’adresser ? à quelle adresse ? à 
+quelles conditions ?).
+exemple de mention d’information
+« les données utilisées pour vous adresser ce message sont issues des listes 
+électorales de [ville / arrondissement, s’il y a lieu]. Si vous ne souhaitez plus 
+recevoir de message de notre part, merci de nous l’indiquer par courrier postal à 
+[adresse postale], ou par courrier électronique à [adresse électronique].
+Vous pouvez exercer vos droits d’accès et de rectification à l’adresse postale et/
+ou électronique suivantes : [coordonnées postales et/ou électroniques du parti].»
+10  le chiffrement d’une pièce jointe est une mesure de confidentialité décrite dans le guide 
+pratique de la Cnil consacré à la sécurité des données personnelles (disponible en ligne).
+Fiche n° 5 : Les listes électorales
+F
+i
+C
+he
+ 
+n
+° 5 : le
+S
+ li
+S
+te
+S
+ Éle
+C
+to
+R
+ale
+S
+29
+Deux cas particuliers d’utilisation des listes électorales à des fins de 
+communication politique appellent des observations spécifiques.
+1)  La relance des abstentionnistes
+lors d’élections à deux tours, les listes d’émargement déposées à la préfecture, 
+la sous-préfecture ou la mairie, peuvent être communiquées à tout électeur qui 
+en fait la demande11. Cette possibilité permet d’appeler les abstentionnistes du 
+premier tour à aller voter au second.
+la Cnil préconise d’indiquer sur le message l’origine des informations utilisées 
+(cf. exemple de mention ci-dessus).
+les fichiers éventuellement constitués à cette fin doivent être détruits à l’issue 
+du second tour de l’élection concernée.
+2)  L’utilisation des listes électorales consulaires12  
+les Français de l’étranger sont incités par l’administration consulaire, lors 
+de leur inscription sur les registres consulaires13, à fournir leurs coordonnées 
+téléphoniques et électroniques afin de pouvoir être contactés rapidement en 
+cas de trouble dans le pays concerné ou de menace pesant sur la communauté 
+nationale.
+l’adresse électronique des Français de l’étranger peut donc figurer sur les listes 
+électorales consulaires, qui sont constituées à partir de ces registres et sont 
+susceptibles d’être communiquées aux partis politiques et aux candidats.
+Cette donnée personnelle n’a pas été recueillie à des fins de communication 
+politique et son utilisation doit donc faire l’objet d’une information renforcée.
+Chaque message électronique adressé aux Français de l’étranger doit 
+mentionner l’origine de l’adresse électronique utilisée (la liste électorale 
+consulaire), ainsi que la procédure pour ne plus en recevoir.
+   Quelle déclaration ?
+le fichier de communication politique constitué à partir des seules informations 
+issues des listes électorales est exonéré de déclaration. le parti, l’élu ou le 
+candidat responsable du fichier n’est pas pour autant exonéré du respect des 
+autres dispositions de la loi « informatique et libertés ».
+Si d’autres informations y sont enregistrées, le fichier relève de la déclaration 
+simplifiée par référence à la norme simplifiée n° 34 (cf. annexe, page 44).
+11  Cf. article l68 du Code électoral : « Les listes d’émargement déposées à la préfecture ou à la 
+sous-préfecture sont communiquées à tout électeur requérant pendant un délai de dix jours 
+à compter de l’élection et, éventuellement, durant le dépôt des listes entre les deux tours de 
+scrutin, soit à la préfecture ou à la sous-préfecture, soit à la mairie. ». 
+12  l’article 8 de la loi organique n°76-97 relative aux listes électorales consulaires, modifié, prévoit 
+« La liste électorale consulaire comporte pour chaque électeur les indications prévues aux 
+articles L. 18 et L. 19 du code électoral et, le cas échéant, celle de son rattachement à un 
+bureau de vote et celle de son adresse électronique. ». 
+13  S’inscrire au registre des Français établis hors de France est une formalité administrative 
+facultative. il est cependant vivement recommandé de s’inscrire en raison des avantages 
+procurés par le nUMéro d’inscription Consulaire (nUMiC). Ce numéro personnel permet de 
+s’identifier et d’accéder via le portail de téléservice « MonConsulat.fr » à son dossier administratif. 
+il est notamment possible de vérifier son inscription sur la liste électorale consulaire ; choisir 
+de voter en France ou à l’étranger pour les élections présidentielle, législative, européenne 
+et les référendums ; ou encore opter pour voter par correspondance sous pli fermé pour les 
+élections législatives à l’étranger. 
+F
+i
+C
+he
+ 
+n
+° 5 : le
+S
+ li
+S
+te
+S
+ Éle
+C
+to
+R
+ale
+S
+30Guide communication politique
+   de quoi s’agit-il ?
+le ministère de l’intérieur recense les candidats, les élus et leurs suppléants, 
+aux élections au suffrage universel, dans le « fichier des élus et des candidats », 
+également dénommé « Répertoire national des élus » (Rne). les finalités de 
+ce fichier sont notamment de veiller à l’application des lois sur le cumul des 
+mandats, l’égal accès des femmes et des hommes aux mandats électoraux, le 
+financement de la vie politique ou encore l’information des citoyens.
+Parmi les données à caractère personnel enregistrées au Rne figurent 
+notamment l’étiquette politique choisie par le candidat et la nuance politique 
+retenue par le ministère de l’intérieur pour enregistrer les résultats de l’élection 
+(cf. décret n°2001-777 du 30 août 2001 modifié).
+Sur simple demande auprès de la préfecture de son domicile, toute personne 
+peut obtenir communication du Répertoire, à l’exception des coordonnées 
+postales et téléphoniques personnelles des candidats et des élus.
+   Quelles sont les principales obligations à respecter ?
+Cette liste est publique et librement communicable. elle peut donc être utilisée 
+à des fins de communication politique, sous réserve du respect de la loi 
+« informatique et libertés ».
+Qu’est-ce que le « fichier des grands électeurs » ?
+il s’agit d’une extraction du Rne, par circonscription électorale, qui recense 
+les élus ou mandataires d’une fonction publique appelés à voter aux élections 
+au suffrage indirect (élection des sénateurs par exemple).
+Demandée auprès de la préfecture de son domicile, cette extraction ne 
+comportera ni l’adresse postale ni le téléphone de l’élu (par exemple : 
+Monsieur le Sénateur de [circonscription électorale] – Sénat – 75006 PaRiS). 
+ne pourront donc être utilisés à des fins de communication politique que les 
+nom, prénoms, qualité du grand électeur et ville siège de son mandat.
+   Quelle déclaration ?
+les fichiers constitués sur la base du Rne relèvent de la déclaration simplifiée 
+par référence à la norme simplifiée n° 34 (cf. annexe, page 44).
+ Fiche n° 6 : Le répertoire national des élus
+F
+i
+C
+he
+ 
+n
+° 6 : le 
+R
+Épe
+R
+toi
+R
+e na
+tional de
+S
+ Élu
+S
+31
+   de quoi s’agit-il ?
+les annuaires internes à des organismes (exemple : annuaire d’anciens 
+élèves, annuaire téléphonique et électronique interne d’entreprise ou 
+d’administration …), compte tenu de leur finalité, ne peuvent pas être utilisés à 
+des fins de prospection ou de propagande politique.
+en revanche, les informations contenues dans les annuaires mis à la disposition 
+du public peuvent être utilisées à des fins de communication politique.
+   Quelles sont les principales obligations à respecter ?
+les abonnés et utilisateurs du téléphone (fixe, mobile ou par « VoiP » 14) peuvent 
+obtenir gratuitement de leur opérateur que leurs coordonnées ne soient pas 
+utilisées dans des opérations de prospection directe, par voie postale ou 
+électronique. leurs données apparaissent dans les annuaires mais un signe 
+distinctif précise que ces personnes ne doivent pas être démarchées (on parle 
+de liste « anti-prospection », anciennement connue sous le nom de « liste 
+orange »). les entreprises ne peuvent donc pas utiliser ces informations aux 
+fins de prospection commerciale.
+De la même façon, la Commission recommande de ne pas utiliser les 
+coordonnées de ces personnes dans le cadre d’opérations de prospection 
+politique. ainsi, un parti politique, élu et candidat, ainsi que ses éventuels 
+prestataires, ne doivent pas adresser de message de prospection à caractère 
+politique, quel que soit le support (postal ou électronique), à ces personnes.
+en revanche, les autres abonnés qui n’ont pas émis le souhait de ne pas être 
+dérangés, peuvent être considérés comme des « contacts occasionnels » et 
+sollicités à des fins de communication politique. Pour utiliser à cette fin un 
+annuaire mis à la disposition du public, le parti, l’élu ou le candidat doit donc 
+respecter le cadre décrit aux fiches n° 1 et 2.
+   Quelle déclaration ?
+les fichiers contenant des données issues des annuaires relèvent de la 
+déclaration simplifiée par référence à la norme simplifiée n° 34 (cf. annexe, 
+page 44).
+ 
+14  « VoiP » est l’acronyme anglais de « Voice over iP ». il s’agit de la téléphonie sur internet. 
+Fiche n° 7 : L’utilisation des annuaires
+F
+i
+C
+he
+ 
+n
+° 7 : l
+’utili
+S
+a
+tion de
+S
+ annuai
+R
+e
+S
+32Guide communication politique
+   de quoi s’agit-il ?
+Dans certaines conditions, le parti politique, l’élu ou le candidat peut recourir 
+à des fichiers commerciaux constitués par des sociétés privées, pour se 
+faire connaître, susciter l’adhésion ou rechercher de nouvelles sources de 
+financement.
+Moins neutre par nature que la prospection commerciale, la prospection 
+politique ne bénéficie cependant pas d’un encadrement juridique particulier. en 
+conséquence, la Cnil recommande l’adoption de précautions et de garanties 
+identiques.
+   Quelles sont les principales obligations à respecter ?
+l’utilisation, à des fins de communication politique, de fichiers du secteur privé 
+doit être conforme aux principes généraux de la loi « informatique et libertés » 
+et en particulier :
+-  seuls les fichiers de prospection commerciale (fichiers de clients ou de 
+prospects) peuvent être utilisés ;
+-  même s’il recourt à un prestataire extérieur, le parti politique, l’élu ou le candidat 
+à l’origine de la campagne d’information reste responsable du traitement, au 
+sens de la loi « informatique et libertés » ;
+-  s’il est possible de sélectionner les personnes figurant dans le fichier loué 
+(centres d’intérêt, âge, adresse…), les tris opérés ne doivent pas faire 
+apparaître les origines ethniques, les données relatives à la vie sexuelle ou 
+les opinions politiques ou religieuses, réelles ou supposées, des personnes 
+concernées ;
+-  l’utilisation de ces fichiers implique en outre une information renforcée des 
+personnes concernées.
+1)   L’information des personnes lors de la constitution du fichier
+Une première information doit intervenir lors de la constitution du « fichier 
+source » de clients et de prospects. Ces derniers doivent en effet clairement 
+consentir à l’utilisation de leurs coordonnées à des fins de communication 
+politique.
+le recueil de ce consentement doit être facilité par un moyen simple et immédiat 
+(une case à cocher, par exemple).
+Fiche n° 8 : L’utilisation des fichiers du secteur privé
+F
+i
+C
+he
+ 
+n
+° 8 : l
+’utili
+S
+a
+tion de
+S
+ 
+F
+i
+C
+hie
+RS
+ du 
+S
+e
+C
+teu
+R
+ p
+R
+i
+V
+É
+33
+exemple de mention de recueil du consentement
+« Vos coordonnées, collectées à des fins commerciales, sont susceptibles, 
+avec votre accord, d’être utilisées à des fins de communication politique :
+o J’accepte cette utilisation.      o Je refuse cette utilisation.
+Vous pouvez exercer vos droits d’accès, de rectification et de suppression 
+à l’adresse postale et/ou électronique suivantes : [coordonnées postales et/
+ou électroniques]. »
+C’est au parti, à l’élu ou au candidat responsable du traitement qu’il incombe 
+de s’assurer du respect de cette condition par son prestataire. il peut l’imposer 
+par l’insertion de clauses spécifiques dans le contrat de location de fichiers.
+2)  L’information des destinataires du message politique
+Quel que soit le support utilisé, le message adressé doit indiquer :
+-  l’origine du fichier utilisé (abonnés à telle revue, clients de telle enseigne, 
+adhérents à tel programme de fidélité, etc.) ;
+-  la possibilité de s’opposer, à tout moment, à la réception de nouveaux 
+messages et la procédure à suivre dans ce but ;
+-  le cas échéant, le fait que le parti politique, candidat ou élu ne dispose pas 
+lui-même des coordonnées des personnes mais a eu recours à un prestataire 
+extérieur.
+les demandes d’opposition doivent être prises en compte immédiatement 
+(effacement des coordonnées correspondantes) et ne peuvent donner lieu à 
+l’établissement d’une « liste rouge » des personnes ne souhaitant plus être 
+démarchées.
+   Quelle déclaration ?
+l’utilisation des fichiers du secteur privé relève de la déclaration simplifiée par 
+référence à la norme simplifiée n° 34 (cf. annexe, page 44).
+ 
+F
+i
+C
+he
+ 
+n
+° 8 : l
+’utili
+S
+a
+tion de
+S
+ 
+F
+i
+C
+hie
+RS
+ du 
+S
+e
+C
+teu
+R
+ p
+R
+i
+V
+É
+34Guide communication politique
+Outre les recommandations applicables à chacun des fichiers évoqués dans le 
+présent guide, des garanties spécifiques doivent être prévues en fonction du 
+média utilisé :
+- le téléphone (fiche n° 9) ;
+- l’adresse électronique (fiche n° 10) ;
+- et internet : applications smartphones, réseaux sociaux, etc. (fiche n° 11).
+ 
+IV – Quel média ? Quelles garanties ?
+35
+   de quoi s’agit-il ?
+De plus en plus de campagnes de communication politique s’appuient sur 
+l’utilisation du téléphone et de toutes ses fonctionnalités : appels, envois de 
+SMS ou de MMS, utilisation de la technologie « bluetooth ». au regard du 
+caractère intrusif de ces modes de communication, la Cnil recommande la 
+mise en place de mesures de protection supplémentaires.
+   Quelles sont les principales obligations à respecter ?
+1) L’envoi de SmS et de mmS
+la Cnil recommande le recueil du consentement préalable (système dit « 
+opt-in ») pour les opérations de prospection politique réalisées par envoi de 
+SMS ou de MMS.
+l en cas de collecte directe par le parti politique, élu ou candidat, des numéros 
+de téléphone portable des intéressés, ceux-ci doivent consentir à recevoir des 
+messages de communication politique.
+exemples de mention de recueil du consentement
+« o J’accepte de recevoir par téléphone des informations ou des sollicitations 
+de la part de [identité du parti, élu ou candidat] »
+OU
+« Si vous souhaitez recevoir des informations ou des sollicitations de la 
+part de [identité du parti, élu ou candidat], veuillez indiquer ci-dessous vos 
+coordonnées téléphoniques :
+- 06. XX. XX. XX. XX »
+l en cas de collecte indirecte par le parti politique, élu ou candidat (opérations 
+de parrainage ou fourniture de coordonnées par des soutiens), le recueil du 
+consentement préalable n’apparaît matériellement pas possible. le responsable 
+de traitement devra donc recueillir le consentement des personnes concernées 
+dès la première prise de contact.
+Un premier message téléphonique doit donc être adressé aux intéressés afin de 
+demander leur accord à être démarchés à des fins de communication politique.
+l en cas de location de bases de données (recours à un prestataire extérieur), la 
+Cnil recommande d’utiliser uniquement des fichiers recensant des personnes 
+ayant consenti à être démarchées par ce moyen (fichier dit « opt-in »).
+la finalité de prospection politique doit apparaître sans ambiguïté sur les 
+supports de recueil de ce consentement.
+Fiche n° 9 : La communication par téléphone
+F
+i
+C
+he
+ 
+n
+° 9 : la 
+C
+ommuni
+C
+a
+tion p
+a
+R
+ tÉlÉphone
+36Guide communication politique
+exemples de mention de recueil du consentement
+« o J’accepte de recevoir par SMS et/ou MMS des sollicitations de vos 
+partenaires commerciaux, d’associations ou de groupements à caractère 
+politique. »
+OU
+« o J’accepte de recevoir par SMS et/ou MMS des sollicitations à caractère 
+politique. »
+en pratique, comment un prestataire de service doit constituer
+une base de données qu’il entend louer
+à des fins de prospection politique ?
+les prestataires doivent dorénavant appliquer cette recommandation à 
+toutes les bases de données qu’ils entendent constituer en vue de leur mise 
+à disposition pour de la prospection politique.
+S’agissant des bases existantes, les personnes qui y sont recensées doivent 
+être informées de cette nouvelle possibilité d’utilisation de leur numéro de 
+téléphone portable avant toute utilisation de leurs coordonnées téléphoniques 
+à des fins de communication politique.
+Un premier message téléphonique, leur indiquant que ces informations sont 
+désormais susceptibles d’être utilisées à des fins de prospection politique 
+et qu’elles ont la faculté de s’y opposer, doit leur être adressé par la société 
+détenant leurs coordonnées téléphoniques.
+Dans ces deux hypothèses (base existante ou en cours de constitution), 
+le parti politique, l’élu ou le candidat est tenu de s’assurer que celui qui 
+lui fournit les données respecte ces conditions (par le biais de l’insertion 
+de clauses spécifiques dans le contrat de location, par exemple avant 
+d’adresser des messages de prospection politique, y compris lorsqu’il fait 
+appel à un prestataire).
+Chaque SMS ou MMS à caractère prospectif doit ensuite comporter les 
+informations suivantes : l’identité du responsable de traitement qui opère la 
+prospection politique et le moyen de s’y opposer.
+enfin, l’exercice du droit de s’opposer à la réception de nouvelles sollicitations 
+par SMS ou MMS doit être facilité. Par exemple, par l’indication d’un numéro 
+de téléphone non surtaxé permettant de se désinscrire, ou par la mise en 
+place d’un dispositif « StOP PROSPeCtiOn », laissant un délai raisonnable 
+aux personnes concernées pour s’opposer.
+en pratique, qu’est-ce qu’un dispositif « STOP PROSPecTION » ?
+l’expéditeur de SMS/MMS de prospection politique met en place un 
+mécanisme permettant de s’opposer simplement à la réception de nouveau 
+message. il peut par exemple s’agir de répondre « StOP » par SMS lors de 
+la réception de la prospection.
+F
+i
+C
+he
+ 
+n
+° 9 : la 
+C
+ommuni
+C
+a
+tion p
+a
+R
+ tÉlÉphone
+37
+2) Le recours à un automate d’appel
+la Cnil recommande, là aussi, le recueil du consentement préalable (système 
+dit « opt-in ») des intéressés à être prospectés à des fins politiques par automate 
+d’appel.
+Ce consentement doit en outre porter sur la plage horaire précise des appels.
+exemple de mention de recueil du consentement
+« o J’accepte de recevoir par téléphone des informations ou des sollicitations 
+à caractère politique, de [préciser une plage horaire].»
+aucune exception au principe de recueil du consentement préalable des 
+intéressés ne peut être invoquée par les partis politiques, élus ou candidats. 
+ainsi, en cas de collecte indirecte de leurs coordonnées ou de recours à des 
+bases de données déjà constituées par un prestataire, il convient de recueillir 
+expressément ce consentement avant toute communication téléphonique.
+les messages préenregistrés doivent contenir toutes les mentions d’information 
+prévues par la loi « informatique et libertés ». la possibilité et les modalités 
+prévues pour s’opposer à la réception de tels messages doivent être précisées 
+aux intéressés dès le début du message.
+3) La technologie bluetooth
+l’envoi de messages de prospection politique par bluetooth est soumis, comme 
+tous les autres moyens d’envoi par téléphone, au recueil du consentement 
+préalable des intéressés.
+la Cnil souligne à cet égard que la simple possibilité de s’opposer à 
+l’établissement d’une connexion bluetooth n’est pas une modalité satisfaisante 
+du recueil de ce consentement.
+il convient en conséquence d’utiliser des solutions permettant aux seules 
+personnes réellement intéressées par le contenu prospectif d’être sollicitées 
+(conditionner, par exemple, l’envoi du message politique au fait d’approcher 
+de quelques centimètres le téléphone portable de l’affiche déclenchant la 
+connexion bluetooth).
+ 
+F
+i
+C
+he
+ 
+n
+° 9 : la 
+C
+ommuni
+C
+a
+tion p
+a
+R
+ tÉlÉphone
+38Guide communication politique
+   de quoi s’agit-il ?
+Moins intrusif que le téléphone et moins onéreux que le courrier postal, l’usage 
+du courrier électronique à des fins de communication politique se généralise.
+   Quelles sont les principales obligations à respecter ?
+1) La règle de l’« opt-in »
+Depuis sa recommandation de 2006 15, la Cnil préconise que tous les 
+internautes bénéficient d’un même niveau de protection, qu’ils soient sollicités 
+à des fins commerciales ou politiques.
+elle considère notamment que les gestionnaires des bases de données 
+constituées avant 2006 ont eu cinq années pour informer les personnes qui y 
+sont recensées que leur adresse électronique est susceptible d’être utilisée à 
+des fins de prospection politique.
+Ce régime transitoire n’a donc plus lieu d’être aujourd’hui. Désormais, la 
+Commission recommande que seuls les prestataires de service ayant recueilli 
+le consentement préalable des personnes concernées (règle de l’« opt-in ») 
+communiquent leurs coordonnées électroniques à des fins de communication 
+politique.
+la formule de recueil du consentement des intéressés doit faire apparaître 
+de façon spécifique que leur adresse électronique peut être utilisée à des fins 
+de communication politique. le rappel de leurs droits, notamment leur droit 
+d’opposition, peut être effectué à cette occasion.
+exemples de mention de recueil du consentement
+« o J’accepte de recevoir par courrier électronique des sollicitations à 
+caractère politique.
+Vous pouvez exercer vos droits d’accès, de rectification et de suppression 
+à l’adresse postale et/ou électronique suivantes : [coordonnées postales et/
+ou électroniques]. »
+OU
+« o J’accepte de recevoir par courrier électronique des sollicitations de vos 
+partenaires commerciaux, d’associations ou de groupements à caractère 
+politique. 
+Vous pouvez exercer vos droits d’accès, de rectification et de suppression 
+à l’adresse postale et/ou électronique suivantes : [coordonnées postales et/
+ou électroniques]. »
+15  Délibération n° 2006-228 du 5 octobre 2006 portant sur la recommandation relative à la 
+mise en œuvre par les partis ou groupements à caractère politique, élus ou candidats à des 
+fonctions électives de fichiers dans le cadre de leurs activités politiques 
+Fiche n° 10 : La communication par e-mail
+F
+i
+C
+he
+ 
+n
+° 10 : la 
+C
+ommuni
+C
+a
+tion p
+a
+R
+ e-mail
+39
+lorsqu’un prestataire de service souhaite recueillir le consentement à être 
+démarché par téléphone et par courrier électronique, il est recommandé de 
+prévoir deux cases à cocher distinctes ou de mentionner clairement le caractère 
+facultatif de la fourniture des coordonnées.
+exemples de mention de recueil du consentement
+« J’accepte de recevoir des sollicitations à caractère politique ou commercial : 
+   o  Par téléphone
+   o  Par courrier électronique 
+Vous pouvez exercer vos droits d’accès, de rectification et de suppression à 
+l’adresse postale et/ou électronique suivantes : [coordonnées postales et/ou 
+électroniques]. »
+OU
+« Si vous acceptez de recevoir des sollicitations à caractère politique, veuillez 
+indiquer ci-dessous vos coordonnées :
+- 06. XX. XX. XX. XX.
+- adresse@operateur.fr
+Vous pouvez exercer vos droits d’accès, de rectification et de suppression à 
+l’adresse postale et/ou électronique suivantes : [coordonnées postales et/ou 
+électroniques]. »
+C’est au parti, à l’élu ou au candidat responsable du traitement qu’il incombe de 
+s’assurer du respect, par son prestataire, de cette condition. il peut l’imposer 
+par l’insertion de clauses spécifiques dans le contrat de location de fichiers.
+Rappel : la seule exception au principe du consentement préalable à recevoir 
+des sollicitations à caractère politique par courrier électronique concerne les 
+listes électorales consulaires (cf. fiche n° 5, p. 26).
+2) Assurer le respect des droits des personnes
+Un courrier électronique de communication politique doit au moins comporter 
+les éléments suivants :
+-  l’origine des données utilisées ;
+-  les informations pratiques lui permettant d’exercer l’ensemble de ses droits ;
+- un lien de désinscription, de nature à faciliter le droit de s’opposer à la 
+réception de nouveaux messages.
+en aucun cas, le parti politique, l’élu ou le candidat à l’origine de la campagne 
+de communication ne peut utiliser les éventuelles demandes d’opposition pour 
+constituer un fichier des personnes ne souhaitant plus être démarchées.
+F
+i
+C
+he
+ 
+n
+° 10 : la 
+C
+ommuni
+C
+a
+tion p
+a
+R
+ e-mail
+40Guide communication politique
+la prise en compte et la gestion de ces demandes incombent au prestataire chargé 
+de l’opération de communication politique. Ce dernier devra cependant s’abstenir 
+d’enregistrer toute information susceptible de révéler indirectement les opinions 
+politiques des destinataires des messages (la campagne de communication 
+concernée, le parti politique ou le candidat donneur d’ordres, etc.)16.
+Rappel : l’utilisation, à des fins politiques, d’un annuaire de messagerie 
+professionnelle auquel l’élu ou candidat peut avoir accès du fait de ses 
+fonctions (adresses professionnelles des agents d’une collectivité territoriale ou 
+d’un établissement public par exemple) n’est pas autorisée (cf. fiche n° 2).
+3) Les préconisations techniques à respecter
+le recours au courrier électronique implique la mise en œuvre de mesures de 
+sécurité et de confidentialité supplémentaires (notamment le masquage des 
+adresses électroniques ou le recours à des moyens de cryptage, par exemple) 17 .
+Rappel : Un message électronique adressé à des fins de communication 
+politique doit indiquer en objet l’auteur et la finalité de la démarche. en effet, un 
+courriel doit pouvoir être trié sans être ouvert.
+en cas d’envoi simultané du même message à différents destinataires, 
+l’expéditeur doit masquer les adresses électroniques des destinataires.
+ 
+16  Cette préconisation ne concerne pas les éventuelles traces informatiques de la campagne 
+concernée pouvant subsister dans les outils de routage et les bases techniques intermédiaires, 
+sous réserve qu’elles ne soient pas exploitées et qu’elles soient effacées dans un délai maximal 
+de six mois après la campagne en question. 
+17  D’autres mesures de sécurité sont présentées dans le guide pratique de la Cnil consacré à la 
+sécurité des données personnelles.
+F
+i
+C
+he
+ 
+n
+° 10 : la 
+C
+ommuni
+C
+a
+tion p
+a
+R
+ e-mail
+41
+   de quoi s’agit-il ?
+la communication politique connaît un nouvel essor grâce au réseau internet 
+et ses fonctionnalités : site web (institutionnel comme personnel), réseau social, 
+blog ou microblogging, plateforme participative, forum de discussion, lettre et 
+fil d’actualités, création de lien hypertexte, achat de mot clé sur un moteur de 
+recherche, jeu vidéo en ligne et application pour « smartphone ».
+Dès lors que ces supports de communication servent à collecter des données 
+à caractère personnel à des fins de prospection politique, la loi « informatique 
+et libertés » devra être respectée.
+l’élu, le candidat ou le parti politique qui recourt ainsi au réseau internet pour 
+communiquer à des fins politiques devient responsable de traitement de 
+données personnelles.
+De même, un prestataire de service (par exemple : une société de service 
+informatique ou un développeur d’outils, par exemple) qui collecte sur le réseau 
+internet des données personnelles et les traite en son nom propre peut être 
+considéré comme responsable de traitement. a défaut, il est considéré comme 
+sous-traitant du parti, élu ou candidat.
+   Quelles sont les principales obligations à respecter ?
+1)  Site institutionnel, fil d’actualité (flux RSS) et réseau social 
+propre à un territoire
+l la mise en œuvre, par un parti, élu ou candidat politique, d’un site web 
+institutionnel n’appelle pas d’observation particulière s’il ne sert pas à collecter 
+de données personnelles sur ses visiteurs.
+en revanche, si un formulaire permet une collecte de données personnelles 
+(par exemple, module d’inscription à une lettre d’actualités), le cadre juridique 
+et les préconisations décrits dans les fiches n° 1  et n° 2 du guide doivent 
+être respectés.
+l S’abonner au fil d’actualité (« flux RSS ») d’une page internet dédiée à la 
+politique n’induit pas nécessairement de collecter des données personnelles. 
+la mise à disposition d’un tel flux ne relève alors pas de la loi « informatique et 
+libertés ».
+l Certains réseaux sociaux visent uniquement à rapprocher acteurs et habitants 
+d’un même territoire. Comme le rappellent généralement les conditions 
+générales d’utilisation de cette catégorie de réseaux, ceux-ci ne peuvent donc 
+être utilisés à des fins de communication politique.
+Fiche n° 11 : Internet et la communication politique
+F
+i
+C
+he
+ 
+n
+° 11 : 
+i
+nte
+R
+net et la 
+C
+ommuni
+C
+a
+tion politique
+42Guide communication politique
+2) Réseau social et application Internet 18
+la création ou l’utilisation de page ou de compte d’un réseau social lié à une 
+personnalité, un candidat, élu ou parti politique ; d’une application internet ; 
+ou encore d’un outil de partage, permet d’interagir avec d’autres internautes. 
+Ces interactions peuvent être l’occasion de collecter des données à caractère 
+personnel et sont donc susceptibles de révéler l’opinion politique, réelle ou 
+supposée, des personnes concernées.
+afin de protéger ces données sensibles, plusieurs réflexes doivent être adoptés 
+lors de l’inscription comme lors de l’utilisation d’outils de partage.
+(a) Lors de l’inscription d’un internaute
+avant d’enregistrer une inscription de l’utilisateur, le responsable de traitement 
+doit :
+l informer l’utilisateur du caractère public ou non de son inscription et lui 
+préciser, notamment, si son identité sera ou non visible par tous.
+l indiquer les catégories de données enregistrées ou si l’inscription entraîne la 
+collecte des données déclarées sur son Profil.
+exemple de mention d’information
+À insérer lors de l’inscription à une application Internet
+« lors de la souscription à l’application, votre identifiant sur le réseau social, 
+ainsi que vos âge, sexe, ville déclarés sur votre Profil, seront collectés. À 
+chaque contribution, vos opinions exprimées seront liées à votre identifiant 
+et visibles par tous.»
+Attention : la collecte de données personnelles concernant un mineur est 
+subordonnée au recueil de l’accord de ses parents ou représentants légaux. 
+Une information en ce sens peut être ajoutée avant l’inscription.
+exemple de mention d’information à l’intention des mineurs
+« le Service ne s’adresse pas aux personnes de moins de 13 ans. Si un 
+représentant légal apprend que son enfant utilisateur nous a fourni des 
+informations personnelles sans son consentement, il peut nous contacter à 
+[précisez une adresse électronique de contact]. 
+nous ne recueillons pas sciemment de renseignements personnels 
+d’enfants de moins de 13 ans. Si nous apprenons qu’un enfant de moins 
+de 13 ans a fourni à [identité du responsable de traitement] des informations 
+personnelles, [le responsable de traitement] supprimera ces informations, 
+résiliera l’inscription et supprimera les données de l’enfant concerné. »
+l recueillir le consentement exprès de l’utilisateur, si des données sensibles le 
+concernant sont collectées.
+18  l’expression « application internet » est utilisée pour les applications offertes sur les réseaux 
+sociaux virtuels comme sur les smartphones.
+F
+i
+C
+he
+ 
+n
+° 11 : 
+i
+nte
+R
+net et la 
+C
+ommuni
+C
+a
+tion politique
+43
+ Attention : les réseaux sociaux permettent à leurs utilisateurs de fournir de 
+plus en plus de données personnelles, y compris leurs opinions philosophiques, 
+religieuses, politiques ou leur appartenance syndicale ou encore des 
+informations relatives à leur origine ethnique, à leur vie sexuelle et à leur santé.
+Pour pouvoir s’inscrire à un réseau social ou utiliser une application internet, 
+l’utilisateur doit autoriser l’accès à un ensemble de données sans pouvoir, 
+le plus souvent, exclure l’une ou l’autre de ces données. la seule façon de 
+ne pas permettre la récupération de ces données est alors de ne pas utiliser 
+l’application.
+Dès lors, le parti, élu ou candidat qui développe une telle application doit 
+recueillir le consentement clair et explicite de l’utilisateur à la collecte19 de toutes 
+les données sensibles renseignées sur le réseau social.
+exemple de mention d’information pour autoriser l’accès
+« o J’accepte que les données susceptibles de révéler mes opinions 
+politiques [le cas échéant, compléter par : philosophiques ou religieuses, 
+mon appartenance syndicale, mes origines ethniques, et les données 
+relatives à ma vie sexuelle et à ma santé], réelles ou supposées, telles que 
+déclarées sur mon Profil d’utilisateur du réseau social, soient collectées. »
+l préciser si cette inscription permet au responsable de traitement d’utiliser 
+toutes les fonctionnalités du réseau social (par exemple : le mur « Facebook », la 
+messagerie ou le compte twitter) ou d’un smartphone (par exemple : données 
+de géolocalisation, carnet d’adresses, SMS, MMS ou journal d’appels).
+l recueillir le consentement de la personne à l’utilisation de son adresse 
+électronique ou de son numéro de téléphone (portable ou fixe).
+exemple de mention de recueil du consentement
+« J’accepte de recevoir des sollicitations à caractère politique :
+  o par courriel à l’adresse électronique collectée sur mon Profil d’utilisateur 
+du réseau social.
+ o par SMS/MMS au numéro de téléphone collecté sur mon Profil 
+d’utilisateur du réseau social. »
+le responsable d’une application peut également utiliser ces informations afin 
+de proposer ses nouveaux produits. Dans ce cas, un « opt-out » est suffisant :
+exemple de mention d’information
+« Vous êtes susceptible de recevoir des sollicitations concernant de 
+nouvelles applications développées par [identité du responsable] à l’adresse 
+électronique collectée sur votre Profil d’utilisateur du réseau social.
+Si vous ne le souhaitez pas, cochez la case ci-contre : o »
+l inviter l’utilisateur à régler ses paramètres de confidentialité en conséquence.
+19  Si l’autorisation d’accès vaut pour un ensemble de données personnelles renseignées par 
+l’utilisateur sur son Profil, le responsable ne doit collecter que les données pertinentes à la 
+finalité du traitement. 
+F
+i
+C
+he
+ 
+n
+° 11 : 
+i
+nte
+R
+net et la 
+C
+ommuni
+C
+a
+tion politique
+44Guide communication politique
+(b) Lors de l’utilisation d’outils de partage
+les « outils de partage » permettent à l’internaute de commenter, noter, 
+apprécier, réagir ou encore recommander un contenu. Chacun de ces outils 
+crée un lien entre le Profil d’un utilisateur d’un réseau social et une page 
+internet. Par exemple, le bouton « like/J’aime » de Facebook, le « +1 » de 
+google+, ou une formule du type « Delphine Emillaume recommande la page 
+de [parti politique] ».
+Dans cette hypothèse, l’identité de l’utilisateur peut devenir visible sous ce lien 
+ou ce lien peut être publié sur le Profil social de l’utilisateur.
+activer cet outil mis en place sur une page internet dédiée à une personnalité, un 
+élu, candidat ou parti politique confère à ce dernier la qualité de responsable de 
+traitement. il doit recueillir le consentement de l’internaute avant de révéler son 
+opinion politique, réelle ou supposée, ou d’autres de ses données sensibles. 
+Pour consentir, activer l’outil de partage ne suffit pas : il convient d’informer 
+clairement et précisément l’internaute de la portée de son action pour que ce 
+consentement soit libre et éclairé.
+ainsi, si l’outil de partage permet la diffusion de l’identité de l’utilisateur sur le 
+site internet ou lie publiquement l’utilisateur au parti politique, élu ou candidat,  
+3 informations doivent notamment lui être rappelées lors de son utilisation :
+l le caractère public de sa contribution ;
+l   s’exprimer ainsi est susceptible de révéler ses opinions politiques, réelles ou 
+supposées, ou toute autre donnée sensible ;
+l inviter l’utilisateur à régler en conséquence ses paramètres de confidentialité.
+exemple de mention d’information
+À insérer avant l’utilisation d’un outil de partage
+« Votre contribution, une fois validée, sera liée à votre identité d’utilisateur 
+du réseau social et deviendra publique. Ce qui est susceptible de révéler 
+votre opinion politique, réelle ou supposée. Réglez en conséquence vos 
+paramètres de confidentialité [insérer un lien hypertexte renvoyant aux 
+paramètres de confidentialité du réseau social]. »
+il est recommandé d’insérer cette information dès que le responsable du 
+traitement maîtrise le contenu éditorial diffusé. Par exemple, dans une fenêtre 
+du site internet utilisant cet outil de partage, dans la page de bienvenue sur 
+Facebook ou dans le descriptif du compte twitter annonçant le « #tag officiel » 
+de la campagne et l’agrégation dans un « tweetwall ».
+la rubrique « Politique de confidentialité » et les conditions générales d’utilisation 
+du site internet du parti, élu ou candidat peuvent également rappeler et préciser 
+F
+i
+C
+he
+ 
+n
+° 11 : 
+i
+nte
+R
+net et la 
+C
+ommuni
+C
+a
+tion politique
+45
+ces 3 informations (notamment par un renvoi depuis la page concernée du 
+réseau vers la rubrique du ou des sites du responsable de traitement).
+en cas d’impossibilité, le parti, l’élu ou le candidat doit utiliser d’autres 
+catégories d’outils de partage.
+l’utilisation d’outils de partage mis à disposition sur une page internet dédiée 
+à une personnalité ou parti politique ne confère pas à l’utilisateur la qualité de 
+« contact régulier » du parti politique, de l’élu ou du candidat. il peut s’agir d’un 
+simple prospect, « contact occasionnel » (cf. fiches n° 1 et 2).
+Si l’utilisateur a rendu publiquement accessibles ses coordonnées, elles 
+pourront être utilisées pour lui adresser un unique message de prospection 
+politique l’invitant à des échanges réguliers avec le parti, l’élu ou le candidat. 
+Seul le consentement du « contact occasionnel » permettra de considérer qu’il 
+devient « contact régulier », voire « membre » et d’enregistrer ses données 
+personnelles.
+exemples de mention de recueil de consentement
+« Vos coordonnées ont été collectées sur votre Profil d’utilisateur du réseau 
+social [préciser] lors de l’activation de l’outil de partage [préciser l’origine 
+des données : bouton « partage » sur notre site internet/ bouton « like » sur 
+la page de réseau social / hashtag « officiel » repris dans votre tweet public 
+/ etc.]. elles n’ont été utilisées que pour vous faire parvenir ce message et 
+seront ensuite supprimées. »
+aU CHOiX
+Si vous souhaitez recevoir d’autres messages de nature politique ou si vous 
+souhaitez entrer en contact avec nous, nous vous invitons à nous adresser 
+un courrier à [adresse postale] [ou/et] un courriel [adresse électronique]. Vous 
+pouvez également utiliser notre site internet [adresse]. »
+OU
+« Si vous souhaitez recevoir des informations sur notre action, cochez les 
+cases correspondantes ci-dessous :
+o  par courriel à l’adresse électronique collectée sur votre Profil d’utilisateur 
+du réseau social.
+o  par SMS/MMS au numéro de téléphone collecté sur votre Profil 
+d’utilisateur du réseau social. »
+F
+i
+C
+he
+ 
+n
+° 11 : 
+i
+nte
+R
+net et la 
+C
+ommuni
+C
+a
+tion politique
+46Guide communication politique
+(c) dans tous les cas, rappeler 20 régulièrement à l’utilisateur, voire à 
+chaque contact 21 :
+-  si un historique de ses connexions ou contributions est conservé ;
+-  si une utilisation de ses contributions sur le réseau social est envisagée et les 
+modalités de cette utilisation. Par exemple, un tweetwall constitué sur un site 
+internet ou projeté dans un lieu physique.
+-  si des cookies sont installés sur son ordinateur ;
+exemple de mention d’information
+À insérer dans un bandeau d’information avec 2 boutons d’action 
+«  accepter » ou « refuser » sur le site www.partipolitique.fr
+« afin de réaliser de la publicité ciblée, le [parti politique] souhaite implanter 
+un cookie sur votre ordinateur :
+nOn MeRCi         aCCePteR
+Vous pourrez le supprimer à tout moment ou obtenir plus d’informations en 
+consultant l’onglet « politique de confidentialité ».
+nous allons mémoriser votre choix dans un cookie.
+-  la procédure pour exercer ses droits d’accès aux données le concernant et 
+de suppression, s’il y a lieu. Par exemple, si l’historique des connexions est 
+conservé pour analyse statistique, il devra donc être communiqué avec les 
+autres données concernant l’utilisateur.
+20  l’outil de notification à disposition dans de nombreux réseaux sociaux peut être utilisé. 
+21  Cette obligation est issue de l’article 32.ii de la loi « informatique et libertés ». 
+F
+i
+C
+he
+ 
+n
+° 11 : 
+i
+nte
+R
+net et la 
+C
+ommuni
+C
+a
+tion politique
+47
+   eXONÉRATIONS de fORmALITÉS PRÉALAbLeS
+-  les fichiers de « membres », de « contacts réguliers » et de « contacts 
+occasionnels » d’un parti politique (cf. fiche n° 1)
+-  les traitements de communication politique constitués à partir des seules 
+informations figurant sur la liste électorale (cf. fiche n° 5)
+-  dans l’hypothèse d’un correspondant « informatique et libertés » (Cil)
+le parti politique, l’élu ou le candidat responsable de traitement, n’est pas pour 
+autant exonéré du respect des autres dispositions de la loi « informatique et 
+libertés » (droit d’information des personnes, sécurité des données).
+   NORme SImPLIfIÉe N° 34 (« NS 34 »)
+la mise en œuvre de la plupart des fichiers liés à l’activité politique d’un élu, 
+candidat ou parti politique est subordonnée à l’engagement de conformité à la 
+norme simplifiée n° 34.
+Si le traitement mis en œuvre correspond au cadre décrit dans cette norme, 
+le responsable de traitement doit adresser, via la téléprocédure sur le site 
+www.cnil.fr, une déclaration attestant de la conformité de son traitement.
+Dans la rubrique « professionnels – Déclarez » puis « Quelle déclaration  ?  », 
+en s’identifiant comme « Association » pour la gestion d’« Activité de 
+l’association  », le responsable sera dirigé vers la nS 34 « Communication 
+politique ». il devra renseigner et valider le téléformulaire. les services de la 
+Commission lui adresseront un récépissé sous les meilleurs délais.
+   AuTReS RÉgImeS de fORmALITÉS
+Si le traitement n’entre pas dans le champ de la nS 34, il faut effectuer une 
+« déclaration normale » à partir du site internet de la Cnil.
+              fIchIeR de PROSPecTION dONT LA LOcATION À deS fINS   
+   POLITIQueS  N’A PAS ÉTÉ PRÉVue dÈS L’ORIgINe (cf. fiche n° 8)
+Avant de transmettre ce fichier, le responsable de traitement initial doit :
+-  effectuer une déclaration modificative auprès de la Cnil ;
+-  recueillir l’accord des personnes figurant dans la base concernée sur 
+l’éventuelle transmission de leurs coordonnées à des fins de communication 
+politique 22.
+Toute violation des dispositions de la loi « Informatique et Libertés » 
+est passible de sanctions pénales et administratives prononcées par la 
+cNIL ainsi que les juridictions compétentes.
+22  S’il n’est pas nécessaire de procéder à autant de déclarations modificatives qu’il y a 
+d’organismes destinataires de ces données, les personnes concernées par la transmission 
+doivent, en revanche, être informées de l’identité de chacun des destinataires. 
+ANNEXE : Formalités préalables à accomplir 
+auprès de la CNIL
+48Guide CommuniCation politique
+Document Imprimé sur papier 100% recyclé
+une difficulté ? une hésitation ?
+Plus d’informations sur www.cnil.fr
+Une permanence téléphonique  
+de renseignements juridiques est assurée du lundi au vendredi 
+de 10h à 12h et de 14h à 16h  
+au 01 53 73 22 22
+Vous pouvez en outre adresser toute demande  
+par télécopie au 01 53 73 22 00
+
+8 rue Vivienne - CS 30223 
+75083 Paris cedex 02
+Tél : 01 53 73 22 22 
+Fax : 01 53 73 22 00
+www.cnil.fr

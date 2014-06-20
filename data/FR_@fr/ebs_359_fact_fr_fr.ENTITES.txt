@@ -1,0 +1,72 @@
+Union européenne
+
+http://fr.dbpedia.org/resource/Union_européenne
+
+UE27
+
+http://fr.dbpedia.org/resource/Union_européenne
+
+EUROBAROMETRE
+
+http://fr.dbpedia.org/resource/Eurobaromètre
+
+FRANCE
+Schema:Place,DBpedia:Place,DBpedia:PopulatedPlace,Schema:Country,DBpedia:Country
+http://fr.dbpedia.org/resource/France
+
+Union européenne
+
+http://fr.dbpedia.org/resource/Union_européenne
+
+UE27
+
+http://fr.dbpedia.org/resource/Union_européenne
+
+EUROBAROMETRE
+
+http://fr.dbpedia.org/resource/Eurobaromètre
+
+FRANCE
+Schema:Place,DBpedia:Place,DBpedia:PopulatedPlace,Schema:Country,DBpedia:Country
+http://fr.dbpedia.org/resource/France
+
+Union européenne
+
+http://fr.dbpedia.org/resource/Union_européenne
+
+UE27
+
+http://fr.dbpedia.org/resource/Union_européenne
+
+DONNEES PERSONNELLES
+
+http://fr.dbpedia.org/resource/Données_personnelles
+
+EUROBAROMETRE
+
+http://fr.dbpedia.org/resource/Eurobaromètre
+
+FRANCE
+Schema:Place,DBpedia:Place,DBpedia:PopulatedPlace,Schema:Country,DBpedia:Country
+http://fr.dbpedia.org/resource/France
+
+EUROBAROMETRE
+
+http://fr.dbpedia.org/resource/Eurobaromètre
+
+FRANCE
+Schema:Place,DBpedia:Place,DBpedia:PopulatedPlace,Schema:Country,DBpedia:Country
+http://fr.dbpedia.org/resource/France
+
+DONNEES PERSONNELLES
+
+http://fr.dbpedia.org/resource/Données_personnelles
+
+Union européenne
+
+http://fr.dbpedia.org/resource/Union_européenne
+
+UE27
+
+http://fr.dbpedia.org/resource/Union_européenne
+

@@ -1,0 +1,5080 @@
+«InformatIque  
+et LIbertés »
+POUR L’ENSEIGNEMENT DU SECOND DEGRÉ
+Ce guide est téléchargeable sur le site Internet de la CNIL ? ????cnil??r
+Sommaire
+PARTIE 1 : FIchES ThémATIquES ?ge ?
+Fiche n°1 : Dé?iti?s des n?i?s?lés de la l? « Informatique et Libertés » ?ge ?
+Fiche n°2 : Princi?s de la ??ecti? des d?nées ?rs?nelles ?ge ?
+Fiche n°3 : R?e de la CNIL ?ur dé?ndre ces ?inci?s ?ge ?
+Fiche n°4 : C?res?ndant In?r?ti?e et Libertés ?ge ?
+PARTIE 2 : FIchES PRATIquES ?ge ?
+Fiche n°5 : Enregistre?nt et utilisati? du nu?r?de sécurité s?iale ?ge ?
+Fiche n°6 : Utilisati? de la ???ra?ie d’une ?rs?ne ?ge ?
+Fiche n°?: Mise en ?ace d’un annuaire des él?es ?ge ?
+Fiche n°?: En??es statisti?es ?rtant sur le de?nir ??essi?nel et le sui? de 
+c??tes d’él?es
+?ge ?
+Fiche n°?: Mise en ?ace des es?ces nu?ri?es de tra?il ?NT? ?ge ?
+Fiche n°1?: C?tr?e de l’utilisati? des ??ns in?r?ti?es ?ge ?
+Fiche n°11 : Di??si? des résultats d’e??n et des n?es ?ge ?
+Fiche n°12 : C??nicati? ?des tiers aut?isés d’in?r?ti?s 
+relati?s au??rs?nels et au?él?es
+?ge ?
+Fiche n°13 : C?diti?s d’acc? des c?lecti?tés l?ales au??hiers d’él?es ?ge ?
+Fiche n°14 : Utilisati? de la bi?étrie ?ge ?
+Fiche n°15 : Dis?siti? de ?dé?ur?illance ?ge ?
+PARTIE 3 : FIchES ?E SE?SI?I?ISATI? ?ge ?
+Fiche n°16 : C??ssi? l?ale In?r?ti?e et Libertés ?LIL? ?ge ?
+Fiche n°1?: Créati? de sites internet ?ge ?
+Fiche n°1?: Les ?ligati?s du bl?ueur ?ge ?
+Fiche n°1?: Pr?éger sa ?e ?i?e sur internet ?ge ?
+A?E?S ?ge ?
+Anne? n°1 « Mode d’emploi : comment déclarer ? » ?ge ?
+Anne? n°2 Tableau réca?tulati??D?s?e déclarer ?n ?hier ?la CNIL ?C??nt ? ?ge ?
+Anne? ?° 3 M??es de clauses ? de ?nti?s d’in?r?ti? ?ge ?
+Anne? n° 4 Le??e ?ge ?
+Un recours croissant à l’usage des technologies de l’information exige que 
+chacun de nous respecte les principes du droit à la protection des données 
+personnelles dans ses deux volets : droits individuels et obligations. C’est 
+à ce prix que nos sociétés innoveront et se développeront dans le respect 
+de la vie privée et des libertés des personnes. En la matière, le r?e du chef 
+d’établissement, de son équipe et celui de la C??sont analogues pour faire 
+en sorte que chaque cito?n, administré et futur cito?n ma?rise ces nouveaux 
+outils et soit sensibilisé aux risques éventuels qu’ils peuvent représenter.
+? loi « Informatique et Libertés » du ? ?nvier ??, modi?e par la loi du ?
+ao? ??, dé?it les principes à respecter lors de la collecte, du traitement 
+et de la conservation des données personnelles. Elle renforce les droits des 
+personnes, prévoit une simpli?ation des formalités déclaratives et précise les 
+pouvoirs de contr?e et de sanction de la C?? En?, la création de la fonction 
+de correspondant à la protection des données personnelles est l’occasion de 
+diffuser la culture ?formatique et ?bertés.
+C’est dans ce cadre que ce guide pratique a été rédigé a? d’ apporter une 
+réponse concrète à vos questions, que ce soit au sein de l’établissement 
+?space numérique de travail?ou à l’extérieur ?ensibilisation des mineurs aux 
+mesures à prendre pour éviter les risques d’atteinte à la vie privée?
+?en entendu, ce guide peut également soulever des questions, nous sommes 
+à votre disposition pour ?répondre.
+	 Alex	Türk
+	 Président	de	la	CNIL
+?
+avant-propos
+?
+?
+?
+N
+T
+?
+P
+R
+O
+P
+O
+S
+?GUIDE PR?TI?UE ? IN?ORM?TI?UE ET LI?ERTÉS ?
+?
+I
+C
+?
+E
+ 
+N
+?
+?
+ 
+?
+ 
+D
+É
+?
+I
+N
+I
+T
+I
+O
+N
+S
+ 
+D
+E
+S
+ 
+N
+O
+T
+I
+O
+N
+S
+?
+C
+L
+É
+S
+ 
+D
+E
+ 
+L
+?
+ 
+L
+O
+I
+ 
+?
+ 
+I
+N
+?
+O
+R
+M
+?
+T
+I
+?
+U
+E
+ 
+E
+T
+ 
+L
+I
+?
+E
+R
+T
+É
+S
+ 
+?
+? loi « Informatique et Libertés » est applicable dès lors qu’il existe un 
+traitement automatisé ou un ?hier manuel, c’est??ire un ?hier informatique 
+ou un ?hier « papier » contenant des informations personnelles relatives à des 
+personnes ph?iques. 
+A no?r : Ne	sont	pas	soumis	à	la	loi	les	« traitements mis en oeuvre 
+pour l’exercice d’activités exclusivement personnelles » tels	 que	 par	
+exemple	 les	 agendas	 électroniques,	 les	 répertoires	 d’adresses,	 les	
+sites	internet	familiaux	en	acc?	restreint?	
+  Trai?men?? ?nn???carac?re ?r?nne?
+Constitue un traitement de données à caractère personnel toute opération 
+ou tout ensemble d’opérations portant sur de telles données, quel que soit 
+le procédé utilisé, et notamment la collecte, l’enregistrement, l’organisation, 
+la conservation, l’adaptation ou la modi?ation, l’extraction, la consultation, 
+l’utilisation, la communication par transmission, diffusion ou toute autre forme 
+de mise à disposition, le rapprochement ou l’interconnexion, ainsi que le 
+verrouillage, l’effacement ou la destruction. 
+?emples	 ?	?chiers de gestion des étudiants et des personnels, annuaires en 
+ligne des anciens dipl?és, espaces numériques de travail.
+  ?onn? ?carac?re ?r?nne?
+?es données sont considérées comme à caractère personnel dès lors qu’elles 
+permettent d’identi?er directement ou indirectement des personnes ph?siques 
+?ex. : nom, n? d’immatriculation, n? de téléphone, photographie, éléments 
+biométriques tels que l’empreinte digitale, ???, informations permettant de 
+discriminer une personne au sein d’une population telles que, par exemple, le lieu 
+de résidence, la profession, le sexe, l’?ge, etc.?. 
+? peut en effet s’agir d’informations qui ne sont pas associées au nom d’une 
+personne mais qui peuvent permettre de l’identi?r et de conna?re ses 
+habitudes ou ses go?s.
+?xemples	? « Le propriétaire du véhicule 3636AB75 est abonné à telle revue » 
+ou encore « l?assuré social ?6??53??????6 va che? le médecin plus d?une fois 
+par mois »?
+A no?er : La	loi	« Informatique et Libertés » ne	s’applique	pas	aux	personnes	
+morales	?ex?	?	?c?ier	de	noms	de	sociétés,	sauf	s’il	contient	des	noms	de	
+personnes	p??siques	comme	le	nom	du	responsa?le	commercial??	
+PartIe 1 : fIches thématIques 
+f?? n? : ????ns ?s not?ns-
+?? ? ? ??« Informatique et 
+Libertés »
+?
+?
+I
+C
+?
+E
+ 
+N
+?
+?
+ 
+?
+ 
+D
+É
+?
+I
+N
+I
+T
+I
+O
+N
+S
+ 
+D
+E
+S
+ 
+N
+O
+T
+I
+O
+N
+S
+?
+C
+L
+É
+S
+ 
+D
+E
+ 
+L
+?
+ 
+L
+O
+I
+ 
+?
+ 
+I
+N
+?
+O
+R
+M
+?
+T
+I
+?
+U
+E
+ 
+E
+T
+ 
+L
+I
+?
+E
+R
+T
+É
+S
+ 
+?  Re?on??e ? ?ai?men?
+?  Est considéré comme le responsable du traitement la personne ph?sique ou 
+morale qui détermine les ?nalités et les mo?ens de toute opération ?collecte, 
+enregistrement, modi?cation...?, appliquée à des données à caractère 
+personnel.
+? responsable du traitement est la personne pour le compte de laquelle est 
+réalisé le traitement. ?n de déterminer l’identité du responsable du traitement, 
+il est possible de faire appel aux critères suivants :
+? celui de la « ma?rise d?uvra? » du traitement : à quoi servira??l et comment 
+fonctionnera??l ?
+? celui de la « mise en ?vre » du traitement : qui décide de s’en servir et qui 
+s’en sert ?
+?xemple	? En application de l’article ?. ????? du code de l’éducation, le chef 
+d’établissement est le représentant de l’?tat et l’organe exécutif de l’établissement 
+public local d’enseignement ?E.?.?.E? ? à ce titre, il détient la responsabilité de 
+décider la création d’un traitement de données à caractère personnel et de 
+procéder aux formalités liées à sa déclaration auprès de la C???.
+?	 pratique	 ? ? responsable du traitement sera notamment la personne en 
+charge :
+? de veiller au respect des principes de la protection des données personnelles ?
+? d’informer les personnes au su?t de l’existence de leurs droits d’accès, de 
+recti?ation et d’opposition ?
+? de désigner, le cas échéant, un Correspondant ?formatique et ?bertés ?
+? de procéder à l’accomplissement des formalités auprès de la C?? sauf en 
+cas de désignation d’un Correspondant ?formatique et ?bertés ?? . 
+? ? responsable du traitement doit ?re distingué des personnes qui 
+interviennent dans le cadre de sa mise en ?vre telles que, par exemple, les 
+sous?raitants. ? sous?raitant est un exécutant extérieur qui ne peut agir 
+que sous l’autorité du responsable du traitement et sur instruction de celui?i. 
+?oute personne traitant des données à caractère personnel pour le compte 
+du responsable du traitement est considérée comme un sous?raitant au sens 
+de la loi. ? sous?raitance ne décharge pas le responsable du traitement de 
+sa responsabilité ?? . 
+?emple	 ? ?ns le cas d’un hébergement externe de l’un des sites ?b de 
+l’établissement scolaire, l’hébergeur est considéré comme le sous?raitant.
+? ?ns le cas de demande d’avis ou de demande d’autorisation, les formalités déclaratives 
+auprès de la C??subsistent.
+? ? reporter à l’annexe ? : modèle de clause de con?entialité dans le cadre d’un marché ou 
+d’un contrat de sous?raitance. 
+?GUIDE PR?TI?UE ? IN?ORM?TI?UE ET LI?ERTÉS ?
+?
+I
+C
+?
+E
+ 
+N
+?
+?
+ 
+?
+ 
+D
+É
+?
+I
+N
+I
+T
+I
+O
+N
+S
+ 
+D
+E
+S
+ 
+N
+O
+T
+I
+O
+N
+S
+?
+C
+L
+É
+S
+ 
+D
+E
+ 
+L
+?
+ 
+L
+O
+I
+ 
+?
+ 
+I
+N
+?
+O
+R
+M
+?
+T
+I
+?
+U
+E
+ 
+E
+T
+ 
+L
+I
+?
+E
+R
+T
+É
+S
+ 
+?  commen??c?rer ???an?er? ? ?nn???
+?rsque le transfert de données concerne un pa? de l’Union européenne, il n’a 
+pas à ?re autorisé par la C??
+En cas de transfert de données en dehors de l’Union européenne, le 
+responsable de traitement ?x : hébergeur du site internet? doit le préciser sur le 
+formulaire de déclaration et remplir une annexe « transfert ». ? doit aussi préciser 
+les garanties de protection des données : existence de clauses contractuelles 
+t?es issues des directives européennes, ou de règles internes d’entreprise 
+?C?, adhésion au safe harbor du destinataire des données.
+? transfert doit ensuite faire l’ob?t d’une autorisation par la C?? sauf dans 
+certains cas bien spéci?ues ?ar exemple : entreprise destinataire adhérente 
+au safe harbor?
+?ur toute information complémentaire sur ces questions, consulter le dossier 
+« International » ou le « ?ide sur les transferts de données à caract?e 
+personnel vers des pa? non?embres de l?nion européenne » sur le site 
+internet de la C??
+?
+?
+I
+C
+?
+E
+ 
+N
+?
+?
+ 
+?
+ 
+P
+R
+I
+N
+C
+I
+P
+E
+S
+ 
+D
+E
+ 
+L
+?
+ 
+P
+R
+O
+T
+E
+C
+T
+I
+O
+N
+ 
+D
+E
+S
+ 
+D
+O
+N
+N
+É
+E
+S
+ 
+P
+E
+R
+S
+O
+N
+N
+E
+L
+L
+E
+S
+ 
+?s informations que les établissements de l’enseignement secondaire traitent 
+informatiquement pour remplir leurs missions de service public doivent ?re 
+protégées parce qu’elles relèvent de la vie privée et parce que leur divulgation est 
+susceptible de porter atteinte aux droits et libertés des personnes concernées.
+? loi « Informatique et Libertés » a dé?i les principes à respecter lors de la 
+collecte, du traitement et de la conservation de ces données. ? loi prévoit 
+également un certain nombre de droits pour les personnes dont les données 
+personnelles ont été recueillies.
+? respect, par les établissements de l’enseignement secondaire des règles de 
+protection des données à caractère personnel est un facteur de transparence 
+et de con?nce à l’égard des personnes ?tudiants, personnels? C’est 
+aussi un gage de sécurité ?ridique pour les directeurs d’établissement qui, 
+responsables des ?hiers mis en ?vre, doivent veiller à ce que la ?alité de 
+chaque traitement informatique et les éventuelles transmissions d’informations 
+soient clairement dé?ies, les dispositifs de sécurité informatique précisément 
+déterminés et les mesures d’information des usagers appliquées.
+  1??e ?inci? ? ?a?? : ?e ?i???on enca?? ???hier?
+?s données à caractère personnel ne peuvent ?re recueillies et traitées 
+que pour un usage déterminé et légitime, correspondant aux missions de 
+l’établissement, responsable du traitement. C’est au directeur d’établissement 
+qu’il appartient de ?er la ?alité des traitements mis en ?vre pour le compte 
+de son établissement et de la faire respecter.
+A no?r : ?out détournement de ?alité est passible de sanctions pénales.
+?emple	 ? ? ?hier de gestion administrative et pédagogique des élèves ne 
+peut ?re utilisé à des ?s commerciales ou politiques.
+  2??e ?inci? ? ?o?r?onna??
+?ules doivent ?re enregistrées les informations pertinentes et nécessaires 
+pour assurer la gestion des services de l’établissement scolaire.
+?emple	 ? ?mander le revenu des parents de l’élève pour recevoir la 
+« ne?letter » de l’établissement n’est ni pertinent ni nécessaire au regard de la 
+?alité poursuivie par le traitement.
+f?? n? : Pr??p? ? ? 
+prot?t?n ?s ?nn?s 
+p?sonn??s
+?  ?a durée de conservation déclarée dans le dossier de formalité adressé à la C??? ou dans le 
+registre du C?? doit correspondre à la période durant laquelle les données restent accessibles ou 
+consultables directement par le personnel, par opposition avec la période d’archivage des données 
+pendant laquelle celles?ci ne sont plus destinées à ?tre utilisées à des ?ns de gestion et sont de ce 
+fait, conservées sur un support distinct au sein d’un service d’archives. ?e reporter à l’instruction 
+ministérielle sur l’archivage ?référence : ??? ???C???E?????????? du ?? février ?????. 
+?  ?oir annexe ? : modèle de clause de con?dentialité dans le cadre d’un marché ou d’un contrat de 
+sous?traitance.
+?GUIDE PR?TI?UE ? IN?ORM?TI?UE ET LI?ERTÉS ?
+?
+I
+C
+?
+E
+ 
+N
+?
+?
+ 
+?
+ 
+P
+R
+I
+N
+C
+I
+P
+E
+S
+ 
+D
+E
+ 
+L
+?
+ 
+P
+R
+O
+T
+E
+C
+T
+I
+O
+N
+ 
+D
+E
+S
+ 
+D
+O
+N
+N
+É
+E
+S
+ 
+P
+E
+R
+S
+O
+N
+N
+E
+L
+L
+E
+S  3? ?e ?inci? ? ?r? ?mi?e ? con?r??on ???nn??: 
+« le droit à l’oubli »
+?s informations ne peuvent ?re conservées de fa?n indé?ie dans les ?hiers 
+informatiques. Une durée de conservation doit ?re établie en fonction de la 
+?alité de chaque ?hier.
+?emple	 ?	 ?s informations collectées dans le cadre de l’organisation d’un 
+examen sont conservées pour la durée de la session de l’examen.
+??elà, les données peuvent ?re archivées, sur un support distinct  ?? .
+  4??e ?inci? ? ?c?i? e?? con?en?a??
+? directeur d’établissement, en tant que responsable du traitement, est 
+astreint à une obligation de sécurité : il doit prendre les mesures nécessaires 
+pour garantir la con?entialité des données et éviter leur divulgation.
+? ?s données contenues dans les ?hiers ne peuvent ?re consultées que par 
+les services habilités à ?accéder en raison de leurs fonctions.
+?emple	 ? ?eiller à ce que chaque utilisateur ait un mot de passe individuel 
+régulièrement changé et que les modalités d’accès soient précisément dé?ies 
+en fonction des besoins réels.
+? ? responsable du traitement doit prendre toutes les mesures pour emp?her 
+que les données soient déformées, endommagées ou que des tiers non 
+autorisés ?aient accès.
+?emple	 ? ?il est fait appel à un prestataire externe, des garanties contractuelles 
+doivent ?re envisagées  ??  .
+? ?s mesures de sécurité, tant ph?iques que logiques, doivent ?re prises.
+?emple	 ?	 ?otection anti?ncendie, copies de sauvegarde, installation de 
+logiciel antivirus, changement fréquent des mots de passe alphanumériques 
+d’un minimum de ?caractères.
+? ?s mesures de sécurité doivent ?re adaptées à la nature des données et aux 
+risques présentés par le traitement.
+?emple	 ?	 ?thenti?ation forte pour l’accès aux résultats d’examen, 
+chiffrement des coordonnées bancaires transitant sur internet.
+?
+?
+I
+C
+?
+E
+ 
+N
+?
+?
+ 
+?
+ 
+P
+R
+I
+N
+C
+I
+P
+E
+S
+ 
+D
+E
+ 
+L
+?
+ 
+P
+R
+O
+T
+E
+C
+T
+I
+O
+N
+ 
+D
+E
+S
+ 
+D
+O
+N
+N
+É
+E
+S
+ 
+P
+E
+R
+S
+O
+N
+N
+E
+L
+L
+E
+S  5??e ?inci? ? re?ec?? ?oi????r?nne?
+a?	Informer	les	intéressés
+?rs de l’informatisation de tel ou tel service, ou lorsque des données sont 
+recueillies par exemple par voie de questionnaire, les usagers concernés et 
+le personnel de l’organisme doivent ?re informés de la ?alité du traitement, 
+du caractère obligatoire ou facultatif du recueil, des destinataires des données 
+et des modalités d’exercice des droits qui leur sont ouverts au titre de la loi 
+« Informatique et Libertés » : droit d’accès et de recti?ation mais aussi, droit de 
+s’opposer, sous certaines conditions, à l’utilisation de leurs données.
+Cette information doit ?re diffusée, par exemple, au mo?n d’af?hes apposées 
+dans les services recevant du public et portée sur les formulaires établis par 
+l’établissement, ainsi que sur les courriers adressés aux personnes dont les 
+données sont collectées.
+?	 pratique	 ?	 ?s modèles de mentions d’information sont disponibles en 
+annexe ?
+?	Les	droits	d’acc?	et	de	recti?ation
+?oute personne ?lève, enseignant, personnel?peut demander communication 
+de toutes les informations la concernant contenues dans un ?hier détenu 
+par l’établissement et a le droit de faire recti?r ou supprimer les informations 
+erronées.
+c?	Le	droit	d’opposition
+?oute personne a le droit de s’opposer, pour des motifs légitimes, à ce que des 
+données la concernant soient enregistrées dans un ?hier informatique, sauf si 
+celui?i présente un caractère obligatoire.
+?emple	 ? ? ?hier de gestion administrative des élèves ou encore le ?hier de 
+gestion de pr?s de livres de la bibliothèque présentent un caractère obligatoire 
+à l’inverse de l’annuaire des anciens élèves.
+?? ?s textes cités en référence ?a loi ??formatique et ?bertés ? normes simpli?es applicables, 
+délibérations et guides?sont disponibles sur le site ?b de la C??: http:???.cnil.fr. 
+?GUIDE PR?TI?UE ? IN?ORM?TI?UE ET LI?ERTÉS ?
+?
+I
+C
+?
+E
+ 
+N
+?
+?
+ 
+?
+ 
+R
+?
+L
+E
+ 
+D
+E
+ 
+L
+?
+ 
+C
+N
+I
+L
+ 
+P
+O
+U
+R
+ 
+D
+É
+?
+E
+N
+D
+R
+E
+ 
+C
+E
+S
+ 
+P
+R
+I
+N
+C
+I
+P
+E
+S? Commission nationale de l’informatique et des libertés, autorité 
+administrative indépendante chargée d’assurer le respect des dispositions de 
+la loi « Informatique et Libertés » ??  a, à cet égard, deux missions principales :
+? informer les personnes concernées de leurs droits et les responsables de 
+traitements de leurs obligations ?
+? veiller à ce que les traitements de données à caractère personnel soient mis 
+en ?vre conformément aux dispositions de la loi « Informatique et Libertés ».
+  1? ?e con??e ? ? con?rmi? ?? ?i ???o?? ? ?hier?e?
+?ai?men?
+? C?? délivre des récépissés pour les déclarations de ?hiers qui lui sont 
+adressées, et dispose d’un pouvoir d’autorisation pour les traitements qui, 
+présentent un caractère sensible en raison de leur ?alité ou de la nature des 
+données traitées ?x : recours à la biométrie?
+? Commission peut simpli?r les formalités déclaratives, voire exonérer de 
+déclaration certains ?hiers.
+Un mode d’emploi détaillant les procédures existantes est présenté en 
+annexe ?
+? désignation d’un correspondant « Informatique et Libertés » entra?e un 
+allègement des formalités préalables ?e reporter à la ?he n? du guide?
+  2??e r?e ? con?i?e??in?rma?on
+? ?rvice d’?ientation et de ?nseignement du ?blic de la C??conseille 
+et renseigne les personnes et les organismes qui envisagent de mettre en 
+?vre des ?hiers informatiques, que ce soit au téléphone, par courrier ou 
+par ses publications. ?rsque de nouvelles technologies apparaissent, la C??
+procède à des études, élabore en concertation avec les milieux concernés 
+des recommandations, le cas échéant propose des mesures législatives. Ces 
+activités peuvent également ?re menées avec ses homologues en particulier 
+européens.
+  3?? ?n?r??on ???ain??
+? C?? re?it les plaintes de toute personne concernant le non?espect 
+de la loi et peut également s’autosaisir. ?lon la nature et l’importance des 
+manquements constatés, elle procède au règlement des plaintes soit par 
+voie amiable, soit par la mise en ?vre de son pouvoir de sanction, soit en 
+dénon?nt les faits au procureur.
+f?? n? : r??? ? cnIL po? 
+??n???s pr??p?
+?
+?
+I
+C
+?
+E
+ 
+N
+?
+?
+ 
+?
+ 
+R
+?
+L
+E
+ 
+D
+E
+ 
+L
+?
+ 
+C
+N
+I
+L
+ 
+P
+O
+U
+R
+ 
+D
+É
+?
+E
+N
+D
+R
+E
+ 
+C
+E
+S
+ 
+P
+R
+I
+N
+C
+I
+P
+E
+S  4??e ??oir ? con??e ?r ?ace
+? C??dispose d’un pouvoir de contr?e qui permet à ses membres et ses 
+agents d’accéder à tous les locaux professionnels. ?r place, ses membres et 
+agents peuvent demander communication de tout document nécessaire et en 
+prendre copie, recueillir tout renseignement utile et accéder aux programmes 
+informatiques et aux données.
+  5??e ??oir ? ?nc?on
+? titre de son pouvoir de sanction, la C??peut :
+? adresser des avertissements et des mises en demeure de faire cesser un 
+manquement à la loi ?
+? prononcer une in?nction de cesser le traitement ou un retrait de l’autorisation 
+et, en cas d’urgence, décider l’interruption du traitement ou le verrouillage 
+des données ?
+? prononcer des sanctions pécuniaires pouvant aller ?squ’à ???? € en cas 
+de réitération ?
+? dénoncer au parquet les infractions à la loi dont elle a connaissance.
+?GUIDE PR?TI?UE ? IN?ORM?TI?UE ET LI?ERTÉS ?
+?
+I
+C
+?
+E
+ 
+N
+?
+?
+ 
+?
+ 
+C
+O
+R
+R
+E
+S
+P
+O
+N
+D
+?
+N
+T
+ 
+I
+N
+?
+O
+R
+M
+?
+T
+I
+?
+U
+E
+ 
+E
+T
+ 
+L
+I
+?
+E
+R
+T
+É
+S?stitué à l’occasion de la refonte de la loi « Informatique et Libertés », le 
+Correspondant ?formatique et ?bertés est un acteur et un relais incontournable 
+de la culture « informatique et libertés ».
+   q?e??e ?e ? corre?on?n?In?rma??e e??i?r???
+? Correspondant ?formatique et ?bertés ???a vocation à ?re un interlocuteur 
+spécialisé en matière de protection de données à caractère personnel, tant à 
+l’égard du directeur d’établissement, que dans les rapports de ce dernier avec 
+la C?? ? C? occupe ainsi une place centrale dans le développement ma?risé 
+des nouvelles technologies de l’information et de la communication.
+   Po??oi ???er ? corre?on?n?In?rma??e e??i?r???
+? fonction de correspondant répond à un double ob?ctif.
+? Elle entra?e un allègement considérable des formalités auprès de la C?? 
+? désignation permet en effet d’?re exonéré de l’obligation de déclaration 
+préalable des traitements ordinaires et courants. ?uls les traitements 
+identi?s comme sensibles dans la loi demeurent soumis à autorisation et 
+continuent à faire l’ob?t de formalités.
+? ? Correspondant ?formatique et ?bertés apporte une aide précieuse au 
+directeur d’établissement. ? contribue à une meilleure application de la loi et 
+réduit ainsi les risques ?ridiques. ? a un r?e de conseil, de veille et d’alerte en 
+matière de déploiement des pro?ts informatiques au sein de l’établissement. 
+? ?ue également un r?e essentiel dans la formation et la sensibilisation des 
+personnels de l’établissement aux principes « informatique et libertés ».
+   q??e??n???com??nce?re?i???? ?re corre?on?n?
+In?rma??e e??i?r???
+? C? peut ?re un emplo? de l’établissement ou une personne externe 
+?omme par exemple, un conseiller ?CE, un consultant?. ? loi a ?é des 
+seuils pour déterminer les cas dans lesquels il est possible de choisir un C? 
+interne ou externe à l’établissement.
+?nsi, il existe une liberté de choix lorsque moins de ? personnes sont chargées 
+de la mise en ?vre des traitements ou qui ?ont directement accès. ? choix 
+est limité lorsque plus de ? personnes sont chargées de la mise en ?vre des 
+traitements ou ?ont directement accès.
+En pratique, pour conna?re le seuil applicable, il convient de déterminer le 
+nombre de personnels qui sont chargés :
+? du développement et de la maintenance des applications ?ar exemple, le 
+service informatique??
+f?? n? : corr?pon?nt 
+In?r?t?? ? L??t?
+?
+?
+I
+C
+?
+E
+ 
+N
+?
+?
+ 
+?
+ 
+C
+O
+R
+R
+E
+S
+P
+O
+N
+D
+?
+N
+T
+ 
+I
+N
+?
+O
+R
+M
+?
+T
+I
+?
+U
+E
+ 
+E
+T
+ 
+L
+I
+?
+E
+R
+T
+É
+S? de la saisie des données ou de la consultation ?xemple : service ?ridique, 
+comptable, ou des ressources humaine?
+? nombre de ? personnes est apprécié au regard de l’ensemble des 
+applications informatiques mises en ?vre par l’établissement.
+?emple	 ? il est possible de désigner un C? pour plusieurs établissements 
+dans lesquels plus de ? personnes sont chargées de la mise en ?vre 
+des traitements ou ? ont directement accès. ?ns ce cas, le C? doit ?re 
+une personne mandatée par un organisme représentant les établissements 
+secondaires.
+? plupart des correspondants ont une formation informatique mais ce n’est 
+pas une obligation légale. ?’important est qu’il puisse, si nécessaire, béné?ier 
+d’une formation tant technique que ?ridique, qui soit adaptée à la taille de 
+l’établissement. ? C?? n’a pas à donner d’agrément mais enregistre, la 
+désignation et noti? celle?i au responsable du traitement.
+?el que soit le choix fait, l’essentiel est qu’il ?ait une très bonne collaboration 
+entre le C?, le ?? ?esponsable de la ?curité des ?stèmes d’?formation? 
+le C? ?entre de ?ssources ?formatiques? et le service ?ridique de 
+l’établissement.
+En?, pour s’acquitter de sa t?he, le Correspondant ?formatique et ?bertés 
+doit disposer de la liberté d’action et des mo?ns qui lui permettront de 
+recommander des solutions organisationnelles ou techniques adaptées. ? doit 
+pouvoir exercer pleinement ses missions, en dehors de toute pression, et ?uer 
+son r?e auprès du responsable du traitement.
+   q? ?? ???er ? corre?on?n?In?rma??e e??i?r???
+? appartient au chef d’établissement d’exercer un choix.
+? désignation d’un correspondant est facultative et traduit l’engagement du 
+responsable du traitement à respecter les dispositions légales.
+?	 pratique	 ?	 ?ur toute information complémentaire sur le correspondant, 
+sa désignation et ses missions, consulter le dossier « ?rrespondant » ou le 
+« ?ide du ?rrespondant Informatique et Libertés » sur le site internet de la 
+C?? ?ous pouve?également contacter le service de la C??en charge des 
+correspondants.
+?GUIDE PR?TI?UE ? IN?ORM?TI?UE ET LI?ERTÉS ?
+?
+I
+C
+?
+E
+ 
+N
+?
+?
+ 
+?
+ 
+E
+N
+R
+E
+G
+I
+S
+T
+R
+E
+M
+E
+N
+T
+ 
+E
+T
+ 
+U
+T
+I
+L
+I
+S
+?
+T
+I
+O
+N
+ 
+D
+U
+ 
+N
+U
+M
+É
+R
+O
+ 
+D
+E
+ 
+S
+É
+C
+U
+R
+I
+T
+É
+ 
+S
+O
+C
+I
+?
+L
+E
+  ?e ?oi ?a??i??
+? ?? numéro d’inscription au ?pertoire ?tional d’?enti?ation des 
+?rsonnes ??iques ???? communément appelé numéro de sécurité 
+sociale, est un élément d’identi?ation des personnes ph?iques. ? gestion du 
+??est con?e à l’??E.
+  En ?oi ????r???n?e?e?concern???
+? ??n’est pas un numéro comme les autres.
+? est particulier car il est :
+? signi?nt ? il est composé d’une cha?e de caractères qui permettent de 
+déterminer le sexe, le mois et l’année de naissance, et dans la ma?rité des 
+cas, le département et la commune de naissance en ?ance ou l’indication 
+d’une naissance à l’étranger ?
+? unique et pérenne ? un seul numéro est attribué à chaque individu dès sa 
+naissance a priori ?ble ?il est certi? par l’??E à partir des données d’état 
+civil transmises par les mairies.
+? loi « Informatique et Libertés » a tou?urs soumis à des exigences 
+procédurales particulières l’utilisation du ?? En effet, les craintes suscitées par 
+la généralisation d’un identi?nt national et unique qui rendrait plus aisées les 
+possibilités de rapprochements de ?hiers ont conduit le législateur à encadrer 
+strictement l’utilisation de ce numéro.
+  q? ?ire ?
+?rsqu’un établissement envisage l’enregistrement et?u l’utilisation du ?? il 
+doit tout d’abord s’assurer du fait que cette utilisation est légale.
+En effet, l’enregistrement du numéro de sécurité sociale dans un traitement est 
+notamment autorisé :
+? dans les ?hiers de paie et de gestion du personnel pour l’établissement des 
+bulletins de paie et des différentes déclarations sociales obligatoires ?écret n?
+????du ? décembre ????
+? dans le cadre de la prise en charge des frais de maladie ?rticles ????et 
+????du code de la sécurité sociale?
+?emple	 ? ?’immatriculation des élèves à la sécurité sociale lors de l’inscription 
+dans l’établissement conformément aux dispositions de l’article ???? et 
+????? du code de la sécurité sociale pour les élèves inscrits en classe 
+PartIe ?: fIches PratIques 
+f?? n? : enr??tr??t ? 
+???at?n ? n??o ? s????
+so?a?
+?
+?
+I
+C
+?
+E
+ 
+N
+?
+?
+ 
+?
+ 
+E
+N
+R
+E
+G
+I
+S
+T
+R
+E
+M
+E
+N
+T
+ 
+E
+T
+ 
+U
+T
+I
+L
+I
+S
+?
+T
+I
+O
+N
+ 
+D
+U
+ 
+N
+U
+M
+É
+R
+O
+ 
+D
+E
+ 
+S
+É
+C
+U
+R
+I
+T
+É
+ 
+S
+O
+C
+I
+?
+L
+Epréparatoire du second degré.
+?s états produits et les documents édités ne peuvent donc porter mention de 
+ce numéro que dans le cadre des opérations décrites plus haut.
+Cette règle s’applique m?e dans le cas de logiciels intégrés de gestion et de 
+paie qui doivent ?re paramétrés pour limiter l’utilisation du numéro de sécurité 
+sociale à ces seules opérations.
+En particulier, le numéro de sécurité sociale ne fait pas partie de la liste des 
+informations qui doivent ?urer dans le registre unique du personnel, ?ée par 
+les articles ???? et ? ??? du code du travail, et ne doit donc pas ?re 
+enregistré dans ce cadre.
+? numéro de sécurité sociale d’un emplo? ne peut donc pas ?re utilisé 
+comme numéro de matricule unique pour l’identi?r dans tous les ?hiers de 
+gestion des ressources humaines de son entreprise ou de son administration.
+En dehors des cas évoqués ci?essus, l’utilisation du numéro de sécurité 
+sociale ne peut ?re autorisée que dans le cadre d’un décret en Conseil d’Etat 
+ou arr?é pris après avis de la C??
+?GUIDE PR?TI?UE ? IN?ORM?TI?UE ET LI?ERTÉS ?
+?
+I
+C
+?
+E
+ 
+N
+?
+?
+ 
+?
+ 
+U
+T
+I
+L
+I
+S
+?
+T
+I
+O
+N
+ 
+D
+E
+ 
+L
+?
+ 
+P
+?
+O
+T
+O
+G
+R
+?
+P
+?
+I
+E
+ 
+D
+’
+U
+N
+E
+ 
+P
+E
+R
+S
+O
+N
+N
+E  ?e ?oi ?a??i??
+?’utilisation de la photographie d’une personne ou d’un groupe de personnes est 
+devenue une pratique courante au sein des établissements scolaires. Elle est, 
+par exemple, apposée sur la carte de l’élève, sur des articles publiés dans une 
+revue ou un ?ournal d’école, sur un site internet, ou encore sur un trombinoscope.
+  En ?oi ????r???n?e?e?concern???
+?’image d’une personne est considérée comme un attribut de sa personnalité ou 
+encore comme un élément de l’intimité de sa vie privée et elle est protégée au 
+titre du droit au respect de la vie privée. ?on utilisation en est dès lors strictement 
+encadrée ? en effet, toute personne dispose sur son image et sur l’utilisation 
+qui en est faite, d’un droit exclusif et peut s’opposer à sa reproduction et à sa 
+diffusion dès lors qu’elle n’? a pas préalablement consenti.
+  q? ?ire ?
+?ecueillir	l’accord	des	personnes	p?otograp?iées
+?a prise de photographies et leur diffusion doivent s’effectuer dans le respect des 
+règles relatives au droit à l’image.
+?oute personne pouvant s’opposer à la reproduction de son image, sur quelque 
+support que ce soit ?diffusion de son image sur un intranet, sur internet, etc.?, 
+la prise d’une photographie et sa diffusion doivent faire l’ob?et d’un accord écrit 
+de la personne concernée si elle est ma?eure ou de ses représentants légaux s’il 
+s’agit d’un élève mineur.
+?l appartient donc au responsable de traitement d’obtenir toutes les autorisations 
+utiles préalablement à l’utilisation de photographies.
+?xemple	de	mention	à	insérer
+?l est envisagé de diffuser dans ?le ?ournal de l’établissement, le site ?nternet??
+des photos de votre enfant prises à l’occasion des différents événements qui 
+ponctuent la vie de l’établissement. ?our ce faire, nous avons besoin de recueillir 
+votre accord. ?ous vous proposons donc de bien vouloir nous signi?er si vous 
+accepte? que des photos de vos enfants soient susceptibles d’?tre diffusées sur 
+le site à l’aide du coupon ?oint. ?ous vous rappelons que vous dispose? d’un 
+droit d’accès, de modi?cation, de recti?cation et de suppression des données 
+qui vous concernent conformément à la loi « informatique et libertés » du ? ?anvier 
+???? modi?ée en ????. ?our exercer ce droit, adresse??vous à ?indique? ici 
+l’adresse o? les personnes peuvent exercer leur droit d’accès et de recti?cation? .
+?éclarer	aupr?s	de	la	CNIL
+?ès lors qu’elle se rapporte à une personne identi?ée ou identi?able, l’image d’une 
+personne est une donnée à caractère personnel. ?e traitement informatique de 
+cette donnée ?numérisation, diffusion à partir d’un site ?eb, etc.? doit s’effectuer 
+dans le respect de la loi « Informatique et Libertés » et donc ?tre déclaré auprès de 
+la C??? sauf en cas de désignation d’un Correspondant ?nformatique et ?ibertés.
+f?? n? : ut??at?n ? ? 
+p?to?ap?????p?sonn?
+?
+?
+I
+C
+?
+E
+ 
+N
+?
+?
+ 
+?
+ 
+M
+I
+S
+E
+ 
+E
+N
+ 
+P
+L
+?
+C
+E
+ 
+D
+’
+U
+N
+ 
+?
+N
+N
+U
+?
+I
+R
+E
+ 
+D
+E
+S
+ 
+É
+L
+?
+?
+E
+S  ?e ?oi ?a??i??
+? mise en place par une association d’anciens élèves ou par l’établissement 
+lui??e d’un annuaire des élèves est une pratique courante.
+  En ?oi me???r???n?e?e?concern???
+?a création d’un annuaire d’anciens élèves peut, en pratique, soulever des 
+dif?cultés au regard des principes « informatique et libertés » s’agissant plus 
+particulièrement des conditions dans lesquelles il a été constitué et de ses 
+modalités de diffusion ?papier, internet?.
+En effet, la divulgation sur internet du nom et de l’adresse personnelle des anciens 
+élèves sans qu’ils en aient été préalablement informés et mis en mesure de s’?
+opposer peut comporter un risque pour leur vie privée. Ces informations peuvent, 
+par exemple, ?tre utilisées à leur insu notamment à des ?ns commerciales.
+  q? ?ire ?
+?rsque l’établissement propose un formulaire d’inscription à l’annuaire, 
+celui?i devra préciser : la ?nalité de la collecte, à savoir la mise en place d’un 
+annuaire des élèves de l’établissement, son caractère facultatif, les destinataires 
+des données et les modalités d’exercice des droits d’accès, de recti?cation et 
+d’opposition aux données.
+?ans l’h?pothèse o? l’annuaire serait accessible sur internet, les anciens élèves 
+doivent en ?tre préalablement informés et mis en mesure de s’opposer à la 
+diffusion de leurs coordonnées. ?l est recommandé que l’accès à l’annuaire via 
+internet soit strictement réservé aux anciens élèves ?exemple : attribution de code 
+d’accès?.
+?l est également souhaitable que le formulaire d’inscription puisse permettre à 
+l’élève d’indiquer les informations qu’il souhaite ne pas voir diffusées ?exemple : 
+son adresse personnelle? tant sur la version ?eb que sur la version papier de 
+l’annuaire. Ces données ne restent alors accessibles qu’au service chargé de la 
+tenue de l’annuaire.
+Un ancien élève qui aura été recontacté individuellement ?lors d’un événement 
+professionnel par exemple? pourra se voir proposer le formulaire d’inscription à 
+l’annuaire.
+Chaque année, un courrier électronique ou postal doit ?tre envo?é à chacun des 
+élèves inscrits sur l’annuaire, leur rappelant les modalités de mise à ?our de leurs 
+données personnelles, ainsi que celles de désinscription.
+?i ce courrier revient en ???? ? ’habite ?lus ? l’?dresse ?ndiquée?, toutes les 
+données relatives à cet ancien élève doivent ?tre supprimées.
+?l est important également de veiller à insérer une mention légale sur l’annuaire qui 
+précise qu’en aucun cas les données qu’il contient ne peuvent ?tre exploitées à 
+f?? n? : m??? p?? ?? 
+ann????s ???
+?GUIDE PR?TI?UE ? IN?ORM?TI?UE ET LI?ERTÉS ?
+?
+I
+C
+?
+E
+ 
+N
+?
+?
+ 
+?
+ 
+M
+I
+S
+E
+ 
+E
+N
+ 
+P
+L
+?
+C
+E
+ 
+D
+’
+U
+N
+ 
+?
+N
+N
+U
+?
+I
+R
+E
+ 
+D
+E
+S
+ 
+É
+L
+?
+?
+E
+Sdes ?ns commerciales ou politiques sauf indication explicite en sens contraire de 
+la personne concernée.
+?n	pratique	?	?es associations d’anciens élèves
+?’établissement scolaire peut communiquer la liste de ses anciens élèves à 
+ces associations dès lors que les intéressés ont, d’une part, été préalablement 
+informés de cette transmission les concernant et ont, d’autre part, eu la possibilité 
+de s’? opposer.
+?ar ailleurs, l’établissement peut, par voie d’af?chage et plus particulièrement lors 
+de la publication des résultats, informer les dipl?més de l’existence d’associations 
+d’anciens élèves et des modalités d’inscription via par exemple le site ?eb de 
+l’association.
+?
+?
+I
+C
+?
+E
+ 
+N
+?
+?
+ 
+?
+ 
+E
+N
+?
+U
+?
+T
+E
+S
+ 
+S
+T
+?
+T
+I
+S
+T
+I
+?
+U
+E
+S
+ 
+P
+O
+R
+T
+?
+N
+T  
+S
+U
+R
+ 
+L
+E
+ 
+D
+E
+?
+E
+N
+I
+R
+ 
+P
+R
+O
+?
+E
+S
+S
+I
+O
+N
+N
+E
+L
+ 
+E
+T
+ 
+L
+E
+ 
+S
+U
+I
+?
+I
+ 
+D
+E
+ 
+C
+O
+?
+O
+R
+T
+E
+S
+ 
+D
+’
+É
+L
+?
+?
+E
+S
+  ?e ?oi ?a??i??
+? mise en place des indicateurs de performances dans le cadre de la ?? et la 
+nécessité d’adapter au mieux l’offre de formation contribuent au développement 
+d’enqu?es de suivi de cohorte d’élèves. En effet, suivre le parcours des élèves 
+dans le cadre d’un suivi de cohorte est l’occasion d’observer dans la durée le 
+devenir des bacheliers et de mieux comprendre leur orientation.
+? plus souvent, les informations à caractère personnel nécessaires à la 
+réalisation de ce suivi seront extraites de la base de gestion des élèves et 
+peuvent ?re complétées par des enqu?es auprès des élèves ?x. : conna?re 
+pour chaque bachelier, sortant de l?ée, son devenir professionnel ? mois et ?
+ans après l’obtention du dipl?e?
+?s informations recueillies sont ensuite utilisées et anal?ées dans un but 
+statistique.
+  En ?oi ????r???n?e?e?concern???
+? la légitimité de ce t?e d’études ne saurait ?re remise en question, elles 
+doivent cependant ?re réalisées dans le respect des droits des personnes 
+?nformation préalable, droit d’accès, de recti?ation et d’opposition?
+En outre, le risque d’une exploitation des données à des ?s autres que celle 
+d’un suivi de cohorte étant tou?urs possible, une attention particulière doit ?re 
+apportée aux mesures prises pour assurer la sécurité et la con?entialité de ces 
+traitements et notamment garantir l’anon?at des réponses.
+  q? ?ire ?
+?s responsables de ces études doivent veiller à la mise en place des mesures 
+suivantes :
+? une information préalable des élèves relative à la mise en place de ce t?e 
+d’études au sein de l’établissement doit ?re prévue. Celle?i peut par exemple 
+?re réalisée au moment de l’inscription de l’élève ?
+? le questionnaire d’enqu?e adressé aux ?nciens?élèves doit :
+? rappeler les mentions de la loi « Informatique et Libertés » ?celles?i doivent 
+également ?urer sur la lettre d’accompagnement ?
+? indiquer qu’il est facultatif et con?entiel ?
+? comporter des questions qui restent pertinentes et adaptées au regard de la 
+?alité de l’enqu?e ?
+f???? n?? : en???t?s stat?st????s 
+portant s?r ?? ??v?n?r pro??ss?onn??
+?t ?? s??v? ?? ?o?ort?s ?????v?s
+?GUIDE PR?TI?UE ? IN?ORM?TI?UE ET LI?ERTÉS ?
+?
+I
+C
+?
+E
+ 
+N
+?
+?
+ 
+?
+ 
+E
+N
+?
+U
+?
+T
+E
+S
+ 
+S
+T
+?
+T
+I
+S
+T
+I
+?
+U
+E
+S
+ 
+P
+O
+R
+T
+?
+N
+T  
+S
+U
+R
+ 
+L
+E
+ 
+D
+E
+?
+E
+N
+I
+R
+ 
+P
+R
+O
+?
+E
+S
+S
+I
+O
+N
+N
+E
+L
+ 
+E
+T
+ 
+L
+E
+ 
+S
+U
+I
+?
+I
+ 
+D
+E
+ 
+C
+O
+?
+O
+R
+T
+E
+S
+ 
+D
+’
+É
+L
+?
+?
+E
+S
+? une fois l’enqu?e considérée comme terminée, les informations personnelles 
+détenues par le responsable de l’enqu?e doivent ?re détruites ou archivées ?
+seuls les résultats statistiques peuvent ?re conservés ?
+? les statistiques nécessaires seront réalisées par des personnes habilitées à 
+utiliser la base de gestion des élèves ?
+? une information sur l’enqu?e devra ?re présentée régulièrement « au ? 
+de l?au » : ?urnal de l’établissement, présentation des résultats lors des 
+« ?urnées scolarité », des réunions d’accueil des anciens élèves?
+? reporter à l’annexe ? « ?de d?mploi ?comment déclarer ?» qui précise les 
+cas dans lesquels ces traitements relèvent du régime de la déclaration normale 
+ou de la demande d’autorisation.
+?
+?
+I
+C
+?
+E
+ 
+N
+?
+?
+ 
+?
+ 
+M
+I
+S
+E
+ 
+E
+N
+ 
+P
+L
+?
+C
+E
+ 
+D
+E
+S
+ 
+E
+S
+P
+?
+C
+E
+S
+ 
+N
+U
+M
+É
+R
+I
+?
+U
+E
+S
+ 
+D
+E
+ 
+T
+R
+?
+?
+?
+I
+L
+ 
+?
+E
+N
+T
+?  ?e ?oi ?a??i??
+?s Espaces ?mériques de ?ravail ???sont des sites ?b portail permettant 
+aux élèves, aux enseignants, aux personnels administratifs, d’accéder, via un 
+point d’entrée unique et sécurisé, à un bouquet de services numériques.
+? Un accès via internet de son domicile ou à partir des points d’accès disponibles 
+dans chaque établissement ?
+? Un accès à des contenus à vocation pédagogique et éducative, une 
+diffusion d’informations administratives ou relatives au fonctionnement de 
+l’établissement, une messagerie électronique, des forums de discussion, etc.
+  En ?oi ????r???n?e?e?concern???
+? Une attention particulière doit ?re portée aux mesures prises pour assurer la 
+sécurité du dispositif.
+?	pratique	?
+Elles doivent notamment garantir que chaque titulaire d’un compte E? ne 
+puisse accéder qu’aux seules informations le concernant. Exemple : un élève 
+ne peut pas avoir accès aux notes des autres élèves de sa classe.
+? convient de se référer aux annexes « ?curités » du ?héma ?recteur 
+des Espaces ?mériques de ?ravail du ?nistère en particulier l’annexe 
+« Authenti?ation?Autorisation? ?? » qui précise les obligations à respecter 
+en ce qui concerne la politique de gestion des mots de passe ?ots de passe 
+non stoc?s en clair, etc.?
+?s responsables d’établissement veillent à sensibiliser les utilisateurs des 
+E? aux mesures élémentaires de sécurité telles que la con?entialité de leur 
+identi?nt de connexion à leur compte E?.
+  q? ?ire ?
+? ?’information des personnes est essentielle. Chaque responsable 
+d’établissement se doit d’informer les utilisateurs des E? de leurs droits au 
+regard de la loi « Informatique et Libertés ».
+?	pratique	?
+Cette information doit ?re prévue sur la page d’accueil du portail E? et lors de 
+la phase de création d’un compte E?.
+?d?e	 de	mention	d’information	 ?	Cet espace numérique de travail ???
+propose des contenus à vocation pédagogique et diffuse des informations 
+administratives ou relatives à la vie scolaire. Chaque utilisateur ne peut accéder 
+qu’aux seules informations auxquelles il a besoin d’accéder dans l’exercice de 
+ses fonctions au sein de l’établissement. Conformément à la loi « Informatique et 
+Libertés », vous dispose?d’un droit d’accès, de recti?ation et d’opposition aux 
+informations qui vous concernent. ? vous souhaite?exercer ce droit et obtenir 
+f???? n?? : m?s? ?n p?a?? ??s 
+?spa??s n???r????s ?? trava?? ?ent?
+?? cf. ?libération n? ???? adoptée par la C?? le ? avril ?? portant avis sur la mise 
+en place des espaces numériques de travail ??? au sein des établissements scolaires et 
+universitaires. 
+?GUIDE PR?TI?UE ? IN?ORM?TI?UE ET LI?ERTÉS ?
+?
+I
+C
+?
+E
+ 
+N
+?
+?
+ 
+?
+ 
+M
+I
+S
+E
+ 
+E
+N
+ 
+P
+L
+?
+C
+E
+ 
+D
+E
+S
+ 
+E
+S
+P
+?
+C
+E
+S
+ 
+N
+U
+M
+É
+R
+I
+?
+U
+E
+S
+ 
+D
+E
+ 
+T
+R
+?
+?
+?
+I
+L
+ 
+?
+E
+N
+T
+?communication des informations vous concernant, veuille?vous adresser à : 
+?ndique?ici le service. ?éciser adresse postale et adresse électronique?
+?	Les	formalités	aupr?	de	la	CNIL
+?		?i	doit	déclarer	?
+? directeur de l’établissement qui a décidé de la mise en ?vre d’un E? au 
+sein de son établissement.
+?		Comment	déclarer	?
+?s E? sont considérés comme des téléservices de l’administration 
+électronique. ?r conséquent, le traitement relève du régime de la demande 
+d’avis.
+Une procédure de déclaration simpli?e est prévue à condition que le dispositif 
+E? respecte le cadre ?é par l’arr?é du ? novembre ?? pris après avis 
+de la C?? ?? , à savoir notamment les ?alités, les droits des personnes et les 
+mesures de sécurité nécessaires à la protection des données à caractère 
+personnel.
+? Ce contr?e est notamment réalisé à partir de la conservation de données techniques appelées 
+données de connexion ou données relatives au tra? ?x. : adresses U? visitées, adresse ?? 
+? sait qu’il se pose la question de savoir si les établissements scolaires offrant un accès à 
+?ternet à leurs étudiants sont soumis aux dispositions de l’article ??? du code des postes 
+et des communications électroniques. ?lon cet article, les personnes dont l’activité est d’offrir 
+un accès à des services de communication au public en ligne ont l’obligation de conserver les 
+données de connexion des personnes utilisatrices de leurs services. En tout état de cause, il 
+convient de rappeler que cette disposition n’impose pas d’identi?r les élèves par la tenue par 
+exemple d’un ?hier des utilisateurs.
+?
+ 
+ 
+?
+I
+C
+?
+E
+ 
+N
+?
+?
+?
+ 
+?
+ 
+C
+O
+N
+T
+R
+?
+L
+E
+ 
+D
+E
+ 
+L
+’
+U
+T
+I
+L
+I
+S
+?
+T
+I
+O
+N
+ 
+D
+E
+S
+ 
+M
+O
+?
+E
+N
+S
+ 
+I
+N
+?
+O
+R
+M
+?
+T
+I
+?
+U
+E
+S?n d’assurer la sécurité de leur réseau et?u de leurs ressources informatiques, 
+les établissements peuvent ?re conduits à mettre en place des instruments 
+pour contr?er l’utilisation des outils informatiques mis à disposition de leurs 
+élèves et de leurs personnels ?? .
+Ce contr?e est légitime dès lors qu’il est réalisé de manière transparente, à 
+savoir avec une parfaite information des utilisateurs. ? rédaction d’une Charte 
+d’utilisation des outils informatiques est particulièrement utile pour rappeler les 
+obligations mutuelles de l’établissement et de l’utilisateur, dé?ir les modalités 
+des contr?es qui peuvent ?re effectués et les sanctions auxquelles s’expose 
+l’utilisateur s’il ne respecte pas les règles d’utilisation.
+? présente ?he se propose d’aborder plus particulièrement les questions 
+relatives à l’utilisation de la messagerie électronique et de l’internet par les 
+personnels de l’établissement sur le lieu de travail. ?ur toute information 
+complémentaire sur ce su?t, consulter le « ?ide pratique pour les emplo?urs » 
+sur le site internet de la C??
+  1? ?e con?r??e ?e ????i?i?a?ion ?e ?a me??a?erie ??ec?roni??e ?ro?e??ionne??e
+  ?e ?oi ?a??i??
+?’utilisation de la messagerie électronique professionnelle pour envo?r ou 
+recevoir, dans des proportions raisonnables, des messages à caractère 
+personnel correspond à un usage généralement et socialement admis.
+? est possible de l’interdire, mais, m?e dans un tel cas, la nature d’une 
+correspondance privée est protégée par « le secret des correspondances » 
+dans le respect de la loi et de l’état actuel de la ?risprudence.
+?	quoi	les	li?rtés	sont?lles	concernées	?
+? surveillance des courriers d’un agent par sa direction doit respecter 
+les principes issus du droit à la vie privée, m?e dans le cadre de la vie 
+professionnelle. En effet, la mise en ?vre d’outils de contr?e doit s’opérer 
+dans le respect du principe consacré à l’article ?de la Convention européenne 
+des droits de l’homme selon lequel : « Le salarié a droit?m?e au temps et lieu 
+de travail?au respect de l?ntimité de sa vie privée »?
+f?? n??: contr??? ????at?n 
+?s ??ns ??r?t??s
+?? C?? ? C????, Chambre sociale, ? mai ??, ?ilippe ? c? ?ciété Cathnet?
+?ience, ? ??????arr? n??? ?Cassation
+?GUIDE PR?TI?UE ? IN?ORM?TI?UE ET LI?ERTÉS ?
+ 
+ 
+?
+I
+C
+?
+E
+ 
+N
+?
+?
+?
+ 
+?
+ 
+C
+O
+N
+T
+R
+?
+L
+E
+ 
+D
+E
+ 
+L
+’
+U
+T
+I
+L
+I
+S
+?
+T
+I
+O
+N
+ 
+D
+E
+S
+ 
+M
+O
+?
+E
+N
+S
+ 
+I
+N
+?
+O
+R
+M
+?
+T
+I
+?
+U
+E
+S  q? ?ire ?
+C’est la ?risprudence qui a dé?i les conditions dans lesquelles un emplo?ur 
+peut contr?er l’utilisation de la messagerie professionnelle de ses emplo?s.
+?nsi, un arr? de la Cour de cassation de ?? a consacré le droit des salariés 
+au respect de l’intimité de leur vie privée avec une interdiction pour l’emplo?ur 
+de prendre connaissance du contenu des correspondances qui relèveraient 
+de la vie privée des personnes via la messagerie électronique professionnelle.
+?outefois, en ??, la Cour de cassation a reconnu à l’emplo?ur le droit, dans 
+certains cas, d’accéder aux ?hiers personnels d’un salarié enregistrés sur le 
+disque dur de son poste de travail. Elle pose le principe que, désormais, la 
+nature personnelle d’un ?hier ne suf? plus à le soustraire à un contr?e de 
+l’emplo?ur mais dé?it étroitement les conditions d’un tel contr?e.
+?nsi :
+? par principe, l’accès à l’espace réservé à l’emplo? nécessite la prévision 
+d’un tel accès dans le règlement intérieur ainsi que l’information préalable du 
+salarié ?ui doit ?re présent ou au moins ?re prévenu??
+? par exception, le contr?e de l’espace réservé est possible sans inscription 
+au règlement intérieur et sans information préalable en cas de « risque ou 
+d?vénement particulier »?
+?		Identi?r	ses	messages	personnels
+? appartient à l’emplo? :
+? de classer s?tématiquement le message dans un dossier « personnel » ?
+? d’indiquer dans l’ob?t du message la mention « personnel » ?
+?		Informer	les	personnes
+? est recommandé que la direction de l’établissement informe ses personnels 
+au su?t :
+? de l’existence de procédures de contr?es quant à l’utilisation de la messagerie 
+électronique ?cette information peut ?re assurée par l’envoi à chaque agent 
+d’un courrier électronique dans lequel doivent ?re rappelées les mentions 
+« informatique et libertés ». Cette information peut ?re utilement complétée 
+par voie d’af?hage ?
+?  des procédures de surveillance et d’archivage mises en ?uvre pour des raisons 
+de sécurité des s?stèmes d’information ?ex. : encombrement du réseau??
+? de la durée de conservation des données dans le cas de mesures d’archivage ?
+?? ?s logiciels de télémaintenance ou de prise de main à distance ne peuvent ?re utilisés par 
+l’emplo?ur à des ?s de contr?e de l’activité de ses personnels.
+?
+ 
+ 
+?
+I
+C
+?
+E
+ 
+N
+?
+?
+?
+ 
+?
+ 
+C
+O
+N
+T
+R
+?
+L
+E
+ 
+D
+E
+ 
+L
+’
+U
+T
+I
+L
+I
+S
+?
+T
+I
+O
+N
+ 
+D
+E
+S
+ 
+M
+O
+?
+E
+N
+S
+ 
+I
+N
+?
+O
+R
+M
+?
+T
+I
+?
+U
+E
+S? de l’existence et la date de la consultation préalable des instances 
+représentatives du personnel.
+?		?ppeler	 les	prérogati?s	 et	les	o?igations	 des	administrateurs	réseaux
+? ?érogatives : accès à l’ensemble des données ?compris celles qui sont sur le 
+disque dur du poste de travail pour pouvoir travailler ef?acement ?utilisation 
+de logiciels de télémaintenance ?étection de pannes ou prise de contr?e à 
+distance ?? ??
+?  ?bligations : l’accès aux données enregistrées par les emplo?és ?dont les 
+correspondances personnelles? ne peut ?tre ?usti?é que dans le cas d’un 
+d?sfonctionnement important ? obligation de con?dentialité à rappeler dans leur 
+contrat et dans la charte d’utilisation des ressources informatiques. ?espect de 
+la durée de conservation des données indiquée dans le dossier de déclaration 
+C??? ou dans le registre du C?? ?Correspondant ?nformatique et ?ibertés? ? en 
+l’espèce, une durée de ? mois à ? an para?t raisonnable et suf?sante.
+?es usagers doivent ?tre informés des prérogatives des administrateurs du réseau.
+?		?clarer	à	la	CNIL
+? mise en place d’un contr?e de la messagerie ?ombre de mails entrants 
+et sortants par emplo?, identi?ation de l’émetteur et des destinataires des 
+envois de mails, taille des ?hiers transmis en pièces ?intes, outil d’archivage 
+des messages échangés? constitue un traitement de données à caractère 
+personnel et doit par conséquence ?re déclaré à la C?? sauf en cas de 
+désignation d’un C?.
+A	noter	?
+Acc?	aux	données	informatiques	en	cas	d’a?ence	d’un	emplo?
+?’obligation de lo?auté impose à l’emplo?é absent de son poste de travail de 
+communiquer à l’emplo?eur qui en fait la demande tout document nécessaire à 
+la poursuite de l’activité de l’établissement. ?our autant, les modalités d’accès 
+de l’emplo?eur aux données stoc?ées sur l’environnement informatique d’un 
+emplo?é absent ?messagerie, ?chiers, supports de stoc?age? devraient ?tre 
+préalablement dé?nies en concertation et diffusées auprès de l’ensemble des 
+emplo?és susceptibles d’?tre concernés ?via une charte par exemple?.
+  2??e con??e ? ??i???on ?in?rne?
+  ?e ?oi ?a??i??
+Une interdiction générale et absolue de toute utilisation d’internet à des 
+?s autres que professionnelles ne para? pas réaliste dans une société de 
+?GUIDE PR?TI?UE ? IN?ORM?TI?UE ET LI?ERTÉS ?
+ 
+ 
+?
+I
+C
+?
+E
+ 
+N
+?
+?
+?
+ 
+?
+ 
+C
+O
+N
+T
+R
+?
+L
+E
+ 
+D
+E
+ 
+L
+’
+U
+T
+I
+L
+I
+S
+?
+T
+I
+O
+N
+ 
+D
+E
+S
+ 
+M
+O
+?
+E
+N
+S
+ 
+I
+N
+?
+O
+R
+M
+?
+T
+I
+?
+U
+E
+Sl’information et de la communication. Elle semble de plus disproportionnée au 
+regard des textes applicables et de leur interprétation par la ?risprudence.
+Un usage raisonnable du personnel, non susceptible d’amoindrir les conditions 
+d’accès professionnel au réseau ne mettant pas en cause la productivité est 
+généralement et socialement admis par la plupart des établissements.
+  q? ?ire ?
+? ?diger	une	?	c?rte	?	d’utilisation	d’internet	au	sein	de	l’éta?issement
+Celle?i peut notamment prévoir :
+? la mise en place de dispositifs de ?trage de sites non autorisés, associés 
+au pare?eu ?ites diffusant des produits à caractère pornographique, 
+pédophile, incitant à la haine raciale, révisionniste, etc.?comme une mesure 
+de prévention ?
+? l’interdiction de télécharger des logiciels, de se connecter à un forum ou 
+d’utiliser le «chat», d’accéder à une bo?e aux lettres personnelle par internet 
+compte tenu des risques de virus.
+?		Informer	les	personnes
+?s modalités d’un tel contr?e de l’usage d’internet doivent faire l’ob?t d’une 
+consultation des instances représentatives du personnel et d’une information 
+des utilisateurs et des élèves en particulier, ? compris lorsque le contr?e est 
+dépourvu d’un caractère directement nominatif.
+?		?clarer	aupr?	de	la	CNIL
+Un contr?e a posteriori des données de connexion à internet, restitué de fa?n 
+globale, par exemple au niveau de l’organisme ou d’un service déterminé, 
+devrait dans la plupart des cas ?re suf?ant sans qu’il soit nécessaire de 
+procéder à un contr?e individualisé des sites visités par un emplo? déterminé.
+?outefois, si l’établissement met en place un dispositif de contr?e individuel 
+des emplo?s destiné à produire, poste par poste, un relevé des durées de 
+connexion ou des sites visités, le traitement automatisé de données à caractère 
+personnel ainsi mis en ?vre doit ?re déclaré à la C???auf désignation d’un 
+Correspondant ?formatique et ?bertés?
+? durée pendant laquelle les relevés ainsi établis sont conservés doit ?re 
+précisée. Une durée de conservation de l’ordre de six mois devrait ?re 
+suf?ante, dans la plupart des cas, pour dissuader tout usage abusif d’internet. 
+? dossier de déclaration doit en outre comporter l’indication et la date à 
+laquelle les instances représentatives du personnel ont été consultées sur de 
+tels dispositifs.
+  ?e ?oi ?a??i??
+Comme le précise une circulaire ministérielle, les résultats des examens sont 
+portés à la connaissance des étudiants par voie d’af?chage ????. ?raditionnellement, 
+cette proclamation des résultats est réalisée par le biais d’un af?chage dans les 
+locaux de l’établissement. Cette publicité ne s’applique pas aux notes obtenues 
+qui sont communiquées individuellement à chaque élève.
+? est désormais fréquent que les établissements scolaires permettent à leurs 
+élèves d’accéder à leurs résultats d’examen et à leurs notes via internet.
+  En ?oi ????r???n?e?e?concern???
+? diffusion des résultats d’examen et des notes des élèves via internet est 
+susceptible de porter atteinte à la vie privée des personnes compte tenu des 
+caractéristiques propres au réseau internet qui est par principe un réseau 
+ouvert au public. En effet, ces informations peuvent ?re captées et utilisées par 
+des tiers dès lors qu’elles sont diffusées sur le réseau.
+  q? ?ire ?
+?		Informer	les	él?es	de	la	diffusion	sur	internet
+?agissant de la publicité des résultats d’examen sur internet et en l’absence 
+de règles dé?issant les modalités de diffusion des résultats des examens, il 
+est recommandé que les élèves aient été préalablement informés d’une telle 
+diffusion et mis en mesure de s’?opposer. Cette information peut, par exemple, 
+?re prévue sur le dossier d’inscription de l’élève.
+?	 pratique	?	?s mentions d’information sur le dossier d’inscription de l’élève 
+doivent permettre aux candidats de s’opposer d’une part à la diffusion de 
+leurs résultats sur internet, d’autre part à la communication d’informations les 
+concernant à des tiers.
+?agissant de la mise en ligne des notes d’examen, chaque personne concernée 
+doit disposer d’un code d’accès et d’un mot de passe ?ccès restreint?pour 
+les obtenir. ?’accès aux notes, qui sont des données personnelles, est en effet 
+strictement personnel. ? plus souvent, cet accès est réalisé via le compte E? 
+de l’élève.
+?		?clarer	aupr?	de	la	CNIL
+?’accès aux résultats d’examen et aux notes via internet par le biais d’identi?nts 
+de connexion doit ?re considéré comme un téléservice de l’administration 
+électronique. ? mise en ?vre est par conséquent soumise à avis préalable de 
+la C?? ? cet accès est envisagé dans le cadre d’un E?, il peut ?re déclaré 
+sous une forme simpli?e à condition que le dispositif E? respecte le cadre 
+?é par l’arr?é du ? novembre ??  ?? .
+?
+f?? n?1 : ????n ?s r??tats 
+??a?ns ? ?s not?
+?
+I
+C
+?
+E
+ 
+N
+?
+?
+?
+ 
+?
+ 
+D
+I
+?
+?
+U
+S
+I
+O
+N
+ 
+D
+E
+S
+ 
+R
+É
+S
+U
+L
+T
+?
+T
+S
+ 
+D
+’
+E
+?
+?
+M
+E
+N
+S
+ 
+E
+T
+ 
+D
+E
+S
+ 
+N
+O
+T
+E
+S
+ 
+???? Circulaire ministérielle n????????? du ?er mars ????. 
+???? Cf. ?nnexe ? : Comment déclarer ? Et ?iche ?? du guide sur les Espaces ?umériques de ?ravail.
+?
+?GUIDE PR?TI?UE ? IN?ORM?TI?UE ET LI?ERTÉS ?
+?
+I
+C
+?
+E
+ 
+N
+?
+?
+?
+ 
+?
+ 
+D
+I
+?
+?
+U
+S
+I
+O
+N
+ 
+D
+E
+S
+ 
+R
+É
+S
+U
+L
+T
+?
+T
+S
+ 
+D
+’
+E
+?
+?
+M
+E
+N
+S
+ 
+E
+T
+ 
+D
+E
+S
+ 
+N
+O
+T
+E
+S
+ ?	pratique	?
+A	 quel	 moment	 la	 diffusion	 des	 résultats	 d’examen	 par	 les	 sociétés	
+pri?es	doit?lle	inter?nir	?
+Un avis de la Commission d’accès aux documents administratifs ??? 
+a précisé que la publicité des résultats d’examen par les rectorats devait se 
+faire de manière simultanée avec la transmission de ces résultats aux sociétés 
+privées. Cet avis précise que cette communication doit ?re réalisée au moment 
+m?e o?les résultats sont rendus publics. Ces sociétés privées ne peuvent 
+donc pas publier les résultats avant le ministère de l’éducation nationale.
+Peut?n	 s’opposer	 à	 la	 transmission	 à	 des	 sociétés	 pri?es	 de	 ses	
+résultats	d’examen	?
+?rs de l’inscription de l’élève dans l’établissement, le consentement du 
+représentant légal devra ?re recueilli dans un formulaire qui peut ?re ?int 
+au dossier d’inscription. ? représentant légal a donc bien la possibilité de 
+s’opposer à cette transmission. Une case à cocher spéci?ue pourra ?re 
+prévue.
+Peut?n	 s’opposer	 à	 la	 diffusion	 dans	 la	 presse	 de	 ses	 résultats	
+d’examen	?
+? représentant légal a également la possibilité de s’opposer à cette transmission 
+au moment de l’inscription. Une case à cocher spéci?ue pourra ?re prévue.
+?
+?
+I
+C
+?
+E
+ 
+N
+?
+?
+?
+ 
+?
+ 
+C
+O
+M
+M
+U
+N
+I
+C
+?
+T
+I
+O
+N
+ 
+?
+ 
+D
+E
+S
+ 
+T
+I
+E
+R
+S
+ 
+?
+U
+T
+O
+R
+I
+S
+É
+S
+  
+D
+’
+I
+N
+?
+O
+R
+M
+?
+T
+I
+O
+N
+S
+ 
+R
+E
+L
+?
+T
+I
+?
+E
+S
+ 
+?
+U
+?
+ 
+P
+E
+R
+S
+O
+N
+N
+E
+L
+S
+ 
+E
+T
+ 
+?
+U
+?
+ 
+É
+L
+?
+?
+E
+S
+  ?e ?oi ?a??i??
+? loi permet à des autorités publiques de se faire communiquer, dans le cadre 
+de leurs missions et sous certaines conditions, des informations issues de 
+?hiers. ? s’agit du cas des « tiers autorisés »?
+  En ?oi ????r???n?e?e?concern???
+Certaines administrations sont autorisées par la loi à se faire communiquer 
+ponctuellement des informations a? d’assurer leurs missions d’intér? général.
+?n de protéger les libertés, il revient à l’établissement de s’assurer que le 
+demandeur correspond bien à l’un de ceux qui sont autorisés.
+? fait, pour un responsable du traitement, de porter à la connaissance d’un 
+tiers qui n’a pas qualité pour les recevoir des données à caractère personnel 
+dont la divulgation aurait pour effet de porter atteinte à la considération de 
+l’intéressé ou à l’intimité de sa vie privée constitue une infraction pénale punie 
+de cinq ans d’emprisonnement et de ????euros d’amende.
+  q? ?ire ?
+?	 fa?n	 générale,	l’éta?issement	 ne	peut	?auf	 cas	des	tiers	autorisés	
+pré?s	 par	la	loi?	 communiquer	à	des	tiers	des	informations	nominati?s	
+relati?s	 à	 ses	 personnels	 et?u	 aux	 représentant	 légaux	 des	 él?es	
+mineurs,	 aux	 él?es	 ma?urs?	 Ces	 derniers	 doi?nt	 ?re	 préala?ement	
+informés	et	en	mesure	de	s’?	opposer	dans	certains	cas?
+?		?ans	 quelles	 conditions	 un	 éta?lissement	 peut?il	 communiquer	 à	
+des	 « tiers autorisés » des	 renseignements	 sur	 ses	 personnels	 et	 ses	
+étudiants	?
+Cette communication ne peut ?re effectuée que sur demande ponctuelle 
+écrite, visant des personnes nommément désignées, identi?es directement 
+ou indirectement. ? est exclu qu’elle porte sur l’intégralité d’un ?hier. 
+?’établissement n’est pas tenu de répondre à une simple demande téléphonique 
+qui ne lui permettra pas de s’assurer de la qualité de son interlocuteur.
+? demande doit ?re formulée par écrit et préciser le texte législatif fondant 
+ce droit de communication, ainsi que les catégories d’informations sollicitées. 
+?’établissement doit s’assurer de sa conformité aux textes invoqués et peut 
+tou?urs, en cas de doute, interroger la C??
+f?? n??: co???at?n ??s 
+t?rs a?or?? ???r?t?ns 
+r?at?? a? p?sonn?s ? a? 
+???
+?GUIDE PR?TI?UE ? IN?ORM?TI?UE ET LI?ERTÉS ?
+?
+I
+C
+?
+E
+ 
+N
+?
+?
+?
+ 
+?
+ 
+C
+O
+M
+M
+U
+N
+I
+C
+?
+T
+I
+O
+N
+ 
+?
+ 
+D
+E
+S
+ 
+T
+I
+E
+R
+S
+ 
+?
+U
+T
+O
+R
+I
+S
+É
+S
+  
+D
+’
+I
+N
+?
+O
+R
+M
+?
+T
+I
+O
+N
+S
+ 
+R
+E
+L
+?
+T
+I
+?
+E
+S
+ 
+?
+U
+?
+ 
+P
+E
+R
+S
+O
+N
+N
+E
+L
+S
+ 
+E
+T
+ 
+?
+U
+?
+ 
+É
+L
+?
+?
+E
+S?		?els	 sont	les	tiers	autorisés	à	o?enir	 ponctuellement	des	informations	
+personnelles	détenues	par	les	éta?issements	?
+a?	L’administration	?cale
+? ? ?résor public ?irection générale de la comptabilité publique uniquement 
+dans les conditions ?ées par les articles ?? à ?? du ?vre des ?océdures 
+?cales pour le recouvrement de créances ?cales ou des amendes et 
+condamnations pécuniaires?
+? ? direction générale des imp?s ou la direction générale des douanes en 
+vue de l’établissement de l’assiette, du contr?e, du recouvrement des imp?s 
+?rticles ? ? à ? ? du ?vre des procédures ?cales?
+?	Les	organismes	sociaux
+? ?s organismes débiteurs de prestations familiales ou en charge du versement 
+du ?? dans les conditions prévues par l’article ???? du code de la 
+sécurité sociale.
+? ?s organismes débiteurs de prestations familiales ou les huissiers de ?stice 
+au titre de leur mission de recouvrement des créances alimentaires impa?es 
+?rticle ?de la loi n??? du ??nvier ???
+c?	Les	administrations	de	la	?stice,	de	la	police	et	de	la	gendarmerie
+? ?s magistrats, dans le cadre des dispositions des codes de procédure 
+pénale et de procédure civile ?otamment les articles ?, ?, ? à ? du code 
+de procédure pénale?
+? ? procureur de la ?publique, à la demande de l’huissier de ?stice porteur 
+d’un titre exécutoire et au vu d’un relevé certi? sincère des recherches 
+infructueuses qu’il a tentées pour l’exécution ?rticle ? de la loi n? ??? 
+du ??illet ???
+? ?s of?iers de police ?diciaire de la police et de la gendarmerie nationales 
+agissant en ?grant délit, sur commission rogatoire ou dans le cadre d’une 
+enqu?e préliminaire ?rticles ??, ?? et ?? du code de procédure pénale?
+?compris par voie informatique ou télématique ?rticle ?? du m?e code?
+? ?s bureaux d’aide ?diciaire a? de demander la véri?ation des ressources 
+en vue de l’attribution de l’aide ?diciaire ?oi n? ??? du ? ?nvier ?? 
+modi?e par la loi du ? décembre ?? relative à l’aide ?diciaire?
+?
+?
+I
+C
+?
+E
+ 
+N
+?
+?
+?
+ 
+?
+ 
+C
+O
+M
+M
+U
+N
+I
+C
+?
+T
+I
+O
+N
+ 
+?
+ 
+D
+E
+S
+ 
+T
+I
+E
+R
+S
+ 
+?
+U
+T
+O
+R
+I
+S
+É
+S
+  
+D
+’
+I
+N
+?
+O
+R
+M
+?
+T
+I
+O
+N
+S
+ 
+R
+E
+L
+?
+T
+I
+?
+E
+S
+ 
+?
+U
+?
+ 
+P
+E
+R
+S
+O
+N
+N
+E
+L
+S
+ 
+E
+T
+ 
+?
+U
+?
+ 
+É
+L
+?
+?
+E
+Sd?	Les	autres	administrations	?né?iant	d’un	droit	de	communication
+? ?s services déconcentrés du travail et de l’emploi dans le cadre du contr?e 
+de la recherche d’emploi ?rdonnance n???? du ? décembre ??, 
+articles ? ???et ? ??? du code du travail?
+? ?s services en charge de la gestion des allocations supplémentaires prévues 
+aux articles ? ??? et ?du code de la sécurité sociale ?onds de solidarité 
+vieillesse et fonds spécial d’invalidité?pour le recouvrement sur la succession 
+des héritiers ?rticles ? ??? et ? ??? du code de la sécurité sociale?
+?GUIDE PR?TI?UE ? IN?ORM?TI?UE ET LI?ERTÉS ?
+?
+I
+C
+?
+E
+ 
+N
+?
+?
+?
+ 
+?
+ 
+L
+E
+S
+ 
+C
+O
+N
+D
+I
+T
+I
+O
+N
+S
+ 
+D
+’
+?
+C
+C
+?
+S
+  
+D
+E
+S
+ 
+C
+O
+L
+L
+E
+C
+T
+I
+?
+I
+T
+É
+S
+ 
+L
+O
+C
+?
+L
+E
+S
+ 
+?
+U
+?
+ 
+?
+I
+C
+?
+I
+E
+R
+S
+ 
+D
+’
+É
+L
+?
+?
+E
+S
+?’accès des collectivités locales aux ?hiers d’élèves est dans certains cas 
+autorisé par des textes législatifs et réglementaires. ? la communication 
+de ces données ne repose sur aucun fondement ?ridique, elle doit ?re 
+effectuée, en application de la loi informatique et libertés, après information 
+des personnes concernées qui peuvent ainsi s’opposer, si elles le souhaitent à 
+cette transmission.
+? ministère de l’éducation nationale a créé, par un arr?é du ? septembre 
+?? pris après avis n????de la C?? un s?tème d’information dénommé 
+????E. ? a pour ob?t d’assurer la gestion administrative et pédagogique 
+des élèves par les établissements publics du second degré. Ce traitement doit 
+aussi permettre la gestion académique et l’établissement de statistiques par les 
+rectorats et les inspections académiques ainsi que la gestion prévisionnelle et la 
+mise en ?vre d’études statistiques par l’administration centrale.
+Cette application est implantée dans tous les établissements publics du second 
+degré et dans les établissements privés qui ont adhéré au s?tème.
+? s?tème ????E est ainsi articulé autour de trois bases de données : 
+une base des élèves au niveau de l’établissement ?EE? une base des 
+élèves au niveau académique ?E?, une base centrale de pilotage ?C? de 
+l’administration centrale.
+?’arr?é du ? septembre ?? énumère pour chaque base les données 
+enregistrées et leurs destinataires. ?nsi, son article ? ?e les règles de 
+transmission aux collectivités territoriales des données sur les élèves gérées 
+par l’établissement d’enseignement.
+A	noter	?	? ministère de l’éducation nationale a saisi en ?? la C??d’une 
+déclaration de modi?ation du traitement « ??A?? » a? de permettre 
+l’accès par les conseils généraux et régionaux aux ?hiers d’élèves détenus 
+par les rectorats. ?nsi les conseils généraux dans le cadre de leurs 
+compétences en matière de sectorisation scolaire ?f. dispositions de la 
+loi du ? ao? ?? relative aux libertés et responsabilités locales?peuvent 
+?re destinataires des données suivantes : l’année de rentrée scolaire, le 
+numéro d’établissement de l’année en cours et de l’année précédente, 
+l’adresse de l’élève et la classe et le niveau de sectorisation. ?s peuvent 
+également ?re destinataires ainsi que les conseils régionaux des données 
+concernant les élèves leur permettant l’octroi des aides à la scolarité 
+?ttribution d’équipements informatiques ou d’aides diverses? ?ns ce cas, 
+cette transmission est subordonnée à la diffusion d’une information préalable 
+permettant aux personnes concernées de s’?opposer.
+f?? n??: con?t?ns ?a?? 
+?s ???t??? ???s a? 
+???s ????
+?
+?
+I
+C
+?
+E
+ 
+N
+?
+?
+?
+ 
+?
+ 
+L
+E
+S
+ 
+C
+O
+N
+D
+I
+T
+I
+O
+N
+S
+ 
+D
+’
+?
+C
+C
+?
+S
+  
+D
+E
+S
+ 
+C
+O
+L
+L
+E
+C
+T
+I
+?
+I
+T
+É
+S
+ 
+L
+O
+C
+?
+L
+E
+S
+ 
+?
+U
+?
+ 
+?
+I
+C
+?
+I
+E
+R
+S
+ 
+D
+’
+É
+L
+?
+?
+E
+S?	 pratique	 ?	A	quelles	conditions	un	maire	peut?l	 constituer	un	 ??er	
+des	enfants	scolarisés	?
+? maire doit procéder chaque année au recensement des enfants résidant 
+dans sa commune et qui sont soumis à l’obligation d’assiduité scolaire. ? 
+loi du ? mars ?? ?rt. ???? du Code de l’éducation? sur la prévention 
+de la délinquance lui permet de mettre en ?vre un traitement de données 
+à caractère personnel concernant les enfants en ?e scolaire domiciliés dans 
+la commune sur la base des informations que lui transmettent les organismes 
+chargés du versement des prestations familiales, les chefs d’établissement 
+scolaire et l’inspecteur d’académie. ? maire a ainsi connaissance des 
+informations sur le défaut d’assiduité scolaire des élèves. Ce traitement doit 
+faire l’ob?t d’une déclaration à la C?? sauf si un C? a été désigné. ?il 
+comporte des appréciations sur les dif?ultés sociales des personnes, il devra 
+faire l’ob?t d’une demande d’autorisation. ?s familles concernées doivent ?re 
+informées des modalités de mise en ?vre du traitement
+?GUIDE PR?TI?UE ? IN?ORM?TI?UE ET LI?ERTÉS ?
+?
+I
+C
+?
+E
+ 
+N
+?
+?
+?
+ 
+?
+ 
+U
+T
+I
+L
+I
+S
+?
+T
+I
+O
+N
+ 
+D
+E
+ 
+L
+?
+ 
+?
+I
+O
+M
+É
+T
+R
+I
+E  ?e ?oi ?a??i??
+? biométrie regroupe l’ensemble des techniques informatiques permettant de 
+reconna?re un individu à partir de ses caractéristiques ph?iques, biologiques, 
+voire comportementales ?ontours ou forme de la main ou du visage, dessins 
+de l’iris, empreinte digitale ou palmaire, ??etc.? ?s données biométriques 
+sont des données à caractère personnel car elles permettent d’identi?r une 
+personne. Elles sont, pour la plupart, uniques et permanentes.
+? biométrie est principalement utilisée pour renforcer la sécurité des accès à 
+des locaux.
+  En ?oi ????r???n?e?e?concern???
+? fait des dangers potentiels liés à l’exploitation de ces caractéristiques 
+ph?iques, qui sont propres à chaque ?re humain et dont certaines ?mpreintes 
+digitales, ???peuvent ?re collectées à l’insu des intéressés, les traitements 
+faisant appel à un dispositif biométrique sont soumis par la loi à un régime 
+d’autorisation préalable de la C??
+  q? ?ire ?
+?une manière générale, il existe deux t?es de procédures pour noti?r à la 
+C??l’utilisation d’applications biométriques. ? détermination de la procédure 
+applicable est essentiellement fonction de la biométrie choisie, ainsi que du 
+contexte d’utilisation.
+?		 La	 procédure	 d’autorisation	 au	 cas	 par	 cas	 pour	 les	 dispositifs	
+?ométriques	?
+? ?posant sur un enregistrement de l’empreinte digitale dans une base de 
+données centralisée ou dans le lecteur.
+?s doivent ?re ?sti?s par l’existence d’un fort impératif de sécurité.
+? ?posant sur des caractéristiques biométriques telles que le visage, l’iris ou 
+la voix.
+?emple	 ? ? contr?e de l’accès aux locaux sensibles o?sont conservés les 
+su?ts nationaux d’examens.
+?	L’autorisation	unique	n?	?	?
+Elle concerne les dispositifs biométriques utilisant la technologie de la 
+reconnaissance du contour de la main pour des s?tèmes de contr?e d’accès 
+aux restaurants scolaires. ?s données enregistrées sont limitativement 
+énumérées par l’autorisation unique. ?ules peuvent ?re enregistrées les 
+données de gestion utiles pour l’accès au restaurant et les gabarits biométriques 
+de la main associés à un code d’accès personnel. ?s données relatives à 
+l’identité des élèves et des personnels sont conservées pendant la durée de 
+f?? n??: ut??at?n ? ? 
+?o?tr?
+?
+?
+I
+C
+?
+E
+ 
+N
+?
+?
+?
+ 
+?
+ 
+U
+T
+I
+L
+I
+S
+?
+T
+I
+O
+N
+ 
+D
+E
+ 
+L
+?
+ 
+?
+I
+O
+M
+É
+T
+R
+I
+Eleur scolarité dans l’établissement pour les premiers et pendant la durée de leur 
+affectation au sein de l’établissement pour les seconds.
+Comment	déclarer	?
+? le traitement est strictement conforme à cette autorisation unique, une simple 
+déclaration de conformité suf?. Elle peut ?re effectuée en ligne, à partir du 
+site ?b de la C?? Cette formalité est requise ?compris si l’établissement a 
+désigné un Correspondant ?formatique et ?bertés.
+? le traitement n’est pas conforme à l’autorisation unique n?, les établissements 
+? compris ceux a?nt désigné un Correspondant ?formatique et ?bertés, 
+doivent adresser à la C??une demande d’autorisation.
+Attention	 ?	 ? norme simpli?e n? ?, relative à la gestion des contr?es 
+d’accès aux locaux, des horaires et de la restauration n’est pas applicable aux 
+applications faisant appel à un procédé de reconnaissance biométrique.
+?GUIDE PR?TI?UE ? IN?ORM?TI?UE ET LI?ERTÉS ?
+?
+I
+C
+?
+E
+ 
+N
+?
+?
+?
+ 
+?
+ 
+D
+I
+S
+P
+O
+S
+I
+T
+I
+?
+S
+ 
+D
+E
+ 
+?
+I
+D
+É
+O
+S
+U
+R
+?
+E
+I
+L
+L
+?
+N
+C
+E  ?e ?oi ?a??i??
+? vidéosurveillance consiste à placer des caméras de surveillance dans un lieu 
+public ou privé, pour prévenir des actes de malveillance. Elles peuvent ?re ?es 
+ou mobiles, automatiques ou télécommandées.
+  En ?oi ????r???n?e?e?concern???
+?s s?tèmes de vidéosurveillance peuvent intrinsèquement porter atteinte 
+aux libertés individuelles ?ar exemple, à la liberté d’aller et venir? ? est dès 
+lors nécessaire d’accompagner leur mise en ?vre d’un certain nombre de 
+garanties.
+  q? ?ire ?
+?	?e	ré?xion	préala?e	indispensa?e
+Une ré?xion préalable à la décision d’utiliser un s?tème de vidéosurveillance, 
+comportant notamment une anal?e précise des risques tenant compte des 
+incidents survenus dans l’enceinte de l’établissement devrait ?re menée. Elle 
+peut permettre d’identi?r les solutions alternatives pour atteindre l’ob?ctif 
+poursuivi sans recourir à ce mo?n ?ne sécurisation des accès aux mo?ns 
+de badges magnétiques, surveillance renforcée par les personnels, une 
+modi?ation des heures d’ouvertures de certaines issues peuvent par exemple 
+constituer des réponses ef?aces et adaptées à un ob?ctif particulier de 
+sécurisation?
+?	Le	nécessaire	respect	du	principe	de	proportionnalité
+? le déploiement de tels dispositifs répond généralement à un ob?ctif sécuritaire 
+?ontr?e des accès aux locaux? il ne peut avoir pour ob?ctif la mise sous 
+surveillance spéci?ue d’un emplo? déterminé ou d’un groupe particulier de 
+personnes. ? nombre, l’emplacement, l’orientation, les fonctionnalités et les 
+périodes de fonctionnement des caméras, ou la nature des t?hes accomplies 
+par les personnes devant ?re soumises à la vidéosurveillance, sont autant 
+d’éléments à prendre en compte lors de l’évaluation du caractère proportionné 
+du s?tème.
+?emples	 ?	 Certains s?tèmes de vidéosurveillance sont susceptibles de 
+présenter un caractère illégal :
+? un s?tème installé dans un lieu susceptible de porter atteinte à l’intimité de la 
+vie privée des personnes ?estiaires, douches, toilettes??
+? un s?tème installé de fa?n à enregistrer de fa?n spéci?ue les allées et 
+venues des personnes se rendant dans un local s?dical.
+?	L’o?igation	d’information
+? ne doit pas ?avoir de surveillance à l’insu des personnes concernées à savoir 
+f?? n?? : ?spos??s ? 
+v??s?v??an?
+?
+?
+I
+C
+?
+E
+ 
+N
+?
+?
+?
+ 
+?
+ 
+D
+I
+S
+P
+O
+S
+I
+T
+I
+?
+S
+ 
+D
+E
+ 
+?
+I
+D
+É
+O
+S
+U
+R
+?
+E
+I
+L
+L
+?
+N
+C
+Edes enseignants, des élèves, des personnels et des visiteurs.
+?’existence d’un s?tème de vidéosurveillance doit ?re portée à la connaissance 
+de toute personne ?mée ou susceptible de l’?re, de fa?n claire et permanente, 
+par exemple au mo?n de panonceaux apposés à l’entrée des locaux ?xemple 
+fourni ci?essous?
+?emple	de	mentions	d’information	à	diffuser
+?a?issement	sous	?déosur?illance
+?us vous informons que cet établissement est placé sous vidéosurveillance 
+pour des raisons de ? ?ndiquer les ?alités poursuivies? ?ur tout 
+renseignement, s’adresser au service ?ou à ? ?denti?r la personne ou 
+le service compétent? auprès duquel vous pouve?également exercer votre 
+droit d’accès, conformément à la loi « Informatique et Libertés ».
+?s instances représentatives du personnel doivent ?re consultées avant toute 
+mise en ?vre d’un s?tème de vidéosurveillance et précisément informées 
+des fonctionnalités envisagées.
+?	L’éla?ration	d’un	document	de	référence
+? est recommandé d’établir un document identi?nt clairement les ob?ctifs 
+et les modalités d’utilisation du s?tème de vidéosurveillance, les personnes 
+habilitées et formées à visionner les images, la durée maximale de leur 
+conservation et les modalités d’exercice du droit d’accès aux images.
+?	 ?e	 ?sualisation	 des	images	restreinte	aux	seuls	destinataires	??lités
+?s images enregistrées ne peuvent ?re visionnées que par les seules 
+personnes d?ent habilitées à cet effet, dans le cadre de leurs attributions 
+respectives ?ar exemple : le responsable de la sécurité de l’établissement? 
+Ces personnes devraient ?re particulièrement formées et avoir été sensibilisées 
+aux règles encadrant la mise en ?vre d’un s?tème de vidéosurveillance.
+?	?e	durée	de	conser?tion	des	images	limitée
+?uf enqu?e ou information ?diciaire, la durée de conservation des images 
+enregistrées à l’aide d’un dispositif de vidéosurveillance ne devrait pas excéder 
+quelques ?urs et les enregistrements doivent ?re détruits par la suite. Cette 
+durée ne peut en tout état de cause s’étendre au delà d’un mois.
+?	La	nécessité	d’accomplir	certaines	formalités	préala?es
+Un s?tème de vidéosurveillance numérique ne peut ?re installé que s’il a 
+préalablement fait l’ob?t d’une déclaration auprès de la C?? Celle?i précisera 
+notamment les ?sti?ations particulières qui ont conduit à l’installation d’un 
+dispositif de vidéosurveillance. ? traitement est toutefois dispensé de 
+déclaration en cas de désignation d’un Correspondant ?formatique et ?bertés.
+Attention	?	?’installation d’un s?tème de vidéosurveillance sur la voie publique 
+?GUIDE PR?TI?UE ? IN?ORM?TI?UE ET LI?ERTÉS ?
+?
+I
+C
+?
+E
+ 
+N
+?
+?
+?
+ 
+?
+ 
+D
+I
+S
+P
+O
+S
+I
+T
+I
+?
+S
+ 
+D
+E
+ 
+?
+I
+D
+É
+O
+S
+U
+R
+?
+E
+I
+L
+L
+?
+N
+C
+E
+??  ? appartiendra à chaque établissement de déterminer si le s?tème de vidéosurveillance est 
+installé dans un lieu ouvert au public et donc soumis à autorisation préfectorale, en fonction 
+des délimitations ph?iques ou matérielles  ?l?ures, contr?es d’accès,?. ?r ce point 
+précis, la circulaire du ? mars ?? relative à l’application de l’article ? de la loi n??? 
+du ? ?nvier ?? d’orientation et de programmation relative à la sécurité indique que, selon 
+la ?risprudence, un lieu public est ? un lieu accessible à tous, sans autorisation spéciale 
+de quiconque, que l’accès en soit permanent et inconditionnel ou subordonné à certaines 
+conditions ?
+?? ? reporter à la ?he sur la biométrie.
+ou dans un lieu ouvert au public ??  est subordonnée à l’obtention d’une 
+autorisation préfectorale.
+?emple	?
+? s?tème est implanté sur la voie publique pour ?mer les abords de 
+l’établissement scolaire.
+Attention	 ?	 ? le s?tème prévu devait s’accompagner d’un dispositif de 
+reconnaissance faciale, il devrait alors faire l’ob?t d’une demande d’autorisation 
+à la C??dans la mesure o?il fait appel à une technique biométrique  ?? .
+?
+?
+I
+C
+?
+E
+ 
+N
+?
+?
+?
+ 
+?
+ 
+C
+O
+M
+M
+I
+S
+S
+I
+O
+N
+ 
+L
+O
+C
+?
+L
+E
+ 
+I
+N
+?
+O
+R
+M
+?
+T
+I
+?
+U
+E
+ 
+E
+T
+ 
+L
+I
+?
+E
+R
+T
+É
+S
+ 
+?
+C
+L
+I
+L
+?
+  ?e r?e ? ? c?I?
+? Commission nationale de l’informatique et des libertés encourage la création 
+dans des établissements d’enseignement secondaire de commissions locales 
+informatique et libertés ???.
+? C?? a vocation a ?re un lieu d’échanges et de discussions au sein de 
+l’établissement d’enseignement pour tout ce qui concerne l’utilisation des 
+technologies de l’information et de la communication : expliciter les en?ux, 
+présenter les risques, informer sur les droits des personnes en ce qui concerne 
+tout particulièrement la protection des données à caractère personnel.
+? C??a non seulement pour ob?t de rela?r les recommandations et décisions 
+de la C??auprès des élèves, parents et éducateurs, mais également d’informer 
+la C??des problèmes et besoins rencontrés sur le terrain ou de toute initiative 
+intéressant les thèmes « informatique et libertés » et qui nécessiterait une prise 
+de position of?ielle de la C?? Elle a donc un r?e pédagogique et civique en 
+permettant de diffuser la culture ?formatique et ?bertés.
+  ?e?mo?????a??e?? mi? en ?ace
+? création d’une C??repose sur la volonté du responsable de l’établissement 
+et de son équipe. ? leur appartient de décider de sa mise en place, la décision 
+formelle étant prise par le conseil d’administration de l’établissement. Une fois 
+la mise en place de la commission locale effective, le chef d’établissement doit 
+en informer la C??par un courrier adressé au président.
+  ?a com???on ? ? c?I?
+? convient de tenir compte de l’importance de l’établissement pour ?er le 
+nombre de représentants de l’administration, des personnels, des élèves et 
+des parents. ? nombre des membres de droit, outre le proviseur, devrait 
+?urer l’administrateur du réseau informatique. ? correspondant informatique 
+et libertés peut ?re chargé d’animer cette commission.
+En fonction des thèmes abordés lors des réunions, des experts peuvent ?re 
+sollicités. ? conseiller ?CE ?onseiller pour les technologies de l’information 
+et de la communication?du rectorat peut ?re un interlocuteur important de ce 
+point de vue.
+  ?e?re??on?c?I??c?I?
+?s C?? disposent d’un interlocuteur privilégié auprès du service du 
+correspondant informatique et libertés de la C?? auquel elles peuvent adresser 
+un compte rendu de leurs réunions a? de faire remonter tout problème relevant 
+PartIe ? : fIches ?e sensIbILIsatIon 
+f?? n?? : co??s?n ??? 
+In?r?t?? ? L??t? ?cLIL?
+?GUIDE PR?TI?UE ? IN?ORM?TI?UE ET LI?ERTÉS ?
+?
+I
+C
+?
+E
+ 
+N
+?
+?
+?
+ 
+?
+ 
+C
+O
+M
+M
+I
+S
+S
+I
+O
+N
+ 
+L
+O
+C
+?
+L
+E
+ 
+I
+N
+?
+O
+R
+M
+?
+T
+I
+?
+U
+E
+ 
+E
+T
+ 
+L
+I
+?
+E
+R
+T
+É
+S
+ 
+?
+C
+L
+I
+L
+?de sa compétence. ? C?? de son c?é, met en relation des établissements 
+rencontrant les m?es dif?ultés ou les m?es besoins ou a?nt résolu des 
+problèmes particuliers, a? de favoriser les échanges et un dialogue constructif.
+?emple	?
+La CLIL de l’Académie de Nancy-Met?
+En ?in ??, l’académie de ?nc??t? a créé une C?? dans le cadre du 
+pro?t régional d’intégration de services numériques pour l’éducation ?risme? 
+Cette commission a notamment pour ob?t de dé?ir une charte du bon usage 
+d’un espace numérique de travail ???
+? mise en place d’une Commission locale informatique et libertés n’est 
+pas dé?ie par la loi, elle obéit à des modalités souples, la Commission est 
+extr?ement favorable à de telles initiatives.
+? collaboration entre la C??et les établissements scolaires peut également 
+prendre la forme d’une convention de partenariat dé?issant des axes de 
+collaboration en vue d’améliorer la connaissance et la diffusion de la culture 
+?formatique et libertés auprès des élèves, des enseignants et des personnels 
+administratifs.
+?
+?
+I
+C
+?
+E
+ 
+N
+?
+?
+?
+ 
+?
+ 
+C
+R
+É
+?
+T
+I
+O
+N
+ 
+D
+E
+ 
+S
+I
+T
+E
+S
+ 
+I
+N
+T
+E
+R
+N
+E
+T?s sites ?b peuvent ?re créés dans le cadre d’activités au sein de 
+l’établissement scolaire comme par exemple le site ?b du l?ée ou celui d’une 
+association d’élèves.
+  En ?oi me???r???n?e?e?concern???
+? fait de sa mise en ligne sur le réseau internet, un site ?b constitue un 
+espace ouvert au public. ?ssi, la diffusion de données à caractère personnel 
+sur ces sites est?lle susceptible de porter atteinte à la vie privée des personnes 
+dès lors qu’elles n’ont pas été préalablement informées d’une telle diffusion.
+? plus, l’existence de moteurs de recherche de plus en plus performants 
+multiplie les risques en matière d’atteinte à la vie privée. En effet, l’utilisation 
+des moteurs de recherche à partir du nom d’une personne permet d’accéder 
+à l’ensemble des pages ?b o?est diffusé ce nom ?ossibilité de reconstituer 
+une « bio?aphie » virtuelle des personnes ?utilisation par des emplo?urs par 
+exemple dans le cadre d’une embauche?
+?emple	 ? ? C?? a ainsi veillé à ce que certaines sanctions disciplinaires 
+du ministère de l’Education nationale ne soient accessibles qu’aux seules 
+personnes qui avaient à en connaitre, et non plus diffusées à partir des sites 
+?b des ministères concernés auxquels chacun peut avoir accès.
+  q? ?ire ?
+? mise en ligne d’un site ?b, que celle?i soit effectuée dans un cadre 
+privé ou professionnel, doit s’effectuer dans le respect d’un certain nombre 
+de règles. ?nsi par exemple, la diffusion de propos diffamatoires, d’in?res ou 
+propos racistes sur un site peut ?re pénalement sanctionnée. ?s sanctions 
+disciplinaires pourraient également ?re prononcées à l’encontre d’un élève qui 
+aurait tenu sur son « blo?» des propos calomnieux ou in?rieux à l’égard du 
+corps enseignant et administratif de son établissement.
+En?, dès lors qu’un site ?b diffuse ou collecte des données à caractère 
+personnel, celui?i est soumis au respect des dispositions de la loi « Informatique 
+et Libertés ».
+?	 pratique	?	 ?s sites ?b personnels ?« blo? »? n’ont pas à ?re déclarés 
+auprès de la C???ispense adoptée par la C??en ???
+Attention	?	? diffusion et la collecte de données à caractère personnel opérées 
+à partir d’un site ?b dans le cadre d’activités professionnelles, politiques, ou 
+associatives restent soumises à l’accomplissement des formalités préalables 
+prévues par la loi.
+En ce qui concerne les sites ?b qui ne seraient pas créés dans le cadre d’une 
+activité exclusivement personnelle, comme par exemple le site institutionnel du 
+l?ée, ils sont également soumis aux dispositions de la loi « Informatique et 
+Libertés ».
+f???? n?1? : cr?at?on ?? s?t?s ?nt?rn?t
+?GUIDE PR?TI?UE ? IN?ORM?TI?UE ET LI?ERTÉS ?
+?
+I
+C
+?
+E
+ 
+N
+?
+?
+?
+ 
+?
+ 
+C
+R
+É
+?
+T
+I
+O
+N
+ 
+D
+E
+ 
+S
+I
+T
+E
+S
+ 
+I
+N
+T
+E
+R
+N
+E
+T?nsi, par exemple :
+? lors de la collecte de données à caractère personnel ?x. : abonnement à 
+la lettre d’information? les personnes auprès desquelles sont recueillies 
+les informations doivent ?re informées de la ?alité de cette collecte, des 
+destinataires ou catégories de destinataires des données et de l’existence 
+d’un droit d’accès, de recti?ation et d’opposition ?e reporter à l’annexe ?
+pour un modèle de mention d’information?
+? la diffusion de la photographie des élèves et des personnels sur ce site est 
+subordonnée au recueil du consentement des personnes concernées.
+?
+?
+I
+C
+?
+E
+ 
+N
+?
+?
+?
+ 
+?
+ 
+L
+E
+S
+ 
+O
+?
+L
+I
+G
+?
+T
+I
+O
+N
+S
+ 
+D
+U
+ 
+?
+L
+O
+G
+U
+E
+U
+R  ?e ?oi ?a??i??
+?us connu sous le nom de « blo? », les sites personnels ont pour vocation la 
+diffusion d’informations à destination du cercle familial ou des proches, la mise 
+en ligne d’un ?urnal personnel ?locs?otes ou « blo?»?ou la présentation de 
+su?ts d’intér? personnel ?oisirs, sport, culture, diffusion d’idées, etc.?
+? blog n’est pas un espace de non?roit, bien que le blogueur soit libre de 
+pouvoir ?formuler ce qu’il souhaite. ? doit respecter certaines règles ainsi que 
+les droits des personnes qui peuvent ?re concernées par ses propos. ?nsi 
+tout blogueur doit se demander avant la création de son blog ce qu’il peut faire 
+ou ne pas faire.
+Les	parents	sont	responsa?es	des	pu?ications	de	leur	enfant
+?s parents sont responsables des publications de leurs enfants. ?s sont 
+censés leur donner leur autorisation pour l’ouverture de leur blog. ? au niveau 
+pénal, les parents ne peuvent pas, sauf exception, ?re sanctionnés pour 
+une infraction commise par leur enfant, ils sont tous les deux responsables 
+civilement des actions de leur enfant s’il vit avec eux ?rticle ?? du code civil? 
+En pratique cela signi? qu’ils peuvent ?re condamnées si leur enfant a par 
+exemple, in?rié un professeur ou utilisé une image sans autorisation.
+  Pe??n ?i??r ???o??a?ie?? ??ami?o?? ?n ?o??e? ?
+?x termes de l’article ? du code civil relatif au respect de la vie privée, la 
+diffusion et l’utilisation de photographies requièrent au préalable d’obtenir 
+l’autorisation écrite de la personne concernée ou celle de ses parents si elle 
+est mineure.
+  ?e ?o?e?? ???ma?on
+? tenue sur un blog de propos diffamatoires, calomnieux, in?rieux ou racistes 
+à l’égard d’une personne, par exemple un enseignant ou un élève peut faire 
+l’ob?t de poursuites ?diciaires. ? mineur capable de discernement peut ?re 
+pénalement sanctionné. ?s sanctions disciplinaires peuvent également ?re 
+prises par l’établissement scolaire du l?éen auteur de propos diffamatoires ou 
+in?rieux à l’égard d’un professeur ou d’un camarade de classe.
+Attention,	 on est également responsable des commentaires des autres sur 
+son propre blog.
+f?? n??: L? o??at?ns  
+? ?o??r
+?GUIDE PR?TI?UE ? IN?ORM?TI?UE ET LI?ERTÉS ?
+?
+I
+C
+?
+E
+ 
+N
+?
+?
+?
+ 
+?
+ 
+P
+R
+O
+T
+É
+G
+E
+R
+ 
+S
+?
+ 
+?
+I
+E
+ 
+P
+R
+I
+?
+É
+E
+ 
+S
+U
+R
+ 
+I
+N
+T
+E
+R
+N
+E
+T
+f?? n??: Prot??  
+sa v? pr?? s? ?t?n?
+  q??e? ? ?o??e ?
+? faut avoir conscience que sur internet, nos activités et nos déplacements 
+laissent des traces. ?oute action que nous effectuons sur internet produit 
+des contenus qui sont copiés a? que chaque internaute puisse en prendre 
+connaissance. ? ce fait, il est en pratique impossible d’effacer complètement 
+une information mise sur internet : il en reste tou?urs une trace.
+?rsque l’on consulte une page internet, celle?i est enregistrée dans notre 
+ordinateur pour permettre sa visualisation : il reste ainsi une trace de notre 
+navigation sur notre ordinateur.
+? m?e, lorsque nous ?ostons? des commentaires sur le mur ?ceboo?
+d’un ami, ceux?i sont conservés dans les ordinateurs du réseau social et 
+constituent autant de traces.
+En?, lors de chacune de nos recherches sur internet, les moteurs collectent 
+généralement de nombreuses informations sur nous : l’adresse ? de notre 
+ordinateur, les informations contenues dans les coo?es, les mots clés que nous 
+avons saisis et le lien sur lequel nous avons cliqué. ? fur et à mesure de nos 
+recherches, le moteur en vient à conna?re précisément nos centres d’intér?s 
+ainsi que toutes les publicités auxquelles nous sommes sensibles.
+?s applications du ?eb ?? et notamment les réseaux sociaux, font exploser 
+le nombre d’informations personnelles accessibles sans limitation de durée sur 
+internet. ?s photos de soirées arrosées ou de vacances en maillot de bain 
+sont mises en ligne sur ?ceboo? ?s plaisanteries plus ou moins douteuses, 
+des opinions politiques, des préférences sexuelles, des relations privées sont 
+af?hées sur des blogs. ?s ?ms personnels sont diffusés sur des sites vidéo ?
+de plus en plus souvent à l’insu des personnes concernées.
+? diffusion de ces informations sur le réseau peut avoir des conséquences 
+désastreuses : nombre de professionnels ?essources humaines, compagnies 
+d’assurances, recherche de personnes disparues? utilisent désormais de 
+manière routinière des données extraites d’internet pour véri?r, compléter ou 
+valider des dossiers de candidats, de salariés ou de clients.
+En?, les enfants constituent trop souvent une cible idéale pour obtenir de 
+manière délo?le des informations sur eux et leurs proches. En effet, la rapidité 
+des échanges, l’interactivité, voire l’aspect ludique du réseau internet font des 
+enfants des cibles idéales pour se procurer des informations tou?urs plus 
+nombreuses et plus précises. ? constituent ainsi, à l’insu des parents et sans 
+que les enfants en aient eux??es conscience, des bases de données très 
+performantes sur l’environnement social et économique des familles, qui sont 
+susceptibles de porter atteinte à leur vie privée.
+?
+?
+I
+C
+?
+E
+ 
+N
+?
+?
+?
+ 
+?
+ 
+P
+R
+O
+T
+É
+G
+E
+R
+ 
+S
+?
+ 
+?
+I
+E
+ 
+P
+R
+I
+?
+É
+E
+ 
+S
+U
+R
+ 
+I
+N
+T
+E
+R
+N
+E
+T  q? ??? ?i ?
+?s données personnelles sont les informations qui concernent une personne 
+identi?ble, par exemple, un nom, une photo, un numéro de téléphone portable, 
+l’adresse ? attribuée par votre fournisseur d’accès?
+?i des informations nous concernant ?gurent dans un ?chier, nous avons le droit 
+d’en demander la communication ?copie lisible?, la correction, voire la suppression.
+? loi « informatique et libertés » prévoit que les données à caractère personnel 
+doivent ?re conservées le moins longtemps possible. ? ?ation de la durée 
+de conservation et l’existence de procédés de mise à ?ur doivent permettre le 
+respect du principe du « droit à l?ubli »?
+  q?e? ce ?e ? ?oi???o?? ?
+? le cerveau humain a une capacité à oublier les informations qu’il re?it, ce 
+n’est pas le cas de l’ordinateur. Concrètement, le droit à l’oubli dans le monde 
+de l’internet devrait obliger les réseaux à oublier ce que l’on a pu faire dans le 
+passé.
+?n peut parler d’un droit à l’oubli numérique ou encore du droit d’effacer ses 
+traces sur internet. Ce droit à l’oubli, c’est le droit de changer, d’évoluer, de se 
+contredire.
+?vant toute chose, il faut ?re conscient que la meilleure fa?n de se protéger 
+est de faire attention à ce que l’on publie. Cela est dif?ile en pratique puisque 
+l’utilisation des réseaux sociaux conduit à dévoiler tou?urs plus d’informations 
+sur soi, sans pour autant savoir qui ?aura accès, dans quel but et pour combien 
+de temps. Ces informations peuvent ?re exploitées de plus en plus vite, en plus 
+grand nombre et sont potentiellement accessibles en tout point du globe. ?us 
+n’avons aucune garantie quant à la ma?rise des informations que nous mettons 
+en ligne. ? est donc indispensable d’?re particulièrement prudent quand on 
+publie des informations sur internet. En effet, m?e si l’on souhaite partager 
+son intimité avec des personnes choisies, le risque est de voir circuler très 
+rapidement sur internet ou sur les téléphones mobiles des informations que l’on 
+aurait souhaité limiter à la seule sphère privée.
+?r internet, les traces restent très longtemps et ce stoc?ge illimité des 
+données peut faire l’effet d’une véritable « bombe à retardement »? notamment 
+dans le domaine du recrutement.
+?r exemple, les informations laissées sur internet peuvent ?re reprises des 
+années plus tard lors, par exemple, de son inscription à la faculté, lors d’un 
+entretien d’embauche et faire ainsi appara?re des informations très privées 
+?nformations relatives aux opinions politiques, aux orientations ou pratiques 
+sexuelles, à la religion ou à la santé?ou peu ?tteuses ?ne photo lors d’une 
+soirée étudiante très arrosée?qui peuvent avoir des conséquences sur sa vie 
+?andidature d’embauche refusée?
+?GUIDE PR?TI?UE ? IN?ORM?TI?UE ET LI?ERTÉS ?
+Les 10 conseils de la CNIL  
+pour protéger sa vie privée sur internet
+« Avant de publier?? ré?c?s ?»
+??		 ? poser les m?es questions que celles que vous vous poserie?dans 
+la « vraie vie » lors de la diffusion de données personnelles sur internet. 
+Exemple : est?e que ? souhaite que mes parents ou encore que tout 
+mon l?ée aient accès aux photos prises avec ma petite amie ?
+??  ?endre conscience que la ma?rise des informations publiées sur internet 
+dépend avant tout de soi. ?nc, que la meilleure fa?n de se protéger, 
+c’est de faire attention à ce que l’on publie.
+??		 ?ire preuve d’une grande vigilance lors de votre inscription sur un 
+réseau social : donner le moins d’informations possibles ou ne dire que 
+le strict nécessaire. Evite? de dévoiler s?tématiquement des données 
+personnelles à chaque inscription sur internet ?xemple : ne pas 
+communiquer son numéro de téléphone ou l’adresse de son domicile? ne 
+donne?pas de détails privés tels que des opinions politiques, religieuses 
+ou des renseignements médicaux sur soi ou sur son entourage ?amille 
+ou amis?
+??  ?curiser son compte sur les réseaux sociaux en apprenant à paramétrer 
+son pro?. ?s l’ouverture d’un compte sur un réseau social, a?? le 
+ré?xe de dé?ir votre espace de con?entialité ou si vous ave? dé? 
+un compte, pense? à limiter le nombre de personnes habilitées à 
+consulter les éléments ?extes, photos, vidéo?que vous ?ave?postés. Ce 
+paramétrage permet de limiter dans une certaine mesure la diffusion de 
+données personnelles à des catégories de personnes identi?es ?x. tous 
+vos amis, certains amis? ?nsi, par exemple, le paramétrage de votre 
+pro? permet d’éviter l’indexation de la totalité de vos données par les 
+moteurs de recherche. ?r le biais des fonctionnalités de paramétrage 
+de votre compte, vous pouve?ainsi à tout moment contr?er le contenu 
+des informations qui vous concernent, recti?r voire m?e supprimer 
+ces informations.
+??  ?dérer ses propos lorsque vous intervene?sur les blogs, forums, les 
+« murs ?ceboo?», les « t?ets »?
+??  Eviter de publier des photos qui pourraient se révéler g?antes.
+Exemple : vous ave?choisi de partager une de vos photos avec un de vos 
+amis. ?e se passera??l si demain cette personne n’est plus votre ami 
+et s’amuse à diffuser cette photo à tout le l?ée ??n ami d’au?urd’hui 
+n’est pas forcément un ami de demain?
+?
+I
+C
+?
+E
+ 
+N
+?
+?
+?
+ 
+?
+ 
+P
+R
+O
+T
+É
+G
+E
+R
+ 
+S
+?
+ 
+?
+I
+E
+ 
+P
+R
+I
+?
+É
+E
+ 
+S
+U
+R
+ 
+I
+N
+T
+E
+R
+N
+E
+T
+?
+??		 ? pas publier sur ?ternet des contenus sur autrui qui pourraient lui 
+nuire : tou?urs vous demander comment vous réagirie?si on faisait la 
+m?e chose pour vous ? ne vous amuse?pas à créer un compte sur 
+un réseau social à la place d’une autre personne, ne taggue?pas des 
+photos d’amis sans les prévenir, limite?la publication d’album photos ou 
+de vidéos et so??vigilant sur le marquage de photos.
+??		 ?ri?r régulièrement ce qui est publié vous concernant sur le ?b.
+?r exemple, en renseignant votre nom dans un moteur de recherche, 
+vous pouve? découvrir à cette occasion que des informations vous 
+concernant sont diffusées sur internet. ?ous pouve? demander au 
+responsable du site ?b diffusant ces informations de supprimer les 
+pages qui vous concernent. C’est aussi à lui de faire le nécessaire auprès 
+des moteurs de recherche pour que ces pages ne soient pas indexées.
+??		 Utiliser si possible un pseudon?e que vous communique? à vos 
+proches.
+??		 ? pas communiquer ses mots de passe et ne pas choisir des mots 
+de passe trop simples ?xemple : pas votre date de naissance ou le 
+prénom d’un proche? ?ivilégie? des mots de passe différents pour 
+chaque site sur lequel vous vous inscrive? ?nse? à verrouiller votre 
+ordinateur et à vous déconnecter de votre compte quand vous quitte?
+votre ordinateur ?inon n’importe qui pourrait poster des contenus à 
+votre place.?
+En collaboration avec Internet Sans Crainte
+pour aller plus loin : ???	?unes?cnil?r ?
+I
+C
+?
+E
+ 
+N
+?
+?
+?
+ 
+?
+ 
+P
+R
+O
+T
+É
+G
+E
+R
+ 
+S
+?
+ 
+?
+I
+E
+ 
+P
+R
+I
+?
+É
+E
+ 
+S
+U
+R
+ 
+I
+N
+T
+E
+R
+N
+E
+T
+?GUIDE PR?TI?UE ? IN?ORM?TI?UE ET LI?ERTÉS ?
+? déclaration est une obligation légale dont le non?espect est pénalement 
+sanctionné ?? . ?out ?hier ou traitement informatisé comportant des données 
+personnelles doit donc ?re déclaré à la C?? préalablement à sa mise en 
+?vre, sauf s’il est expressément exonéré de déclaration. Cette procédure de 
+déclaration peut prendre plusieurs formes selon le ?hier concerné  ?? .
+?ns tous les cas, la désignation d’un Correspondant ?formatique et ?bertés 
+dispense l’organisme concerné de l’accomplissement des formalités relatives 
+aux ?hiers relevant de la déclaration simpli?e et de la déclaration normale.
+  1??e???en??? ?c?ra?on
+Un certain nombre de traitements, décrits dans le tableau récapitulatif ?urant 
+ci?près, sont dispensés de déclaration par une décision de la C???x. : site 
+?b institutionnel, sites ?b personnels?
+?r ailleurs, les ?hiers de gestion des élèves et des personnels des 
+établissements de l’enseignement secondaire n’ont pas, en principe, à ?re 
+déclarés auprès de la C??dans la mesure o?ils ont fait l’ob?t d’une déclaration 
+par le ?nistère de l’Education nationale ?x. : application ????E pour la 
+gestion du ?hier des élèves de collèges et des l?ées?
+  2??a ?c?ra?on norma?
+? régime de droit commun est la déclaration normale, lorsque le ?hier ne 
+relève pas d’une procédure particulière ?rt. ? de la loi « Informatique et 
+Libertés »??xemples : mise en ?vre d’un s?tème de vidéosurveillance, d’un 
+annuaire des anciens élèves, diffusion des résultats sur internet?.
+? traitement peut ?re mis en ?vre dès réception du récépissé délivré par 
+la C??
+? récépissé atteste de l’accomplissement des formalités de déclaration, mais 
+n’exonère pas le responsable du traitement des autres obligations prévues par 
+la loi ?espect de la ?alité du ?hier, sécurité et con?entialité, respect des 
+droits des personnes?.
+  3??a ?c?ra?on ?m?i?e
+Certains des ?hiers des établissements de l’enseignement secondaire  
+peuvent faire l’ob?t de déclarations simpli?es ?x : traitement a?nt pour 
+?alité la gestion des personnels des établissements privés liés ou non à l’Etat, 
+traitement a?nt pour ?alité la gestion des contr?es d’accès aux locaux en 
+référence à la norme simpli?e n?? des horaires et de la restauration en 
+référence à la norme simpli?e n??.
+anne?es 
+ann??n? « Mode d’emploi : 
+comment déclarer ? »
+??  ?ticle ??? du code pénal : ? ? fait, ?compris par négligence, de procéder ou de faire 
+procéder à des traitements de données à caractère personnel sans qu’aient été respectées 
+les formalités préalables à leur mise en ?vre prévues par la loi est puni de cinq ans 
+d’emprisonnement et de ????€ d’amende ?
+??  ? régime déclaratif des principaux ?hiers mis en ?vre par les établissements de 
+l’enseignement supérieur est indiqué dans le tableau récapitulatif ?urant ci?près.
+?
+N
+N
+E
+?
+E
+ 
+N
+?
+?
+ 
+?
+ 
+M
+O
+D
+E
+ 
+D
+’
+E
+M
+P
+L
+O
+I
+ 
+?
+ 
+C
+O
+M
+M
+E
+N
+T
+ 
+D
+É
+C
+L
+?
+R
+E
+R
+ 
+?
+ 
+?
+?
+  4??e??rma????r?c?i?e?
+Certains traitements des établissements d’enseignement secondaire peuvent 
+relever d’un régime d’autorisation ou de demande d’avis. ? s’agit de régimes 
+plus protecteurs, qui s’appliquent aux ?hiers considérés comme « sensibles » 
+ou comportant des risques pour la vie privée ou les libertés.
+?	La	procédure	d’autorisation	concerne	?rt?	??	?
+? les traitements qui comportent des données dites sensibles ?? ?
+? les traitements qui comportent des données relatives aux infractions ou 
+condamnations ?
+? les traitements qui procèdent à l’interconnexion de ?hiers dont les ?alités 
+correspondent à des intér?s publics différents ?
+? les traitements de données comportant des appréciations sur les dif?ultés 
+sociales des personnes.
+? les traitements qui utilisent des données biométriques ??emple	 ? le contr?e 
+de l’accès au restaurant scolaire reposant sur l’utilisation d’un dispositif 
+biométrique?
+? traitement devra respecter en tous points le cadre ?é par l’autorisation 
+délivrée par la C??
+?		La	 procédure	 de	 demande	 d’a?s	 ?rt?	 ??	 concerne principalement les 
+traitements comportant le numéro de sécurité sociale ???ou nécessitant une 
+interrogation du répertoire national d’identi?ation des personnes ph?iques 
+???? et les téléservices de l’administration électronique comportant un 
+identi?nt ?xemple : formulation par internet des v?x d’affectation dans 
+l’enseignement supérieur pour les élèves de classe de terminale comme 
+l’application ???pour l’?e?e?rance?
+?a demande d’avis doit ?tre accompagnée d’un pro?et d’arr?té ou de décision de 
+l’organe délibérant, destiné à autoriser le traitement une fois l’avis de la C??? rendu.
+  5?une ?i?? ??ier com???:
+? dans le cas d’une télédéclaration, la C?? adresse immédiatement après 
+envoi un accusé de réception électronique ?? ?
+La	plupart	des	formalités	préala?es	 peu?nt	 ?re	 effectuées	à	partir	du	
+site	??	de	la	CNIL	????nil?r?
+??  ?s données dites ?sensibles ?sont celles qui font appara?re, directement ou indirectement, 
+les origines raciales ou ethniques, les opinions politiques, philosophiques ou religieuses ou 
+l’appartenance s?dicale des personnes, ou qui sont relatives à la santé ou la vie sexuelle des 
+personnes ?rticle ?de la loi ??formatique et ?bertés ?.
+????  ?e pas confondre l’accusé de réception d’un dossier adressé à la C??? avec le courrier de la C???
+qui constitue le seul feu vert pour la mise en ?uvre d’un ?chier ou d’un traitement de données 
+personnelles. En fonction de la procédure effectuée, ce courrier prendra la forme d’un récépissé 
+?déclaration?, d’une autorisation ?demande d’autorisation? ou d’un avis ?demande d’avis?.
+?
+N
+N
+E
+?
+E
+ 
+N
+?
+?
+ 
+?
+ 
+M
+O
+D
+E
+ 
+D
+’
+E
+M
+P
+L
+O
+I
+ 
+?
+ 
+C
+O
+M
+M
+E
+N
+T
+ 
+D
+É
+C
+L
+?
+R
+E
+R
+ 
+?
+ 
+?
+?GUIDE PR?TI?UE ? IN?ORM?TI?UE ET LI?ERTÉS ?
+?ppel : les traitements n’ont pas à faire l’ob?t de déclaration  ??  lorsqu’un 
+Correspondant ?formatique et ?bertés a été désigné.
+P??	L?	?C??	???	??L??	?	L???
+DECLARATIONS A 
+EFFECTUER
+FI?A?ITES ?ES TRAITEmE?TS
+PAS DE 
+DECLARATION
+-  Gestion du fichier des élèves des collèges et des l?ées du secteur 
+??ic et ?ivé sous contr?t ??lic?tion SCOLARITE?
+(déclaration du Ministère de l’Education nationale - arrêté du 
+22 septembre 1995)
+? Gestion des infir?ries ??lic?tion S???????
+(déclaration du Ministère de l’Education nationale - arrêté du 
+4 mai 2001)
+-  Gestion des ?urses n?tion?es de l?nseigne?nt du second degré 
+?r les ins?ctions ??é??es ??lic?tion ?A???
+(normalement déclaré par cha?e inspection académi?e - 
+arrêté du 11 mars 1994 modi? le 2?septembre 1999)
+-  Gestion des concours et des e??ns scol?res ?r les rector?ts et 
+les ins?ctions ??é??es ??lic?tion S???????
+(normalement déclaré par cha?e rectorats et inspections 
+académi?es - arrêté du 12 ?illet 1995 pris par le Ministère de 
+l’Education nationale)
+-  Gestion des ?rsonnels des ét??isse?nts ??ics loc??
+??lic?tion n?tion?e? E?lois? Postes? Personnels - E???
+(déclaration du Ministère de l’Education nationale - arrêté du 
+2 ?illet 1992)
+-  ?u?et de services internet ?rsonn?isés ?o?sés ???rsonnels 
+? nive? ??é??e ?util « I-PROF »?
+(déclaration du Ministère de l’Education nationale - arrêté du 
+1?octobre 200?
+-  Les sites ?? vitrines ou institutionnels ?r?tt?t ?r e??le 
+l?nvoi de lettre d?n?or?tion?
+(?condition de respecter la dispense n??
+-  Les sites ???rsonnels ? sites di??s?t ou collect?t des données 
+? c??tère ?rsonnel ?s en ?vre ?r des ?rticuliers d?s le 
+c?re d?ctivités e?lusive?nt ?rsonnelles tels ?e les « blogs »?
+(?condition de respecter la dispense n??
+ann??n? : t a???r?ap??at? : 
+??-? ??ar? ?n ??? ?? 
+cnIL ?co??t ?
+?? ?r contre les demandes d’autorisation ou d’avis à la C??subsistent.
+?
+N
+N
+E
+?
+E
+ 
+N
+?
+?
+ 
+?
+ 
+T
+?
+?
+L
+E
+?
+U
+ 
+R
+É
+C
+?
+P
+I
+T
+U
+L
+?
+T
+I
+?
+ 
+? 
+D
+O
+I
+S
+?
+?
+E
+ 
+D
+É
+C
+L
+?
+R
+E
+R
+ 
+M
+O
+N
+ 
+?
+I
+C
+?
+I
+E
+R
+ 
+?
+ 
+L
+?
+ 
+C
+N
+I
+L
+ 
+?
+ 
+C
+O
+M
+M
+E
+N
+T
+ 
+?
+?
+DECLARATIONS 
+SI?LI?EES
+-  Gestion des ?rsonnels des ét??isse?nts d?nseigne?nt ?ivés 
+?ié ou non ?l?t?t ?r contr?t?
+(en ré?rence ?la norme simpli?e n?4?
+-  Gestion des contr?es d?ccès ?? loc?? des hor?res et de l?
+rest?r?tion?
+(en ré?rence ?la norme simpli?e n?42  (19)?)
+DE?NDE 
+D??ORISATION
+Contr?e de l?ccès ? rest?r?t scol?re re?s?t sur l?tilis?tion 
+d?n dis?siti?de reconn?ss?ce du contour de l??in ?io?trie?
+En??ment de con?rmité ?l’autorisation uni?e
+n?009 adoptée par la ?? par une délibération
+n?200?10?du 2?a?il 200?
+DE?NDE D??S
+?éléservice de 
+l?d?nistr?tion 
+électroni?e?
+-  Inscri?ion ?r internet ?des e??ns? ?des concours et d?s des 
+ét??isse?nts d?nseigne?nt ?ré?tion d?n co?te utilis?teur?
+-  ?r?l?tion ?r internet des v??d???ct?tion d?s l?nseigne?nt 
+su?rieur ?ur les élèves de cl?se de ter?n?e ???le ? 
+??lic?tion RA?L ?ur l?le-de-??ce?
+-  Les sites ?? ?rt?l d?s le c?re des es?ces nu?ri?es de 
+tr?v?l ?NT?
+Eng?ge?nt de con?or?té ?l?rr?é « ENT » du ? nove?re ?? 
+?is ?r le ?nistère de l?duc?tion n?tion?e ?cte régle?nt?re 
+uni?e n???
+A?RE
+Le ?inci? 
+est celui d?ne 
+décl??tion nor?le 
+?is il e?ste des 
+e?e?ions? Pour les 
+conn?tre? consulter 
+le site de l?CNIL?
+Tout ?tre tr?te?nt ?to?tisé? dès lors ??l n?st ?s con?or? 
+??nor?s él??rées ?r l?CNIL? not??nt ?
+-  vidéosurveill?ce
+-  ?nu?re des ?ciens élèves
+-  di??sion de résult?ts sur Internet?
+??  Cette norme ne concerne pas les traitements recourant à un procédé de reconnaissance 
+biométrique, qui sont soumis à autorisation.
+?
+N
+N
+E
+?
+E
+ 
+N
+?
+?
+ 
+?
+ 
+T
+?
+?
+L
+E
+?
+U
+ 
+R
+É
+C
+?
+P
+I
+T
+U
+L
+?
+T
+I
+?
+ 
+? 
+D
+O
+I
+S
+?
+?
+E
+ 
+D
+É
+C
+L
+?
+R
+E
+R
+ 
+M
+O
+N
+ 
+?
+I
+C
+?
+I
+E
+R
+ 
+?
+ 
+L
+?
+ 
+C
+N
+I
+L
+ 
+?
+ 
+C
+O
+M
+M
+E
+N
+T
+ 
+?
+?GUIDE PR?TI?UE ? IN?ORM?TI?UE ET LI?ERTÉS ?
+?
+N
+N
+E
+?
+E
+ 
+N
+?
+ 
+?
+ 
+M
+O
+D
+?
+L
+E
+S
+ 
+D
+E
+ 
+C
+L
+?
+U
+S
+E
+S
+ 
+O
+U
+ 
+D
+E
+ 
+M
+E
+N
+T
+I
+O
+N
+S
+ 
+D
+’
+I
+N
+?
+O
+R
+M
+?
+T
+I
+O
+N
+ann??n? mo??s ? ?a??  
+o?? ?nt?ns ???r?t?n
+  mo???? no? ?in?rma?on
+??L?	?	N??	?IN??ATI?
+A	P?T?	??	L?	???AI??	?	C?L?T?
+??????ndication de l?dentité du responsable du traitement?
+? ?s informations recueillies font l’ob?t d’un traitement informatique destiné 
+à ???? ?réciser la ?alité?. ?s destinataires des données sont : 
+???? ?réciser?. Conformément à la loi « Informatique et Libertés »?
+vous béné?ie?d’un droit d’accès et de recti?ation aux informations qui vous 
+concernent. ? vous souhaite?exercer ce droit et obtenir communication des 
+informations vous concernant, veuille?vous adresser à ?????
+?réciser le service? ?ous pouve?é?lement?pour des motifs lé?times?vous 
+opposer au traitement des données vous concernant? ?? ?
+??L??	N???’IN??ATI?		
+?	?ILI????L???I?	?’IN??PTI?	??????
+? ?s informations recueillies par ?réciser ici l?dentité du responsable du 
+traitement ? en l?sp?e l?tablissement ?? font l’ob?t d’un traitement 
+informatique destiné à assurer la gestion administrative et pédagogique des 
+élèves, à établir des statistiques par le ?nistère de l’éducation nationale. ?s 
+maires des communes de résidence des élèves, les conseillers d’information 
+et d’orientation, les agents habilités des collectivités locales organismes 
+de sécurité sociale, les caisses d’allocations familiales sont également 
+destinataires d’informations nécessaires à l’accomplissement de leurs 
+missions. Conformément à la loi « Informatique et Libertés », vous béné?ie?
+d’un droit d’accès et de recti?ation aux informations qui vous concernent. 
+? vous souhaite?exercer ce droit et obtenir communication des informations 
+vous concernant, veuille?vous adresser à ?????? ?réciser 
+le service char? du droit d?cc? ?en principe?ce droit doit pouvoir s??rcer 
+aupr? du responsable d?tablissement dans lequel l?tudiant est inscrit? » 
+?? ?ne pas faire ?urer si le traitement présente un caractère obligatoire.
+?
+N
+N
+E
+?
+E
+ 
+N
+?
+ 
+?
+ 
+M
+O
+D
+?
+L
+E
+S
+ 
+D
+E
+ 
+C
+L
+?
+U
+S
+E
+S
+ 
+O
+U
+ 
+D
+E
+ 
+M
+E
+N
+T
+I
+O
+N
+S
+ 
+D
+’
+I
+N
+?
+O
+R
+M
+?
+T
+I
+O
+N
+?
+??L?	?	N??	?IN??ATI?	
+???TI??	???	A?IC??
+?e??service?? ????????? ?iter le nom du ou 
+des services concernés?dispose?t?de mo?ns informatiques destinés à gérer 
+plus facilement????????ndiquer la ?alité du traitement?
+?s informations enregistrées sont réservées à l’usage du ?u des?service??
+concerné??et ne peuvent ?re communiquées qu’aux destinataires suivants : 
+????? ?réciser les destinataires? 
+Conformément aux articles ? et suivants de la loi « Informatique et Libertés », 
+toute personne peut obtenir communication et, le cas échéant, recti?ation 
+ou suppression des informations la concernant, en s’adressant au service 
+???????? ?iter le nom du service ou des services 
+concernés? ?oute personne peut également, pour des motifs légitimes, 
+s’opposer au traitement des données la concernant??? ?
+?????	CLA???	C???NTIALIT??N?L?CA??	
+?’?	???	?	?’?	C?T?T	?	???T?ITANC?
+Les	supports	informatiques	fournis	par	l’éta?issement	 et	tous	documents,	
+de	quelque	nature	qu’ils	soient,	résultant	de	leur	traitement	par	la	société	
+????????	 ,	restent	la	propriété	de	l’éta?issement?	
+?s données contenues dans ces supports et documents sont strictement 
+couvertes par le secret professionnel ?rticle ??? du code pénal? 
+Conformément à l’article ? de la loi n??? du ??nvier ?? modifée relative à 
+l’informatique, aux ?hiers et aux libertés, la société ????..??
+s’engage à prendre toutes précautions utiles a? de préserver la sécurité 
+des informations et notamment d’emp?her qu’elles ne soient déformées, 
+endommagées ou communiquées à des personnes non autorisées.
+? société ?????? s’engage donc à respecter, de fa?n 
+absolue, les obligations suivantes et à les faire respecter par son personnel, 
+c’est??ire à :
+? ne prendre aucune copie des documents et supports d’informations 
+con?s par la société ?????? et utilisés par la société 
+?????? à l’exception de ceux nécessaires pour les 
+besoins de l’exécution de sa prestation, ob?t du présent contrat ?
+? ne pas utiliser les documents et informations traités à des ?s autres que 
+celles spéci?es au présent contrat ?
+? ne pas divulguer ces documents ou informations à d’autres personnes, qu’il 
+s’agisse de personnes privées ou publiques, ph?iques ou morales ?
+?? ?ne pas faire ?urer si le traitement présente un caractère obligatoire.
+?GUIDE PR?TI?UE ? IN?ORM?TI?UE ET LI?ERTÉS ?
+? prendre toutes les mesures permettant d’éviter toute utilisation détournée ou 
+frauduleuse des ?hiers informatiques en cours d’exécution du contrat ?
+? prendre toutes les mesures, notamment de sécurité matérielle, pour assurer 
+la conservation des documents et informations traités tout au long de la durée 
+du présent contrat ?
+et en ? de contrat à :
+? procéder à la destruction de tous les ?hiers manuels ou informatisés stoc?nt 
+les informations saisies ?
+ou à :
+? restituer intégralement les supports d’informations selon les modalités prévues 
+au présent contrat.
+?ce titre, également, la société ................... ne pourra sous?raiter l’exécution 
+des prestations à une autre société, ni procéder à une cession de marché. ?s 
+supports d’informations qui lui seront remis devront ?re traités sur le territoire 
+fran?is métropolitain.
+?’établissement se réserve le droit de procéder à toute véri?ation qui lui 
+para?rait utile pour constater le respect des obligations précitées par la société 
+..........?..........
+? est rappelé que, en cas de non?espect des dispositions précitées, la 
+responsabilité du titulaire peut également ?re engagée sur la base des 
+dispositions des articles ??? et ???du code pénal.
+?’établissement pourra prononcer la résiliation immédiate du contrat, sans 
+indemnité en faveur du titulaire, en cas de violation du secret professionnel ou 
+de non?espect des dispositions précitées.
+?
+N
+N
+E
+?
+E
+ 
+N
+?
+ 
+?
+ 
+M
+O
+D
+?
+L
+E
+S
+ 
+D
+E
+ 
+C
+L
+?
+U
+S
+E
+S
+ 
+O
+U
+ 
+D
+E
+ 
+M
+E
+N
+T
+I
+O
+N
+S
+ 
+D
+’
+I
+N
+?
+O
+R
+M
+?
+T
+I
+O
+N
+?
+?
+N
+N
+E
+?
+E
+ 
+N
+?
+ 
+?
+ 
+L
+E
+?
+I
+?
+U
+EL??I???	IN????ATI???	?T	LI???T??
+CNIL Autorité ?d?inistr?tive indé?end?nte? co??osée d?un collège 
+?lur?liste de ?? co??iss?ires? ?roven?nt d?hori?ons divers ??
+??rle?ent?ires? ? ?e??res du Conseil écono?i?ue et soci?l? ?
+re?résent?nts des h?utes ?uridictions? ? ?ersonn?lités ?u?lifiées 
+désignées ??r le ?résident de l?Asse??lée n?tion?le ???? ??r le 
+?résident du Sén?t ???? ??r le conseil des ?inistres ???? Le ??nd?t 
+de ses ?e??res est de ? ?ns? Le ?résident est élu ??r ses ??irs? 
+Corres?ond?nt 
+In?or??ti?ue et Li?ertés
+Créé en ????? le corres?ond?nt in?or??ti?ue et li?ertés ?CIL?
+est ch?rgé d??ssurer de ??nière indé?end?nte le res?ect des 
+o?lig?tions ?révues ??r l? loi « Informatique et Libertés » ? en 
+contre??rtie de s? désign?tion? les tr?ite?ents de données 
+?ersonnelles les ?lus cour?nts sont e?onérés de décl?r?tion 
+?u?rès de l? CNIL? 
+Destin?t?ire Personne h??ilitée ? o?tenir co??unic?tion de données 
+enregistrées d?ns un fichier ou un tr?ite?ent en r?ison de ses 
+?onctions? 
+Donnée ?io?étri?ue C?r?ctéristi?ue ?h?si?ue ou ?iologi?ue ?er?ett?nt d?identifier une 
+?ersonne ?ADN? contour de l? ??in? e??reintes digit?les??? 
+Donnée ?ersonnelle Toute in?or??tion identifi?nt directe?ent ou indirecte?ent 
+une ?ersonne ?h?si?ue ?e?? no?? n? d?i???tricul?tion? n? de 
+télé?hone? ?hotogr??hie? d?te de n?iss?nce? co??une de 
+résidence? e??reinte digit?le???????
+Donnée sensi?le In?or??tion concern?nt l?origine r?ci?le ou ethni?ue? les o?inions 
+?oliti?ues? ?hiloso?hi?ues ou religieuses? l?????rten?nce 
+s?ndic?le? l? s?nté ou l? vie se?uelle d?une ?ersonne? En ?rinci?e? 
+les données sensi?les ne ?euvent ?tre recueillies et e??loitées 
+?u??vec le consente?ent e??licite des ?ersonnes? 
+Droit ? l? ?rotection des 
+données ?ersonnelles
+Le droit ? l? ?rotection des données ? c?r?ctère ?ersonnel 
+est inscrit d?ns l? ch?rte des droits ?ond??ent?u? de l??nion 
+euro?éenne ?u titre des li?ertés ?ond??ent?les telles ?ue l? li?erté 
+de ?ensée? de conscience et de religion? l? li?erté d?e??ression et 
+d?in?or??tion ou le res?ect de l? vie ?rivée et ???ili?le? etc?
+Droit ? l?in?or??tion Toute ?ersonne ? un droit de reg?rd sur ses ?ro?res données ? ??r 
+consé?uent? ?uicon?ue ?et en ?uvre un fichier ou un tr?ite?ent 
+de données ?ersonnelles est o?ligé d?in?or?er les ?ersonnes 
+fichées de son identité? de l?o??ecti? de l? collecte d?in?or??tions 
+et de son c?r?ctère o?lig?toire ou ??cult?ti?? des destin?t?ires des 
+in?or??tions? des droits reconnus ? l? ?ersonne? des éventuels 
+tr?ns?erts de données vers un ???s hors de l??nion Euro?éenne?
+ann??n? L??? 
+?GUIDE PR?TI?UE ? IN?ORM?TI?UE ET LI?ERTÉS ?
+Droit d??ccès direct Toute ?ersonne ?eut ?rendre conn?iss?nce de l?intégr?lité des 
+données l? concern?nt d?ns un fichier en s??dress?nt directe?ent 
+? ceu? ?ui les détiennent? et en o?tenir une co?ie dont le co?t ne 
+?eut dé??sser celui de l? re?roduction? 
+Droit d??ccès indirect Toute ?ersonne ?eut de??nder ?ue l? CNIL vérifie les 
+renseigne?ents ?ui ?euvent l? concerner d?ns les fichiers 
+intéress?nt l? s?reté de l??t?t? l? dé?ense et l? sécurité ?u?li?ue? 
+Droit d?o??osition Toute ?ersonne ? l? ?ossi?ilité de s?o??oser? ?our des ?oti?s 
+légiti?es? ? figurer d?ns un fichier? et ?eut re?user s?ns ?voir ? se 
+?ustifier? ?ue les données ?ui l? concernent soient utilisées ? des 
+fins de ?ros?ection? not???ent? co??erci?le? 
+Droit de rectific?tion Toute ?ersonne ?eut ??ire rectifier? co??léter? ?ctu?liser? verrouiller 
+ou e???cer des in?or??tions l? concern?nt lors?u?ont été décelées 
+des erreurs? des ine??ctitudes ou l? ?résence de données dont 
+l? collecte? l?utilis?tion? l? co??unic?tion ou l? conserv?tion est 
+interdite?
+?in?lité d?un tr?ite?ent O??ecti? ?rinci??l d?une ???lic?tion in?or??ti?ue de données 
+?ersonnelles? E?e??les de fin?lité ? gestion des recrute?ents? 
+gestion des clients? en?u?te de s?tis??ction? surveill?nce des 
+loc?u?? etc?
+?or??lités ?ré?l??les Ense??le des ?or??lités décl?r?tives ? e??ectuer ?u?rès de l? CNIL 
+?v?nt l? ?ise en ?uvre d?un tr?ite?ent de données ?ersonnelles ?
+selon les c?s? il ?eut s??gir d?une décl?r?tion ou d?une de??nde 
+d??utoris?tion?
+?or??tion restreinte Pour ?rendre des ?esures ? l?encontre des res?ons??les de 
+tr?ite?ent ?ui ne res?ectent ??s l? loi in?or??ti?ue et li?ertés? 
+l? CNIL siège d?ns une ?or??tion s?écifi?ue? co??osée de 
+si? ?e??res ???elée «formation restreinte»? ? l?issue d?une 
+?rocédure contr?dictoire? cette ?or??tion ?eut not???ent 
+décider de ?rononcer des s?nctions ?écuni?ires ?ouv?nt ?tteindre 
+??? ??? €? 
+Listes d?o??osition Les listes d?o??osition recensent les ?ersonnes ?ui ont ??it 
+conn??tre leur o??osition ? ?tre ?ros?ectées d?ns le c?dre 
+d?o?ér?tions de ??r?eting?
+NIR Le Nu?éro d?Inscri?tion ?u Ré?ertoire ou nu?éro de sécurité 
+soci?le est ?ttri?ué ? ch??ue ?ersonne ? s? n?iss?nce sur l? ??se 
+d?élé?ents d?ét?t civil tr?ns?is ??r les ??iries ? l?INSEE? 
+Res?ons??le du 
+tr?ite?ent 
+Personne ?ui décide de l? cré?tion d?un fichier ou d?un tr?ite?ent 
+de données ?ersonnelles? ?ui déter?ine ? ?uoi il v? servir et selon 
+?uelles ?od?lités il ser? ?is en ?uvre?
+?
+N
+N
+E
+?
+E
+ 
+N
+?
+ 
+?
+ 
+L
+E
+?
+I
+?
+U
+E
+?
+Sé?nce ?lénière C?est l? ?or??tion ?ui réunit les ?? ?e??res de l? CNIL ?our se 
+?rononcer sur des tr?ite?ents ou des fichiers et e???iner des 
+?ro?ets de loi ou de décrets sou?is ?our ?vis ??r le Gouverne?ent?
+Tr?ite?ent de données Collecte? enregistre?ent? utilis?tion? tr?ns?ission ou 
+co??unic?tion d?in?or??tions ?ersonnelles? ?insi ?ue toute 
+e??loit?tion de fichiers ou ??ses de données? not???ent des 
+interconne?ions?
+Tr?ns?ert de données Toute co??unic?tion? co?ie ou dé?l?ce?ent de données 
+?ersonnelles ???nt voc?tion ? ?tre tr?itées d?ns un ???s tiers ?
+l??nion euro?éenne?
+?
+N
+N
+E
+?
+E
+ 
+N
+?
+ 
+?
+ 
+L
+E
+?
+I
+?
+U
+E
+?cument	Imprimé	sur	papier	??	rec?lé
+une ??c?? ?une h?i??on ?
+?us d’informations sur ???ni??,	
+Une permanence de renseignements ?ridiques  
+par téléphone est assurée tous les ?urs  
+de ?h à ?h et de ?h à ?h  
+au ? 53 ? 22 22
+?ous pouve?en outre adresser toute demande  
+par télécopie au ? 53 ? 22 ?
+8 rue Vivienne - CS 30223 
+75083 Paris cedex 02
+Tél : 01 53 73 22 22 
+Fax : 01 53 73 22 00
+???ni??

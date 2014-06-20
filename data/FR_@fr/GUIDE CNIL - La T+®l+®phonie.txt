@@ -1,0 +1,1207 @@
+TÉLÉPHONIE
+Édition 2012
+
+1
+Ce guide est téléchargeable sur le site : www.cnil.fr
+Sommaire
+Avant-propos  Page 2
+I. FICHES PRATIQUES  Page 3
+A. Les fichiers de votre opérateur  Page 3
+B. L’annuaire téléphonique  Page 5
+C. Le démarchage commercial par téléphone  Page 6
+D. Le démarchage commercial par fax et SMS  Page 7
+E. Le fichier Préventel des opérateurs mobiles  Page 8
+F. Le contrôle du téléphone par l’employeur  Page 9
+G. Les nouveaux services disponibles sur votre « Smartphone »  Page 10
+II. VOS DROITS EN UN CLIN D’ŒIL  Page 13
+III. LA CNIL À VOS CÔTÉS  Page 15
+IV. MODÈLES DE LETTRES  Page 16
+A. Inscription en liste rouge  Page 17
+B. Exercer son droit d’accès  Page 18
+C. Droit de rectification  Page 19
+D. Droit d’opposition  Page 20
+E. Demande d’intervention de la CNIL  Page 21
+Fiche Préventel  Page 22
+2GuIDE PrAtIquE tÉLÉPhoNIE
+Vous avez un abonnement de téléphonie fixe ou mobile auprès d’un opérateur 
+de téléphonie ou d’un fournisseur d’accès à Internet (FAI). 
+- Quelles informations sont enregistrées pour gérer votre abonnement ? 
+- A qui ces informations peuvent-elles être transmises ? 
+- Pourquoi figurez-vous dans les annuaires ?
+- Comment ne plus être démarché par téléphone ? 
+- Pourquoi un abonnement téléphonique vous a-t-il été refusé ?
+- Comment utiliser votre Smartphone sans crainte ?
+-  Quels sont vos droits « informatique et libertés » et comment les faire 
+respecter ?
+C’est pour répondre à toutes ces questions et pour vous aider à exercer vos 
+droits que la CNIL a élaboré ce guide. 
+Avant-propos
+A
+V
+AN
+t
+-P
+ro
+P
+o
+S
+3
+Votre opérateur a le droit d’enregistrer dans son fichier clients uniquement les 
+données vous concernant qui sont vraiment nécessaires à la gestion de votre 
+abonnement. 
+Vous ne pouvez pas vous opposer au traitement de certaines données 
+personnelles, liées notamment à votre identification ou à la facturation de votre 
+ligne, dans la mesure où elles sont indispensables à la gestion de votre contrat 
+d’abonnement.
+En revanche, vous avez le droit d’obtenir une copie de toutes les données 
+enregistrées dans votre dossier client, y compris celles enregistrées dans les 
+zones « bloc-notes » ou « commentaires », qu’elles soient sur support papier 
+ou informatique.
+Les éléments qui vous sont communiqués doivent être aisément compréhensibles. 
+Ainsi, les codes, les sigles et les abréviations utilisés dans le fichier clients doivent 
+vous être expliqués (éventuellement par le biais d’un lexique).
+Vous pouvez également accéder, gratuitement et à votre demande, à la liste 
+des numéros de téléphone que vous avez appelés. Mais votre opérateur n’a 
+l’obligation de conserver cette liste que pendant un an (article R10-13 du code 
+des postes et communications électroniques).
+Attention
+Vous ne pouvez pas obtenir communication des numéros  
+d’appels entrants car ils concernent des tiers. 
+Comme dans d’autres secteurs d’activité, vos communications peuvent être 
+enregistrées par votre opérateur, à des fins de preuve ou de formation de 
+son personnel. Vous devez en être informé et vous pouvez obtenir copie de 
+l’enregistrement ou le script (la durée de conservation des enregistrements est 
+cependant souvent très courte, entre 6 mois et 1 an). 
+  Que contiennent les bases de données de votre opérateur ? 
+-  Vos données d’identification : nom, prénoms, civilité, date et lieu de naissance, 
+adresse postale, numéros de contrat et de ligne téléphonique ;
+-  vos coordonnées bancaires : établissement bancaire, titulaire du compte 
+bancaire et numéro du compte ;
+-  le type d’abonnement et les options que vous avez choisis ;
+-  vos données de facturation telles que les dates, horaires, durées d’appel et 
+numéros appelés, le montant de vos factures ; 
+-  les éventuels incidents de paiement et mises en recouvrement ;
+-  l’historique de vos contacts auprès du service clients ;
+-  sur votre demande expresse, votre profession et votre adresse électronique 
+ainsi que les nom et prénom des autres membres de votre foyer, sous réserve 
+de leur accord, pour diffusion dans l’ « annuaire universel » sous votre numéro 
+de téléphone fixe.
+A. L
+ES
+ 
+FIC
+h
+IE
+r
+S
+ 
+DE
+ 
+V
+otr
+E
+ o
+P
+Ér
+A
+t
+E
+ur
+I. FICHES PRATIQUES 
+A. Les fichiers de votre opérateur
+4GuIDE PrAtIquE tÉLÉPhoNIE
+A. L
+ES
+ 
+FIC
+h
+IE
+r
+S
+ 
+DE
+ 
+V
+otr
+E
+ o
+P
+Ér
+A
+t
+E
+ur
+  A quoi vont servir vos données ?
+-  à la gestion de votre contrat ;
+-  au recouvrement de vos éventuelles factures impayées ;
+-  à vous proposer des offres commerciales adaptées à vos profil et 
+comportement de consommation ;
+-  en cas de nouvel abonnement, à établir si vous n’avez pas déjà eu des 
+incidents de paiement. 
+  Combien de temps sont-elles conservées ?
+-  pendant toute la durée de votre abonnement ;
+-  toutes les informations vous concernant sont conservées pendant 3 
+ans maximum après la fin de votre contrat dans le cadre d’opérations 
+commerciales, sauf si vous vous y opposez ;
+-  sachez que les données justificatives liées à votre contrat sont conservées 
+pendant 10 ans dans la base « archives » de votre opérateur à des fins de 
+preuve comptable (article L123-22 du Code de commerce).
+Aucun jugement de valeur, aucun commentaire subjectif ou 
+désobligeant ne peut être inscrit dans votre dossier client.
+Les fichiers transmis aux sous-traitants de votre opérateur
+Votre opérateur peut avoir recours aux services de sous-traitants, par exemple 
+pour héberger ses bases de données ou pour la gestion de sa relation clients 
+(centres d’appel).
+Ces sous-traitants doivent s’engager contractuellement à n’utiliser vos 
+données que dans le strict cadre de la gestion de votre contrat de téléphonie. 
+Ils n’ont pas le droit d’utiliser vos données pour leur propre compte ou de les 
+transmettre à leurs partenaires.
+En cas de transferts de vos données à des sociétés sous-traitantes établies hors 
+de l’Union européenne, une autorisation doit être délivrée à votre opérateur par 
+la CNIL. Vous devez être informé de ces transferts de données, par exemple 
+par le biais d’une mention apposée sur votre contrat d’abonnement ou sur vos 
+factures.
+Pouvez-vous refuser que vos données soient transmises aux sous-traitant ?
+Vous pouvez vous opposer à ces transmissions si vous avez de bonnes raisons 
+de le faire. C’est ce que la loi « informatique et libertés » appelle des « motifs 
+légitimes » (article 38). Reportez-vous à la rubrique « Vos droits en un clin d’œil » 
+de ce guide.
+5
+B. L
+’
+ANN
+u
+AI
+r
+E
+ tÉ
+L
+É
+P
+ho
+NI
+qu
+ECe sont les opérateurs de téléphonie qui communiquent vos coordonnées 
+aux éditeurs d’annuaires et services de renseignements, tels que les Pages 
+Blanches ou les 118… (article L.34 du code des postes et communications 
+électroniques). Le regroupement de ces listes d’abonnés constitue l’«annuaire 
+universel ».
+Les règles de présence dans l’annuaire sont les suivantes.
+Pour le téléphone fixe : vos coordonnées sont publiées dans l’annuaire par 
+défaut.
+Si vous ne souhaitez pas figurer dans l’annuaire, l’inscription en liste rouge est 
+gratuite. 
+Il vous suffit de demander cette inscription à votre opérateur lors de la 
+souscription de votre abonnement, ou à tout moment (cf. modèle de courrier 
+p.17).
+Votre opérateur transmet périodiquement la liste mise à jour de ses abonnés 
+aux éditeurs d’annuaires. Ainsi, votre demande est très rapidement prise en 
+compte s’agissant des annuaires sur internet et services de renseignements. 
+En revanche, elle risque d’être plus longue pour les annuaires papiers qui ne 
+sont édités qu’une fois par an. 
+Attention
+À chaque fois que vous changez d’opérateur de téléphonie fixe,  
+vous devez renouveler votre demande d’inscription en liste rouge  
+même si vous conservez votre numéro.
+Pour le téléphone mobile : vos coordonnées ne sont diffusées dans les 
+annuaires que si vous le demandez. 
+Si vous souhaitez faire paraître votre numéro de téléphone fixe ou mobile 
+dans les annuaires, vous pouvez demander à votre opérateur :
+-  la seule mention de vos nom, prénom ou initiale de votre prénom (sous réserve 
+d’absence d’homonymie), et numéro de ligne (sans votre adresse) ; 
+-  que vos, profession, adresse électronique, ainsi que les nom et prénom des 
+autres utilisateurs de la ligne, sous réserve de leur accord, soient associés au 
+numéro de ligne ; 
+-  à ne pas être identifié à partir de votre numéro de téléphone lors d’une 
+recherche inversée.  
+Si vous constatez que vos demandes n’ont pas été prises en compte, contactez 
+le service clients ou le service consommateurs de votre opérateur.
+B. L’annuaire téléphonique
+6GuIDE PrAtIquE tÉLÉPhoNIE
+  Qu’est-ce qui est légal ?
+-  Vous pouvez recevoir des appels téléphoniques de votre opérateur pour 
+proposer ses produits et services.
+Une information claire sur cette utilisation de vos coordonnées et sur votre droit 
+de vous y opposer doit vous être donnée lors de la collecte de vos informations. 
+Si vous ne souhaitez pas que votre opérateur vous contacte à des fins 
+publicitaires, faites-le savoir à son service clients.
+-  Votre opérateur peut céder vos coordonnées à ses partenaires commerciaux, 
+qui pourront vous contacter pour proposer leurs produits et services.
+Là encore, vous devez en être informé et pouvez vous y opposer préalablement 
+à toute cession. 
+Vous pouvez vous inscrire gratuitement sur la liste « anti-prospection » (ancienne 
+« liste orange ») auprès de votre opérateur. Dans ce cas, vos coordonnées 
+paraîtront dans les annuaires accompagnées d’un pictogramme (  Opposé 
+au marketing direct ) indiquant clairement que vous ne souhaitez pas que vos 
+coordonnées puissent être réutilisées à des fins de prospection commerciale. 
+  Une nouvelle liste d’opposition à votre disposition, la liste PACITEL
+Cette liste, mise en place par l’association du même nom depuis décembre 
+2011 vous préservera des appels téléphoniques publicitaires.
+Cette inscription est gratuite http://www.pacitel.fr
+Il suffira d’y indiquer les numéros de téléphone fixes ou mobiles (6 maximums) 
+sur lesquels vous ne souhaitez pas être démarché ainsi que votre adresse 
+électronique.
+Vous ne serez plus démarché par téléphone par les sociétés qui ont adhéré à 
+l’association PACITEL (80% des acteurs économiques actuellement).
+La liste PACITEL vient utilement compléter les autres listes d’opposition :
+-  par sa mise à jour constante (la liste anti-prospection, tenue par votre opérateur, 
+est mise à jour seulement annuellement pour les annuaires papiers) ;
+-  par son application à la prospection téléphonique (la liste Robinson/ Stop 
+Publicité, tenue par l’Union Française du Marketing Direct, ne concerne que 
+les publicités postales).
+Attention
+Cette inscription n’empêchera pas les sollicitations émanant des sociétés 
+avec lesquelles vous êtes en relation commerciale. Pour cela, c’est auprès 
+de ces sociétés qu’il faut manifester votre opposition.
+Cette inscription ne vaut que pour trois années et doit être renouvelée au terme 
+de ce délai.
+En revanche, une fois inscrit sur cette liste, vous pouvez à tout moment, vous 
+retirer de cette liste d’opposition auprès du site www.pacitel.fr. 
+En résumé
+Vous êtes en droit, à tout moment et sans avoir à fournir d’explications,  
+de demander la suppression de vos coordonnées des fichiers de 
+prospection commerciale.
+C. L
+E
+ 
+D
+É
+MA
+r
+C
+h
+AGE
+ 
+C
+o
+MME
+r
+CIAL
+ 
+P
+A
+r tÉ
+L
+É
+P
+ho
+NE
+C.  Le démarchage commercial  
+par téléphone
+7
+La prospection téléphonique par télécopie ou SMS est interdite, sauf si vous 
+avez donné votre consentement préalable (article L34-5 du code des postes et 
+des communications électroniques)1.
+Le fait d’accepter des conditions générales de vente ne signifie pas que vous 
+avez donné votre consentement à ce type de prospection.
+Si vous avez accepté de recevoir ces messages, vous pouvez à tout moment et 
+gratuitement demander que l’envoi de ces messages cesse.
+  Quelques conseils pour ne pas recevoir de SMS indésirables 
+Ne communiquez votre numéro de téléphone que lorsque cela vous paraît 
+nécessaire. Soyez vigilants lorsque vous utilisez des services de personnalisation 
+de portables (logos, sonneries…) ou lorsque vous participez à des jeux par 
+envoi de SMS.
+Si vous êtes obligé de communiquer votre numéro, par exemple pour être 
+prévenu de la livraison d’une commande, pensez à demander à ce que celui-ci 
+ne soit pas communiqué à des partenaires commerciaux.
+Si vous recevez des SMS dont vous ne connaissez pas l’origine 
+proposant de rappeler des numéros surtaxés,  
+ne rappelez pas, transférez-les au 33700
+Ce dispositif d’alerte par SMS a été créé par les pouvoirs publics  
+et les opérateurs de télécommunications.
+Après ce transfert au 33700, les signalements sont transmis  
+aux opérateurs, y compris le vôtre, qui pourront agir rapidement  
+auprès des émetteurs de ces SMS.
+L’envoi d’un signalement au 33700 est gratuit pour les clients Bouygues 
+Telecom, Orange et SFR. Pour les autres opérateurs, l’envoi d’un SMS au 
+33700 peut s’effectuer au prix d’un SMS normal.
+Pour plus d’informations, vous pouvez vous connecter sur  
+www.33700-spam-sms.fr
+  Que faire si vous recevez des appels de fax sur votre ligne téléphonique ? 
+Parfois, les anciens numéros de fax utilisés par des entreprises sont ré-
+attribués à des particuliers. Ces numéros ont pu subsister dans les fichiers de 
+prospection utilisés par certains commerçants pour réaliser des campagnes 
+d’envoi de télécopies publicitaires à destination des professionnels. 
+Si vous recevez de tels appels, vous pouvez demander aux sociétés émettrices 
+de fax la suppression de vos coordonnées de leurs fichiers de prospection 
+commerciale. Si l’identification de ces organismes est impossible, rapprochez-
+vous de votre opérateur qui pourra, si nécessaire, vous proposer de changer 
+votre numéro de téléphone fixe.
+1  Le fait d’être inscrit sur la Liste Robinson/Stop Publicité tenue par l’Union Française du Marketing 
+Direct ne vous préserve pas des sollicitations téléphoniques (cf. guide « La pub si je veux ! »).
+D. L
+E
+ 
+D
+É
+MA
+r
+C
+h
+AGE
+ 
+C
+o
+MME
+r
+CIAL
+ 
+P
+A
+r 
+F
+A
+x 
+E
+t SMS
+D.  Le démarchage commercial  
+par fax et SMS
+8GuIDE PrAtIquE tÉLÉPhoNIE
+  Qu’est ce que le fichier Préventel ?
+C’est un fichier qui centralise les impayés de la téléphonie mobile. Il est géré 
+par le Gie Prévention Télécommunications (www.preventel.fr) dont les membres 
+adhérents sont des opérateurs de téléphonie mobile2 (cf. tableau p.22). 
+Le fichier Préventel enregistre les informations relatives aux impayés en matière 
+de téléphonie mobile (supérieurs ou égaux à 30 €), ainsi que les coordonnées 
+des personnes qui ont souscrit irrégulièrement un contrat d’abonnement (en 
+produisant, par exemple, des documents d’identité ou bancaires falsifiés). 
+  Quand et pourquoi est-il consulté ?
+Lorsque vous souhaitez souscrire un abonnement de téléphonie mobile 
+l’opérateur va consulter le fichier Préventel, à partir de vos nom, prénom, date 
+et département de naissance.
+Si vos coordonnées y sont inscrites, il est vraisemblable qu’il vous refusera 
+l’ouverture de la ligne ou vous demandera un dépôt de garantie.
+  Quelles garanties pour vous ?
+Aucune inscription ne peut être effectuée dans le fichier Préventel 
+sans que les personnes en soient préalablement informées et mises en 
+mesure de régulariser leur situation avant inscription.
+Dès le règlement de la dette, l’opérateur à l’origine de l’inscription doit supprimer 
+cette inscription du fichier.
+En l’absence de règlement de la dette, l’inscription sera automatiquement 
+effacée à l’expiration d’un délai de trois ans. Ce délai passe à cinq ans 
+à compter de la dernière inscription si une même personne est inscrite par 
+plusieurs opérateurs en même temps. 
+Pour savoir si vous êtes inscrit dans ce fichier, vous pouvez écrire au GIE 
+Préventel, service des consultations – TSA n°90 003 – 93588 Saint Ouen Cedex 
+(joindre la copie d’une pièce d’identité). 
+La CNIL n’est pas compétente pour intervenir dans l’appréciation d’un litige 
+portant sur des facturations contestées par un abonné susceptible d’être inscrit 
+dans le fichier Préventel.
+Cependant, elle a rappelé qu’en cas de contestation sérieuse des sommes 
+dues, l’abonné ne doit pas être automatiquement inscrit dans ce fichier. Les 
+opérateurs membres du GIE Préventel se sont d’ailleurs engagés sur ce point.
+Concrètement, un opérateur de téléphonie doit examiner attentivement 
+la situation de l’abonné qui conteste les sommes réclamées. Il ne doit pas 
+l’inscrire dans le fichier Préventel tant que le bien-fondé de la créance n’est 
+pas démontré. 
+Pour plus de détails, consultez la fiche « Préventel » en annexe.
+2 Les membres du GIE Préventel sont à ce jour : Afone - Auchan Telecom - Bouygues Telecom - 
+Carrefour Interactive - Coriolis Telecom - Darty telecom - La Poste Telecom - NRJ Mobile - Omer 
+Telecom (Virgin Mobile, Breizh Mobile) - Omer Mobile (Télé 2 Mobile) - Orange Caraïbes - Orange 
+France - Orange Réunion - Outremer Telecom - Prixtel - SFR - SRR.
+E. L
+E
+ 
+FIC
+h
+IE
+r PrÉ
+VEN
+t
+EL
+ 
+DES
+ o
+P
+Ér
+A
+t
+E
+ur
+S
+ 
+M
+o
+BILES
+E.  Le fichier Préventel  
+des opérateurs mobiles
+9
+F
+. L
+E
+ 
+C
+o
+N
+trÔ
+LE
+ 
+D
+u tÉ
+L
+É
+P
+ho
+NE
+ 
+P
+A
+r 
+L
+’
+EMPL
+oy
+E
+ur
+   Le suivi des appels émis ou reçus sur votre téléphone professionnel
+L’utilisation à des fins personnelles du téléphone au travail est tolérée si elle reste 
+raisonnable et ne porte pas préjudice à votre employeur. Ce dernier peut contrôler 
+l’usage non abusif de votre ligne à partir de deux sources d’informations : les 
+standards téléphoniques et les relevés d’appels.
+-  Les standards téléphoniques (appelés « autocommutateurs ») permettent de gérer 
+et d’orienter les appels émis et reçus depuis votre lieu de travail. Ils peuvent enregistrer 
+les numéros de téléphone appelés par les employés, et peuvent donc révéler les 
+communications non professionnelles effectuées depuis un poste individuel.
+Les standards téléphoniques permettent aussi de tracer les appels que vous recevez. 
+Si votre employeur ne doit pas conserver les numéros appelants, il peut toutefois 
+exploiter les autres informations recueillies par l’autocommutateur pour disposer de 
+statistiques sur votre activité téléphonique (nombre d’appels reçus et émis, durée 
+moyenne d’appel, etc.).
+-  Les relevés téléphoniques des appels émis depuis votre ligne sont établis par 
+l’opérateur et peuvent être transmis à votre employeur. Seuls les 6 premiers 
+chiffres des numéros que vous avez composés peuvent y figurer. Vos supérieurs 
+hiérarchiques ne pourront accéder à ces informations qu’à titre exceptionnel, 
+notamment en cas d’utilisation manifestement anormale de votre téléphone. Vous 
+pouvez également demander à accéder aux numéros de téléphone complets 
+que vous avez composés, en particulier si votre employeur vous demande de 
+rembourser le coût des appels supposés personnels.
+Vous devez être préalablement informé de ces contrôles et les informations 
+relatives à l’utilisation de votre ligne ne doivent pas être conservées plus d’un an, 
+sauf circonstances particulières (ex. : contentieux en cours sur l’utilisation de votre 
+téléphone professionnel). De plus, votre employeur n’a pas le droit de contrôler les 
+appels émis et reçus par les représentants du personnel ou représentants syndicaux 
+dans le cadre de leur mandat. 
+  L’enregistrement de vos conversations téléphoniques professionnelles
+Votre employeur n’a pas le droit d’enregistrer en permanence vos conversations 
+téléphoniques, sauf si une réglementation particulière l’impose (par exemple, pour le 
+passage d’ordres dans les salles de marchés). 
+Exceptionnellement, votre employeur peut enregistrer le contenu de certains de vos 
+appels en cas de nécessité, après consultation des instances représentatives du 
+personnel. Par exemple, vos conversations peuvent être enregistrées, de manière 
+ponctuelle, à des fins de contrôle qualité ou de formation.
+Vous devez être préalablement informé par votre employeur de l’objectif d’un 
+tel enregistrement, de ses conséquences éventuelles (pour votre évaluation 
+professionnelle, etc.), de ses destinataires et des modalités d’exercice de vos droits 
+« informatique et libertés ». Votre interlocuteur doit également être informé de cet 
+enregistrement, par exemple par un message diffusé en début d’appel.
+La durée de conservation de ces enregistrements doit être limitée. La CNIL 
+recommande une conservation maximale de 6 mois pour les enregistrements effectués 
+à des fins de formation. Les comptes rendus écrits relatifs à ces enregistrements 
+téléphoniques peuvent être conservés un an.
+F.  Le contrôle du téléphone par 
+l’employeur 
+10GuIDE PrAtIquE tÉLÉPhoNIE
+G L
+ES
+ 
+N
+ou
+VEA
+ux 
+SE
+r
+VICES
+ 
+DISP
+o
+NIBLES
+ 
+S
+ur 
+V
+otr
+E
+ «
+ 
+S
+MA
+r
+t
+P
+ho
+NE 
+»Les nouveaux téléphones « intelligents » ou « Smartphones » présentent des 
+capacités similaires à un véritable ordinateur. Ces appareils sont non seulement 
+équipés d’un module de radiocommunication pour la voix mais également de 
+fonctions bureautiques (agenda, carnet d’adresses, prise de note) et multimédia. 
+Les nouveaux services proposés par le biais d’applications téléchargeables sur 
+ces téléphones impliquent fréquemment l’utilisation et la transmission de vos 
+données à divers organismes. 
+  Les applications mobiles
+Les « Smartphones » peuvent intégrer des applications mobiles téléchargeables 
+de manière gratuite ou payante sur des plates-formes extérieures.
+Ces petits logiciels adaptés aux contraintes ergonomiques et techniques de 
+votre téléphone peuvent avoir une simple fonction utilitaire (par exemple, de 
+type calculatrice) ou permettre un accès plus confortable et rapide aux sites 
+internet, sans impliquer la transmission d’informations vous concernant. 
+En revanche, d’autres services proposés par les fournisseurs d’application 
+utilisent les outils et données enregistrées dans votre appareil mobile 
+pour fonctionner (géolocalisation, appareil photo, etc.) et vous envoyer 
+des informations personnalisées. Dans ces derniers cas, vous devez être 
+préalablement informé :
+- de la nature des informations collectées, 
+- de l’objectif d’une telle collecte, 
+- de l’identité de son responsable, 
+- des destinataires des données,
+-  des modalités d’exercice de vos droits d’accès, de rectification et d’opposition 
+reconnus par la loi « informatique et libertés ».
+Les fabricants de Smartphones encadrent contractuellement les conditions de 
+fonctionnement de ces applications en imposant à leurs créateurs de respecter 
+certaines règles de confidentialité et de sécurisation. 
+La lecture des conditions d’utilisation des applications que vous souhaitez 
+télécharger reste toutefois essentielle pour éviter le vol de vos données 
+personnelles par des dispositifs malveillants. 
+  L’outil de géolocalisation de votre « Smartphone »
+De nombreuses applications utilisent la position géographique de votre 
+téléphone pour vous proposer divers services tels que la localisation de taxis, 
+de commerces, de vos connaissances, l’envoi de publicités et d’informations 
+contextuelles ou la surveillance de vos enfants. 
+Ces applications vous géolocalisent grâce à la puce GPS intégrée dans votre 
+Smartphone ou à partir de la localisation de l’antenne relais du réseau de 
+téléphonie mobile ou de la détection d’un réseau WiFi connu ou encore par une 
+simple indication manuelle de l’utilisateur. 
+Ces services de localisation requièrent l’accord explicite de la personne.
+G.  Les nouveaux services disponibles 
+sur votre « Smartphone »
+11
+G L
+ES
+ 
+N
+ou
+VEA
+ux 
+SE
+r
+VICES
+ 
+DISP
+o
+NIBLES
+ 
+S
+ur 
+V
+otr
+E
+ «
+ 
+S
+MA
+r
+t
+P
+ho
+NE 
+»Lors de la souscription au service ou du téléchargement de l’application, vous 
+devez être clairement informé de la collecte de vos données de localisation ainsi 
+que leur durée de conservation. De même, vous devez être averti et donner 
+votre accord préalable dans les réglages de l’application ou du téléphone. La 
+CNIL recommande, par ailleurs, qu’avant chaque tentative de localisation, le 
+fournisseur de service demande confirmation de l’accord de localisation. En 
+pratique, un message (« pop up ») apparaît sur votre téléphone afin de recueillir 
+votre autorisation ou pour vous inviter à activer la fonction de géolocalisation 
+de votre téléphone. Par ailleurs, vous devez pouvoir retirer votre consentement 
+à tout moment.
+Vos données de localisation peuvent aussi être utilisées pour vous envoyer 
+de la publicité ciblée, par exemple, les dernières promotions du magasin 
+géographiquement proche de vous. De tels envois sont possibles à condition 
+que vous ayez explicitement donné votre accord pour être ainsi démarchés et 
+que l’on vous donne ensuite la faculté de refuser de nouvelles sollicitations.
+Pour autant, ces règles ne sont pas toujours respectées par les fournisseurs 
+d’applications. Il est donc important de vérifier les paramètres de cette fonction 
+régulièrement et, le cas échéant, de la désactiver pour que vous ne soyez plus 
+localisable à tout moment, à votre insu.
+  L’envoi de publicités via la technologie « Bluetooth »
+Les panneaux publicitaires permettant d’envoyer des messages sur les 
+téléphones mobiles des passants sont en cours de déploiement dans les lieux 
+publics (transports urbains, cafés, centres commerciaux...). 
+En pratique, si la fonctionnalité « Bluetooth » de votre téléphone est activée et 
+que vous l’approchez suffisamment près d’un tel panneau, vous recevrez un 
+message. Ce message d’information permet de s’assurer que vous acceptez 
+de recevoir une publicité émise par le panneau. 
+Par ces mesures, ces messages publicitaires ne peuvent être adressés qu’aux 
+seules personnes réellement intéressées par leur contenu.
+L’activation continue du protocole « Bluetooth » sur votre téléphone le rend 
+particulièrement vulnérable aux attaques extérieures. Restez vigilant en le 
+désactivant systématiquement et en modifiant les codes d’accès par défaut, 
+aisément identifiables. De même, ne répondez pas aux messages non sollicités 
+dont l’émetteur vous est inconnu.
+  L’analyse des comportements 
+Les données émises par les téléphones portables peuvent être utilisées 
+pour établir des statistiques de fréquentation d’un lieu (ex. : jours et horaires 
+d’affluence au sein d’un centre commercial), analyser de manière anonyme le 
+parcours des clients dans un commerce ou évaluer le trafic routier en temps 
+réel. La présence de tels dispositifs, leur objectif ainsi que l’identité de leur 
+responsable doivent être portés à votre connaissance par voie d’affichage et 
+les données captées sur votre téléphone doivent être rendues anonymes dans 
+des délais très brefs (quelques minutes au plus).
+12GuIDE PrAtIquE tÉLÉPhoNIE
+G L
+ES
+ 
+N
+ou
+VEA
+ux 
+SE
+r
+VICES
+ 
+DISP
+o
+NIBLES
+ 
+S
+ur 
+V
+otr
+E
+ «
+ 
+S
+MA
+r
+t
+P
+ho
+NE 
+»Si ces dispositifs sont essentiellement mis en œuvre à des fins statistiques, les 
+analyses de comportements sont parfois utilisées pour du marketing ciblé. Ils 
+permettent aux organismes d’envoyer de la publicité ciblée en fonction des 
+habitudes de consommation, des déplacements, des centres d’intérêt, etc.
+Dans ces cas-là, vous devez avoir donné votre consentement à recevoir, 
+par voie électronique, des offres correspondant à votre profil.
+  Le téléphone utilisé comme support multi-services 
+Des expérimentations sont en cours pour intégrer aux téléphones mobiles 
+des technologies permettant l’échange d’informations à distance (une dizaine 
+de centimètres maximum) entre la carte à puce de votre téléphone (carte 
+SIM) et des terminaux extérieurs. Cette technologie est appelé “Near Field 
+Communication” (NFC).
+En rapprochant votre téléphone de bornes prévues à cet effet, vous pourrez 
+l’utiliser : 
+-  comme carte d’identification (ex : carte de paiement, titre de transport, etc.),
+-  pour lire des informations, par exemple, sur des étiquettes électroniques 
+disposées dans la rue, sur des affiches, sur des colis ou aux arrêts de bus.
+De plus, cette technologie permet, comme le « Bluetooth », d’échanger des 
+informations entre téléphones compatibles. 
+Pour assurer le fonctionnement des services sans contact, leurs fournisseurs 
+peuvent recueillir des informations telles que votre numéro de téléphone, 
+les caractéristiques techniques de votre appareil, les informations relatives 
+à l’utilisation du service. Ils peuvent également transmettre certaines de ces 
+informations à votre opérateur de téléphonie pour facturer leurs prestations.
+Des mesures de sécurisation et d’authentification fortes doivent être mises en 
+place pour protéger vos données personnelles.
+Par exemple, seules les informations nécessaires à la gestion de la facturation 
+du service utilisé doivent être transmises à votre opérateur, afin qu’il ne puisse 
+pas connaître vos habitudes de consommation. 
+De même, en cas de perte ou de vol de mobile, une procédure de désactivation 
+à distance de la ligne et des services doit être mise en place tant par les 
+opérateurs de téléphonie concernés que par les fournisseurs de services. 
+Enfin, vous devez pouvoir désactiver ou activer, partiellement ou en totalité, 
+les services intégrés à votre téléphone ainsi que ses fonctionnalités de 
+communication à distance.
+Gardez à l’esprit qu’un téléphone portable peut facilement se perdre 
+ou même être volé. Il est donc essentiel de le sécuriser en utilisant, 
+non seulement un code PIN pour votre carte SIM mais aussi de 
+verrouiller automatiquement votre téléphone à l’aide d’un second 
+code après une courte période d’inactivité.
+13
+La loi du 6 janvier 1978 modifiée en août 2004 relative à l’informatique, aux 
+fichiers et aux libertés, dite « informatique et libertés », vous reconnaît plusieurs 
+droits.
+Ces droits vous permettent de contrôler l’utilisation, par votre opérateur, de vos 
+informations personnelles. Si vous exercez vos droits auprès de votre opérateur, 
+vous devez obtenir une réponse au maximum dans les 2 mois suivant votre 
+demande.
+  A. Le droit à l’information (article 32)
+Votre opérateur doit vous informer :
+-  de l’utilisation qui sera faite de vos données ;
+-  du caractère obligatoire ou non de vos réponses ;
+-  des destinataires de ces données ;
+-  de leur transfert éventuel hors de l’Union européenne (par exemple vers des 
+centres d’appels) ;
+-  des droits dont vous disposez (droits d’opposition, d’accès et de rectification).
+Cette information doit être portée à votre connaissance sur le contrat ou dans 
+les conditions générales de service.
+  B. Le droit d’opposition (article 38)
+Vous pouvez vous opposer à ce que des données vous concernant soient 
+enregistrées dans les fichiers de votre opérateur, sous réserve d’avancer des 
+raisons légitimes.
+C’est à votre opérateur d’apprécier les suites à apporter à votre demande. En 
+cas de désaccord, la justice peut être saisie.
+En revanche, vous pouvez vous opposer sans frais et sans justification à ce que 
+votre opérateur vous adresse des propositions commerciales ou qu’il transmette 
+vos données à des partenaires commerciaux. Afin que vous puissiez facilement 
+exercer ce droit, la CNIL recommande qu’une case à cocher soit apposée sur 
+les formulaires de collecte de vos données.3
+  C. Le droit d’accès (article 39)
+C’est le droit d’obtenir, sous une forme compréhensible, une copie des 
+informations vous concernant enregistrées dans les fichiers de votre opérateur 
+ou de ses partenaires commerciaux.4 
+Ce droit peut s’exercer sur place ou par écrit en justifiant de votre identité (copie 
+d’une pièce d’identité). 
+3 Cf. le guide « La pub si je veux !» accessible sur www.cnil.fr
+4  La CNIL a édité un guide « droit d’accès » que vous pouvez demander ou télécharger sur son 
+site internet www.cnil.fr
+II. VOS DROITS EN UN CLIN D’ŒIL
+II. V
+o
+S D
+ro
+I
+t
+S
+ 
+EN 
+u
+N CLIN D’
+o
+EIL
+14GuIDE PrAtIquE tÉLÉPhoNIE
+II. V
+o
+S D
+ro
+I
+t
+S
+ 
+EN 
+u
+N CLIN D’
+o
+EIL
+Vous ne pouvez pas exercer le droit d’accès pour le compte d’un tiers, de votre 
+enfant majeur, de votre conjoint ou d’un parent, sauf si vous le représentez en 
+tant que tuteur.
+N’adressez pas votre demande à la CNIL : si les organismes doivent déclarer 
+leurs fichiers à la CNIL, ils ne lui communiquent pas pour autant les informations 
+personnelles qu’ils y enregistrent. La CNIL ne sait donc pas si vous êtes fichés 
+ou non, par telle société ou par telle administration. 
+La Commission peut cependant vous aider en vous communiquant la liste des 
+fichiers déclarés par l’organisme concerné avec l’indication des coordonnées 
+du service chargé de répondre aux demandes de droit d’accès (cette possibilité 
+est prévue à l’article 31 de la loi). Pour obtenir cette liste, vous devez adresser 
+un courrier ou un fax (0153732200) à la CNIL.
+Lorsque l’organisme a désigné un correspondant informatique et libertés 
+(CIL), c’est à ce dernier que vous devez adresser votre demande. La liste des 
+organismes dotés d’un CIL est disponible sur le site de la CNIL (www.cnil.fr, 
+rubrique « correspondants »).
+  D. Le droit de rectification et de suppression (article 40)
+Une fois en possession de l’ensemble de ces données, vous pourrez demander 
+qu’elles soient rectifiées (si elles sont inexactes), complétées (si elles sont 
+incomplètes ou équivoques), mises à jour (si elles sont périmées) ou effacées (si 
+elles ne répondent pas ou plus à l’objectif pour lequel elles ont été collectées).
+  E. Déposer une plainte pénale
+Le non-respect de la loi « informatique et libertés » est passible de sanctions 
+pénales devant les tribunaux (articles L 226-16 et suivants du code pénal et 
+R.625-10 et suivants).
+Il n’est pas nécessaire de s’adresser préalablement à la CNIL.
+Vous avez en effet la possibilité de déposer directement une plainte pénale 
+auprès du commissariat de police ou de la brigade de gendarmerie de votre 
+domicile, ou encore auprès du procureur de la République en cas de non-
+respect de vos droits « informatique et libertés » par votre opérateur. 
+Vous pouvez ainsi adresser une lettre relatant précisément les faits au procureur 
+de la République compétent (lieu où se trouve le siège social de l’organisme 
+incriminé). N’oubliez pas de joindre à votre courrier tous les justificatifs en votre 
+possession.
+15
+III. L
+A
+ CNIL À 
+V
+o
+S
+ 
+C
+ÔtÉ
+S-  Si vous avez exercé vos droits « informatique et libertés » sans avoir obtenu de 
+réponse satisfaisante dans le délai légal de deux mois ;
+-  si vous contestez votre inscription dans le fichier Préventel,
+vous pouvez adresser une plainte à la CNIL qui interviendra auprès de votre 
+opérateur. 
+Pour cela, il suffit de vous rendre sur le site internet www.cnil.fr, pour adresser 
+une plainte en ligne, ou d’envoyer un courrier à l’adresse suivante :
+CNlL- Service des plaintes
+8 rue Vivienne-CS 30223
+75083 Paris Cedex 02
+N’oubliez pas de joindre la copie du ou des courriers adressés à votre opérateur 
+ainsi que de ses éventuelles réponses.
+Précisez bien les coordonnées de l’opérateur mis en cause ainsi que vos 
+références client et de contrat. 
+La CNIL n’est pas compétente :
+-  pour tout litige commercial avec un opérateur (ex. : contestation de vos 
+factures) : contactez le service clients ou le service consommateurs de votre 
+opérateur.
+Si ce contact ne vous permet pas de résoudre le litige, et si votre opérateur 
+est membre de l’Association de médiation des communications électroniques, 
+vous pouvez alors saisir :
+le Médiateur des communications électroniques
+BP 999 - 75829 Paris Cedex 17
+http://www.mediateur-telecom.fr
+-  si vous contestez la réalité des sommes dues à votre opérateur qui ont 
+entraîné votre inscription dans le fichier Préventel. Dans ce cas, vous pouvez 
+vous adresser :
+à la juridiction de proximité de votre domicile, qui est compétente pour les litiges 
+d’un montant inférieur à 4 000 €. Au-delà, c’est le tribunal d’instance de votre 
+domicile qui est compétent.
+-  si vous pensez faire l’objet d’écoutes téléphoniques. Dans ce cas, vous 
+pouvez contacter :
+ la Commission nationale de contrôle  
+des interceptions de sécurité (CNCIS)
+35, rue Saint Dominique
+75700 PARIS
+III. LA CNIL À VOS CÔTÉS
+16GuIDE PrAtIquE tÉLÉPhoNIE
+IV
+. Mo
+D
+È
+LES
+ 
+DE
+ 
+LE
+ttr
+ES
+Faire valoir vos droits : les modèles de lettres (également disponibles sur 
+www. cnil.fr)
+-  S’inscrire en liste rouge 
+-  Exercer son droit d’accès
+-  Exercer son droit de rectification
+-  Exercer son droit d’opposition
+-  Demander l’intervention de la CNIL
+IV. Modèles de lettres
+17
+A. Inscription en liste rouge
+A. I
+NSC
+r
+IP
+t
+I
+o
+N
+ 
+EN
+ 
+LIS
+t
+E
+ rou
+GE
+Expéditeur :
+Destinataire :
+[indiquez ici l’adresse de votre 
+opérateur de téléphonie fixe]
+Recommandé avec accusé de réception
+ Date
+Objet : inscription en liste rouge 
+Réf. : [indiquez ici votre n° de client ou n° de téléphone]
+Madame, Monsieur, 
+Conformément à l’article 38 alinéa 1er de la loi du 6 janvier 1978 modifiée relative à 
+l’informatique, aux fichiers et aux libertés, et à l’article L.34 du code des postes et des 
+communications électroniques, je vous demande de ne pas transmettre mes coordonnées 
+aux éditeurs d’annuaires et de services de renseignements.
+Je vous rappelle que vous disposez d’un délai maximal de deux mois suivant la réception 
+de ce courrier pour répondre à ma demande, conformément à l’article 94 du décret du 20 
+octobre 2005 pris pour l’application de la loi du 6 janvier 1978 modifiée.
+Je vous prie d’agréer, Madame, Monsieur, l’expression de mes salutations distinguées.
+Signature 
+P. J. : photocopie de tout document d’identité comportant vos nom, prénoms, date et lieu 
+de naissance
+18GuIDE PrAtIquE tÉLÉPhoNIE
+Attention
+A adapter à votre situation et aux informations que vous voulez obtenir.
+Expéditeur :
+Destinataire :
+[indiquez ici l’adresse de l’organisme 
+qui détient vos données]
+Recommandé avec accusé de réception
+ Date
+Objet : droit d’accès 
+Réf. : [indiquez ici votre n° de client]
+Madame, Monsieur,
+Conformément à l’article 39 de la loi du 6 janvier 1978 modifiée en août 2004, je vous prie 
+de bien vouloir m’indiquer si des informations me concernant figurent dans vos fichiers 
+informatisés ou manuels.
+Dans l’affirmative, je vous demande de me faire parvenir une copie, en langage clair, de 
+l’ensemble de ces données (y compris celles figurant dans les zones « blocs-notes » ou 
+« commentaires »). Vous voudrez bien également me donner toute information disponible 
+sur l’origine de ces données me concernant.
+Je vous rappelle que vous disposez d’un délai maximal de deux mois suivant la réception 
+de ce courrier pour répondre à ma demande, conformément à l’article 94 du décret du 20 
+octobre 2005 pris pour l’application de la loi du 6 janvier 1978 modifiée.
+Je vous prie d’agréer, Madame, Monsieur, l’expression de mes salutations distinguées.
+Signature
+P. J. : photocopie de tout document d’identité comportant vos nom, prénoms, date et lieu 
+de naissance
+B. Exercer son droit d’accès
+B. Ex
+E
+r
+CE
+r 
+S
+o
+N
+ 
+D
+ro
+I
+t 
+D
+’
+ACC
+È
+S
+ 
+19
+Expéditeur :
+Destinataire :
+[indiquez ici l’adresse de l’organisme 
+qui détient vos données]
+Recommandé avec accusé de réception
+ Date
+Objet : droit de rectification 
+Réf. : [indiquez ici votre n° de client]
+Madame, Monsieur, 
+Conformément à l’article 40 de la loi du 6 janvier 1978 modifiée relative à l’informatique, aux 
+fichiers et aux libertés, je vous prie de [à adapter en fonction de votre demande]
+Rectifier……
+Compléter ou clarifier……
+Mettre à jour……
+Effacer……
+Vous voudrez bien m’adresser copie de l’enregistrement ainsi modifié (article 40, alinéa 2).
+Je vous rappelle que vous disposez d’un délai maximal de deux mois suivant la réception 
+de ce courrier pour répondre à ma demande, conformément à l’article 94 du décret du 20 
+octobre 2005 pris pour l’application de la loi du 6 janvier 1978 modifiée.
+Je vous prie d’agréer, Madame, Monsieur, l’expression de mes salutations distinguées.
+Signature
+P. J. : photocopie de tout document d’identité comportant vos nom, prénoms, date et lieu 
+de naissance
+C. Droit de rectification
+C. Dro
+I
+t 
+DE
+ r
+EC
+t
+IFICA
+t
+I
+o
+N
+20GuIDE PrAtIquE tÉLÉPhoNIE
+D. Dro
+I
+t 
+D
+’o
+PP
+o
+SI
+t
+I
+o
+NExpéditeur :
+Destinataire :
+[indiquez ici l’adresse de l’organisme 
+qui vous envoie des publicités]
+Recommandé avec accusé de réception
+ Date
+Objet : droit d’opposition 
+Réf. : [indiquez ici votre n° de client]
+Madame, Monsieur, 
+Conformément à l’article 38 alinéa 2 de la loi du 6 janvier 1978 modifiée relative à 
+l’informatique, aux fichiers et aux libertés, je vous demande de ne plus m’adresser vos 
+publicités.
+Je vous rappelle que vous disposez d’un délai maximal de deux mois suivant la réception 
+de ce courrier pour répondre à ma demande, conformément à l’article 94 du décret du 20 
+octobre 2005 pris pour l’application de la loi du 6 janvier 1978 modifiée.
+Je vous prie d’agréer, Madame, Monsieur, l’expression de mes salutations distinguées.
+Signature 
+P. J. : photocopie de tout document d’identité comportant vos nom, prénoms, date et lieu 
+de naissance
+D. Droit d’opposition
+21
+E.  Demande d’intervention  
+de la CNIL
+E. D
+EMANDE
+ 
+D
+’
+IN
+t
+E
+r
+VEN
+t
+I
+o
+N
+ 
+DE
+ 
+LA
+ CNIL
+Attention
+Courrier à adresser à la CNIL uniquement si vous avez exercé sans succès vos droits.
+Expéditeur :
+Madame la Présidente
+Commission nationale de 
+l’informatique et des libertés (CNIL)
+8 rue Vivienne
+CS 30223
+75083 Paris Cedex 02
+ Date
+Objet : demande d’intervention de la CNIL
+Réf. : [indiquez ici votre n° de téléphone ou votre n° client]
+Madame la Présidente, 
+Je souhaite appeler votre attention sur les faits suivants :
+[décrivez ici la situation que vous rencontrez ; précisez les démarches que vous avez déjà 
+accomplies auprès de l’organisme qui détient vos données en indiquant son nom et, si 
+possible, son adresse]
+Je vous prie d’agréer, Madame la Présidente, l’expression de mes salutations distinguées.
+Signature 
+P.J. : -  photocopie des courriers adressés à l’organisme mis en cause et, éventuellement, 
+photocopie de ses réponses ;
+-  si votre demande concerne le fichier Préventel, photocopie de tout document d’identité 
+comportant vos nom, prénoms, date et lieu de naissance 
+22GuIDE PrAtIquE tÉLÉPhoNIE
+F
+IC
+h
+E
+ PrÉ
+VEN
+t
+EL
+Qu’est ce que le fichier 
+Préventel ?
+C’est un fichier qui recense les impayés dans le secteur 
+de la téléphonie mobile. Il est mis en oeuvre par le GIE 
+Prévention Télécommunications (Gie Préventel - http://
+www.preventel.fr - 0820 220 226  (n°indigo)).
+A quoi sert le fichier 
+Préventel ?
+Les membres du GIE Préventel interrogent le fichier 
+chaque fois qu’une personne souhaite s’abonner 
+à un téléphone mobile. Si la personne est fichée, 
+l’abonnement lui est refusé ou un dépôt de garantie lui 
+est demandé.
+Quels sont les membres du 
+GIE Préventel à ce jour ?
+Les opérateurs : Afone - Auchan Telecom - Bouygues 
+Telecom - Carrefour Interactive - Coriolis Telecom - 
+Darty telecom - La Poste Telecom - NRJ Mobile - Omer 
+Telecom (Virgin Mobile, Breizh Mobile) - Omer Mobile 
+(Télé 2 Mobile) - Orange Caraïbes - Orange France - 
+Orange Réunion - Outremer Telecom – Prixtel - SFR – 
+SRR.
+Qui peut être inscrit dans le 
+fichier Préventel ?
+-  Les abonnés à un téléphone mobile débiteurs d’une 
+somme supérieure ou égale à 30 €.
+-  Les personnes qui auraient souscrit irrégulièrement 
+un contrat d’abonnement auprès d’un ou plusieurs 
+opérateurs en produisant, par exemple, des 
+documents d’identité ou bancaires falsifiés.
+Qui peut inscrire les 
+abonnés dans le fichier 
+Préventel ?
+Les membres du GIE Préventel.
+Quelles sont les 
+informations inscrites dans 
+le fichier Préventel ?
+-  Pour les personnes physiques : le nom, le prénom, le 
+sexe, la date et le lieu de naissance, l’adresse postale
+-  Pour les personnes morales : le numéro SIREN, le nom 
+ou la raison sociale et l’adresse.
+-  Dans tous les cas : le codage («impayé» ou «anomalie 
+sur les documents présentés» ou «usurpation 
+d’identité»), le membre du GIE Preventel ayant procédé 
+à l’inscription et la date de cette inscription.
+Qui peut accéder aux 
+informations enregistrées 
+dans le fichier Préventel ? 
+Le GIE Préventel et les services des membres du GIE 
+Préventel chargés de la gestion des abonnements et 
+des recouvrements.
+Fiche Préventel
+23
+F
+IC
+h
+E
+ PrÉ
+VEN
+t
+EL
+Quand les informations 
+sont-elles supprimées du 
+fichier Préventel ?
+-  Dès le règlement complet de la dette (le membre du 
+GIE Préventel à l’origine de l’inscription effectue la 
+main levée).
+-  En tout état de cause, à l’expiration d’un délai de 
+3 ans (ce délai est porté à 5 ans lorsque la personne 
+physique ou morale concernée fait l’objet d’au moins 
+trois inscriptions, simultanément, à une date donnée).
+Où une personne physique 
+doit-elle s’adresser pour 
+exercer son droit d’accès 
+aux données la concernant 
+enregistrées dans le fichier 
+Préventel ?
+Par courrier au GIE Préventel, service des consultations 
+- Tsa n°90 003, 93588 Saint Ouen Cedex (joindre une 
+copie d’une pièce d’identité).
+Recommandations de la 
+CNIL
+-  Les personnes doivent être informées de l’existence et 
+du fonctionnement du fichier Préventel par une mention 
+portée sur les formulaires de prise d’abonnement, ainsi 
+que sur le contrat qu’elles souscrivent.
+-  Aucune inscription ne peut être effectuée sans que 
+les personnes concernées aient été préalablement 
+informées et mises en mesure de régulariser leur 
+situation.
+-  En cas de contestation par leurs clients des créances 
+réclamées, les membres du GIE Préventel doivent 
+établir le bien fondé de leur demande de paiement, 
+par une instruction contradictoire de la contestation, 
+conduite dans un délai raisonnable, de façon non 
+automatisée, assortie de la suspension du processus 
+d’inscription dans le fichier.
+Numéro de déclaration 
+initiale à la CNIL 
+Déclaration n°488814, récépissé délivré le 20 janvier 
+1997 
+Document Imprimé sur papier 100% recyclé
+Une difficulté ? Une hésitation ?
+Plus d’informations sur www.cnil.fr
+Une permanence téléphonique  
+de renseignements juridiques est assurée du lundi au vendredi 
+de 10h à 12h et de 14h à 16h  
+au 01 53 73 22 22
+Vous pouvez en outre adresser toute demande  
+par télécopie au 01 53 73 22 00
+ 8 rue Vivienne - CS 30223 
+75083 Paris cedex 02
+Tél : 01 53 73 22 22 
+Fax : 01 53 73 22 00
+www.cnil.fr
