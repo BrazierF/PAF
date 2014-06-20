@@ -7,14 +7,14 @@ public class ConvertirDossierPDFtext {
 private static File file ; 
 
 
-	public static void convertirdossier(){
+	public static void convertirdossier(String pathname){
 		class MyFilter implements FileFilter {
 		    @Override
 		    public boolean accept(File file) {
-		      return !file.isHidden() && file.getName().endsWith(".pdf");
+		      return !file.isHidden() && file.getName().endsWith(".pdf") && !file.getName().contains("Demunck") ;
 		    }
 		  }
-		file = new File("data");
+		file = new File(pathname);
 		MyFilter filter = new MyFilter();
 		String filename;
 		PDFTextParser textparser = new PDFTextParser();
@@ -26,7 +26,7 @@ private static File file ;
 	}
 
 	public static void main (String[] args){
-		convertirdossier();
+		convertirdossier("data");
 
 	}
 
