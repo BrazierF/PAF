@@ -123,31 +123,32 @@ public class db extends AnnotationClient{
 
 
 		LinkedList<DBpediaResource> resources = new LinkedList<DBpediaResource>();
-		if(entities!=null) 
+		if(entities!=null){
 			if(totalentities==null){totalentities = new ArrayList<JSONArray>();}
-		totalentities.add(entities);
-		for(int i = 0; i < entities.length(); i++) {
-			try {//System.out.println(i+"/"+entities.length());
-				JSONObject entity = entities.getJSONObject(i);
-				//affichage
-				System.out.println(entity);//afficher chaque entitée nommée avec + d'informations
-				Iterator<?> keys = entity.keys();
+			totalentities.add(entities);
+			for(int i = 0; i < entities.length(); i++) {
+				try {//System.out.println(i+"/"+entities.length());
+					JSONObject entity = entities.getJSONObject(i);
+					//affichage
+					//System.out.println(entity);//afficher chaque entitée nommée avec + d'informations
+					Iterator<?> keys = entity.keys();
 
-				while(keys.hasNext() ){
-					String key = (String)keys.next();
-					//System.out.println(key+" "+entity.get(key).toString());
+					while(keys.hasNext() ){
+						String key = (String)keys.next();
+						//System.out.println(key+" "+entity.get(key).toString());
 
-					if( entity.get(key) instanceof JSONObject ){
-						//System.out.print("\t"+entity.get(key));
-					}                
+						if( entity.get(key) instanceof JSONObject ){
+							//System.out.print("\t"+entity.get(key));
+						}                
+					}
+					resources.add(
+							new DBpediaResource(new String(entity.getString("@URI").getBytes("ISO-8859-1"), "UTF-8"),
+									Integer.parseInt(entity.getString("@support"))));
+
+				} catch (JSONException | NumberFormatException | UnsupportedEncodingException e) {
+					LOG.error("JSON exception "+e);
+
 				}
-				resources.add(
-						new DBpediaResource(new String(entity.getString("@URI").getBytes("ISO-8859-1"), "UTF-8"),
-								Integer.parseInt(entity.getString("@support"))));
-
-			} catch (JSONException | NumberFormatException | UnsupportedEncodingException e) {
-				LOG.error("JSON exception "+e);
-
 			}
 		}//System.out.print("Salut");
 		return resources;
